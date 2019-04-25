@@ -2,7 +2,7 @@
 title: Meetup and Event Notes
 date: "2017-12-06"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/meetup-and-event-notes/"
 category: "What I Read"
 tags:

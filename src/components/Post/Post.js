@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'gatsby';
-import Author from './Author';
 import Content from './Content';
 import Meta from './Meta';
 import Tags from './Tags';
@@ -27,7 +26,6 @@ const Post = ({ post }) => {
       <div className={styles['post__footer']}>
         <Meta date={date} />
         <Tags tags={tags} tagSlugs={tagSlugs} />
-        <Author />
       </div>
     </div>
   );
