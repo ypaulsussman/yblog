@@ -28,15 +28,17 @@ Man, I love me some Anki.
 I paid $25 for the iOS app, and (_assuming 5-10 minutes of usage a day, every day_) its per-use cost is trending to pennies. It’s become an imbricated component of my daily commute: if the weather is warm enough, I begin while waiting for the bus; if too cold, as soon as I hop on:
 
 1. I silently read the prompt in English; 
-1. mentally construct the sentence in Ukrainian;
-1. mutter it to myself _just_ quietly enough not to worry the other straphangers (_...I think_);
-1. compare my mentally-constructed sentence with the (_student/prior-me-written, instructor/native-speaker-corrected_) one that I had entered so many [ _hours, days, weeks, ...months?_ ] ago;
-1. combine my subjective evaluation of `${how inaccurately-divergent my mentally-constructed sentence was}` and `${how difficult it was to construct the sentence}` into a simple tap on one of the four buttons; and 
-1. repeat with the next flash card.
+1. I mentally construct the sentence in Ukrainian;
+1. I mutter it to myself _just_ quietly enough not to worry the other straphangers (_...I think_);
+1. I compare my mentally-constructed sentence with the (_student/prior-me-written, instructor/native-speaker-corrected_) one that I had entered so many [ _hours, days, weeks, ...months?_ ] ago;
+1. I combine my subjective evaluation of `${how inaccurately-divergent my mentally-constructed sentence was}` and `${how difficult it was to construct the sentence}` into a simple tap on one of the four buttons; and 
+1. I repeat with the next flashcard.
 
 It's a joyful, helpful process.
 
-It depends, however, on that second step occurring as intended: that is, first the retrieval from memory of the relevant linguistic elements (_the 'words and rules'_), and then the conscious construction of a full sentence from those constituent parts.
+It depends, however, on that second step occurring as intended: that is, 
+- first the retrieval from memory of the relevant linguistic elements (_the 'words and rules'_), and 
+- then the conscious construction of a full sentence from those constituent parts.
 
 Recently, I've felt this process less and less.
 
@@ -44,7 +46,7 @@ While it’s possible that I’ve just so thoroughly internalized those elements
 
 That is: I suspect my brain's begun to [memoize](https://en.wikipedia.org/wiki/Memoization) my flashcard prompts.
 
-This may have been foregrounded by the nature of the content I'm studying: in a [heavily inflectional language](https://en.wikipedia.org/wiki/Ukrainian_grammar#Morphology), it rapidly becomes palpable that your brain is keying off a specific instance of e.g. a verb, its [_aspect, tense, gender, deixis, plurality, etc_] all pre-packaged -- rather than the verb's holistic potential entirety, all its semantic mapping and combinatorial rules of affixation.
+This may have been foregrounded by the nature of the content I'm studying: in a [heavily inflectional language](https://en.wikipedia.org/wiki/Ukrainian_grammar#Morphology), it rapidly becomes palpable that your brain is keying off a specific instance of e.g. a verb, its [_aspect, tense, gender, deixis, plurality, etc_] all pre-packaged -- rather than the verb's holistic potential, all its semantic mapping and combinatorial rules of affixation.
 
 But it's not limited to freezing bound morphemes: I've begun to worry just as much about accidental, dubiously-attested lexical groupings. “Величезне" and "коливання” (_possible, per googling?_) or “сприяє" and "психологічному розладу” (_unlikely_) may or may not collocate in any sort of common usage. But that doesn't matter: for me, their constituent words will always entwine together, because I’ve learned each such word solely from a single (_still more-dubious, self-created!_) sentence, to which I've been exposed again and again and again.
 
@@ -58,13 +60,15 @@ A close variant of this behavior is already visible in Duolingo, along with its 
 
 As far as I can tell, that narrowness effectively confines the use of these algorithmically-directed permutations as a pedagogical tool to... well, theme-sequenced vocab acquisition at the A0-A2 levels. (_Which, of course, is precisely what Duolingo does rather well._) 
 
-A broader restatement of the problem, then: SRS masters the timing of [_when, and what content_] to elicit, but the question of what action to perform on that content is largely unadressed.
+A broader restatement of the problem, then: SRS masters the timing of [_when, and what content_] to elicit, but the question of what _action_ to perform on that content is largely unadressed.
 
-One of the commendable qualities of Anki is that this question is at least partially left to the learner, given the variety of multimedia and plugins that can be added to the “problem and solution” two-sided flashcard base. Making effective use of `${all the various task/exercise types}` requires both an acknowledgment of its necessity and some familiarity with instructional design: and how widespread are either?
+One of the commendable qualities of Anki is that this question is at least partially left to the learner, given the variety of multimedia and plugins that can be added to the “problem and solution” two-sided flashcard base. 
+
+Making effective use of `${all the various task/exercise types}` requires both an acknowledgment of its necessity and some familiarity with instructional design, however: and how widespread are either?
 
 I propose combining both ideas from the above scribble (_among others_) to compose a short list of generically-applicable exercises beyond "_given an L1 sentence, construct an L2 equivalent_." 
 
-For simplicity's sake, this SRS could initially follow a Leitner system of "_Box #1, daily; #2, every 3 days; #3, weekly; #4, biweekly; #5, monthly_" -- on completing that fifth box, however, a card would return to box #1, with a more-complex exercise-prompt attached to its content.
+For simplicity's sake, this SRS could initially follow a Leitner system of "_Box #1, daily; #2, every 3 days; #3, weekly; #4, biweekly; #5, monthly_" -- the crucial difference being, however, that (_on completing that fifth box_) a card would return to box #1, now with a more-complex exercise-prompt attached to its content.
 
 How to construct that list of exercises, though? My first instinct was to fall back on my old standby, [the DOK table](https://www.lake.k12.fl.us/Page/27614). That model, however, emerges from research across the broad spectrum of academic content disciplines; for practical reasons, I'm restricting this project's MVP solely to second/foreign-language learning.
 
@@ -76,8 +80,8 @@ I find the below chart, taken from an [admittedly-dated reassessment of TBLT](ht
 
 Step one is implement your own SRS app (_a non-trivial technical implementation, but one likely requiring little collateral research_). 
 
-Step two is to create a list of learning exercises that can be [1] applied to any bilingual sentence-pair and [2]validated programatically (_a non-trivial amount of secondary-source research, but a straightforward document to build._) It very well may be that only the two task-options proposed in the initial scribble match both criteria: that's OK! They're plenty to work with on their own.
+Step two is to create a sequence of learning exercises that can be [1] applied to any bilingual sentence-pair and [2]validated programatically (_a non-trivial amount of secondary-source research, but a straightforward document to build._) It very well may be that only the two task-options proposed in the initial scribble match both criteria: that's OK! They're plenty to work with on their own.
 
 Step three is to integrate the two.
 
-Step four... is to dogfood.
+Step four... is to dogfood, and refine.

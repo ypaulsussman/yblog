@@ -16,7 +16,7 @@ I’ll confess: my first read of “Zero to One” made me feel great about myse
 
 I didn’t agree with the assumptions underlying a wide swath of it, to be clear. But I did learn a ton, thought about entire new topics for the first time, and (_if we're honest_) finished the book invigorated: even if, sure, in a kind of cheesy, young-pioneer, “_to seek, to strive, and not to yield!_” sort of way.
 
-Even if the author himself was advocating teenagers avoid college, suing newspapers out of existence, and buying apocalypse-insurance in Hobbiton. So open-minded, Y!
+..even if, simultaneously, the author was himself advocating for teenagers to eschew college, suing newspapers out of existence, and buying apocalypse-insurance in Hobbiton. (_More like "Zero for Three," amirite?!_) So open-minded, Y.
 
 And... that was that, for about a year and a half: even among the best of the genre, a little business/entrepreneurship-text goes along way.
 
@@ -34,19 +34,18 @@ Deduction is cool, though, only when there’s not enough data for inductive rea
 
 The structures of our public institutions of learning, however, are largely coincidental and contingent: the products of either historical quirks, or scarcity of [_time, space, human-capital, capital-capital_], or both.
 
-So, then: how _would_ you build the education system on a [generation ship?](https://en.wikipedia.org/wiki/Generation_ship)
+So, then: how **would** you build the education system on a [generation ship?](https://en.wikipedia.org/wiki/Generation_ship)
 
-It’s only partially a glib question. The “year” is an arbitrary system of measurement derived from a now-distant star, so not only is the nine-month calendar no longer a requisite: but neither is sorting by that metric of age.
+It’s only partially a glib question. The “year” is an arbitrary system of measurement derived from a now-distant star, so not only is the nine-month calendar no longer a requisite: but neither is segregating instruction by that metric of age.
 
-What impact do population sizes have: if the cohort of living, pre-adult colonists on the ship at a given time numbers, say, in the dozens, then does an extreme version of the German style aptitude-sorting become less distasteful?
+And what impact do population sizes have: if the cohort of living, pre-adult colonists on the ship numbers, say, in the dozens, then does an extreme version of the German style aptitude-sorting become necessary (_if not less distasteful_)?
 
-And does such a system itself interact with a possible explosion of skills-complexity? Even with technological affordances, flying an interstellar ark is probably no mean feat: does the standard ceiling for mandatory education shift to somewhere in the early 20's, or even later? The questions multiply, cross-pollinate, and effloresce...
-
+And does such a system itself interact with a possible explosion of skills-complexity? Even with technological affordances, flying an interstellar ark is probably no mean feat: does the standard mandatory-education age-floor shift to somewhere in the early 20's, or even later? The questions multiply, cross-pollinate, and effloresce...
 
 ## Next Steps
 
-Oh, man, this is exciting: a next-steps section to one of these "revisitation" posts that _doesn’t_ involve present-Y exhorting future-Y to build a proof-of-concept toy app that he’ll likely never get around to!
+Oh, man, this is exciting: a next-steps section to one of these "revisitation" posts that _doesn’t_ involve `${present-Y}` exhorting `${future-Y}` to build a proof-of-concept toy app that he’ll likely never get around to!
 
-I mean, sure, instead it’s him making an exhortation to reimplement the foundations of what we know about learning, and teaching, and the administration of education systems.
+I mean, sure, instead it’s him making an exhortation to reimplement, as a thought experiment, the fundamentals of administering of a society's educational edifice. (_And then, if there's time left over, extracting the nifty bits to construct an early-21<sup>st</sup> c. software monopoloy._)
 
 But at least it’s not another `rails g scaffold foo`!
