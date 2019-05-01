@@ -1,10 +1,9 @@
-// @flow
 import React from 'react';
 import { graphql, StaticQuery } from 'gatsby';
 import { getContactHref } from '../../../utils';
 import styles from './Author.module.scss';
 
-export const PureAuthor = ({ data }: Object) => {
+export const PureAuthor = ({ data }) => {
   const { author } = data.site.siteMetadata;
 
   return (

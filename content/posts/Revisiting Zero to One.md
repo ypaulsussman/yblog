@@ -7,7 +7,7 @@ slug: "/posts/zero-to-one-revisitation/"
 category: "What I Think"
 tags:
   - "Business"
-description: "These are my thoughts upon going back to Zero to One (two startups and one innovation lab down my personal Via Dolorosa.)"
+description: "These are my thoughts on going back to Zero to One (two startups and one innovation lab down my personal Via Dolorosa.)"
 ---
 
 ## What Are We Doing Here?
@@ -48,6 +48,6 @@ And does such a system itself interact with a possible explosion of skills-compl
 
 Oh, man, this is exciting: a next-steps section to one of these "revisitation" posts that _doesn’t_ involve `${present-Y}` exhorting `${future-Y}` to build a proof-of-concept toy app that he’ll likely never get around to!
 
-I mean, sure, instead it’s him making an exhortation to reimplement, as a thought experiment, the fundamentals of administering of a society's educational edifice. (_And then, if there's time left over, extracting the nifty bits to construct an early-21<sup>st</sup> c. software monopoloy._)
+I mean, sure, instead it’s him making an exhortation to reimplement, as a thought experiment, the fundamentals of administering a society's educational edifice. (_And then, if there's time left over, extracting the nifty bits to construct an early-21<sup>st</sup> c. software monopoly._)
 
-But... at least it’s not another `rails g scaffold foo`.
+But hey, at least it’s not another `rails g scaffold foo`...

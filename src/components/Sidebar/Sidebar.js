@@ -1,4 +1,3 @@
-// @flow
 import React from 'react';
 import { graphql, StaticQuery } from 'gatsby';
 import Author from './Author';
@@ -7,20 +6,8 @@ import Copyright from './Copyright';
 import Menu from './Menu';
 import styles from './Sidebar.module.scss';
 
-type Props = {
-  +isIndex: ?boolean,
-};
-
-type PureProps = Props & {
-  +data: Object,
-};
-
-export const PureSidebar = ({ data, isIndex }: PureProps) => {
-  const {
-    author,
-    copyright,
-    menu
-  } = data.site.siteMetadata;
+export const PureSidebar = ({ data, isIndex }) => {
+  const { author, copyright, menu } = data.site.siteMetadata;
 
   return (
     <div className={styles['sidebar']}>
@@ -34,7 +21,7 @@ export const PureSidebar = ({ data, isIndex }: PureProps) => {
   );
 };
 
-export const Sidebar = (props: Props) => (
+export const Sidebar = (props) => (
   <StaticQuery
     query={graphql`
       query SidebarQuery {
@@ -61,7 +48,7 @@ export const Sidebar = (props: Props) => (
         }
       }
     `}
-    render={(data) => <PureSidebar {...props} data={data}/>}
+    render={(data) => <PureSidebar {...props} data={data} />}
   />
 );
 
