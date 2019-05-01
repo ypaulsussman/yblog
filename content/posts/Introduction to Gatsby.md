@@ -100,10 +100,5 @@ description: "Notes from a live workshop I attended. (Course tagline: \"Learn to
 
 ---
 
-* @y: Read more re: unexpected CSS selector: https://bit.ly/2PsCnzk
+* @y: Read more re: novel CSS selector: https://bit.ly/2PsCnzk
 * @y: read both https://www.gatsbyjs.org/docs/using-gatsby-without-graphql/ and https://www.gatsbyjs.org/docs/why-gatsby-uses-graphql/
-
-* @y: remove flow and (eslint?) from your blog app; add prettier
-* @y: analyze your sussworld image on devtools, throttled to 3G - why does it load slowly?
-* @y: use analyzer to check for lodash/moment heaviness in your blog app
-* @y: check sussworld on lighthouse

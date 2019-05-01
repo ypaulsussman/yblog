@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://suss.world',
   title: 'Planet Suss',
-  subtitle: 'Suss Bloggy Blogg',
+  subtitle: 'Where I Write About What I\'m Reading and Thinking',
   copyright: '© All rights reserved.',
   postsPerPage: 5,
   menu: [
@@ -26,8 +26,8 @@ module.exports = {
   ],
   author: {
     name: 'Y Sussman',
-    photo: '/photo.png',
-    bio: 'Between the lakes and the river.',
+    photo: '/photo.jpg',
+    bio: 'Between the lakes and river.',
     contacts: {
       email: 'ysussman@credly.com',
       linkedin: 'ypaulsussman',
