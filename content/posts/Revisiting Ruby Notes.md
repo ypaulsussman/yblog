@@ -4,7 +4,7 @@ date: "2019-01-31"
 template: "post"
 draft: false
 slug: "/posts/ruby-rails-revisitation/"
-category: "What I Think"
+category: "What I Read"
 tags:
   - "Ruby"
   - "Rails"

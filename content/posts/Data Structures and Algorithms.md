@@ -2,7 +2,7 @@
 title: Data Structures and Algorithms (Gandolfo, Bianca)
 date: "2018-06-27"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/data-structures-algorithms-notes/"
 category: "What I Read"
 tags:

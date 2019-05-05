@@ -4,7 +4,7 @@ date: "2019-01-21"
 template: "post"
 draft: false
 slug: "/posts/daily-ua-study-revisitation/"
-category: "What I Think"
+category: "What I Read"
 tags:
   - "Teaching"
   - "Learning"
@@ -58,13 +58,13 @@ There is a possible future weakness of my current system, and it hinges on a par
 
 Anecxperidotally, adult learners of `${L2} as a Foreign Language` are either doing it...
 1. for business/academic interests, in which case they usually have both
-  * a specific and falsifiable performance goal, and 
-  * a specific and falsifiable time constraint: and, thus, 
-  * a fairly rigorous learning schedule (_i.e. they're taking structured courses, attending an immersion program, etc._), or
+    * a specific and falsifiable performance goal, and 
+    * a specific and falsifiable time constraint: and, thus, 
+    * a fairly rigorous learning schedule (_i.e. they're taking structured courses, attending an immersion program, etc._), or
 2. for personal/cultural/intrinsic interest, in which case they
-  * are operating without a time constraint,
-  * don't have (_summative or formative_) performance benchmarks they're checking against, and
-  * perhaps paradoxically<sup>1</sup> are at greater risk of lapse due to quotidian interference.
+    * are operating without a time constraint,
+    * don't have (_summative or formative_) performance benchmarks they're checking against, and
+    * perhaps paradoxically<sup>1</sup> are at greater risk of lapse due to quotidian interference.
 
 I'm firmly in the latter camp, currently: however, if I shifted into the former (_let's say that long-awaited faculty appointment to_ [_Ivan Franko_](https://en.wikipedia.org/wiki/University_of_Lviv) _finally came through, or_ `${lovely_spouse}` _took an unexpected interest in the ecological preservation of the Eastern Carpathians..._) I'm not sure how I'd shift into high-gear, as it were. 
 

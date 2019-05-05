@@ -2,7 +2,7 @@
 title: How to Interview Your Ruby on Rails Developer (Ruby Garage)
 date: "2018-06-05"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/ruby-dev-interview-notes/"
 category: "What I Read"
 tags:

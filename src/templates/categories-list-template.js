@@ -28,24 +28,17 @@ const CategoriesListTemplate = ({ data }) => {
           ))}
         </ul>
 
-        <p>The first is basically personal notes: excerpts from things I've read
-          (<em>or watched, or attended</em>) that I found thought-provoking, and
-          want to return to.</p>
+        <p>When I read things (<em>or attend things, or even sometimes watch things</em>), I'm usually pretty scrupulous about taking notes. That first category includes my takeaways from when I return to those notes (<em>however many months or even years down the road.</em>)</p>
 
-        <p>The second contains both [1] my takeaways from when I *do* return to
-          those personal notes, and [2] thoughts that spring up without an
-          immediately-obvious source.</p>
+        <p>Sometimes it'll include an idea for something to build or study; sometimes it's just a reflection on that snapshot of who I was then. Either way, returning to those documents is meant to both sharpen my grasp of their content, and strengthen my future recall of the most important bits.</p>
 
-        <p>In either case (<em>and unlike that first category of posts</em>)
-          they're original writings, rather than the (<em>at best</em>)
-          partially-transformed words of others.</p>
+        <p>I mean, that's the plan.</p>
 
-        <p>I have no idea why you'd be interested in the former, except as maybe
-          a précis of the given text? ...but, then, I'm also not super sure why
-          you'd be interested in the latter.</p>
+        <p>The second category contains thoughts that spring up without an immediately-obvious source. Many are derived from sketches, scribbles, and jottings in a Drive document that had done little save slowly accrete over 2012-2018.</p>
 
-        <p>Either which way, enjoy!</p>
+        <p>My hope is that (<em>after I digest, explore, and likely discard the majority of them</em>) this category will become the place where I record step-by-step analyses of toy apps that I build, or other experiments. But that's more of a Q3 2019 project.</p>
 
+        <p>Watch this space.</p>
       </Page>
     </Layout>
   );

@@ -2,7 +2,7 @@
 title: Computational Thinking Research (for Code Kitty)
 date: "2017-09-04"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/computational-thinking-framework-survey/"
 category: "What I Read"
 tags:

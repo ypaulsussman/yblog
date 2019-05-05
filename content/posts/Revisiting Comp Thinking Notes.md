@@ -4,7 +4,7 @@ date: "2018-12-29"
 template: "post"
 draft: false
 slug: "/posts/comp-thinking-revisitation/"
-category: "What I Think"
+category: "What I Read"
 tags:
   - "Teaching"
   - "Learning"

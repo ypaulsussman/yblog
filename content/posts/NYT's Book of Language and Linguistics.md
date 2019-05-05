@@ -2,7 +2,7 @@
 title: The New York Times Book of Language and Linguistics
 date: "2018-12-01"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/nyt-linguistics-notes/"
 category: "What I Read"
 tags:

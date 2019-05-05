@@ -2,7 +2,7 @@
 title: How the Brain Learns  (Sousa, David)
 date: "2018-01-17"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/how-brain-learns-notes/"
 category: "What I Read"
 tags:

@@ -2,7 +2,7 @@
 title: JS Data Structures and Algorithms (Groner, Loiane)
 date: "2017-12-05"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/js-ds-algo-notes/"
 category: "What I Read"
 tags:

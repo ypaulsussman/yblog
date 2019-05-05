@@ -2,7 +2,7 @@
 title: Zero to One (Thiel, Peter)
 date: "2017-12-07"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/zero-to-one-notes/"
 category: "What I Read"
 tags:

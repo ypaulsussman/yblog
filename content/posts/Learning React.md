@@ -2,7 +2,7 @@
 title: Learning React (Banks, Alex)
 date: "2018-09-03"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/learning-react-notes/"
 category: "What I Read"
 tags:

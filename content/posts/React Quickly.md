@@ -2,7 +2,7 @@
 title: React Quickly (Mardan, Azat)
 date: "2018-01-27"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/react-quickly-notes/"
 category: "What I Read"
 tags:

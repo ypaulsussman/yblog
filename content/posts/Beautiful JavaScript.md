@@ -2,7 +2,7 @@
 title: Beautiful JavaScript (Various Authors)
 date: "2018-09-24"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/beautiful-javascript-notes/"
 category: "What I Read"
 tags:

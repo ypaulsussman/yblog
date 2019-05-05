@@ -4,7 +4,7 @@ date: "2019-02-17"
 template: "post"
 draft: false
 slug: "/posts/react-revisitation/"
-category: "What I Think"
+category: "What I Read"
 tags:
   - "React"
 description: "Thoughts on my relationship to React, and how to leverage that relationship for future learning."

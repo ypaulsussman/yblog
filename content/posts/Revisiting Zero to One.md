@@ -28,7 +28,7 @@ Reading through my notes, I’m somewhat perplexed that the author immediately f
 
 Perplexed, but pleased: “_approach issues from first principles_” sounds like a great, well, prescription (or... formula...) for me to apply. But I’m somewhat hazy on the meaning of that term. 
 
-One [Wikipedia rabbithole](https://en.wikipedia.org/wiki/First_principle) later (_mind the seductive digression into the [Cartesian doubt](https://en.wikipedia.org/wiki/Cartesian_doubt) article!_), and my takeaway is that, generally, a "_first principle_" is a logical statement which can't be deduced from other statements. Which seems like a difficult station from which to depart, for your average train of thought.
+One [Wikipedia rabbithole](https://en.wikipedia.org/wiki/First_principle) later (mind the seductive digression into the [Cartesian doubt](https://en.wikipedia.org/wiki/Cartesian_doubt) article!), and my takeaway is that, generally, a "_first principle_" is a logical statement which can't be deduced from other statements. Which seems like a difficult station from which to depart, for your average train of thought.
 
 But, you know, hell with it. Let’s give it a whirl, let’s start with a topic for which you already have a proclivity to overthink: learning! 
 

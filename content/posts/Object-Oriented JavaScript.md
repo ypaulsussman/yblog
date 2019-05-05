@@ -2,7 +2,7 @@
 title: Object-Oriented JavaScript (Stefanov, Stoyan)
 date: "2018-01-01"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/oo-js-notes/"
 category: "What I Read"
 tags:

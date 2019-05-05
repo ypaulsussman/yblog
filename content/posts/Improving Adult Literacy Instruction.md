@@ -2,7 +2,7 @@
 title: Improving Adult Literacy Instruction (National Academies Press)
 date: "2017-10-29"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/improving-adult-literacy-notes/"
 category: "What I Read"
 tags:

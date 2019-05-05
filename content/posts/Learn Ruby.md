@@ -2,7 +2,7 @@
 title: Learn Ruby
 date: "2017-12-28"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/learn-ruby-notes/"
 category: "What I Read"
 tags:

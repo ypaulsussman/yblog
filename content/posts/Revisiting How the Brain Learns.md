@@ -4,7 +4,7 @@ date: "2019-02-09"
 template: "post"
 draft: false
 slug: "/posts/how-brain-learns-revisitation/"
-category: "What I Think"
+category: "What I Read"
 tags:
   - "Teaching"
   - "Learning"

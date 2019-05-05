@@ -4,7 +4,7 @@ date: "2019-01-19"
 template: "post"
 draft: false
 slug: "/posts/daily-ua-app-revisitation/"
-category: "What I Think"
+category: "What I Read"
 tags:
   - "Ed Tech"
   - "Teaching"
@@ -23,7 +23,7 @@ I started building the following two codebases ([one in React](https://github.co
 
 As it turned out, about two weeks into the project my then-employer shut down my division, giving me both extra time and extra impetus to work on it. Happy coincidence!
 
-Alas, shortly thereafter events conspired to obviate both original purposes. I started a new job, thereby providing me _plenty_ of subjects to research in my extra-office time; almost simultaneously, I began practicing Ukrainian with a video tutor on a weekly to biweekly basis. (More that experience experience [in this post.](#))
+Alas, shortly thereafter events conspired to obviate both original purposes. I started a new job, thereby providing me _plenty_ of subjects to research in my extra-office time; almost simultaneously, I began practicing Ukrainian with a video tutor on a weekly to biweekly basis. (More that experience experience [in this post.](/posts/daily-ua-study-revisitation/))
 
 Those changes combined with a general frustration and disappointment I’d felt while working through different hosting solutions; as a result... well, you can see the dates of the most-recent commits in the repos yourself. While I don’t think I’ll return to either codebase, or even the project's vision in general, I’m happy with experiences they provided. For me, the main takeaways were:
 

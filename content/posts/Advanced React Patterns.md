@@ -2,7 +2,7 @@
 title: Advanced React Patterns (Dodds, Kent)
 date: "2018-05-25"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/advanced-react-patterns-notes/"
 category: "What I Read"
 tags:

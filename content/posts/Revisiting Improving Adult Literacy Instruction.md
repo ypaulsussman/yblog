@@ -4,7 +4,7 @@ date: "2019-03-17"
 template: "post"
 draft: false
 slug: "/posts/improving-literacy-instruction-revisitation/"
-category: "What I Think"
+category: "What I Read"
 tags:
   - "ABE"
   - "Teaching"
