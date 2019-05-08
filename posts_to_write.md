@@ -1,10 +1,5 @@
 ## Reread, and write a response
 
-1. **Idea:** SMS-based Adult Literacy curriculum `**<===Current===**`
-
-   - Use emoji as multimedia component, to prompt/associate/describe basic words.
-   - [plenty](https://thenounproject.com/browse/) [such](https://gallery.manypixels.co/) [sources](https://www.ikonate.com/)
-
 1. Meetup and Event Notes [ ]
 
 1. **Idea:** GUI for content professors (_i.e. experts in research, but not pedagogy_) to build lessons, guided by sound teaching principles and pleasing design.
@@ -47,6 +42,7 @@
    - number of images (either choose one from three, or must integrate entire set into story?)
    - Image categories
    - Bring in various Faker-generated sentences as prompts (use e.g. quotes Classes, rather than single-word entries) https://github.com/stympy/faker
+   - [plenty](https://thenounproject.com/browse/) [such](https://gallery.manypixels.co/) [sources](https://www.ikonate.com/) for grabbing image-prompts, too
 
 1. Words and Rules [ ]
 
@@ -70,15 +66,15 @@
 1. Full-Stack for Frontends 01 [ ]
 1. Full-Stack for Frontends 02 [ ]
 
-1. Introduction to Gatsby
+1. Introduction to Gatsby [ ]
+
+1. How We Learn [ ]
 
 ---
 
 ## Read a book; build a thing
 
 1. Learning React Native `**<===Current===**`
-
-1. https://egghead.io/courses/build-a-react-native-application-for-ios-and-android-from-start-to-finish
 
 1. PWA (_or React Native app!_) to shoot you a daily quote from _Other People's Lines._
 
@@ -104,6 +100,8 @@
 1. `${Add projects from "Next Steps" section of 'Revisiting' and 'Ideas' files}`
 
 1. After you do some NLP learning, build a program that creates (e.g. noun-verb) collocates based on pairs that rarely/never collocate (idea-prompting sample: “the clocks delectate.”)
+
+1. Create a new Anki deck of cognitive biases/logical fallacies (just scrape Wikipedia) -- programmatically parsing/processing text into Anki cards as another NLP task?
 
 ---
 

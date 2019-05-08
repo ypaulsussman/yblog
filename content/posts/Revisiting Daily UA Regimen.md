@@ -1,10 +1,10 @@
 ---
-title: Revisiting Notes on 'Daily UA' (The More-Successful Program of Study)
+title: Ideas for Generalizing 'Daily UA' (The More-Successful Program of Study)
 date: "2019-01-21"
 template: "post"
 draft: false
 slug: "/posts/daily-ua-study-revisitation/"
-category: "What I Read"
+category: "What I Think"
 tags:
   - "Teaching"
   - "Learning"

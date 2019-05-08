@@ -20,7 +20,7 @@ description: "A return to the ideas underpinning a literacy app I wrote several 
 ```
 > Use lightweight SVG's as multimedia component, to prompt/associate/describe basic words.
 > 
-> Push instead of pull, mobile instead of desktop (latter isn’t enough: need to do the former; can speak from experience on that)
+> Push exercises instead of relying on pull of user; mobile instead of desktop
 > 
 > Predictive text as tool for sight-reading / chunking phonemes (click full word to more-quickly construct sentence)?
 >
@@ -35,16 +35,22 @@ That latter queue, however, has about twice as much material, so I've been explo
 
 Specifically: [didn’t I already do this?](https://github.com/ypaulsussman/karen_english_picture_dictionary) And, sure, badly: but also, like... two years ago?
 
+
 ## What Could We Do About It?
 
-That, then, has meant this '_idea_' post has become less of a brainstorm and more of a two-years-out retrospective on what I would do differently were I to rewrite a pre-existing, now discarded, application.
-
+This '_idea_' post has become, then, less of a brainstorm and more of a two-years-out retrospective on what I would do differently, were I to rewrite that application.
 
 ---
 
-Number one: mobile really does matter, specifically at reducing user friction. Pwe can be cool, but I often wonder if the effort expended would not be better allocated I’m just creating a mobile app
+Number one: 
 
-Lighthouse is an incredible tool: this may be a case for the process is more important to Amanda product—most of the games that will allow you to claim “Pwe status” will be useful for any visitor to your website
+mobile first -- SpeechSynthesis API not supported at the time on webkit browsers 
+
+PWA's can be cool, but I often wonder if the effort expended would not be better allocated in just creating a mobile app... and then I spend more than 30 seconds looking at what it takes to build a native mobile app.
+
+third option i wasn't aware of at the time -- react native. somewhat
+
+That said, this may be a case for the process is more important than end product—-Lighthouse is an incredible guide for, and most of the criteria you need to meet before it will allow you to claim “PWA status” will be beneficial for any visitor/device/bandwidth to your app.
 
 ---
 
@@ -52,7 +58,9 @@ second: images probably not enough, at least by one metric
 
 CASAS => not test solely of EN or literacy, but also of bundled cultural knowledge
 
-So actually what I might consider rather than using this as a tool for a BEESL literacy is using it as a variance on dual lingo where the learners are already familiar with the implications of, say, a hamburger menu Or a “share“ arrow emerging from a tray
+One reaction might be rather than using this as a tool for ABE/ESL literacy is using it as a variance on dual lingo where the learners are already familiar with the implications of, say, a hamburger menu Or a “share“ arrow emerging from a tray
+
+The other might be, on a v2, to create a better admin dashboard for bilingual users to add L1 translations -- but even that presupposes/demands L1 literacy on the part of the student
 
 ---
 
@@ -63,7 +71,7 @@ Hannah: “students never use software outside of lab.”
 Unless studying really is there full-time job,Optional homework, and especially self-directed up time is practice just isn’t very likely to happen, certainly not on a sustained time frame
 
 On reflection, makes perfect sense — if my SRS software doesn’t shoot me a push notification, I forget about it for days on end (and then find myself with 47 cards to catch up on…) 
----
+
 
 ## And Why?
 

@@ -1,5 +1,5 @@
 ---
-title: How the Brain Learns  (Sousa, David)
+title: How the Brain Learns (Sousa, David)
 date: "2018-01-17"
 template: "post"
 draft: true
