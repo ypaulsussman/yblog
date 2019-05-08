@@ -4,7 +4,7 @@ date: "2019-04-25"
 template: "post"
 draft: false
 slug: "/posts/zero-to-one-revisitation/"
-category: "What I Think"
+category: "What I Read"
 tags:
   - "Business"
 description: "These are my thoughts on going back to Zero to One (two startups and one innovation lab down my personal Via Dolorosa.)"

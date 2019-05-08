@@ -1,5 +1,5 @@
 ---
-title: Ideas for Generalizing 'Daily UA' (The More-Successful Program of Study)
+title: Expanding 'Daily UA' (The More-Successful Program of Study)
 date: "2019-01-21"
 template: "post"
 draft: false
