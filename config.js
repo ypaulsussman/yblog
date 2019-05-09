@@ -5,7 +5,7 @@ module.exports = {
   title: 'Planet Suss',
   subtitle: 'Where I Write About What I\'m Reading and Thinking',
   copyright: '© All rights reserved.',
-  postsPerPage: 5,
+  postsPerPage: 8,
   menu: [
     {
       label: 'Recent Articles',
