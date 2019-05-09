@@ -4,7 +4,7 @@ date: "2019-03-04"
 template: "post"
 draft: false
 slug: "/posts/vanilla-js-revisitation/"
-category: "What I Think"
+category: "What I Read"
 tags:
   - "JavaScript"
   - "Computer Science"

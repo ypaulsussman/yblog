@@ -4,7 +4,7 @@ date: "2019-04-06"
 template: "post"
 draft: false
 slug: "/posts/nyt-linguistics-revisitation/"
-category: "What I Think"
+category: "What I Read"
 tags:
   - "Linguistics"
   - "Neuroscience"

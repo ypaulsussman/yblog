@@ -1,5 +1,5 @@
 ---
-title: Expanding 'Daily UA' (The More-Successful Program of Study)
+title: 'Daily UA' (The More-Successful Program of Study)
 date: "2019-01-21"
 template: "post"
 draft: false
@@ -11,7 +11,7 @@ tags:
   - "Language Learning"
   - "Ukrainian"
   - "Ed Tech"
-description: "These are my thoughts on rereading several ideas I'd jotted down on the topic of learning a language while away from the country that speaks it."
+description: "These are my thoughts on how I might expand my current personal system for learning a language while away from the country that speaks it."
 ---
 
 ## Where We've Come From
