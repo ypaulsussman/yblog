@@ -74,7 +74,13 @@
 
 ## Read a book; build a thing
 
-1. Learning React Native `**<===Current===**`
+1. Get a one-month GoRails subscription, and burn ruthlessly though their resources `**<===Current===**`
+
+1. Ruby chapter in Json At Work (O'Reilly)
+
+1. [Manning book on Ruby](https://www.manning.com/books/the-well-grounded-rubyist-third-edition)
+
+1. Learning React Native
 
 1. PWA (_or React Native app!_) to shoot you a daily quote from _Other People's Lines._
 
@@ -82,6 +88,7 @@
 
 1. _Explore how to turn (the process of reading a_ '`* Cookbook`' _O'Reilly text, after having engaged in a basic primer in the technology) into more of an interactive, problem-solving activity_
     * Possibly, for each, build a https://lab.github.com/ course?
+    * Possibly using principle of "progressive disclosure" of hints, as requested by user (e.g. first click on card gives you desc of line of code in EN, next lists obj, next lists method, next lists argument?)
 
 1. Bash Cookbook (O'Reilly)
 
@@ -91,11 +98,7 @@
 
 1. CSS Cookbook (O'Reilly)
 
-1. [Manning book on Ruby](https://www.manning.com/books/the-well-grounded-rubyist-third-edition)
-
-1. Get a one-month GoRails subscription, and burn ruthlessly though their resources
-
-1. Ruby chapter in Json At Work (O'Reilly)
+1. Regex Cookbook (O'Reilly)
 
 1. `${Add projects from "Next Steps" section of 'Revisiting' and 'Ideas' files}`
 

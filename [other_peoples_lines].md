@@ -1,0 +1,1921 @@
+
+**Other People’s Lines**
+
+The ability to quote is a serviceable substitute for wit. -W. Somerset Maugham, playwright and novelist (1874-1965)
+
+Many people take no care of their money till they come nearly to the end of it, and others do just the same with their time. -Johann Wolfgang von Goethe, poet, dramatist, novelist, and philosopher (1749-1832)
+
+Love is never lost. If not reciprocated, it will flow back and soften and purify the heart. -Washington Irving, writer (1783-1859)
+
+In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time. -Leonardo da Vinci, painter, engineer, musician, and scientist (1452-1519) 
+
+Poetry is what gets lost in translation. -Robert Frost, poet (1874-1963) 
+
+I call architecture frozen music. -Johann Wolfgang von Goethe (1749-1832) 
+
+Maybe this world is another planet's Hell. -Aldous Huxley, novelist (1894-1963) 
+
+Spring is a natural resurrection, an experience in immortality. -Henry David Thoreau, naturalist and author (1817-1862) 	
+
+To the mind that is still, the whole universe surrenders. -Lao-Tzu, philosopher (6th century BCE)
+
+A committee is a cul-de-sac down which ideas are lured and then quietly strangled. -Sir Barnett Cocks, clerk to the House of Commons  
+
+Speech is conveniently located midway between thought and action, where it often substitutes for both. -John Andrew Holmes
+
+Happiness is when what you think, what you say, and what you do are in harmony. -Mohandas K. Gandhi (1869-1948)
+
+The mountain remains unmoved at seeming defeat by the mist. -Rabindranath Tagore, poet, philosopher, author, songwriter, painter, educator, composer, Nobel laureate (1861-1941)
+
+Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one getting burned. -Buddha (c. 566-480 BCE)
+
+It is easy enough to be friendly to one's friends. But to befriend the one who regards himself as your enemy is the quintessence of true religion. The other is mere business.  -Mohandas K. Gandhi (1869-1948)
+
+Most men pursue pleasure with such breathless haste they hurry past it. -Soren Kierkegaard, philosopher (1813-1855)
+
+Nothing contributes so much to tranquilizing the mind as a steady purpose - a point on which the soul may fix its intellectual eye. –Mary Wollstonecraft Shelley, author (1797-1851)
+
+A painting is never finished - it simply stops in interesting places. –Paul Gardner, painter
+
+Sometimes I think we're alone in the universe, and sometimes I think we're not. In either case, the idea is quite staggering. -Arthur C Clarke, science fiction writer (1917- )
+
+Nothing that grieves us can be called little: by the eternal laws of proportion a child's loss of a doll and a king's loss of a crown are events of the same size. -Mark Twain, author and humorist (1835-1910)
+
+My library / Was dukedom large enough. -William Shakespeare, poet and dramatist (1564-1616)
+
+No two persons ever read the same book. -Edmund Wilson, critic (1895-1972)
+
+Just as appetite comes by eating so work brings inspiration. –Igor Stravinsky, composer (1882-1971)
+
+Words are things; and a small drop of ink / Falling like dew upon a thought, produces / That which makes thousands, perhaps millions, think. -Lord Byron, poet (1788-1824)
+
+The only gift is giving to the poor; / All else is exchange. -Thiruvalluvar, poet (c. 30 BC)
+
+No metaphysician ever felt the deficiency of language so much as the grateful. -Charles Caleb Colton, author and clergyman (1780-1832)
+
+The lights of stars that were extinguished ages ago still reach us. So it is with great men who died centuries ago, but still reach us with the radiation of their personalities. -Kahlil Gibran, poet and artist (1883-1931)
+
+We who lived in concentration camps can remember the men who walked through the huts comforting others, giving away their last piece of bread. They may have been few in number, but they offer sufficient proof that everything can be taken from a man but one thing: the last of the human freedoms – to choose one's attitude in any given set of circumstances, to choose one's own way. -Viktor Frankl, author, neurologist and psychiatrist, Holocaust survivor (1905-1997)
+
+I have always imagined that paradise will be a kind of library. -Jorge Luis Borges, writer (1899-1986)
+
+Praise, like gold and diamonds, owes its value to its scarcity. –Samuel Butler, poet (1612-1680)
+
+To be nobody but yourself - in a world which is doing its best, night and day, to make you like everybody else - means to fight the hardest battle which any human being can fight, and never stop fighting. -e.e. cummings, poet (1894-1962)
+
+It is with words as with sunbeams, the more they are condensed, the deeper they burn. -Robert Southey (1774-1843)
+
+Words are like money; there is nothing so useless, unless when in actual use. -Samuel Butler, writer (1835-1902)
+
+Please subdue the anguish of your soul. Nobody is destined only to happiness or to pain. The wheel of life takes one up and down by turn. -Kalidasa, dramatist (c. 4th century)
+
+To live content with small means; to seek elegance rather than luxury, and refinement rather than fashion; to be worthy, not respectable, and wealthy, not rich; to listen to stars and birds, babes and sages, with open heart; to study hard; to think quietly, act frankly, talk gently, await occasions, hurry never; in a word, to let the spiritual, unbidden and unconscious, grow up through the common--this is my symphony. -William Henry Channing, clergyman, reformer (1810-1884)
+
+Each man carries within him the soul of a poet who died young. –Charles Augustin Sainte-Beuve, literary critic (1804-1869)
+
+I learned long ago that being Lewis Carroll was infinitely more exciting than being Alice. -Joyce Carol Oates, writer (1938- )
+
+Washing one's hands of the conflict between the powerful and the powerless means to side with the powerful, not to be neutral. -Paulo Freire, educator (1921-1997)
+
+You have reached the pinnacle of success as soon as you become uninterested in money, compliments, or publicity. -Thomas Wolfe, novelist (1900-1938)
+
+One may have a blazing hearth in one's soul, and yet no one ever comes to sit by it. -Vincent van Gogh, painter (1853-1890)
+
+No man is an Island, entire of itself; every man is a piece of the Continent, a part of the main; if a clod be washed away by the sea, Europe is the less, as well as if a promontory were, as well as if a manor of thy friends or of thine own were; any man's death diminishes me, because I am involved in Mankind; And therefore never send to know for whom the bell tolls; It tolls for thee. -John Donne, poet (1573-1631)
+
+Works of imagination should be written in very plain language; the more purely imaginative they are the more necessary it is to be plain. –Samuel Taylor Coleridge, poet and philosopher (1772-1834)
+
+It is easier to exclude harmful passions than to rule them, and to deny them admittance than to control them after they have been admitted. –Lucius Annaeus Seneca, philosopher and writer (c. 3 BCE - AD 65)
+
+There would be no society if living together depended upon understanding each other. -Eric Hoffer, philosopher and author (1902-1983)
+
+It is chiefly through books that we enjoy intercourse with superior minds. -William Ellery Channing, clergyman and writer (1780-1842)
+
+There's no sauce in the world like hunger. -Miguel de Cervantes, novelist (1547-1616)
+
+I hate mankind, for I think myself one of the best of them, and I know how bad I am. -Samuel Johnson, lexicographer (1709-1784)
+
+The only wisdom we can hope to acquire is the wisdom of humility: Humility is endless. -T.S. Eliot, poet (1888-1965)
+
+Sometimes even to live is an act of courage. -Lucius Annaeus Seneca, writer and philosopher (BCE 3-65 CE)
+
+Who is content with nothing possesses all things. –Nicolas Boileau-Despreaux, poet (1636-1711)
+
+The death of democracy is not likely to be an assassination from ambush. It will be a slow extinction from apathy, indifference, and undernourishment. -Robert Maynard Hutchins, educator (1899-1977)
+
+Poetry is to prose as dancing is to walking. -John Barrington Wain, writer (1925-1994)
+
+Beautiful young people are accidents of nature, but beautiful old people are works of art. -Eleanor Roosevelt, diplomat and writer (1884-1962)
+
+If a man walks in the woods for love of them half of each day, he is in danger of being regarded as a loafer. But if he spends his days as a speculator, shearing off those woods and making the earth bald before her time, he is deemed an industrious and enterprising citizen. -Henry David Thoreau, naturalist and author (1817-1862) 
+
+Of course, it's possible to love a human being -- if you don't know them too well. -Charles Bukowski, writer (1920-1994)
+
+Never attribute to malice that which can be adequately explained by stupidity. -Hanlon's Razor
+
+Kindness is in our power, even when fondness is not. -Samuel Johnson, lexicographer (1709-1784)
+
+Try to learn something about everything and everything about something.  -Thomas Huxley, biologist (1825-1895)
+
+The end of the human race will be that it will eventually die of civilization. -Ralph Waldo Emerson, writer and philosopher (1803-1882)
+
+What is the function of a critic? So far as I am concerned, he can do me one or more of the following services: 1) Introduce me to authors or works of which I was hitherto unaware. 2) Convince me that I have undervalued an author or a work because I had not read them carefully enough. 3) Show me relations between works of different ages and cultures which I could never have seen for myself because I do not know enough and never shall. 4) Give a “reading” of a work which increases my understanding of it. 5) Throw light upon the process of artistic “Making.” 6) Throw light upon the relation of art to life, to science, economics, ethics, religion, etc. -W. H. Auden, The Dyer’s Hand
+
+Drama is life with the dull bits cut out. -Alfred Hitchcock, film-maker (1899-1980)
+
+So difficult it is to show the various meanings and imperfections of words when we have nothing else but words to do it with. -John Locke, philosopher (1632-1704)
+
+Music was invented to confirm human loneliness. -Lawrence Durrell, novelist and poet (1912-1990)
+
+If thought corrupts language, language can also corrupt thought. –George Orwell, writer (1903-1950)
+
+What a strange machine man is! You fill him with bread, wine, fish, and radishes, and out come sighs, laughter, and dreams. -Nikos Kazantzakis, poet and novelist (1883-1957) 
+
+Excellence in any department can be attained only by the labor of a lifetime; it is not to be purchased at a lesser price. -Samuel Johnson, lexicographer (1709-1784)
+
+I do not feel obliged to believe that the same God who has endowed us with sense, reason, and intellect has intended us to forgo their use. –Galileo Galilei, physicist and astronomer (1564-1642)
+
+Am I not destroying my enemies when I make friends of them? –Abraham Lincoln, 16th US president (1809-1865)
+
+It is the final proof of God's omnipotence that he need not exist in order to save us. -Peter De Vries, novelist (1910-1993)
+
+A writer is somebody for whom writing is more difficult than it is for other people. -Thomas Mann, novelist, Nobel laureate (1875-1955)
+
+The tax which will be paid for the purpose of education is not more than the thousandth part of what will be paid to kings, priests and nobles who will rise up among us if we leave the people in ignorance. –Thomas Jefferson, third US president, architect and author (1743-1826)
+
+It is horrifying that we have to fight our own government to save the environment. -Ansel Adams, photographer (1902-1984)
+
+The great tragedy of science -- the slaying of a beautiful hypothesis by an ugly fact. -Thomas Huxley, biologist and writer (1825-1895)
+
+Tears are not arguments. -Machado de Assis, writer (1839-1908)
+
+The best way to find yourself is to lose yourself in the service of others. -Mohandas Karamchand Gandhi (1869-1948)
+
+The innocent and the beautiful have no enemy but time. -William Butler Yeats, writer, Nobel laureate (1865-1939)
+
+Sleep after toil, port after stormy seas, ease after war, death after life does greatly please. -Edmund Spenser, poet (1552-1599)
+
+To know another language is to have a second soul. -Charlemagne, King of the Franks (742-814)
+
+It (death) comes equally to us all, and makes us all equal when it comes. -John Donne, poet (1573-1631)
+
+All human beings should try to learn before they die what they are running from, and to, and why. -James Thurber, writer and cartoonist (1894-1961)
+
+People change and forget to tell each other. -Lillian Hellman, playwright (1905-1984)
+
+Happy the people whose annals are blank in the history books! -Charles de Montesquieu, philosopher and writer (1689-1755)
+
+I don't necessarily agree with everything I say. -Marshall McLuhan, communications theorist (1911-1980)
+
+If I am walking with two other men, each of them will serve as my teacher. I will pick out the good points of the one and imitate them, and the bad points of the other and correct them in myself. -Confucius, philosopher and teacher (c. 551-478 BCE)
+
+It is often forgotten that (dictionaries) are artificial repositories, put together well after the languages they define. The roots of language are irrational and of a magical nature. -Jorge Luis Borges, writer (1899-1986)
+
+I saw the angel in the marble and carved until I set him free. -Michelangelo Buonarroti, sculptor, painter, architect, and poet (1475-1564)
+
+Why does no one confess his sins? Because he is yet in them. It is for a man who has awoke from sleep to tell his dreams. -Lucius Annaeus Seneca, writer and philosopher (BCE 3-65 CE)
+
+A successful man is one who makes more money than a wife can spend. A successful woman is one who can find such a man. -Lana Turner, actress (1921-1995)
+
+Remember that there is nothing stable in human affairs; therefore avoid undue elation in prosperity, or undue depression in adversity. -Socrates, philosopher (469?-399 BCE)
+
+If all men knew what others say of them, there would not be four friends in the world. -Blaise Pascal, philosopher and mathematician (1623-1662)
+
+The future will soon be a thing of the past. –George Carlin
+
+I’m always relieved when someone is delivering a eulogy and I realize I’m listening to it. –George Carlin
+
+One good reason for maintaining only a small circle of friends is that three out of four murders are committed by people who know the victim. –George Carlin
+
+Civilization began its downhill path the day some guy first uttered the words, “A man’s gotta do what a man’s gotta do.” –George Carlin
+
+I don’t know about you, but I really don’t have a problem with atrocities.  What’s the big deal?  Lighten up. –George Carlin
+
+I think many years ago an advanced civilization intervened with us genetically and gave us just enough intelligence to develop dangerous technology but not enough to use it wisely.  Then they sat back to watch the fun.  Kind of like a human zoo.  And you know something?  They’re definitely getting their money’s worth. –George Carlin
+
+Do you realize that somewhere in the world there exists someone who qualifies as the worst doctor?  If you took the time, by process of elimination you could actually determine the worst doctor in the world.  And the nicest part is knowing that someone has an appointment to see him tomorrow. –George Carlin
+
+So I say live and let live. That's my motto. Live and let live. Anyone who can't go along with that, take him outside and shoot the motherfucker. It's a simple philosophy, but it's always worked in our family. –George Carlin
+
+The mayfly lives only one day, and sometimes it rains. –George Carlin
+
+No one ever knows what’s next, but they always do it. –George Carlin
+
+I envy people who drink - at least they know what to blame everything on. -Oscar Levant, composer (1906-1972)
+
+Never spend your money before you have it. -Thomas Jefferson, third US president, architect and author (1743-1826)
+
+A bit beyond perception's reach / I sometimes believe I see / that life is two locked boxes / each containing the other's key. -Piet Hein, poet and scientist (1905-1996)
+
+To do nothing is sometimes a good remedy. -Hippocrates, physician (460-c.377 BCE)
+
+The world is a looking glass, and gives back to every man the reflection of his own face. -William Makepeace Thackeray, novelist (1811-1863)
+
+The penalty that good men pay for not being interested in politics is to be governed by men worse than themselves. -Plato, philosopher (427-347 BCE)
+
+No man ever steps in the same river twice, for it's not the same river and he's not the same man. -Heraclitus, philosopher (c. 540-470 BCE)
+
+Just because you do not take an interest in politics doesn't mean politics won't take an interest in you. -Pericles, statesman (430 BCE)
+
+One of the symptoms of an approaching nervous breakdown is the belief that one's work is terribly important. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
+
+At bottom, every man knows perfectly well that he is a unique being, only once on this earth; and by no extraordinary chance will such a marvelously picturesque piece of diversity in unity as he is, ever be put together a second time. -Friedrich Nietzsche, philosopher (1844-1900)
+
+Three grand essentials to happiness in this life are something to do, something to love, and something to hope for. -Joseph Addison, writer (1672-1719)
+
+Growth in wisdom can be measured precisely by decline in bile. –Friedrich Wilhelm Nietzsche, philosopher (1844-1900)
+
+Home is not where you live but where they understand you. –Christion Morgenstern, writer (1871-1914)
+
+Money may be the husk of many things but not the kernel. It brings you food, but not appetite; medicine, but not health; acquaintance, but not friends; servants, but not loyalty; days of joy, but not peace or happiness. -Henrik Ibsen, playwright (1828-1906)
+
+Words, like eyeglasses, obscure everything they do not make clear. –Joseph Joubert, moralist and essayist (1754-1824)
+
+The fact that a believer is happier than a skeptic is no more to the point than the fact than a drunken man is happier than a sober one. –George Bernard Shaw, writer, Nobel laureate (1856-1950)
+
+To kill time is not murder, it's suicide. -William James, psychologist and philosopher (1842-1910)
+
+Every time I see an adult on a bicycle, I no longer despair for the future of the human race. -H.G. Wells, writer (1866-1946)
+
+He who sings scares away his woes. -Miguel de Cervantes, novelist (1547-1616)
+
+Television's perfect. You turn a few knobs, a few of those mechanical adjustments at which the higher apes are so proficient, and lean back and drain your mind of all thought. And there you are watching the bubbles in the primeval ooze. You don't have to concentrate. You don't have to react. You don't have to remember. You don't miss your brain because you don't need it. Your heart and liver and lungs continue to function normally. Apart from that, all is peace and quiet. You are in the man's nirvana. And if some poor nasty minded person comes along and says you look like a fly on a can of garbage, pay him no mind. He probably hasn't got the price of a television set. -Raymond Thornton Chandler, writer (1888-1959)
+
+There are no persons capable of stooping so low as those who desire to rise in the world. -Marguerite Guardiner, writer (1789-1849)
+
+Write with nouns and verbs, not with adjectives and adverbs. The adjective hasn't been built that can pull a weak or inaccurate noun out of a tight place. -William Strunk and E.B. White, authors of The Elements of Style
+
+It is difficult to get a man to understand something when his salary depends upon his not understanding it. -Upton Sinclair, novelist and reformer (1878-1968)
+
+He who is cruel to animals becomes hard also in his dealings with men. We can judge the heart of a man by his treatment of animals. -Immanuel Kant, philosopher (1724-1804)
+
+The more I study religions the more I am convinced that man never worshipped anything but himself. -Richard Francis Burton, explorer and writer (1821-1890)
+
+The enemy is anybody who's going to get you killed, no matter which side he's on. -Joseph Heller, novelist (1923-1999)
+
+It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change. -Charles Darwin, naturalist and author (1809-1882)
+
+The television, that insidious beast, that Medusa which freezes a billion people to stone every night, staring fixedly, that Siren which called and sang and promised so much and gave, after all, so little. -Ray Bradbury, science-fiction writer (1920- )
+
+Words are a mirror of their times. By looking at the areas in which the vocabulary of a language is expanding fastest in a given period, we can form a fairly accurate impression of the chief preoccupations of society at that time and the points at which the boundaries of human endeavour are being advanced. -John Ayto, lexicographer (1949- )
+
+The wise are instructed by reason, average minds by experience, the stupid by necessity and the brute by instinct. -Marcus Tullius Cicero, statesman, orator and writer (106-43 BCE)
+
+Beauty is the purgation of superfluities. -Michelangelo Buonarroti, sculptor, painter, architect, and poet (1475-1564)
+
+I and the public know / What all schoolchildren learn / Those to whom evil is done / Do evil in return. -W.H. Auden, poet (1907-1973)
+
+Language is a city to the building of which every human being brought a stone. -Ralph Waldo Emerson, writer and philosopher (1803-1882)
+
+One has to be a lowbrow, a bit of a murderer, to be a politician, ready and willing to see people sacrificed, slaughtered, for the sake of an idea, whether a good one or a bad one. -Henry Miller, writer (1891-1980)
+
+Everything secret degenerates, even the administration of justice; nothing is safe that does not show how it can bear discussion and publicity. –Lord Acton, historian (1834-1902)
+
+If you don't find God in the next person you meet, it is a waste of time looking for him further. -Mahatma Gandhi (1869-1948)
+
+Don't ask me who's influenced me. A lion is made up of the lambs he's digested, and I've been reading all my life. -Giorgos Seferis, writer, diplomat, Nobel laureate (1900-1971)
+
+The past is a foreign country; they do things differently there. -L.P. Hartley, writer (1895-1972)
+
+It is always the secure who are humble. -G.K. Chesterton, essayist and novelist (1874-1936)
+
+There is one art, no more, no less: to do all things with artlessness. -Piet Hein, poet and scientist (1905-1996)
+
+I thank Thee first because I was never robbed before; second, because although they took my purse they did not take my life; third, because although they took my all, it was not much; and fourth because it was I who was robbed, and not I who robbed. -Matthew Henry, minister (1662-1714)
+
+You can never understand one language until you understand at least two. -Ronald Searle, artist (1920- )
+
+A proverb is a short sentence based on long experience. -Miguel de Cervantes, novelist (1547-1616)
+
+Facts do not cease to exist because they are ignored. -Aldous Huxley, novelist (1894-1963)
+
+It is only those who have neither fired a shot nor heard the shrieks and groans of the wounded who cry aloud for blood, more vengeance, more desolation. War is hell. -William Tecumseh Sherman, Union General in the American Civil War (1820-1891)
+
+What you do is of little significance; but it is very important that you do it. -Mohandas K. Gandhi (1869-1948)
+
+Trees are the earth's endless effort to speak to the listening heaven. -Rabindranath Tagore, poet, philosopher, author, songwriter, painter, educator, composer, Nobel laureate (1861-1941)
+
+I love my country too much to be a nationalist. -Albert Camus, writer, philosopher, Nobel laureate (1913-1960)
+
+The mind is but a barren soil; a soil which is soon exhausted, and will produce no crop, or only one, unless it be continually fertilized and enriched with foreign matter. -Joshua Reynolds, painter (1723-1792)
+
+My aim is to agitate and disturb people. I'm not selling bread, I'm selling yeast. -Miguel de Unamuno, writer and philosopher (1864-1936)
+
+There are books in which the footnotes or comments scrawled by some reader's hand in the margin are more interesting than the text. The world is one of these books. -George Santayana, philosopher (1863-1952)
+
+A book lying idle on a shelf is wasted ammunition. Like money, books must be kept in constant circulation. Lend and borrow to the maximum. –Henry Miller, novelist (1891-1980)
+
+If you torture data sufficiently, it will confess to almost anything. –Fred Menger, chemistry professor (1937- )
+
+During times of universal deceit, telling the truth becomes a revolutionary act. -George Orwell, writer (1903-1950)
+
+Too often we enjoy the comfort of opinion without the discomfort of thought. -John F. Kennedy, 35th US president (1917-1963)
+
+A faith that cannot survive collision with the truth is not worth many regrets. -Arthur C Clarke, science fiction writer (1917- )
+
+Live as if you were living a second time, and as though you had acted wrongly the first time. -Viktor Frankl, author, neurologist and psychiatrist, Holocaust survivor (1905-1997)
+
+A teacher who is attempting to teach, without inspiring the pupil with a desire to learn, is hammering on a cold iron. -Horace Mann, educational reformer (1796-1859)
+
+That man is truly good who knows his own dark places. -Beowulf
+
+All art is autobiographical; the pearl is the oyster's autobiography. -Federico Fellini, film director, and writer (1920-1993)
+
+The closing years of life are like the end of a masquerade party, when the masks are dropped. -Arthur Schopenhauer, philosopher (1788-1860)
+
+Let the gods avenge themselves. -Roman law maxim, on blasphemy
+
+To fall in love is to create a religion that has a fallible god. –Jorge Luis Borges, writer (1899-1986)
+
+A man said to the universe: "Sir I exist!" / "However," replied the universe, "The fact has not created in me / A sense of obligation." -Stephen Crane, writer (1871-1900)
+
+I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others. -Marcus Aurelius, philosopher (121-180)
+
+I cannot believe in a God who wants to be praised all the time. –Friedrich Nietzsche, philosopher (1844-1900)
+
+What I like in a good author isn't what he says, but what he whispers. -Logan Pearsall Smith, essayist (1865-1946)
+
+I love mankind. It's the people I can't stand. -Charles Schulz
+
+And none will hear the postman's knock / Without a quickening of the heart. / For who can bear to feel himself forgotten? -W.H. Auden, poet (1907-1973)
+
+Soon silence will have passed into legend. Man has turned his back on silence. Day after day he invents machines and devices that increase noise and distract humanity from the essence of life, contemplation, meditation. Tooting, howling, screeching, booming, crashing, whistling, grinding, and trilling bolster his ego. -Jean Arp, artist and poet (1887-1948)
+
+Our admiration of fine writing will always be in proportion to its real difficulty and its apparent ease. -Charles Caleb Colton, author and clergyman (1780-1832)
+
+The days come and go like muffled and veiled figures sent from a distant friendly party, but they say nothing, and if we do not use the gifts they bring, they carry them as silently away. -Ralph Waldo Emerson, writer and philosopher (1803-1882)
+
+Every act of conscious learning requires the willingness to suffer an injury to one's self-esteem. That is why young children, before they are aware of their own self-importance, learn so easily; and why older persons, especially if vain or important, cannot learn at all. -Thomas Szasz, author, professor of psychiatry (1920- )
+
+It is human nature to hate the man whom you have hurt. -Publius Cornelius Tacitus, historian (c.55-c.120)
+
+The desire of the man is for the woman, but the desire of the woman is for the desire of the man. -Madame de Stael, writer (1766-1817)
+
+The surest way to corrupt a youth is to instruct him to hold in higher esteem those who think alike than those who think differently. –Friedrich Nietzsche, philosopher (1844-1900)
+
+It is kindness immediately to refuse what you intend to deny. –Publilius Syrus, writer (c. 1st century BCE)
+
+If they can get you asking the wrong questions, they don't have to worry about the answers. -Thomas Pynchon, writer (1937- )
+
+Grasp the subject, the words will follow. -Cato the Elder, statesman, soldier, and writer (234-149 BCE)
+
+Loneliness... is and always has been the central and inevitable experience of every man. -Thomas Wolfe, novelist (1900-1938)
+
+I am, indeed, a king, because I know how to rule myself. -Pietro Aretino, satirist and dramatist (1492-1556)
+
+It is easier to make a saint out of a libertine than out of a prig. –George Santayana, philosopher (1863-1952)
+
+Any fool can destroy trees. They cannot run away; and if they could, they would still be destroyed, chased and hunted down as long as fun or a dollar could be got out of their bark hides, branching horns, or magnificent bole backbones. Few that fell trees plant them; nor would planting avail much towards getting back anything like the noble primeval forests. -John Muir, naturalist, explorer, and writer (1838-1914)
+
+A language is an exact reflection of the character and growth of its speakers. -Mohandas Karamchand Gandhi
+
+Matters of religion should never be matters of controversy. We neither argue with a lover about his taste, nor condemn him, if we are just, for knowing so human a passion. -George Santayana, philosopher (1863-1952)
+
+I love America more than any other country in this world, and, exactly for this reason, I insist on the right to criticize her perpetually. –James Baldwin, writer (1924-1987)
+
+A root is a flower that disdains fame. -Kahlil Gibran, mystic, poet, and artist (1883-1931)
+
+Who has not for the sake of his reputation sacrificed himself? –Friedrich Wilhelm Nietzsche, philosopher (1844-1900)
+
+Don't tell me the moon is shining; show me the glint of light on broken glass. -Anton Chekhov, short-story writer and dramatist (1860-1904)
+
+We are all sculptors and painters, and our material is our own flesh and bones. -Henry David Thoreau, naturalist and author (1817-1862)
+
+To love truth for truth's sake is the principal part of human perfection in this world, and the seed-plot of all other virtues. -John Locke, philosopher (1632-1704)
+
+A conservative is one who admires radicals centuries after they're dead. -Leo Rosten, author (1908-1997)
+
+The bitterest tears shed over graves are for words left unsaid and deeds left undone. -Harriet Beecher Stowe, abolitionist and novelist (1811-1896)
+
+An idea is not responsible for the people who believe in it. -Don Marquis, humorist and poet (1878-1937)
+
+It is as easy to dream a book as it is hard to write one. -Honore de Balzac, novelist (1799-1850)
+
+Insanity in individuals is something rare - but in groups, parties, nations and epochs, it is the rule. -Friedrich Nietzsche, philosopher (1844-1900)
+
+Truth does not change according to our ability to stomach it. -Flannery O'Connor, writer (1925-1964)
+
+Vocations which we wanted to pursue, but didn't, bleed, like colors, on the whole of our existence. -Honore de Balzac, novelist (1799-1850)
+
+You can't do anything about the length of your life, but you can do something about its width and depth. -H.L. Mencken, writer, editor, and critic (1880-1956)
+
+Emancipation from the bondage of the soil is no freedom for the tree. -Rabindranath Tagore, philosopher, author, songwriter, painter, educator, composer, Nobel laureate (1861-1941)
+
+I slept and dreamt that life was joy. I awoke and saw that life was service. I acted and behold, service was joy. -Rabindranath Tagore, philosopher, author, songwriter, painter, educator, composer, Nobel laureate (1861-1941)
+
+The life of every man is a diary in which he means to write one story, and writes another, and his humblest hour is when he compares the volume as it is with what he vowed to make it. -J.M. Barrie, novelist and playwright (1860-1937)
+
+Happiness in intelligent people is the rarest thing I know. –Ernest Hemingway, author and journalist, Nobel laureate (1899-1961)
+
+The more powerful and original a mind, the more it will incline towards the religion of solitude. -Aldous Huxley, novelist (1894-1963)
+
+Interpretation is the revenge of the intellect upon art. -Susan Sontag, author and critic (1933-2004)
+
+Not that I want to be a god or a hero. Just to change into a tree, grow for ages, not hurt anyone. -Czeslaw Milosz
+
+Several excuses are always less convincing than one. -Aldous Huxley, novelist (1894-1963)
+
+If you want to work on your art, work on your life. -Anton Chekhov, short-story writer and dramatist (1860-1904)
+
+The greatest masterpiece in literature is only a dictionary out of order. -Jean Cocteau, writer, artist, and filmmaker
+
+Nature's laws affirm instead of prohibit. If you violate her laws, you are your own prosecuting attorney, judge, jury, and hangman. -Luther Burbank, horticulturist (1849-1926)
+
+We can't solve problems by using the same kind of thinking we used when we created them. -Albert Einstein, physicist, Nobel laureate (1879-1955)
+
+For all our conceits about being the center of the universe, we live in a routine planet of a humdrum star stuck away in an obscure corner ... on an unexceptional galaxy which is one of about 100 billion galaxies. ... That is the fundamental fact of the universe we inhabit, and it is very good for us to understand that. -Carl Sagan, astronomer and writer (1934-1996) 
+
+In all history there is no war which was not hatched by the governments, the governments alone, independent of the interests of the people, to whom war is always pernicious even when successful. -Leo Tolstoy, author (1828-1910)
+
+Power does not corrupt. Fear corrupts... perhaps the fear of a loss of power. -John Steinbeck, novelist, Nobel laureate (1902-1968) 
+
+We are not the same persons this year as last; nor are those we love. It is a happy chance if we, changing, continue to love a changed person. –William Somerset Maugham, writer (1874-1965)
+
+We perceive when love begins and when it declines by our embarrassment when alone together. -Jean de la Bruyere, essayist and moralist (1645-1696)
+
+Literature is the language of society, as speech is the language of man. -Louis de Bonald, philosopher and politician (1754-1840)
+
+The problem with being sure that God is on your side is that you can't change your mind, because God sure isn't going to change His. -Roger Ebert, film-critic (1942- )
+
+Words form the thread on which we string our experiences. -Aldous Huxley, novelist (1894-1963)
+
+We love flattery, even though we are not deceived by it, because it shows that we are of importance enough to be courted. -Ralph Waldo Emerson, writer and philosopher (1803-1882)
+
+Travel is fatal to prejudice, bigotry and narrow-mindedness -- all foes to real understanding. Likewise, tolerance or broad, wholesome, charitable views of men and things cannot be acquired by vegetating in our little corner of the earth all one's lifetime. - Mark Twain
+
+Which of us is not forever a stranger and alone? -Thomas Wolfe, novelist (1900-1938)
+
+The limits of my language mean the limits of my world. -Ludwig Wittgenstein,
+philosopher (1889-1951)
+
+As societies grow decadent, the language grows decadent, too. Words are used to disguise, not to illuminate, action: you liberate a city by destroying it. Words are to confuse, so that at election time people will solemnly vote against their own interests. -Gore Vidal, writer (1925- )
+
+I love you, and because I love you, I would sooner have you hate me for telling you the truth than adore me for telling you lies. -Pietro Aretino, satirist and dramatist (1492-1556)
+
+The satiated man and the hungry one do not see the same thing when they look upon a loaf of bread. -Rumi, poet and mystic (1207-1273)
+
+Lying is done with words and also with silence. -Adrienne Rich, writer and teacher (1929- )
+
+My life is my message. -Mohandas K. Gandhi (1869-1948)
+
+I fear nothing, I hope for nothing, I am free. -Nikos Kazantzakis, poet and novelist (1883-1957)
+
+You can safely assume that you've created God in your own image when it turns out that God hates all the same people you do. -Anne Lamott, writer (1954- )
+
+We must learn to regard people less in the light of what they do or omit to do, and more in the light of what they suffer. -Dietrich Bonhoeffer, theologian and writer (1906-1945)
+
+A poet looks at the world as a man looks at a woman. –Wallace Stevens, poet (1879-1955)
+
+Good books don’t give up all their secrets at once. –Stephen King, novelist (1947- )
+
+When work is a pleasure, life is a joy! When work is a duty, life is slavery. -Maxim Gorky, author (1868-1936)
+
+Permanent good can never be the outcome of untruth and violence. –Mahatma Gandhi (1869-1948)
+
+Habit converts luxurious enjoyments into dull and daily necessities. -Aldous Huxley, novelist (1894-1963)
+
+Too much consistency is as bad for the mind as it is for the body. Consistency is contrary to nature, contrary to life. The only completely consistent people are the dead. Consistent intellectualism and spirituality may be socially valuable, up to a point; but they make, gradually, for individual death. -Aldous Huxley, novelist (1894-1963)
+
+Speed, it seems to me, provides the one genuinely modern pleasure. -Aldous Huxley, novelist (1894-1963)
+
+So long as men worship the Caesars and Napoleons, Caesars and Napoleons will duly rise and make them miserable. -Aldous Huxley, novelist (1894-1963)
+
+The trouble with fiction...is that it makes too much sense. Reality never makes sense. -Aldous Huxley, novelist (1894-1963)
+
+That men do not learn very much from the lessons of history is the most important of all the lessons that history has to teach. -Aldous Huxley, novelist (1894-1963)
+
+You never see animals going through the absurd and often horrible fooleries of magic and religions. Only man behaves with such gratuitous folly. It is the price he has to pay for being intelligent but not, as yet, intelligent enough. -Aldous Huxley, novelist (1894-1963)
+
+The cradle rocks above an abyss, and common sense tells us that our existence is but a brief crack of light between two eternities of darkness. Although the two are identical twins, man, as a rule, views the prenatal abyss with more calm than the one he is heading for (at some forty-five hundred heartbeats an hour.) -Vladimir Nabokov, novelist (1899-1977)
+
+"Art is simple, art is sincere." Someday I must trace this vulgar absurdity to its source. A schoolmarm in Ohio? A progressive ass in New York? Because, of course, art at its greatest is fantastically deceitful and complex. -Vladimir Nabokov, novelist (1899-1977)
+
+For moral reasons I am an atheist - for moral reasons. I am of the opinion that you would recognize a creator by his creation, and the world appears to me to be put together in such a painful way that I prefer to believe that it was not created by anyone than to think that somebody created this intentionally. -Stanisław Lem, writer (1921-2006)
+
+If man had more of a sense of humor, things might have turned out differently. -Stanisław Lem, writer (1921-2006)
+
+Is it progress if a cannibal uses a knife and fork? -Stanisław Jerzy Lec
+
+Dictatorships foster oppression, dictatorships foster servitude, dictatorships foster cruelty; more abominable is the fact that they foster idiocy. -Jorge Luis Borges, writer (1899-1986)
+
+To die for a religion is easier than to live it absolutely. -Jorge Luis Borges, writer (1899-1986)
+
+Truly fine poetry must be read aloud. A good poem does not allow itself to be read in a low voice or silently. If we can read it silently, it is not a valid poem: a poem demands pronunciation. Poetry always remembers that it was an oral art before it was a written art. It remembers that it was first song. -Jorge Luis Borges, writer (1899-1986)
+
+The aesthetic event is something as evident, as immediate, as indefinable as love, the taste of fruit, of water. We feel poetry as we feel the closeness of a woman, or as we feel a mountain or a bay. If we feel it immediately, why dilute it with other words, which no doubt will be weaker than our feelings? -Jorge Luis Borges, writer (1899-1986)
+
+As I think of the many myths, there is one that is very harmful, and that is the myth of countries… I suppose in the long run, governments and countries will die out and we'll be just, well, cosmopolitans. -Jorge Luis Borges, writer (1899-1986)
+
+A writer - and, I believe, generally all persons - must think that whatever happens to him or her is a resource. All things have been given to us for a purpose, and an artist must feel this more intensely. All that happens to us, including our humiliations, our misfortunes, our embarrassments, all is given to us as raw material, as clay, so that we may shape our art. -Jorge Luis Borges, writer (1899-1986)
+
+I cannot walk through the suburbs in the solitude of the night without thinking that the night pleases us because it suppresses idle details, just as our memory does. -Jorge Luis Borges, writer (1899-1986)
+
+In the course of a life devoted less to living than to reading, I have verified many times that literary intentions and theories are nothing more than stimuli and that the final work usually ignores or even contradicts them. -Jorge Luis Borges, writer (1899-1986)
+
+Heaven and hell seem out of proportion to me: the actions of men do not deserve so much. -Jorge Luis Borges, writer (1899-1986)
+
+I have committed the worst sin that can be committed. I have not been happy.  -Jorge Luis Borges, writer (1899-1986)
+
+I don't speak of revenge or forgiveness; forgetting is the only revenge and the only forgiveness. -Jorge Luis Borges, writer (1899-1986)
+
+I fell in love - that is the only expression I can think of - at once, and am still at the mercy of words, though sometimes now, knowing a little of their behavior very well, I think I can influence them slightly and have even learned to beat them now and then, which they appear to enjoy. -Dylan Thomas, poet (1914-1953)
+
+A good poem is a contribution to reality. The world is never the same once a good poem has been added to it. A good poem helps to change the shape of the universe, helps to extend everyone's knowledge of himself and the world around him. -Dylan Thomas, poet (1914-1953)
+
+An alcoholic is someone you don't like who drinks as much as you. -Dylan Thomas, poet (1914-1953)
+
+He who seeks rest finds boredom. He who seeks work finds rest. -Dylan Thomas, poet (1914-1953)
+
+Among those whom I like or admire, I can find no common denominator, but among those whom I love, I can: all of them make me laugh. -W. H. Auden
+
+Love cannot accept what it is. Everywhere on earth it cries out against kindness, compassion, intelligence, everything that leads to compromise. Love demands the impossible, the absolute, the sky on fire, inexhaustible springtime, life after death, and death itself transfigured into eternal life. -Albert Camus
+
+We always deceive ourselves twice about the people we love: first to their advantage, then to their disadvantage. -Albert Camus
+
+If I love you, what business is it of yours? -Johann Wolfgang von Goethe
+
+We are shaped and fashioned by what we love. -Johann Wolfgang von Goethe
+
+Everyone can be great because anyone can serve. You don't have to have a college degree to serve. You don't even have to make your subject and verb agree to serve... You only need a heart full of grace, a soul generated by love. -Dr. Martin Luther King, Jr.
+
+Always love your enemies: nothing annoys them so much. -Oscar Wilde, writer (1854-1900)
+
+The reading of all good books is like a conversation with the finest men of past centuries. -Rene Descartes, philosopher and mathematician (1596-1650)
+
+Translation is the art of erasing oneself in order to speak in another's voice. -David Cole, professor, author, and correspondent (1958- )
+
+Life is pleasant. Death is peaceful. It's the transition that's troublesome. -Isaac Asimov
+
+At once it struck me what quality went to form a man of achievement, especially in literature, and which Shakespeare possessed so enormously―I mean negative capability, that is, when a man is capable of being in uncertainties, mysteries, doubts, without any irritable reaching after fact and reason. -John Keats, Letter to George and Thomas Keats (December 22, 1817)
+
+They will explain themselves - as all poems should do without any comment. -John Keats, Letter to George Keats (1818)
+
+I have two luxuries to brood over in my walks, your loveliness and the hour of my death. O that I could have possession of them both in the same minute. -John Keats, To Fanny Brawne (July 25, 1819)
+
+You are always new. The last of your kisses was ever the sweetest; the last smile the brightest; the last movement the gracefullest. -John Keats, Letter to Fanny Brawne (March 1820)
+
+The fact that we live at the bottom of a deep gravity well, on the surface of a gas covered planet going around a nuclear fireball 90 million miles away and think this to be normal is obviously some indication of how skewed our perspective tends to be. -Douglas Adams
+
+I'd take the awe of understanding over the awe of ignorance any day. -Douglas Adams
+
+Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so. -Douglas Adams
+
+Writing is easy. You only need to stare at a piece of blank paper until your forehead bleeds. -Douglas Adams
+
+I don't believe in total freedom for the artist. Left on his own, free to do anything he likes, the artist ends up doing nothing at all. If there's one thing that's dangerous for an artist, it's precisely this question of total freedom, waiting for inspiration and the rest of it. -Federico Fellini
+
+It's easier to be faithful to a restaurant than it is to a woman. -Federico Fellini
+
+Behind every man now alive stand 30 ghosts, for that is the ratio by which the dead outnumber the living. -Arthur C. Clarke
+
+The dinosaurs disappeared because they could not adapt to their changing environment. We shall disappear if we cannot adapt to an environment that now contains spaceships, computers ― and thermonuclear weapons. -Arthur C. Clarke
+
+As our own species is in the process of proving, one cannot have superior science and inferior morals. The combination is unstable and self-destroying. -Arthur C. Clarke
+
+My favorite definition of 'Intellectual' is: 'A person whose education surpasses their intelligence.' -Arthur C. Clarke
+
+It is not easy to see how the more extreme forms of nationalism can long survive when men have seen the Earth in its true perspective as a single small globe against the stars. -Arthur C. Clarke
+
+If there are any gods whose chief concern is man, they can't be very important gods. -Arthur C. Clarke
+
+There is hopeful symbolism in the fact that flags do not wave in a vacuum. -Arthur C. Clarke
+
+We seldom stop to think that we are still creatures of the sea, able to leave it only because, from birth to death, we wear the water-filled space suits of our skins. -Arthur C. Clarke
+
+The years are too short, the days are too long. -Joseph Heller
+
+There is no reason why good cannot triumph as often as evil. The triumph of anything is a matter of organization. If there are such things as angels, I hope that they are organized along the lines of the Mafia. -Kurt Vonnegut
+
+The arts put man at the center of the universe, whether he belongs there or not. Military science, on the other hand, treats man as garbage― and his children, and his cities, too. Military science is probably right about the contemptibility of man in the vastness of the universe. Still― I deny that contemptibility, and I beg you to deny it, through the creation of and appreciation of art. -Kurt Vonnegut
+
+Kindness is not without its rocks ahead. People are apt to put it down to an easy temper and seldom recognize it as the secret striving of a generous nature; whilst, on the other hand, the ill-natured get credit for all the evil they refrain from. -Honore De Balzac, novelist (1799-1850)
+
+Be ashamed to die until you have won some victory for humanity. –Horace Mann, educational reformer (1796-1859)
+
+Reading is to the mind what exercise is to the body. -Joseph Addison, essayist and poet (1672-1719)
+
+The most radical revolutionary will become a conservative the day after the revolution. -Hannah Arendt, historian and philosopher (1906-1975)
+
+Were we to choose our leaders on the basis of their reading experience and not their political programs, there would be much less grief on earth. I believe ... that for someone who has read a lot of Dickens to shoot his like in the name of an idea is harder than for someone who has read no Dickens. -Joseph Brodsky, writer (1940-1996)
+
+If my decomposing carcass helps nourish the roots of a juniper tree or the wings of a vulture - that is immortality enough for me. -Edward Abbey, naturalist and author (1927-1989)
+
+Civilizations in decline are consistently characterised by a tendency towards standardization and uniformity. -Arnold Toynbee, historian (1889-1975)
+
+You will find relief from vain fancies if you do every act in life as though it were your last. -Marcus Aurelius, philosopher and writer (121-180)
+
+Think like a wise man but communicate in the language of the people. -William Butler Yeats, poet, dramatist, essayist, Nobel laureate (1865-1939)
+
+One of the most time-consuming things is to have an enemy. -E.B. White, writer (1899-1985)
+
+Not ignorance, but ignorance of ignorance, is the death of knowledge. -Alfred North Whitehead, mathematician and philosopher (1861-1947)
+
+Everyone confesses that exertion which brings out all the powers of body and mind is the best thing for us; but most people do all they can to get rid of it, and as a general rule nobody does much more than circumstances drive them to do. -Harriet Beecher Stowe, abolitionist and novelist (1811-1896)
+
+A man who uses a great many words to express his meaning is like a bad marksman who, instead of aiming a single stone at an object, takes up a handful and throws at it in hopes he may hit. -Samuel Johnson, lexicographer (1709-1784)
+
+If any kid ever realized what was involved in factory farming they would never touch meat again. I was so moved by the intelligence, sense of fun and personalities of the animals I worked with on 'Babe' that by the end of the film I was a vegetarian. -James Cromwell, actor (1940- )
+
+A myth is a fixed way of looking at the world which cannot be destroyed because, looked at through the myth, all evidence supports the myth. -Edward De Bono, consultant, writer, and speaker (1933- )
+
+Religion--freedom--vengeance--what you will, / A word's enough to raise mankind to kill. -Lord Byron, poet (1788-1824)
+
+In the course of many centuries a few laborsaving devices have been introduced into the mental kitchen – alcohol, coffee, tobacco, Benzedrine, etc – but these are very crude, constantly breaking down, and liable to injure the cook. Literary composition in the twentieth century A.D. is pretty much what it was in the twentieth century B.C.: nearly everything has still to be done by hand. –W.H. Auden
+
+The poet who writes "free" verse is like Robinson Crusoe on his desert island: he must do all his cooking, laundry and darning for himself. In a few exceptional cases, this manly independence produces something original and impressive, but more often the result is squalor – dirty sheets on the unmade bed and empty bottles on the unswept floor. –W.H. Auden
+
+What the mass media offers is not popular art, but entertainment which is intended to be consumed like food, forgotten, and replaced by a new dish. This is bad for everyone; the majority lose all genuine taste of their own, and the minority become cultural snobs. –W.H. Auden
+
+All poets adore explosions, thunderstorms, tornadoes, conflagrations, ruins, scenes of spectacular carnage. The poetic imagination is not at all a desirable quality in a statesman. –W.H. Auden
+
+The image of myself which I try to create in my own mind in order that I may love myself is very different from the image which I try to create in the minds of others in order that they may love me. –W.H. Auden
+
+To have a sense of sin means to feel guilty at there being an ethical choice to make, a guilt which, however "good" I may become, remains unchanged. –W.H. Auden
+
+When one looks into the window of a store which sells devotional art objects, one can't help wishing the iconoclasts had won. –W.H. Auden
+
+No opera plot can be sensible, for people do not sing when they are feeling sensible. –W.H. Auden
+
+The basic stimulus to the intelligence is doubt, a feeling that the meaning of an experience is not self-evident. –W.H. Auden
+
+He [Kierkegaard] suffers from one great literary defect, which is often found in lonely geniuses: he never knows when to stop. Lonely people are apt to fall in love with the sound of their own voice, as Narcissus fell in love with his reflection, not out of conceit but out of despair of finding another who will listen and respond. –W.H. Auden
+
+All any drug amounts to is tweaking the incoming data. You have to be incredibly self-centered or pathetic to be satisfied with simply tweaking the incoming data. -William Gibson, author (1948-)
+
+One of my greatest pleasures in writing has come from the thought that perhaps my work might annoy someone of comfortably pretentious position.  Then comes the saddening realization that such people rarely read. –John Kenneth Galbraith, economist (1908-2006)
+
+It takes a certain maturity of mind to accept that nature works as steadily in rust as in rose petals. -Esther Warner Dendel, writer and artist (1910-2002)
+
+A word is not a crystal, transparent and unchanged, it is the skin of a living thought and may vary greatly in color and content according to the circumstances and the time in which it is used. -Oliver Wendell Holmes, Jr., jurist (1841-1935)
+
+We are for the most part more lonely when we go abroad among men than when we stay in our chambers. A man thinking or working is always alone, let him be where he will. -Henry David Thoreau, naturalist and author (1817-1862)
+
+What progress we are making. In the Middle Ages they would have burned me. Now they are content with burning my books. -Sigmund Freud, neurologist, founder of psychoanalysis (1856-1939)
+
+I became a vegetarian after realizing that animals feel afraid, cold, hungry and unhappy like we do. -Cesar Chavez, farm worker and activist (1927-1993)
+
+How dreadful knowledge of the truth can be when there's no help in the truth. -Sophocles, (495-405 BCE)
+
+If the world were merely seductive, that would be easy. If it were merely challenging, that would be no problem. But I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day. -E.B. White, writer (1899-1985)
+
+News is what people want to keep hidden; everything else is publicity. -Bill Moyers, journalist (1934- )
+
+Uttering a word is like striking a note on the keyboard of the imagination. -Ludwig Wittgenstein, philosopher (1889-1951)
+
+The average pencil is seven inches long, with just a half-inch eraser – in case you thought optimism was dead. -Robert Brault, software developer, writer (1972- )
+
+Whenever morality is based on theology, whenever right is made dependent on divine authority, the most immoral, unjust, infamous things can be justified and established. -Ludwig Feuerbach, philosopher (1804-1872)
+
+To believe in something, and not to live it, is dishonest. -Mohandas K. Gandhi (1869-1948)
+
+Very few established institutions, governments and constitutions ... are ever destroyed by their enemies until they have been corrupted and weakened by their friends. -Walter Lippman, journalist (1889-1974)
+
+The only means of strengthening one's intellect is to make up one's mind about nothing -- to let the mind be a thoroughfare for all thoughts. –John Keats, poet (1795-1821)
+
+The ideal place for me is the one in which it is most natural to live as a foreigner. –Italo Calvino
+
+In love, as in gluttony, pleasure is a matter of the utmost precision. –Italo Calvino
+
+What Romantic terminology called genius or talent or inspiration is nothing other than finding the right road empirically, following one's nose, taking shortcuts. –Italo Calvino
+
+It doesn't seem to me that this fantastically marvelous universe, this tremendous range of time and space and different kinds of animals, and all the different planets, and all these atoms with all their motions, and so on, all this complicated thing can merely be a stage so that God can watch human beings struggle for good and evil - which is the view that religion has. The stage is too big for the drama. –Richard Feynman, physicist (1918-1988)
+
+Poets say science takes away from the beauty of the stars ― mere globs of gas atoms. Nothing is "mere". I too can see the stars on a desert night, and feel them. But do I see less or more? The vastness of the heavens stretches my imagination ― stuck on this carousel my little eye can catch one-million-year-old light. A vast pattern ― of which I am a part... What is the pattern or the meaning or the why? It does not do harm to the mystery to know a little more about it. For far more marvelous is the truth than any artists of the past imagined it. Why do the poets of the present not speak of it? What men are poets who can speak of Jupiter if he were a man, but if he is an immense spinning sphere of methane and ammonia must be silent? –Richard Feynman, physicist (1918-1988)
+
+I have a friend who's an artist, and he sometimes takes a view which I don't agree with. He'll hold up a flower and say, "Look how beautiful it is," and I'll agree. But then he'll say, "I, as an artist, can see how beautiful a flower is. But you, as a scientist, take it all apart and it becomes dull." I think he's kind of nutty. [...] There are all kinds of interesting questions that come from a knowledge of science, which only adds to the excitement and mystery and awe of a flower. It only adds. I don't understand how it subtracts. –Richard Feynman, physicist (1918-1988)
+
+Is no one inspired by our present picture of the universe? This value of science remains unsung by singers, you are reduced to hearing not a song or poem, but an evening lecture about it. This is not yet a scientific age. –Richard Feynman, physicist (1918-1988)
+
+The scientist has a lot of experience with ignorance and doubt and uncertainty, and this experience is of very great importance, I think. When a scientist doesn’t know the answer to a problem, he is ignorant. When he has a hunch as to what the result is, he is uncertain. And when he is pretty damn sure of what the result is going to be, he is still in some doubt. We have found it of paramount importance that in order to progress, we must recognize our ignorance and leave room for doubt. Scientific knowledge is a body of statements of varying degrees of certainty―some most unsure, some nearly sure, but none absolutely certain. Now, we scientists are used to this, and we take it for granted that it is perfectly consistent to be unsure, that it is possible to live and not know. But I don’t know whether everyone realizes this is true. Our freedom to doubt was born out of a struggle against authority in the early days of science. It was a very deep and strong struggle: permit us to question―to doubt―to not be sure. I think that it is important that we do not forget this struggle and thus perhaps lose what we have gained. –Richard Feynman, physicist (1918-1988)
+
+Immature poets imitate; mature poets steal. -T.S. Eliot, poet (1888-1965)
+
+The bad poet is usually unconscious where he ought to be conscious, and conscious where he ought to be unconscious. Both errors tend to make him "personal." Poetry is not a turning loose of emotion, but an escape from emotion; it is not the expression of personality, but an escape from personality. But, of course, only those who have personality and emotions know what it means to want to escape from these things. -T.S. Eliot, poet (1888-1965)
+
+I sometimes wondered what the use of any of the arts was. The best thing I could come up with was what I call the canary in the coal mine theory of the arts. This theory says that artists are useful to society because they are so sensitive. They are super-sensitive. They keel over like canaries in poison coal mines long before more robust types realize that there is any danger whatsoever. -Kurt Vonnegut
+
+I do feel that evolution is being controlled by some sort of divine engineer. I can't help thinking that. And this engineer knows exactly what he or she is doing and why, and where evolution is headed. That’s why we’ve got giraffes and hippopotami and the clap. -Kurt Vonnegut
+
+Where is home? I've wondered where home is, and I realized, it's not Mars or someplace like that, it's Indianapolis when I was nine years old. I had a brother and a sister, a cat and a dog, and a mother and a father and uncles and aunts. And there's no way I can get there again. -Kurt Vonnegut
+
+We are healthy only to the extent that our ideas are humane. -Kurt Vonnegut
+
+There is no order in the world around us, we must adapt ourselves to the requirements of chaos instead. It is hard to adapt to chaos, but it can be done. I am living proof of that: It can be done. -Kurt Vonnegut
+
+I have been a soreheaded occupant of a file drawer labeled “Science Fiction” ... and I would like out, particularly since so many serious critics regularly mistake the drawer for a urinal. -Kurt Vonnegut
+
+Which brings us to the arts, whose purpose, in common with astrology, is to use frauds in order to make human beings seem more wonderful than they really are. Dancers show us human beings who move much more gracefully than human beings really move. Films and books and plays show us people talking much more entertainingly than people really talk, make paltry human enterprises seem important. Singers and musicians show us human beings making sounds far more lovely than human beings really make. Architects give us temples in which something marvelous is obviously going on. Actually, practically nothing is going on inside. And on and on. -Kurt Vonnegut
+
+History is merely a list of surprises. ... It can only prepare us to be surprised yet again. -Kurt Vonnegut
+
+The most important message of a crucifix, to me anyway, was how unspeakably cruel supposedly sane human beings can be when under orders from a superior authority. -Kurt Vonnegut
+
+Just because some of us can read and write and do a little math, that doesn't mean we deserve to conquer the Universe. -Kurt Vonnegut
+
+The main thing that I learned about conspiracy theory is that conspiracy theorists actually believe in a conspiracy because that is more comforting. The truth of the world is that it is chaotic. The truth is, that it is not the Jewish banking conspiracy or the gray aliens or the 12-foot reptiloids from another dimension that are in control. The truth is more frightening, nobody is in control. The world is rudderless. -Alan Moore
+
+There is an inverse relationship between imagination and money. -Alan Moore
+
+When smashing monuments, save the pedestals - they always come in handy. -Stanislaw Jerzy Lec
+
+You can close your eyes to reality but not to memories. -Stanislaw Jerzy Lec
+
+No snowflake in an avalanche ever feels responsible. -Stanislaw Jerzy Lec
+
+Thoughts, like fleas, jump from man to man, but they don't bite everybody. -Stanislaw Jerzy Lec
+
+The first condition of immortality is death. -Stanislaw Jerzy Lec
+
+Restrictions are great, because they make you more imaginative, they make you rethink things, they make you not do the obvious. -Joss Whedon (from “What's in a Firefly” documentary, on the Serenity DVD)
+
+Again, my favorite thing is always gonna be taking a moment of comedy and throwing something horrible in the middle of it, or vice versa... -Joss Whedon (from Serenity commentary)
+
+I am a part of all that I have met. -Alfred, Lord Tennyson, poet (1809-1892)
+
+Language is an anonymous, collective and unconscious art; the result of the creativity of thousands of generations. -Edward Sapir, anthropologist and linguist (1884-1939)
+
+Here lives a free man. Nobody serves him. -Albert Camus, writer, philosopher, Nobel laureate (1913-1960)
+
+There are 10^11 stars in the galaxy. That used to be a huge number. But it's only a hundred billion. It's less than the national deficit! We used to call them astronomical numbers. Now we should call them economical numbers. -Richard Feynman, physicist, Nobel laureate (1918-1988)
+
+Almost all our faults are more pardonable than the methods we resort to to hide them. -Francois de La Rochefoucauld, writer (1613-1680)
+
+Wealth has never yet sacrificed itself on the altar of patriotism. -Bob LaFollette, congressman, senator, governor (1855-1925)
+
+Perhaps the most overrated virtue in our list of shoddy virtues is that of giving. Giving builds up the ego of the giver, makes him superior and higher and larger than the receiver... Receiving, on the other hand, if it is well-done, requires a fine balance of self-knowledge and kindness. It requires humility and tact and great understanding of relationships. In receiving, you cannot appear, even to yourself, better or stronger or wiser than the giver, although you must be wiser to do it well... It requires self-esteem to receive - not self-love but just a pleasant acquaintance and liking for oneself. -John Steinbeck (from The Log from the Sea of Cortez)
+
+If you know only one language, you're a prisoner, stuck in the tyranny of that one language. -Andrew Cohen, professor of linguistics (b. 1944)
+
+If a problem cannot be solved, enlarge it. -Dwight D. Eisenhower, U.S. general and 34th president (1890-1969)
+
+I protect my right to be a Catholic by preserving your right to believe as a Jew, a Protestant, or non-believer, or as anything else you choose. We know that the price of seeking to force our beliefs on others is that they might someday force theirs on us. -Mario Cuomo, 52nd Governor of New York (b. 1932)
+
+I don't know if God exists, but it would be better for His reputation if he didn't. -Jules Renard, writer (1864-1910)
+
+The English language is rather like a monster accordion, stretchable at the whim of the editor, compressible ad lib. -Robert Burchfield, lexicographer (1923-2004)
+
+The doctrine of the material efficacy of prayer reduces the Creator to a cosmic bellhop of a not very bright or reliable kind. -Herbert J. Muller, historian and author (1905-1980)
+
+The peculiar evil of silencing the expression of an opinion is, that it is robbing the human race; posterity as well as the existing generation; those who dissent from the opinion, still more than those who hold it. If the opinion is right, they are deprived of the opportunity of exchanging error for truth: if wrong, they lose, what is almost as great a benefit, the clearer perception and livelier impression of truth, produced by its collision with error. -John Stuart Mill, philosopher and economist (1806-1873)
+
+The mark of the immature man is that he wants to die nobly for a cause, while the mark of a mature man is that he wants to live humbly for one. -Wilhelm Stekel, physician and psychologist (1868-1940)
+
+Civilization is the encouragement of differences. -Mohandas Karamchand Gandhi (1869-1948)
+
+The race of men, while sheep in credulity, are wolves in conformity. -Carl Van Doren, professor, writer, and critic (1885-1950)
+
+Being rich is having money; being wealthy is having time. -Stephen Swid, executive (b. 1941)
+
+...the unravelling of a riddle is the purest and most basic act of the human mind. -Vladimir Nabokov, novelist (1899-1977)
+
+The sum of human wisdom is not contained in any one language, and no single language is capable of expressing all forms and degrees of human comprehension. -Ezra Pound, poet (1885-1972)
+
+Death tugs at my ear and says, "Live, I am coming." -Oliver Wendell Holmes, Sr., poet, novelist, essayist, and physician (1809-1894)
+
+A poem begins in delight and ends in wisdom. -Robert Frost, poet (1874-1963)
+
+What is philosophy but a continual battle against custom? -Thomas Carlyle, historian and essayist (1795-1881)
+
+A coward is a hero with a wife, kids, and a mortgage. -Marvin Kitman, author and media critic (b. 1929)
+
+The great men in literature have usually tried to bring the written word into harmony with the spoken, instead of encouraging an exclusive language to write in. -John Erskine, novelist, poet, and essayist (1879-1951) 
+
+What can be added to the happiness of a man who is in health, out of debt, and has a clear conscience? -Adam Smith, economist (1723-1790) 
+
+Religions are not revealed: they are evolved. If a religion were revealed by God, that religion would be perfect in whole and in part, and would be as perfect at the first moment of its revelation as after ten thousand years of practice. There has never been a religion that which fulfills those conditions. -Robert Blatchford, author (1851-1943) 
+
+Who overcomes by force hath overcome but half his foe. -John Milton, poet (1608-1674) 
+
+The speaking in a perpetual hyperbole is comely in nothing but in love. -Francis Bacon, essayist, philosopher, and statesman (1561-1626) 
+
+In politics, absurdity is not a handicap. -Napoleon Bonaparte, general and politician (1769-1821)
+
+Eyes are vocal, tears have tongues, And there are words not made with lungs. -Richard Crashaw, poet (1613-1649)
+
+Neither genius, fame, nor love show the greatness of the soul. Only kindness can do that. -Jean Baptiste Henri Lacordaire, preacher, journalist and activist (1802-1861)
+
+Trust is the first step to love. -Munshi Premchand, novelist and poet (1880-1936)
+
+I (mention) Arthur Schopenhauer's well known fable, a story Freud liked enough to cite in his book on group psychology (and) I paraphrase the fable as follows: 'A troop of porcupines is milling about on a cold winter's day. In order to keep from freezing, the animals move closer together. Just as they are close enough to huddle, however, they start to poke each other with their quills. In order to stop the pain, they spread out, lose the advantage of commingling, and begin to shiver. This sends them back in search of each other, and the cycle repeats as they struggle to find a comfortable distance between entanglement and freezing.' The story spoke to Freud as a lesson about boundaries. ("No one can tolerate a too intimate approach to his neighbor.") It also spoke to his belief that love is everywhere a thorny affair. Freud wrote: 'The evidence ... shows that almost every intimate emotional relation between two people which lasts for some time--marriage, friendship, the relations between parents and children -contains a sediment of feelings of aversion and hostility, which only escapes perception as a result of repression'... All relationships ... require us to contain contradictory feelings for the same person. As the poet Molly Peacock observed: 'There must be room in love for hate.' -Deborah Anna Luepnitz
+
+What difference does it make to the dead, the orphans, and the homeless, whether the mad destruction is wrought under the name of totalitarianism or the holy name of liberty or democracy? -Mohandas K. Gandhi (1869-1948) 
+
+The only real voyage of discovery consists not in seeking new landscapes but in having new eyes. -Marcel Proust, novelist (1871-1922) 
+
+Language is the only homeland. -Czeslaw Milosz, writer, Nobel laureate (b. 1911)
+
+Here, I differ with Treadwell. He seemed to ignore the fact that in nature there are predators. I believe the common denominator of the universe is not harmony, but chaos, hostility, and murder. -Werner Herzog, Grizzly Man
+
+The modern conservative is engaged in one of man's oldest exercises in moral philosophy; that is, the search for a superior moral justification for selfishness. -John Kenneth Galbraith, economist (1908-2006)
+
+A time will come when a politician who has wilfully made war and promoted international dissension will be as sure of the dock and much surer of the noose than a private homicide. It is not reasonable that those who gamble with men's lives should not stake their own. -H.G. Wells, writer (1866-1946)
+
+Patriotism is proud of a country's virtues and eager to correct its deficiencies; it also acknowledges the legitimate patriotism of other countries, with their own specific virtues. The pride of nationalism, however, trumpets its country's virtues and denies its deficiencies, while it is contemptuous toward the virtues of other countries. It wants to be, and proclaims itself to be, "the greatest", but greatness is not required of a country; only goodness is. -Sydney J. Harris, journalist and author (1917-1986)
+
+The artist brings something into the world that didn't exist before, and he does it without destroying something else. -John Updike, writer (1932-2009)
+
+Eight rules for writing fiction: 1. Use the time of a total stranger in such a way that he or she will not feel the time was wasted.  2. Give the reader at least one character he or she can root for.  3. Every character should want something, even if it is only a glass of water.  4. Every sentence must do one of two things -- reveal character or advance the action.  5. Start as close to the end as possible.  6. Be a sadist. Now matter how sweet and innocent your leading characters, make awful things happen to them -- in order that the reader may see what they are made of.  7. Write to please just one person. If you open a window and make love to the world, so to speak, your story will get pneumonia.  8. Give your readers as much information as possible as soon as possible. To heck with suspense. Readers should have such complete understanding of what is going on, where and why, that they could finish the story themselves, should cockroaches eat the last few pages. -Kurt Vonnegut, Bagombo Snuff Box
+
+Even funnier than the man who has been made ridiculous, however, is the man who, having had something funny happens to him, refuses to admit that anything out of the way has happened, and attempts to maintain his dignity. -Charlie Chaplin, “What People Laugh At”
+
+Each morning puts a man on trial and each evening passes judgment. -Roy L. Smith 
+
+Myth: we have to save the earth... The planet has survived cataclysmic and catastrophic changes for millions upon millions of years. Over that time, it is widely believed, 99 percent of all species have come and gone while the planet has remained. Saving the environment is really about saving our environment - making it safe for ourselves, our children, and the world as we know it. If more people saw the issue as one of saving themselves, we would probably see increased motivation and commitment to actually do so. -Robert M. Lilienfeld, management consultant and author (b. 1953) and William L. Rathje, archaeologist and author (b. 1945)
+
+Whatever a man prays for, he prays for a miracle. Every prayer reduces itself to this: Great God, grant that twice two be not four. -Ivan Turgenev, novelist and playwright (1818-1883)
+
+I believe I have no prejudices whatsoever. All I need to know is that a man is a member of the human race. That's bad enough for me. -Mark Twain, author and humorist (1835-1910) 
+
+The difference in mind between man and the higher animals, great as it is, certainly is one of degree and not of kind. -Charles Darwin, naturalist and author (1809-1882)
+
+A crisis is a terrible thing to waste. -Paul Romer, economist
+
+Happiness is not a goal; it is a by-product. -Eleanor Roosevelt, diplomat and author (1884-1962)
+
+Language is the amber in which a thousand precious and subtle thoughts have been safely embedded and preserved. -Richard C. Trench, poet (1807-1886)
+
+Only the madman is absolutely sure. -Robert Anton Wilson, novelist (1932-2007)
+
+Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth. -Oscar Wilde, writer (1854-1900) 
+
+Conscience is a man's compass, and though the needle sometimes deviates, though one often perceives irregularities when directing one's course by it, one must still try to follow its direction. -Vincent van Gogh, painter (1853-1890)
+
+Men have slow reflexes. In general it takes several generations later for them to understand. -Stanislaw J. Lec, poet and aphorist (1909-1966) 
+
+
+What monstrosities would walk the streets were some people's faces as unfinished as their minds. -Eric Hoffer, philosopher and author (1902-1983) 
+
+The propagandist's purpose is to make one set of people forget that certain other sets of people are human. -Aldous Huxley, novelist (1894-1963) 
+
+Action is consolatory. -Joseph Conrad
+
+All animals, except man, know that the principal business of life is to enjoy it. –Samuel Butler, poet (1612-1680)
+
+Artists are the antennae of the race. -Ezra Pound, poet (1885-1972)
+
+The art of leadership is saying no, not yes. It is very easy to say yes. -Tony Blair
+
+Chastity―the most unnatural of all the sexual perversions. -Aldous Huxley, novelist (1894-1963) 
+
+Ask yourself whether you are happy, and you cease to be so. -John Stuart Mill, philosopher and economist (1806-1873)
+
+Show me a hero and I will write you a tragedy. -F. Scott Fitzgerald
+
+It is no measure of health to be well adjusted to a profoundly sick society. -J. Krishnamurti, author, speaker, and philosopher (1895-1986) 
+
+Death must be distinguished from dying, with which it is often confused. -Sydney Smith
+
+If God made us in His image, we have certainly returned the compliment. -Voltaire, philosopher (1694-1778)
+
+Parodies and caricatures are the most penetrating of criticisms. -Aldous Huxley, novelist (1894-1963) 
+
+A critic is a man who knows the way but can’t drive the car. -Kenneth Tynan
+
+An injury is much sooner forgotten than an insult. -Lord Chesterfield
+
+Violent antipathies are always suspicious, and betray a secret affinity. -William Hazlitt
+
+We must not confuse dissent with disloyalty. -Edward R. Murrow
+
+The trouble with the world is that the stupid are cocksure and the intelligent are full of doubt. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
+
+Do your duty, and leave the outcome to the gods. -Corneille
+
+One who has a reputation for rising early can sleep until noon. -Alphonse Daudet
+
+Few men are so disinterested as to prefer to live in discomfort under a government which they hold to be right, rather than in comfort under one which they hold to be wrong. -C. V. Wedgwood
+
+I hate war as only a soldier who has lived it can, only as one who has seen its brutality, its futility, its stupidity. -Dwight D. Eisenhower, U.S. general and 34th president (1890-1969) 
+
+Those only are happy... who have their minds fixed on some object other than their own happiness. Aiming thus at something else, they find happiness along the way. -John Stuart Mill, philosopher and economist (1806-1873)
+
+A common man marvels at uncommon things; a wise man marvels at the commonplace. -Confucius (c. 551-479? BCE)
+
+The supreme reality of our time is... the vulnerability of our planet. -John F. Kennedy, 35th US president (1917-1963)
+
+The weak have one weapon: the errors of those who think they are strong. -Georges Bidault
+
+All human evil comes from this: a man’s being unable to sit still in a room. -Blaise Pascal, philosopher and mathematician (1623-1662)
+
+What is hope? Nothing but the paint on the face of Existence. -Lord Byron, poet (1788-1824)
+
+There is no loneliness greater than the loneliness of failure. -Eric Hoffer, philosopher and author (1902-1983)
+
+Only the hypocrite is really rotten to the core. -Hannah Arendt, historian and philosopher (1906-1975)
+
+If we let things terrify us, life will not be worth living. –Lucius Annaeus Seneca, philosopher and writer (c. 3 BCE - AD 65)
+
+If you want me to weep, you must first feel grief yourself. -Horace, poet (65-8 B.C.)
+
+Liberty is, to the lowest rank of every nation, little more than the choice of working or starving. -Samuel Johnson, lexicographer (1709-1784)
+
+We can scarcely hate any one that we know. -William Hazlitt 
+
+I never think of the future. It comes soon enough. -Albert Einstein, physicist, Nobel laureate (1879-1955)
+
+We are all of us more or less echoes, repeating involuntarily the virtues, the defects, the movements, and the characters of those among whom we live. -Joseph Joubert, essayist (1754-1824) 
+
+Custom reconciles us to everything. -Edmund Burke
+
+People must learn to hate. -Nelson Mandela
+
+Hell is other people. -Jean-Paul Sartre
+
+Hell is oneself. -T.S. Eliot, poet (1888-1965)
+
+A man should live with his superiors as he does with his fire: not too near, lest he burn; nor too far off, lest he freeze. -Diogenes, philosopher (412?-323 BCE)
+
+You can approach the act of writing with nervousness, excitement, hopefulness, or even despair--the sense that you can never completely put on the page what's in your mind and heart. You can come to the act with your fists clenched and your eyes narrowed, ready to kick ass and take down names. You can come to it because you want a girl to marry you or because you want to change the world. Come to it any way but lightly. Let me say it again: you must not come lightly to the blank page. –Stephen King, novelist (1947- )
+
+Any writer, I suppose, feels that the world into which he was born is nothing less than a conspiracy against the cultivation of his talent. –James Baldwin, writer (1924-1987)
+
+Inspiration is wonderful when it happens, but the writer must develop an approach for the rest of the time... The wait is simply too long. -Leonard Bernstein
+
+The important thing is that there should be a space of time, say four hours a day at least, when a professional writer doesn't do anything else but write. He doesn't have to write, and if he doesn't feel like it he shouldn't try. He can look out of the window or stand on his head or writhe on the floor, but he is not to do any other positive thing, not read, not write letters, glance at magazines, or write checks. Either write or nothing. -Raymond Chandler, writer (1888-1959)
+
+Poetry, indeed, cannot be translated; and, therefore, it is the poets that preserve the languages; for we would not be at the trouble to learn a language if we could have all that is written in it just as well in a translation. But as the beauties of poetry cannot be preserved in any language except that in which it was originally written, we learn the language. -Samuel Johnson, lexicographer (1709-1784)
+
+He who knows only his own side of the case knows little of that. -John Stuart Mill, philosopher and economist (1806-1873)
+
+Hope is a good breakfast, but it is a bad supper. -Francis Bacon, essayist, philosopher, and statesman (1561-1626) 
+
+The optimist proclaims that we live in the best of all possible worlds; the pessimist fears this is true. -James Branch Cabell
+
+Where there is no imagination, there is no horror. -Sir Arthur Conan Doyle
+
+Half of the harm that is done in this world is due to people who want to feel important. -T.S. Eliot, poet (1888-1965)
+
+Life being all inclusion and confusion, and art being all discrimination and selection. -Henry James
+
+Take sides. Neutrality helps the oppressor, never the victim. Silence encourages the tormentor, never the tormented. -Elie Wiesel
+
+Beware the fury of a patient man. -John Dryden
+
+Rudeness is better than any argument; it totally eclipses intellect. -Arthur Schopenhauer, philosopher (1788-1860)
+
+As a human being, one has been endowed with just enough intelligence to be able to see clearly how utterly inadequate that intelligence is when confronted with what exists. -Albert Einstein, physicist, Nobel laureate (1879-1955)
+
+Never...murder a man who is committing suicide. -Woodrow Wilson
+
+An intellectual is someone whose mind watches itself. -Albert Camus, writer, philosopher, Nobel laureate (1913-1960)
+
+If all else fails, immortality can always be assured by a spectacular error. –John Kenneth Galbraith, economist (1908-2006)
+
+To be clever enough to get all the money, one must be stupid enough to want it. -G.K. Chesterton, essayist and novelist (1874-1936)
+
+Human life is but a series of footnotes to a vast obscure unfinished masterpiece. -Vladimir Nabokov, novelist (1899-1977)
+
+Fear of death and fear of life both become piety. -H.L. Mencken, writer, editor, and critic (1880-1956)
+
+My atheism...is true piety towards the universe and denies only gods fashioned by men in their own image, to be servants of their human interests. –George Santayana, philosopher (1863-1952)
+
+There is not a more mean, stupid, dastardly, pitiful, selfish, spiteful, envious, ungrateful animal than the public. It is the greatest of cowards, for it is afraid of itself. -William Hazlitt
+
+What has posterity ever done for me? -Groucho Marx, comedian and actor (1890–1977)
+
+For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled. –Richard Feynman, physicist (1918-1988)
+
+The secret of happiness is to face the fact that the world is horrible, horrible, horrible. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
+
+Art is a lie that makes us realize truth. -Pablo Picasso
+
+An apology for the Devil: It must be remembered that we have only heard one side of the case. God has written all the books. -Samuel Butler, writer (1835-1902)
+
+Sanity is madness put to good uses. –George Santayana, philosopher (1863-1952)
+
+The true University of these days is a collection of books. -Thomas Carlyle, historian and essayist (1795-1881)
+
+God created man and, finding him not sufficiently alone, gave him a companion to make him feel his solitude more keenly. -Paul Valery
+
+A mind all logic is like a knife all blade. It makes the hand bleed that uses it. -Rabindranath Tagore, poet, philosopher, author, songwriter, painter, educator, composer, Nobel laureate (1861-1941)
+
+Silence is the virtue of fools. -Francis Bacon, essayist, philosopher, and statesman (1561-1626) 
+
+Do you wish people to believe good of you? Don’t speak. -Blaise Pascal, philosopher and mathematician (1623-1662)
+
+Nothing exists except atoms and empty space; everything else is opinion. -Democritus
+
+Faith in a holy cause is to a considerable extent a substitute for the lost faith in ourselves. -Eric Hoffer, philosopher and author (1902-1983)
+
+The work of science is to substitute facts for appearances, and demonstration for impressions. -John Ruskin
+
+Even while they teach, men learn. –Lucius Annaeus Seneca, philosopher and writer (c. 3 BCE - AD 65)
+
+To persevere, trusting in what hopes he has, is courage in a man. -Euripides
+
+Great works are performed not by strength, but by perseverance. -Samuel Johnson, lexicographer (1709-1784)
+
+Constant labor of one uniform kind destroys the intensity and flow of a man’s animal spirits, which find recreation and delight in mere change of activity. -Karl Marx
+
+Even if the open windows of science at first make us shiver... in the end, the fresh air brings vigor, and the great spaces have a splendor of their own. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
+
+The secret of being a bore... is to tell everything. -Voltaire, philosopher (1694-1778)
+
+Nothing is so impenetrable as laughter in a language you don’t understand. -William Golding
+
+Wit is the epitaph of an emotion. -Friedrich Nietzsche, philosopher (1844-1900)
+
+A man is a small thing, and the night is very large and full of wonders. -Lord Dunsany
+
+A good novel tells us the truth about its hero; but a bad novel tells us the truth about its author. -G.K. Chesterton, essayist and novelist (1874-1936)
+
+It is only an illusion that youth is happy, an illusion of those who have lost it. –William Somerset Maugham, writer (1874-1965)
+
+The trouble with words is that you never know whose mouths they've been in. -Dennis Potter, dramatist (1935-1994)
+
+The soundest argument will produce no more conviction in an empty head than the most superficial declamation; as a feather and a guinea fall with equal velocity in a vacuum. -Charles Caleb Colton, author and clergyman (1780-1832)
+
+Is God willing to prevent evil, but not able? Then he is not omnipotent. Is he able, but not willing? Then he is malevolent. Is he both able and willing? Then whence cometh evil? Is he neither able nor willing? Then why call him God? -Epicurus, philosopher (c. 341-270 BCE)
+
+Language is the apparel in which your thoughts parade in public. Never clothe them in vulgar and shoddy attire. -George W. Crane
+
+A man's name is not like a mantle which merely hangs about him, and which one perchance may safely twitch and pull, but a perfectly fitting garment, which, like the skin, has grown over and over him, at which one cannot rake and scrape without injuring the man himself. -Johann Wolfgang von Goethe, poet, dramatist, novelist, and philosopher (1749-1832)
+
+The difference between fiction and reality is that fiction has to make sense. -Tom Clancy (of all people)
+
+[If I had stayed in my birthplace town] I would not perhaps be the same person I am now but maybe I would have been something better: just a character in one of the novels I would never have written. -Gabriel Garcia Marqez
+
+Whoe'er excels in what we prize / Appears a hero in our eyes. -Jonathan Swift, satirist (1667-1745)
+
+Perfect valor is to behave, without witnesses, as one would act were all the world watching. -Francois, duc de La Rochefoucauld, moralist (1613-1680)
+
+If your morals make you dreary, depend on it they are wrong. -Robert Louis Stevenson, novelist, essayist, and poet (1850-1894)
+
+It is not life and wealth and power that enslave men, but the cleaving to life and wealth and power. -Buddha (c. 563-483 BCE)
+
+For a desert island, one would choose a good dictionary rather than the greatest literary masterpiece imaginable, for, in relation to its readers, a dictionary is absolutely passive and may legitimately be read in an infinite number of ways. -W.H. Auden, poet (1907-1973)
+
+Society is composed of two great classes: those who have more dinners than appetite, and those who have more appetite than dinners. -Sebastien-Roch-Nicolas de Chamfort, writer (1741-1794)
+
+We all have handicaps. The difference is that some of us must reveal ours, while others must conceal theirs, to be treated with mercy. -Yahia Lababidi, author (b. 1973)
+
+Home is the place where, when you have to go there, they have to take you in. -Robert Frost, poet (1874-1963) 
+
+The future is already here, it’s just unevenly distributed. -William Gibson, author (1948-)
+
+If you wish to be loved, show more of your faults than your virtues. -Edward Bulwer-Lytton, author (1803-1873)
+
+No protracted war can fail to endanger the freedom of a democratic country. -Alexis de Tocqueville, statesman and historian (1805-1859)
+
+Man's capacity for justice makes democracy possible, but man's inclination to injustice makes democracy necessary. -Reinhold Niebuhr, theologian (1892-1971)
+
+The novel is... the greatest enemy of truth and honesty that was ever invented. It’s a vast, sentimentalizing structure that reassures the reader and at every point offers the comfort of secure moral frameworks and recognizable characters. ...the main function of the novel was to carry out a kind of moral criticism of life. But the writer has no business making moral judgments or trying to set himself up as a one-man or one-woman magistrate’s court. I think it’s far better, as Burroughs did and I’ve tried to do in my small way, to tell the truth. -JG Ballard
+
+Our lives today are not conducted in linear terms. They are much more quantified; a stream of random events is taking place. -JG Ballard
+
+All over the world major museums have bowed to the influence of Disney and become theme parks in their own right. The past, whether Renaissance Italy or ancient Egypt, is reassimilated and homogenized into its most digestible form. Desperate for the new, but disappointed with anything but the familiar, we recolonise past and future. The same trend can be seen in personal relationships, in the way people are expected to package themselves, their emotions and sexuality in attractive and instantly appealing forms. -JG Ballard
+
+Everything is becoming science fiction. From the margins of an almost invisible literature has sprung the intact reality of the 20th century. -JG Ballard
+
+The cine-camera and television set allow us to perceive slow motion. The concept of anything other than real time had never occurred to anybody until the first slow-motion movies were shown, and this radically altered people's perceptions of nature. -JG Ballard
+
+In wartime Shanghai I saw so many horrors... Civilised life is based on a huge number of illusions in which we all collaborate willingly. The trouble is, we forget after a while that they are illusions and we are deeply shocked when reality is torn down around us. -JG Ballard
+
+We live in a world ruled by fictions of every kind ― mass merchandising, advertising, politics conducted as a branch of advertising, the instant translation of science and technology into popular imagery, the increasing blurring and intermingling of identities within the realm of consumer goods, the preempting of any free or original imaginative response to experience by the television screen. We live inside an enormous novel. For the writer in particular it is less and less necessary for him to invent the fictional content of his novel. The fiction is already there. The writer's task is to invent the reality. -JG Ballard
+
+Human beings today ... are surrounded by huge institutions we can never penetrate: the City [London's Wall Street], the banking system, political and advertising conglomerates, vast entertainment enterprises. They've made themselves user friendly, but they define the tastes to which we conform. They're rather subtle, subservient tyrants, but no less sinister for that. -JG Ballard
+
+No sensible decision can be made any longer without taking into account not only the world as it is, but the world as it will be. -Isaac Asimov, scientist and writer (1920-1992)
+
+Words are like money ... it is the stamp of custom alone that gives them circulation or value. -William Hazlitt, essayist (1778-1830)
+
+The more the universe seems comprehensible, the more it also seems pointless. -Steven Weinberg, physicist and Nobel laureate
+
+Solitude has but one disadvantage; it is apt to give one too high an opinion of one's self. In the world we are sure to be often reminded of every known or supposed defect we may have. -Lord Byron, poet (1788-1824)
+
+In my youth I thought of writing a satire on mankind; but now in my age I think I should write an apology for them. -Horace Walpole, novelist and essayist (1717-1797)
+
+Keeping a journal is a lonely man's habit, it betrays the vices of introspection and social withdrawal, even a kind of Narcissism... It has certain things to recommend it, it keeps a recorded continuity between his past and present selves, it gives him the comforting reassurance that shocks, defeats, disappointments are all snowed under by the pages and pages of new experience that still keep flaking down over him as be continues through time, and promises that this comforting snowfall of obliteration will go right on as long as be himself keeps going. -Tennessee Williams
+
+Perhaps I was never meant to exist at all, but if I hadn't, a number of my created beings would have been denied their passionate existence. ...I am observing my life and the approaching conclusion of my life and I see a long, long stretch of desolation about me, now at the end. Or will I yet survive? In what condition, under what circumstance? ... The best I can say for myself is that I worked like hell. -Tennessee Williams
+
+The best armor is to keep out of gunshot. -Francis Bacon, essayist, philosopher, and statesman (1561-1626)
+
+The causes of events are ever more interesting than the events themselves. -Marcus Tullius Cicero, statesman, orator and writer (106-43 BCE)
+
+Truth shines the brighter clad in verse. -Jonathan Swift, satirist (1667-1745)
+
+Isn't it enough to see that a garden is beautiful without having to believe that there are fairies at the bottom of it too? -Douglas Adams, writer, dramatist, and musician (1952-2001)
+
+Just think of the tragedy of teaching children not to doubt. -Clarence Darrow, lawyer and author (1857-1938)
+
+Think about this; think about how stupid the average person is, and then realize that half of 'em are stupider than that. -George Carlin
+
+"One thing leads to another"? Not always. Sometimes one thing leads to the same thing. Ask an addict. -George Carlin
+
+People who see life as anything more than pure entertainment are missing the point. -George Carlin
+
+For a while, I thought of myself as an atheist until I realized it was a belief, too. It's a shame everything has to have a label. -George Carlin
+
+You know, if you're an American and you're born at this time in history especially, you're lucky. We all are. We won the world history Powerball lottery, but a little modesty about it might keep the heat off of us. I can't stand the people who say things like, "We built this country!" You built nothing. I think the railroads were pretty much up by 1980. -Bill Maher
+
+What is character but the determination of incident? / What is incident but the illustration of character? -Henry James
+
+When you write a story, you're telling yourself the story... When you rewrite, your main job is taking out all the things that are not the story. –Stephen King, novelist (1947- )
+
+I'm convinced that fear is at the root of most bad writing. –Stephen King, novelist (1947- )
+
+If you want to be a writer, you must do two things above all others: read a lot and write a lot. –Stephen King, novelist (1947- )
+
+Life isn't about finding yourself. Life is about creating yourself. -George Bernard Shaw, writer, Nobel laureate (1856-1950)
+
+Death must be so beautiful. To lie in the soft brown earth, with the grasses waving above one's head, and listen to silence. To have no yesterday, and no tomorrow. To forget time, to forgive life, to be at peace. -Oscar Wilde, writer (1854-1900)
+
+The truth comes as conqueror only because we have lost the art of receiving it as guest. -Rabindranath Tagore, poet, philosopher, author, songwriter, painter, educator, composer, Nobel laureate (1861-1941)
+
+All poetry is supposed to be instructive but in an unnoticeable manner; it is supposed to make us aware of what it would be valuable to instruct ourselves in; we must deduce the lesson on our own, just as with life. -Johann Wolfgang von Goethe, poet, dramatist, novelist, and philosopher (1749-1832)
+
+Who is the happiest of men? He who values the merits of others, // And in their pleasure takes joy, even as though 'twere his own. -Johann Wolfgang von Goethe, poet, dramatist, novelist, and philosopher (1749-1832)
+
+I'm afraid of losing my obscurity. Genuineness only thrives in the dark. Like celery. -Aldous Huxley, novelist (1894-1963) 
+
+Experience is not what happens to a man; it is what a man does with what happens to him. -Aldous Huxley, novelist (1894-1963) 
+
+Most human beings have an almost infinite capacity for taking things for granted. -Aldous Huxley, novelist (1894-1963) 
+
+It is a bit embarrassing to have been concerned with the human problem all one's life and find at the end that one has no more to offer by way of advice than 'Try to be a little kinder.' -Aldous Huxley, novelist (1894-1963) 
+
+To see ourselves as others see us is a most salutary gift. Hardly less important is the capacity to see others as they see themselves. -Aldous Huxley, novelist (1894-1963) 
+
+Human judges can show mercy. But against the laws of nature, there is no appeal. -Arthur C Clarke, science fiction writer (1917- )
+
+One of the biggest roles of science fiction is to prepare people to accept the future without pain and to encourage a flexibility of mind. Politicians should read science fiction, not westerns and detective stories. -Arthur C Clarke, science fiction writer (1917- )
+
+The greatest tragedy in mankind's entire history may be the hijacking of morality by religion. -Arthur C Clarke, science fiction writer (1917- )
+
+We are all atheists about most of the gods that societies have ever believed in. Some of us just go one god further. -Richard Dawkins, biologist and author (b. 1941) 
+
+One of the pleasant frustrations of modern life is that there are far more good books out there than any of us have time to read. - Stephen Walt
+
+If I could be sure of doing with my books as much as my [doctor] father did for the sick! -Marcel Proust, novelist (1871-1922) 
+
+The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom. -Isaac Asimov, scientist and writer (1920-1992)
+
+The long run is a misleading guide to current affairs. In the long run we are all dead. -John Maynard Keynes, economist (1883-1946)
+
+When the accumulation of wealth is no longer of high social importance, there will be great changes in the code of morals. ...The love of money as a possession - as distinguished from the love of money as a means to the enjoyments and realities of life - will be recognised for what it is, a somewhat disgusting morbidity, one of those semi-criminal, semi-pathological propensities which one hands over with a shudder to the specialists in mental disease... But beware! The time for all this is not yet. For at least another hundred years we must pretend to ourselves and to everyone that fair is foul and foul is fair; for foul is useful and fair is not. Avarice and usury and precaution must be our gods for a little longer still. -John Maynard Keynes, economist (1883-1946)
+
+The difficulty lies, not in [developing] new ideas, but in escaping from the old ones.-John Maynard Keynes, economist (1883-1946)
+
+A decent provision for the poor is the true test of civilisation. -Samuel Johnson, lexicographer (1709-1784) 
+
+In the struggle between yourself and the world second the world. -Franz Kafka, novelist (1883-1924) 
+
+Literature becomes the living memory of a nation. -Alexander Solzhenitsyn, novelist, Nobel laureate (1918-2008)
+
+One can promise actions, but not feelings, for the latter are involuntary. He who promises to love forever or hate forever or be forever faithful to someone is promising something that is not in his power. -Friedrich Wilhelm Nietzsche, philosopher (1844-1900) 
+
+A great book should leave you with many experiences, and slightly exhausted at the end. You live several lives while reading it. -William Styron, novelist (1925-2006)
+
+Nations have recently been led to borrow billions for war; no nation has ever borrowed largely for education. Probably, no nation is rich enough to pay for both war and civilization. We must make our choice; we cannot have both. -Abraham Flexner, educator (1866-1959)
+
+Man can do what he wants but he cannot want what he wants. -Arthur Schopenhauer, philosopher (1788-1860)
+
+Life is a business that does not cover the costs. -Arthur Schopenhauer, philosopher (1788-1860)
+
+Honor has not to be won; it must only not be lost. -Arthur Schopenhauer, philosopher (1788-1860)
+
+The brain may be regarded as a kind of parasite of the organism, a pensioner, as it were, who dwells with the body. -Arthur Schopenhauer, philosopher (1788-1860)
+
+Every nation mocks at other nations, and all are right. -Arthur Schopenhauer, philosopher (1788-1860)
+
+Mostly it is loss which teaches us about the worth of things. -Arthur Schopenhauer, philosopher (1788-1860)
+
+The cheapest form of pride... is national pride. For it betrays in the one thus afflicted the lack of individual qualities of which he could be proud, while he would not otherwise reach for what he shares with so many millions. He who possesses significant personal merits will rather recognise the defects of his own nation, as he has them constantly before his eyes, most clearly. But that poor beggar who has nothing in the world of which he can be proud, latches onto the last means of being proud, the nation to which he belongs to. Thus he recovers and is now in gratitude ready to defend with hands and feet all errors and follies which are its own. -Arthur Schopenhauer, philosopher (1788-1860)
+
+Money is human happiness in the abstract: he, then, who is no longer capable of enjoying human happiness in the concrete devotes his heart entirely to money. -Arthur Schopenhauer, philosopher (1788-1860)
+
+To free a man from error is to give, not to take away. Knowledge that a thing is false is a truth. Error always does harm; sooner or later it will bring mischief to the man who harbors it. Then give up deceiving people; confess ignorance of what you don't know, and leave everyone to form his own articles of faith for himself. Perhaps they won't turn out so bad, especially as they'll rub one another's corners down, and mutually rectify mistakes. The existence of many views will at any rate lay a foundation of tolerance. Those who possess knowledge and capacity may betake themselves to the study of philosophy, or even in their own persons carry the history of philosophy a step further. -Arthur Schopenhauer, philosopher (1788-1860)
+
+One must choose one's enemies carefully, as one ends up resembling them. -Jorge Luis Borges, writer (1899-1986)
+
+One is in love when one realizes that the other person is unique. -Jorge Luis Borges, writer (1899-1986)
+
+If one looks with a cold eye at the mess man has made of history, it is difficult to avoid the conclusion that he has been afflicted by some built-in mental disorder which drives him towards self-destruction. -Arthur Koestler, novelist and philosopher (1905–1983)
+
+Even a cursory glance at history should convince one that individual crimes committed for selfish motives play a quite insignificant part in the human tragedy, compared to the numbers massacred in unselfish loyalty to one’s tribe, nation, dynasty, church, or political ideology, ad majorem gloriam dei. The emphasis is on unselfish. Excepting a small minority of mercenary or sadistic disposition, wars are not fought for personal gain, but out of loyalty and devotion to king, country or cause. Homicide committed for personal reasons is a statistical rarity in all cultures, including our own. Homicide for unselfish reasons, at the risk of one’s own life, is the dominant phenomenon of history. -Arthur Koestler, novelist and philosopher (1905–1983)
+
+The inner censor of the mind of the true believer completes the work of the public censor; his self-discipline is as tyrannical as the obedience imposed by the regime; he terrorizes his own conscience into submission; he carries his private Iron Curtain inside his skull, to protect his illusions against the intrusion of reality. -Arthur Koestler, novelist and philosopher (1905–1983)
+
+Modern man lives isolated in his artificial environment, not because the artificial is evil as such, but because of his lack of comprehension of the forces which make it work- of the principles which relate his gadgets to the forces of nature, to the universal order. It is not central heating which makes his existence ‘unnatural,’ but his refusal to take an interest in the principles behind it. By being entirely dependent on science, yet closing his mind to it, he leads the life of an urban barbarian. -Arthur Koestler, novelist and philosopher (1905–1983)
+
+The prerequisite of originality is the art of forgetting, at the proper moment, what we know. -Arthur Koestler, novelist and philosopher (1905–1983)
+
+The more one suffers, the more, I believe, one has a sense of the comic. It is only by the deepest suffering that one acquires the authority in the art of the comic. -Soren Kierkegaard, philosopher (1813-1855)
+
+To be a teacher does not mean simply to affirm that such a thing is so, or to deliver a lecture, etc. No, to be a teacher in the right sense is to be a learner. Instruction begins when you, the teacher, learn from the learner, put yourself in his place so that you may understand what he understands and the way he understands it. -Soren Kierkegaard, philosopher (1813-1855)
+
+The presence of irony does not necessarily mean that the earnestness is excluded. Only assistant professors assume that. -Soren Kierkegaard, philosopher (1813-1855)
+
+Life can only be understood backwards; but it must be lived forwards. -Soren Kierkegaard, philosopher (1813-1855)
+
+The tyrant dies and his rule is over; the martyr dies and his rule begins. -Soren Kierkegaard, philosopher (1813-1855)
+
+Language is not an abstract construction of the learned, or of dictionary makers, but is something arising out of the work, needs, ties, joys, affections, tastes, of long generations of humanity, and has its bases broad and low, close to the ground. -Noah Webster, lexicographer (1758-1843) 
+
+Live a good life. If there are gods and they are just, they will not care how devout you have been, but will welcome you based on the virtues you have lived by. If there are gods, but unjust, then you should not want to worship them. If there are no gods, then you will be gone, but will have lived a noble life that will live on in the memories of your loved ones. -Marcus Aurelius, philosopher and writer (121-180) 
+
+Any advertisement in public space that gives you no choice whether you see it or not is yours. It belongs to you. It's yours to take, re-arrange, and re-use. Asking for permission is like asking to keep a rock someone just threw at your head. -Banksy, street artist (b. 1974) 
+
+It is necessary to the happiness of man that he be mentally faithful to himself. Infidelity does not consist in believing, or in disbelieving; it consists in professing to believe what he does not believe. -Thomas Paine, philosopher and writer (1737-1809)
+
+Is man one of God's blunders or is God one of man's? -Friedrich Nietzsche, philosopher (1844-1900)
+
+American life is a powerful solvent. It seems to neutralize every intellectual element, however tough and alien it may be, and to fuse it in the native good will, complacency, thoughtlessness, and optimism. –George Santayana, philosopher (1863-1952)
+
+They [the wise spirits of antiquity in the first circle of Dante's Inferno] are condemned, Dante tells us, to no other penalty than to live in desire without hope, a fate appropriate to noble souls with a clear vision of life. –George Santayana, philosopher (1863-1952)
+
+Fanaticism consists in redoubling your efforts when you have forgotten your aim. –George Santayana, philosopher (1863-1952)
+
+Perhaps the only true dignity of man is his capacity to despise himself. –George Santayana, philosopher (1863-1952)
+
+The world is a perpetual caricature of itself; at every moment it is the mockery and the contradiction of what it is pretending to be. –George Santayana, philosopher (1863-1952)
+
+There is no cure for birth and death save to enjoy the interval.–George Santayana, philosopher (1863-1952)
+
+I like to walk about amidst the beautiful things that adorn the world; but private wealth I should decline, or any sort of personal possessions, because they would take away my liberty. –George Santayana, philosopher (1863-1952)
+
+Only the dead have seen the end of war. –George Santayana, philosopher (1863-1952)
+
+The Earth is a very small stage in a vast cosmic arena. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a fraction of a dot. Think of the endless cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds. -Carl Sagan, astronomer and writer (1934-1996)
+
+What can be asserted without proof can be dismissed without proof. -Christopher Hitchens, author and journalist (b. 1949)
+
+There are no passengers on spaceship earth. We are all crew. -Marshall McLuhan, educator and philosopher (1911-1980)
+
+The only way human beings can win a war is to prevent it. -George Marshall, US General and Nobel laureate (1880-1959)
+
+Sometimes, exhausted / with toil and endeavour, / I wish I could sleep / for ever and ever; / but then this reflection / my longing allays: / I shall be doing it / one of these days. -Piet Hein, poet and scientist (1905-1996)
+
+Religions, which condemn the pleasures of sense, drive men to seek the pleasures of power. Throughout history power has been the vice of the ascetic. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
+
+Many orthodox people speak as though it were the business of sceptics to disprove received dogmas rather than of dogmatists to prove them. This is, of course, a mistake. If I were to suggest that between the Earth and Mars there is a china teapot revolving about the sun in an elliptical orbit, nobody would be able to disprove my assertion provided I were careful to add that the teapot is too small to be revealed even by our most powerful telescopes. But if I were to go on to say that, since my assertion cannot be disproved, it is intolerable presumption on the part of human reason to doubt it, I should rightly be thought to be talking nonsense. If, however, the existence of such a teapot were affirmed in ancient books, taught as the sacred truth every Sunday, and instilled into the minds of children at school, hesitation to believe in its existence would become a mark of eccentricity and entitle the doubter to the attentions of the psychiatrist in an enlightened age or of the Inquisitor in an earlier time. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
+
+Wherever one finds oneself inclined to bitterness, it is a sign of emotional failure: a larger heart, and a greater self-restraint, would put a calm autumnal sadness in the place of the instinctive outcry of pain. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
+
+I cannot believe — and I say this with all the emphasis of which I am capable — that there can ever be any good excuse for refusing to face the evidence in favour of something unwelcome. It is not by delusion, however exalted, that mankind can prosper, but only by unswerving courage in the pursuit of truth. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
+
+A process which led from the amœba to man appeared to the philosophers to be obviously a progress — though whether the amœba would agree with this opinion is not known. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
+
+Those who forget good and evil and seek only to know the facts are more likely to achieve good than those who view the world through the distorting medium of their own desires. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
+
+An extra-terrestrial philosopher, who had watched a single youth up to the age of twenty-one and had never come across any other human being, might conclude that it is the nature of human beings to grow continually taller and wiser in an indefinite progress towards perfection; and this generalisation would be just as well founded as the generalisation which evolutionists base upon the previous history of this planet. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
+
+In adolescence, I hated life and was continually on the verge of suicide... Now, on the contrary, I enjoy life; I might almost say that with every year that passes I enjoy it more... very largely it is due to a diminishing preoccupation with myself. Like others who had a Puritan education, I had the habit of meditating on my sins, follies, and shortcomings. I seemed to myself — no doubt justly — a miserable specimen. Gradually I learned to be indifferent to myself and my deficiencies; I came to centre my attention increasingly upon external objects: the state of the world, various branches of knowledge, individuals for whom I felt affection. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
+
+Conventional people are roused to fury by departures from convention, largely because they regard such departures as a criticism of themselves. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
+
+The fundamental concept in social science is Power, in the same sense in which Energy is the fundamental concept in physics. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
+
+To acquire immunity to eloquence is of the utmost importance to the citizens of a democracy. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
+
+After ages during which the earth produced harmless trilobites and butterflies, evolution progressed to the point at which it generated Neros, Genghis Khans, and Hitlers. This, however, is a passing nightmare; in time the earth will become again incapable of supporting life, and peace will return. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
+
+The Christian ideal has not been tried and found wanting. It has been found difficult and left untried. -G.K. Chesterton, essayist and novelist (1874-1936)
+
+In the Beginning, the Universe was created. This has made a lot of people very angry and has been widely regarded as a bad move. -Douglas Adams
+
+If I were granted omnipotence, and millions of years to experiment in, I should not think Man much to boast of as the final result of all my efforts. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
+
+Standard English is a convenient abstraction, like the average man. -Geroge Leslie Brook, English professor, author (1910-1987)
+
+Poetry is a purging of the world's poverty and change and evil and death. It is a present perfecting, a satisfaction in the irremediable poverty of life. –Wallace Stevens, poet (1879-1955)
+
+Nobody realizes that some people expend tremendous energy merely to be normal. -Albert Camus, writer, philosopher, Nobel laureate (1913-1960)
+
+There is always a philosophy for lack of courage. -Albert Camus, writer, philosopher, Nobel laureate (1913-1960)
+
+The greatest saving one can make in the order of thought is to accept the unintelligibility of the world -- and to pay attention to man. -Albert Camus, writer, philosopher, Nobel laureate (1913-1960)
+
+Homo sapiens is the species that invents symbols in which to invest passion and authority, then forgets that symbols are inventions. -Joyce Carol Oates, writer (b. 1938)
+
+Men rarely (if ever) managed to dream up a god superior to themselves. Most gods have the manners and morals of a spoiled child. -Robert A. Heinlein, science-fiction author (1907-1988)
+
+If people are good only because they fear punishment, and hope for reward, then we are a sorry lot indeed. -Albert Einstein, physicist, Nobel laureate (1879-1955)
+
+True teachers are those who use themselves as bridges over which they invite their students to cross; then, having facilitated their crossing, joyfully collapse, encouraging them to create their own. -Nikos Kazantzakis, poet and novelist (1883-1957)
+
+He that uses many words for explaining any subject, doth, like the cuttlefish, hide himself for the most part in his own ink. -John Ray, naturalist (1627-1705)
+
+The human mind is inspired enough when it comes to inventing horrors; it is when it tries to invent a heaven that it shows itself cloddish. -Evelyn Waugh, novelist (1903-1966)
+
+Don't give your opinions about Art and the Purpose of Life. They are of little interest and, anyway, you can't express them. Don't analyze yourself. Give the relevant facts and let your readers make their own judgments. Stick to your story. It is not the most important subject in history but it is one about which you are uniquely qualified to speak. -Evelyn Waugh, novelist (1903-1966)
+
+I don't believe that people would ever fall in love or want to be married if they hadn't been told about it. It's like abroad: no one would want to go there if they hadn't been told it existed. -Evelyn Waugh, novelist (1903-1966)
+
+I react pragmatically. Where the market works, I'm for that. Where the government is necessary, I'm for that. I'm deeply suspicious of somebody who says, "I'm in favor of privatization," or, "I'm deeply in favor of public ownership." I'm in favor of whatever works in the particular case. -John Kenneth Galbraith, economist (1908-2006)
+
+I believe in evidence. I believe in observation, measurement, and reasoning, confirmed by independent observers. I'll believe anything, no matter how wild and ridiculous, if there is evidence for it. The wilder and more ridiculous something is, however, the firmer and more solid the evidence will have to be. -Isaac Asimov, scientist and writer (1920-1992)
+
+A gun gives you the body, not the bird. -Henry David Thoreau, naturalist and author (1817-1862)
+
+Cautious, careful people, always casting about to preserve their reputation and social standing, never can bring about a reform. Those who are really in earnest must be willing to be anything or nothing in the world's estimation. -Susan B. Anthony, reformer and suffragist (1820-1906)
+
+One owes respect to the living. To the dead, one owes only the truth. -Voltaire, philosopher and writer (1694-1778) 
+
+One need not hope in order to undertake, nor succeed in order to persevere. -William the Silent, Prince of Orange (1533-1584)
+
+Don't let them tell us stories. Don't let them say of the man sentenced to death "He is going to pay his debt to society," but: "They are going to cut off his head." It looks like nothing. But it does make a little difference. -Albert Camus, writer, philosopher, Nobel laureate (1913-1960)
+
+There is no fate that can not be surmounted by scorn. -Albert Camus, writer, philosopher, Nobel laureate (1913-1960)
+
+"I conclude that all is well," says Oedipus, and that remark is sacred. It echoes in the wild and limited universe of man. It teaches that all is not, has not been, exhausted. It drives out of this world a god who had come into it with dissatisfaction and a preference for futile suffering. It makes of fate a human matter, which must be settled among men. ...Sisyphus teaches the higher fidelity that negates the gods and raises rocks. He too concludes that all is well. This universe henceforth without a master seems to him neither sterile nor futile. Each atom of that stone, each mineral flake of that night-filled mountain, in itself forms a world. The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy. -Albert Camus, writer, philosopher, Nobel laureate (1913-1960)
+
+Query: How to contrive not to waste one's time? Answer: By being fully aware of it all the while. Ways in which this can be done: By spending one's days on an uneasy chair in a dentist's waiting room; by remaining on one's balcony all a Sunday afternoon; by travelling by the longest and least-convenient train routes, and of course standing all the way; by queueing at the box-office of theatres and then not booking a seat. -Albert Camus, writer, philosopher, Nobel laureate (1913-1960)
+
+Having money is a way of being free of money. -Albert Camus, writer, philosopher, Nobel laureate (1913-1960)
+
+He marveled at the strange blindness by which men, though they are so alert to what changes in themselves, impose on their friends an image chosen for them once and for all. -Albert Camus, writer, philosopher, Nobel laureate (1913-1960)
+
+I contend that we are both atheists. I just believe in one fewer god than you do. When you understand why you dismiss all the other possible gods, you will understand why I dismiss yours. -Stephen Roberts, database architect (b. 1967)
+
+Inspiration is not the exclusive privilege of poets or artists. There is, there has been, there will always be a certain group of people whom inspiration visits. It's made up of all those who've consciously chosen their calling and do their job with love and imagination. It may include doctors, teachers, gardeners — I could list a hundred more professions. Their work becomes one continuous adventure as long as they manage to keep discovering new challenges in it. Difficulties and setbacks never quell their curiosity. A swarm of new questions emerges from every problem that they solve. Whatever inspiration is, it's born from a continuous "I don't know." -Wislawa Szymborska, poet (b. 1923)
+
+The world — whatever we might think when terrified by its vastness and our own impotence, or embittered by its indifference to individual suffering, of people, animals, and perhaps even plants, for why are we so sure that plants feel no pain; whatever we might think of its expanses pierced by the rays of stars surrounded by planets we've just begun to discover, planets already dead? still dead? we just don't know; whatever we might think of this measureless theater to which we've got reserved tickets, but tickets whose lifespan is laughably short, bounded as it is by two arbitrary dates; whatever else we might think of this world — it is astonishing. -Wislawa Szymborska, poet (b. 1923)
+
+Not long ago, if you wanted to seize political power in a country you had merely to control the army and the police. Today it is only in the most backward countries that fascist generals, in carrying out a coup d'état, still use tanks. If a country has reached a high degree of industrialization the whole scene changes. The day after the fall of Khrushchev, the editors of Pravda, Izvestiia, the heads of the radio and television were replaced; the army wasn't called out. Today a country belongs to the person who controls communications. -Umberto Eco, novelist (b. 1932)
+
+Semiotics is in principle the discipline studying everything which can be used in order to lie. If something cannot be used to tell a lie, conversely it cannot be used to tell the truth: it cannot in fact be used "to tell" at all. -Umberto Eco, novelist (b. 1932)
+
+The real hero is always a hero by mistake; he dreams of being an honest coward like everybody else. If it had been possible he would have settled the matter otherwise, and without bloodshed. He doesn't boast of his own death or of others'. But he does not repent. He suffers and keeps his mouth shut; if anything, others then exploit him, making him a myth, while he, the man worthy of esteem, was only a poor creature who reacted with dignity and courage in an event bigger than he was. -Umberto Eco, novelist (b. 1932)
+
+Language is the armoury of the human mind; and at once contains the trophies of its past, and the weapons of its future conquests. -Samuel Taylor Coleridge, poet, critic, and philosopher (1772-1834)
+
+Every man is a creature of the age in which he lives, and few are able to raise themselves above the ideas of the time. -Voltaire, philosopher (1694-1778)
+
+I need someone to protect me from all the measures they take in order to protect me. -Banksy, street artist (b. 1974)
+
+A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects. -Robert A. Heinlein, science-fiction author (1907-1988)
+
+I am I plus my surroundings and if I do not preserve the latter, I do not preserve myself. -Jose Ortega Y Gasset, philosopher and essayist (1883-1955)
+
+I don't hate my enemies. After all, I made 'em. -Red Skelton, comedian (1913-1997) 
+
+They are happy men whose natures sort with their vocations. -Francis Bacon, essayist, philosopher, and statesman (1561-1626)
+
+Pride, like laudanum and other poisonous medicines, is beneficial in small, though injurious in large, quantities. No man who is not pleased with himself, even in a personal sense, can please others. -Frederick Saunders, librarian and essayist (1807-1902) 
+
+The living language is like a cow-path: it is the creation of the cows themselves, who, having created it, follow it or depart from it according to their whims or their needs. From daily use, the path undergoes change. A cow is under no obligation to stay. -E.B. White, writer (1899-1985)
+
+Meditation and water are wedded for ever. -Herman Melville, novelist and poet (1819-1891)
+
+It is better to fail in originality, than to succeed in imitation. He who has never failed somewhere, that man can not be great. Failure is the true test of greatness. -Herman Melville, novelist and poet (1819-1891)
+
+Silence is the general consecration of the universe... Silence is at once the most harmless and the most awful thing in all nature. It speaks of the Reserved Forces of Fate. Silence is the only Voice of our God. -Herman Melville, novelist and poet (1819-1891)
+
+Solitudinem faciunt, pacem appellant (they make a desert, and call it peace) -Tacitus, senator, lawyer, and orator (56-117)
+
+The desire for glory clings even to the best men longer than any other passion. -Tacitus, senator, lawyer, and orator (56-117)
+
+Parit enim conversatio contemptum; raritas conciliat admirationem. (Familiarity breeds contempt, but privacy gains admiration.) Lucius Apuleius, philosopher and novelist (125-180)
+
+Truth, in matters of religion, is simply the opinion that has survived. -Oscar Wilde, writer (1854-1900)
+
+...dum loquimur, fugerit invida / aetas: carpe diem, quam minimum credula postero. (As we speak cruel time is fleeing. Seize the day, believing as little as possible in the morrow.) -Horace, poet (65-8 B.C.)
+
+Aequam memento rebus in arduis / servare mentem. (In adversity, remember to keep an even mind.) -Horace, poet (65-8 B.C.)
+
+Nam tua res agitur, paries cum proximus ardet. (It is your concern when your neighbor's wall is on fire.) -Horace, poet (65-8 B.C.)
+
+Fame opportunely despised often comes back redoubled. -Livy, historian (59 BE-17 AD)
+
+Oderint Dum Metuant (Let them hate, so long as they fear.) -Lucius Accius, poet (170 BCE – 86 BCE)
+
+Conceal a flaw, and the world will imagine the worst. -Martial, poet (circa 40 AD - ?)
+
+Virtue extends our days: he lives two lives who relives his past with pleasure. -Martial, poet (circa 40 AD - ?)
+
+Prisca iuvent alios: ego me nunc denique natum gratulor (Let others praise ancient times; I am glad I was born in these.) -Ovid, poet (43 BCE - 17 AD)
+
+Man is the only one that knows nothing, that can learn nothing without being taught. He can neither speak nor walk nor eat, and in short he can do nothing at the prompting of nature only, but weep. -Pliny the Elder, author (23 - 79)
+
+The best plan is to profit by the folly of others. -Pliny the Elder, author (23 - 79)
+
+An object in possession seldom retains the same charm that it had in pursuit. -Pliny the Younger, author and lawyer (63 - 113)
+
+Namque pauci libertatem, pars magna iustos dominos volunt (Few men desire freedom, the greater part desire just masters.) -Sallust, statesman and historian (86-34)
+
+Magni pectoris est inter secunda moderatio. (It is the sign of a great spirit to be moderate in prosperity.) -Marcus Annaeus Seneca, historian (c54 BCE – c37 AD)
+
+Vivamus, moriendum est. (Let us live – we must die.) -Marcus Annaeus Seneca, historian (c54 BCE – c37 AD)
+
+Ignoranti quem portum petat nullus suus ventus est. (If one does not know to which port one is sailing, no wind is favourable.) –Lucius Annaeus Seneca, philosopher and writer (c. 3 BCE - AD 65)
+
+Aut potentior te aut inbecillior laesit: si inbecillior, parce illi, si potentior, tibi. (He who has injured thee was stronger or weaker than thee. If weaker, spare him; if stronger, spare thyself.) –Lucius Annaeus Seneca, philosopher and writer (c. 3 BCE - AD 65)
+
+Non qui parum habet, sed qui plus cupit, pauper est. (It is not the man who has too little, but the man who craves more, that is poor.) –Lucius Annaeus Seneca, philosopher and writer (c. 3 BCE - AD 65)
+
+Audacibus annue coeptis (Look with favor upon a bold beginning.) -Virgil, poet (70-19BCE)
+
+You desire to know the art of living, my friend? It is contained in one phrase: make use of suffering. -Henri Frederic Amiel, philosopher and writer (1821-1881)
+
+There is no excellent beauty that hath not some strangeness in the proportion. -Francis Bacon, essayist, philosopher, and statesman (1561-1626)
+
+Although a democracy must often fight with one hand tied behind its back, it nonetheless has the upper hand. -Aharon Barak, law professor, former President of the Supreme Court of Israel (b.1936) 
+
+In all life one should comfort the afflicted, but verily, also, one should afflict the comfortable, and especially when they are comfortably, contentedly, even happily wrong. -John Kenneth Galbraith, economist (1908-2006) 
+
+Writing is like driving a car at night. You can only see as far as the headlights, but you make the whole trip that way. -E.L. Doctorow, writer (b. 1931)
+
+An inconvenience is only an adventure wrongly considered; an adventure is an inconvenience rightly considered. -G.K. Chesterton, essayist and novelist (1874-1936)
+
+Moderate strength is shown in violence, supreme strength is shown in levity. -G.K. Chesterton, essayist and novelist (1874-1936)
+
+I believe what really happens in history is this: the old man is always wrong; and the young people are always wrong about what is wrong with him. The practical form it takes is this: that, while the old man may stand by some stupid custom, the young man always attacks it with some theory that turns out to be equally stupid. -G.K. Chesterton, essayist and novelist (1874-1936)
+
+To have a right to do a thing is not at all the same as to be right in doing it. -G.K. Chesterton, essayist and novelist (1874-1936)
+
+The comedy of man survives the tragedy of man. -G.K. Chesterton, essayist and novelist (1874-1936)
+
+Tradition means giving votes to the most obscure of all classes, our ancestors. It is the democracy of the dead. Tradition refuses to submit to that arrogant oligarchy who merely happen to be walking around. -G.K. Chesterton, essayist and novelist (1874-1936)
+
+The only defensible war is a war of defense. -G.K. Chesterton, essayist and novelist (1874-1936)
+
+There cannot be a nation of millionaires, and there never has been a nation of Utopian comrades; but there have been any number of nations of tolerably contented peasants. -G.K. Chesterton, essayist and novelist (1874-1936)
+
+It is hard to make government representative when it is also remote. -G.K. Chesterton, essayist and novelist (1874-1936)
+
+Too much capitalism does not mean too many capitalists, but too few capitalists. -G.K. Chesterton, essayist and novelist (1874-1936)
+
+The real argument against aristocracy is that it always means the rule of the ignorant. For the most dangerous of all forms of ignorance is ignorance of work. -G.K. Chesterton, essayist and novelist (1874-1936)
+
+Walking is man's best medicine. -Hippocrates, the Father of Medicine (460-377 BCE)
+
+Nobody made a greater mistake than he who did nothing because he could do only a little. -Edmund Burke, statesman and writer (1729-1797) 
+
+There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered. -Nelson Mandela, activist, South African president, Nobel laureate (b. 1918) 
+
+Boredom is the feeling that everything is a waste of time; serenity, that nothing is. -Thomas Szasz, author, professor of psychiatry (b. 1920)
+
+Writing is a way of talking without being interrupted. -Jules Renard, author (1864-1910) 
+
+Boredom is a vital problem for the moralist, since at least half of the sins of mankind are caused by the fear of it. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
+
+Intolerance of ambiguity is the mark of an authoritarian personality. -Theodor Adorno, philosopher and composer (1903-1969)
+
+Creative activity could be described as a type of learning process where teacher and pupil are located in the same individual. -Arthur Koestler, novelist and journalist (1905-1983)
+
+Because we don't understand the brain very well we're constantly tempted to use the latest technology as a model for trying to understand it. In my childhood we were always assured that the brain was a telephone switchboard. (What else could it be?) And I was amused to see that Sherrington, the great British neuroscientist, thought that the brain worked like a telegraph system. Freud often compared the brain to hydraulic and electromagnetic systems. Leibniz compared it to a mill, and now, obviously, the metaphor is the digital computer. -John R. Searle, philosophy professor (b. 1932) 
+
+We judge ourselves by what we feel capable of doing, while others judge us by what we have already done. -Henry Wadsworth Longfellow, poet (1807-1882)
+
+Once I ventured the guess that men worked in response to a vague inner urge for self-expression... An hypothesis with rather more plausibility in it now suggests itself. It is that men work simply in order to escape the depressing agony of contemplating life – that their work, like their play, is a mumbo-jumbo that serves them by permitting them to escape from reality... Man cannot sit still, contemplating his destiny in this world, without going frantic. So he invents ways to take his mind off the horror. He works. He plays. He accumulates the preposterous nothing called property. He strives for the coy eye-wink called fame. He founds a family and spreads his curse over others. All the while the thing that moves him is simply the yearning to lose himself, to forget himself, to escape the tragic-comedy that is himself. Life, fundamentally, is not worth living. -H.L. Mencken, writer, editor, and critic (1880-1956)
+
+Wanting to meet an author because you like his work is like wanting to meet a duck because you like paté. -Margaret Atwood, novelist and poet (b. 1939) 
+
+It ought to be plain / how little you gain / by getting excited / and vexed. / You'll always be late / for the previous train, / and always in time / for the next. -Piet Hein, poet and scientist (1905-1996) 
+
+Though familiarity may not breed contempt, it takes off the edge of admiration. -William Hazlitt, essayist (1778-1830) 
+
+Inquiry is fatal to certainty. -Will Durant, historian (1885-1981) 
+
+What we think, or what we know, or what we believe, is in the end, of little consequence. The only thing of consequence is what we do. -John Ruskin, author, art critic, and social reformer (1819-1900) 
+
+Problems worthy / of attack / prove their worth / by hitting back. -Piet Hein, poet and scientist (1905-1996) 
+
+Trying to determine what is going on in the world by reading newspapers is like trying to tell the time by watching the second hand of a clock. -Ben Hecht, screenwriter, playwright, novelist, director, and producer (1894-1964) 
+
+Satire is a sort of glass, wherein beholders do generally discover everybody's face but their own, which is the chief reason for that kind of reception it meets in the world, and that so very few are offended with it. -Jonathan Swift, satirist (1667-1745) 
+
+Moderate giftedness has been made worthless by the printing press and radio and television and satellites and all that. A moderately gifted person who would have been a community treasure a thousand years ago has to give up, has to go into some other line of work, since modern communications put him or her into daily competition with nothing but world's champions. -Kurt Vonnegut, Jr., novelist (1922-2007) 
+
+Convictions are more dangerous enemies of truth than lies. -Friedrich Wilhelm Nietzsche, philosopher (1844-1900) 
+
+Of all the preposterous assumptions of humanity over humanity, nothing exceeds most of the criticisms made on the habits of the poor by the well-housed, well-warmed, and well-fed. -Herman Melville, novelist and poet (1819-1891) 
+
+In this world there are only two tragedies. One is not getting what one wants, and the other is getting it. The last is much the worst. -Oscar Wilde, writer (1854-1900) 
+
+If there is a sin against life, it consists perhaps not so much in despairing of life as in hoping for another life and in eluding the implacable grandeur of this life. -Albert Camus, writer, philosopher, Nobel laureate (1913-1960) 
+
+We are not afraid to entrust the American people with unpleasant facts, foreign ideas, alien philosophies, and competitive values. For a nation that is afraid to let its people judge the truth and falsehood in an open market is a nation that is afraid of its people. -John F. Kennedy, 35th US president (1917-1963) 
+
+A physician is not angry at the intemperance of a mad patient; nor does he take it ill to be railed at by a man in a fever. Just so should a wise man treat all mankind, as a physician does his patient; and looking upon them only as sick and extravagant. -Lucius Annaeus Seneca, philosopher (BCE 3-65 CE)
+
+An individual human existence should be like a river: small at first, narrowly contained within its banks, and rushing passionately past rocks and over waterfalls. Gradually the river grows wider, the banks recede, the waters flow more quietly, and in the end, without any visible break, they become merged in the sea, and painlessly lose their individual being. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970) 
+
+In nature there are neither rewards nor punishments; there are consequences. -Robert Green Ingersoll, lawyer and orator (1833-1899) 
+
+Every age is fed on illusions, lest men should renounce life early and the human race come to an end. -Joseph Conrad, novelist (1857-1924) 
+
+In all affairs it's a healthy thing now and then to hang a question mark on the things you have long taken for granted. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970) 
+
+It's alright to tell a man to lift himself by his own bootstraps, but it is a cruel jest to say to a bootless man that he ought to lift himself by his own bootstraps. -Martin Luther King, Jr., civil-rights leader (1929-1968) 
+
+It is useless to attempt to reason a man out of a thing he was never reasoned into. -Jonathan Swift, satirist (1667-1745) 
+
+Only the good doubt their own goodness, which is what makes them good in the first place. The bad know they are good, but the good know nothing. They spend their lives forgiving others, but they can't forgive themselves. -Paul Auster, novelist and poet (b. 1947)  
+
+Men, said the Devil, are [so] good to their brothers: / they don't want to mend their own ways, but [rather] each other's. -Piet Hein, poet and scientist (1905-1996)
+
+The liar's punishment is not in the least that he is not believed, but that he cannot believe anyone else. -George Bernard Shaw, writer, Nobel laureate (1856-1950) 
+
+I have never met a man so ignorant that I couldn't learn something from him. -Galileo Galilei, physicist and astronomer (1564-1642) 
+
+It is of interest to note that while some dolphins are reported to have learned English -- up to fifty words used in correct context -- no human being has been reported to have learned dolphinese. -Carl Sagan, astronomer and writer (1934-1996) 
+
+The desire of knowledge, like the thirst of riches, increases ever with the acquisition of it. -Laurence Sterne, novelist and clergyman (1713-1768)
+
+Clear thinking requires courage rather than intelligence. -Thomas Szasz, author, professor of psychiatry (b. 1920) 
+
+There are stars whose radiance is visible on Earth though they have long been extinct. There are people whose brilliance continues to light the world though they are no longer among the living. These lights are particularly bright when the night is dark. They light the way for humankind. -Hannah Senesh, poet, playwright, and paratrooper (1921-1944) 
+
+I'd like to widen people's awareness of the tremendous timespan lying ahead -- for our planet, and for life itself. Most educated people are aware that we're the outcome of nearly 4bn years of Darwinian selection, but many tend to think that humans are somehow the culmination. Our sun, however, is less than halfway through its lifespan. Six billion years from now, it will not be humans who watch the sun's demise. Any creatures that then exist will be as different from us as we are from bacteria or amoebae. -Martin Rees, cosmologist and astrophysicist (b. 1942)
+
+All slang is metaphor, and all metaphor is poetry. -G.K. Chesterton, writer (1874-1936) 
+
+The most dangerous of all falsehoods is a slightly distorted truth. -Georg Christoph Lichtenberg, scientist and philosopher (1742-1799) 
+
+There is nothing so useless as doing efficiently that which should not be done at all. -Peter Drucker, management consultant, professor, and writer (1909-2005) 
+
+Style is time's fool. Form is time's student. -Stewart Brand, writer and editor (b. 1938) 
+
+Faced with the choice between changing one's mind and proving that there is no need to do so, almost everyone gets busy on the proof. -John Kenneth Galbraith, economist (1908-2006) 
+
+Misunderstandings and neglect occasion more mischief in the world than even malice and wickedness. -Johann Wolfgang von Goethe, poet, dramatist, novelist, and philosopher (1749-1832) 
+
+Before we set our hearts too much on anything, let us examine how happy are those who already possess it. -Francois, duc de La Rochefoucauld, moralist (1613-1680)
+
+A problem well stated is a problem half solved. -Charles F. Kettering, inventor and engineer (1876-1958) 
+
+To read is to translate, for no two persons' experiences are the same. A bad reader is like a bad translator: he interprets literally when he ought to paraphrase and paraphrases when he ought to interpret literally. -W.H. Auden, poet (1907-1973)
+
+There are a thousand thoughts lying within a man that he does not know till he takes up a pen to write. -William Makepeace Thackeray, novelist (1811-1863) 
+
+When small men begin to cast big shadows, it means that the sun is about to set. -Lin Yutang, writer and translator (1895-1976)
+
+If Galileo had said in verse that the world moved, the inquisition might have let him alone. -Thomas Hardy, novelist and poet (1840-1928) 
+
+A casual stroll through the lunatic asylum shows that faith does not prove anything. -Friedrich Nietzsche, philosopher (1844-1900)
+
+In large states public education will always be mediocre, for the same reason that in large kitchens the cooking is usually bad. -Friedrich Nietzsche, philosopher (1844-1900)
+
+People who have given us their complete confidence believe that they have a right to ours. The inference is false, a gift confers no rights. -Friedrich Nietzsche, philosopher (1844-1900)
+
+It is not a lack of love, but a lack of friendship that makes unhappy marriages. -Friedrich Nietzsche, philosopher (1844-1900)
+
+No victor believes in chance. -Friedrich Nietzsche, philosopher (1844-1900)
+
+The most common lie is that which one tells himself; lying to others is relatively an exception. -Friedrich Nietzsche, philosopher (1844-1900)
+
+My life has been full of terrible misfortunes, most of which never happened. -Michel de Montaigne, essayist (1533-1592) 
+
+Wandering in a vast forest at night, I have only a faint light to guide me. A stranger appears and says to me: 'My friend, you should blow out your candle in order to find your way more clearly.' The stranger is a theologian. -Denis Diderot, philosopher (1713-1784) 
+
+There are two kinds of light -- the glow that illuminates, and the glare that obscures. -James Thurber, writer and cartoonist (1894-1961) 
+
+Life is a tragedy when seen in close-up, but a comedy in long-shot. -Charlie Chaplin, actor, director, and composer (1889-1977) 
+
+Prayers are to men as dolls are to children. They are not without use and comfort, but it is not easy to take them very seriously. -Samuel Butler, poet (1612-1680)
+
+In order that people may be happy in their work, these three things are needed: they must be fit for it; they must not do too much of it; and they must have a sense of success in it. -John Ruskin, author, art critic, and social reformer (1819-1900)
+
+Never cut what you can untie. -Joseph Joubert, essayist (1754-1824) 
+
+The best way to have a good idea is to have lots of ideas. -Linus Pauling, chemist, peace activist, author, educator; Nobel Prize in chemistry, Nobel Peace Prize (1901-1994) 
+
+The only fence against the world is a thorough knowledge of it. -John Locke, philosopher (1632-1704) 
+
+It is not so much our friends' help that helps us as the confident knowledge that they will help us. -Epicurus, philosopher (c. 341-270 BCE) 
+
+If what you are getting online is for free, you are not the customer, you are the product. -Jonathan Zittrain, professor of Internet law (b. 1969)
+
+A man may be very industrious, and yet not spend his time well. There is no more fatal blunderer than he who consumes the greater part of life getting his living. -Henry David Thoreau, naturalist and author (1817-1862)
+
+In everyone's life, at some time, our inner fire goes out. It is then burst into flame by an encounter with another human being. We should all be thankful for those people who rekindle the inner spirit. -Albert Schweitzer, philosopher, physician, musician, Nobel laureate (1875-1965)
+
+No man should judge unless he asks himself in absolute honesty whether in a similar situation he might not have done the same. -Viktor Frankl, author, neurologist and psychiatrist, Holocaust survivor (1905-1997) 
+
+Totalitarianism, however, does not so much promise an age of faith as an age of schizophrenia. A society becomes totalitarian when its structure becomes flagrantly artificial: that is, when its ruling class has lost its function but succeeds in clinging to power by force or fraud. Such a society, no matter how long it persists, can never afford to become either tolerant or intellectually stable. It can never permit either the truthful recording of facts or the emotional sincerity that literary creation demands. –George Orwell, writer (1903-1950)
+
+In a completely rational society, the best of us would be teachers and the rest of us would have to settle for something less, because passing civilization along from one generation to the next ought to be the highest honor and the highest responsibility anyone could have. -Lee Iacocca, automobile executive (b. 1924)
+
+Seek not to follow in the footsteps of men of old; seek what they sought. -Matsuo Basho, poet (1644-1694) 
+
+Our lives are like islands in the sea, or like trees in the forest. The maple and the pine may whisper to each other with their leaves ... But the trees also commingle their roots in the darkness underground, and the islands also hang together through the ocean's bottom. -William James, psychologist and philosopher (1842-1910) 
+
+May my silences become more accurate. -Theodore Roethke, poet (1908-1963) 
+
+Be silent and safe — silence never betrays you. -John Boyle O'Reilly, poet (1844-1890)
+
+Silence is learned by the many misfortunes of life. –Lucius Annaeus Seneca, philosopher and writer (c. 3 BCE - AD 65)
+
+On the mountains of truth you can never climb in vain: either you will reach a point higher up today, or you will be training your powers so that you will be able to climb higher tomorrow. -Friedrich Nietzsche, philosopher (1844-1900) 
+
+Without the freedom to criticize, there is no true praise. -Pierre Beaumarchais, playwright (1732-1799) 
+
+True compassion is more than flinging a coin to a beggar; it is not haphazard and superficial. It comes to see that an edifice that produces beggars needs restructuring. -Martin Luther King, Jr., civil-rights leader (1929-1968) 
+
+The church says: The body is a sin. Science says: The body is a machine. Advertising says: The body is a business. The body says: I am a fiesta. -Eduardo Galeano, journalist and novelist (b. 1940)
+
+Those who can write / have a lot to / learn from those / bright enough not to. -Piet Hein, poet and scientist (1905-1996)
+
+He who aims / to keep abreast / is forever / second best. -Piet Hein, poet and scientist (1905-1996) 
+
+Nature, it seems is the popular name / for milliards and milliards and milliards / of particles playing their infinite game / of billiards and billiards and billiards. -Piet Hein, poet and scientist (1905-1996)
+
+To be brave is to behave / bravely when your heart is faint. / So you can be really brave / only when you really ain't. -Piet Hein, poet and scientist (1905-1996)
+
+The universe may / be as great as they say. / But it wouldn't be missed / if it didn't exist. -Piet Hein, poet and scientist (1905-1996)
+
+The road to wisdom? Well, it's plain / And simple to express: / Err / and err / and err again, / but less / and less / and less. -Piet Hein, poet and scientist (1905-1996)
+
+The cure for anything is salt water -- sweat, tears, or the sea. -Isak Dinesen (pen name of Karen Blixen), author (1885-1962) 
+
+In the Soviet Union, capitalism triumphed over communism. In this country, capitalism triumphed over democracy. -Fran Lebowitz, author (b. 1950) 
+
+Men are the devils of the earth and the animals are its tormented souls. -Arthur Schopenhauer, philosopher (1788-1860) 
+
+Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted. -Ralph Waldo Emerson, writer and philosopher (1803-1882) 
+
+Ultimately, man should not ask what the meaning of his life is, but rather must recognize that it is he who is asked. In a word, each man is questioned by life; and he can only answer to life by answering for his own life; to life he can only respond by being responsible. -Viktor Frankl, author, neurologist and psychiatrist, Holocaust survivor (1905-1997)
+
+...success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side-effect of one's personal dedication to a cause greater than oneself or as the by-product of one's surrender to a person other than oneself. Happiness must happen, and the same holds for success... success will follow you precisely because you had forgotten to think of it. -Viktor Frankl, author, neurologist and psychiatrist, Holocaust survivor (1905-1997)
+
+Many wealthy people are little more than janitors of their possessions. -Frank Lloyd Wright, architect (1867-1959) 
+
+No man was ever more than about nine meals away from crime or suicide. -Eric Sevareid, journalist (1912-1992)
+
+We should tackle reality in a slightly jokey way, otherwise we miss its point. -Lawrence Durrell, novelist, poet, and playwright (1912-1990) 
+
+To blame the poor for subsisting on welfare has no justice unless we are also willing to judge every rich member of society by how productive he or she is. Taken individual by individual, it is likely that there's more idleness and abuse of government favors among the economically privileged than among the ranks of the disadvantaged. -Norman Mailer, author (1923-2007) 
+
+Children have never been very good at listening to their elders, but they have never failed to imitate them. -James Baldwin, writer (1924-1987)
+
+The law, in its majestic equality, forbids the rich as well as the poor to sleep under bridges, to beg in the streets, and to steal bread. -Anatole France, novelist, essayist, Nobel laureate (1844-1924) 
+
+A teacher affects eternity; he can never tell where his influence stops. -Henry Adams, historian and teacher (1838-1918) 
+
+What is the use of a fine house if you haven't got a tolerable planet to put it on. -Henry David Thoreau, naturalist and author (1817-1862) 
+
+The late F.W.H. Myers used to tell how he asked a man at a dinner table what he thought would happen to him when he died. The man tried to ignore the question, but on being pressed, replied: "Oh well, I suppose I shall inherit eternal bliss, but I wish you wouldn't talk about such unpleasant subjects." -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970) 
+
+The moral test of government is how that government treats those who are in the dawn of life, the children; those who are in the twilight of life, the elderly; and those who are in the shadows of life -- the sick, the needy and the handicapped. -Hubert Horatio Humphrey, US Vice President (1911-1978) 
+
+When two opposite points of view are expressed with equal intensity, the truth does not necessarily lie exactly halfway between them. It is possible for one side to be simply wrong. -Richard Dawkins, biologist and author (b. 1941)
+
+I would rather be able to appreciate things I can not have than to have things I am not able to appreciate. -Elbert Hubbard, author, editor, printer (1856-1915)
+
+
+God will not look you over for medals, diplomas, or degrees – but for scars. -Elbert Hubbard, author, editor, printer (1856-1915)
+
+
+If money be not thy servant, it will be thy master. The covetous man cannot so properly be said to possess wealth, as that may be said to possess him. -Francis Bacon, essayist, philosopher, and statesman (1561-1626) 
+
+Art is the elimination of the unnecessary. -Pablo Picasso, painter, and sculptor (1881-1973) 
+
+Our chief want in life is somebody who shall make us do what we can. -Ralph Waldo Emerson, writer and philosopher (1803-1882)
+
+There is then creative reading as well as creative writing. When the mind is braced by labor and invention, the page of whatever book we read becomes luminous with manifold allusion. -Ralph Waldo Emerson, writer and philosopher (1803-1882) 
+
+The greatest obstacle to discovering the shape of the earth, the continents, and the oceans was not ignorance but the illusion of knowledge. -Daniel J. Boorstin, historian, professor, attorney, and writer (1914-2004) 
+
+We do not err because truth is difficult to see. It is visible at a glance. We err because this is more comfortable. -Alexander Solzhenitsyn, novelist, Nobel laureate (1918-2008)
+
+In some circumstances, the refusal to be defeated is a refusal to be educated. -Margaret Halsey, novelist (1910-1997) 
+
+Laws too gentle are seldom obeyed; too severe, seldom executed. -Benjamin Franklin, statesman, author, and inventor (1706-1790) 
+
+Poetry is when an emotion has found its thought and the thought has found words. -Robert Frost, poet (1874-1963) 
+
+It is lamentable, that to be a good patriot one must become the enemy of the rest of mankind. -Voltaire, philosopher (1694-1778) 
+
+As I grow to understand life less and less, I learn to live it more and more. -Jules Renard, writer (1864-1910)
+
+Most institutions demand unqualified faith; but the institution of science makes skepticism a virtue. -Robert King Merton, sociologist (1910-2003) 
+
+You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions. -Naguib Mahfouz, writer, Nobel laureate (1911-2006) 
+
+Since Auschwitz we know what man is capable of. And since Hiroshima we know what is at stake. -Viktor Frankl, author, neurologist and psychiatrist, Holocaust survivor (1905-1997)
+
+Every man is guilty of all the good he did not do. -Voltaire, philosopher (1694-1778)
+
+We are trying to prove ourselves wrong as quickly as possible, because only in that way can we find progress. -Richard Feynman, physicist (1918-1988)
+
+If this life be not a real fight, in which something is eternally gained for the universe by success, it is no better than a game of private theatricals from which one may withdraw at will. But it feels like a real fight. -William James, psychologist and philosopher (1842-1910)
+
+He is happy, whose circumstances suit his temper; but he is more happy, who can suit his temper to any circumstances. -David Hume,  philosopher, historian, and economist (1711-1776)
+
+It was amazing that in this country where people allowed emotion to guide their politics they approached love with the precision of accountants. -Naguib Mahfouz, writer, Nobel laureate (1911-2006) 
+
+Suffering - how divine it is, how misunderstood! We owe to it all that is good in us, all that gives value to life; we owe to it pity, we owe to it courage, we owe to it all the virtues. -Anatole France, novelist, essayist, Nobel laureate (1844-1924) 
+
+Innocence most often is a good fortune and not a virtue. -Anatole France, novelist, essayist, Nobel laureate (1844-1924) 
+
+Never use a metaphor, simile, or other figure of speech which you are used to seeing in print. -George Orwell, writer (1903-1950)
+
+Some forms of reality are so horrible we refuse to face them, unless we are trapped into it by comedy. To label any subject unsuitable for comedy is to admit defeat. -Peter Sellers, comedian, actor (1925-1980)
+
+Life is a moderately good play with a badly-written third act. -Truman Capote, writer (1924–1984)
+
+Failure is the condiment that gives success its flavor. -Truman Capote, writer (1924–1984)
+
+People who are having a love-sex relationship are continuously lying to each other... you have to make a love object of this person, which means that you editorialize about them... You cut out what you don't want to see, you add this if it isn't there... But in a friendship you... do exactly the reverse. You try more and more to be as completely pure and straight as you can be. -Truman Capote, writer (1924–1984)
+
+Learn from the mistakes of others. You can never live long enough to make them all yourself. -Groucho Marx, comedian and actor (1890–1977)
+
+The opposite of a correct statement is a false statement. But the opposite of a profound truth may well be another profound truth. -Niels Bohr, physicist (1885–1962)
+
+An expert is a person who has found out by his own painful experience all the mistakes that one can make in a very narrow field. -Niels Bohr, physicist (1885–1962)
+
+Every sentence I utter must be understood not as an affirmation, but as a question. -Niels Bohr, physicist (1885–1962)
+
+We are what we pretend to be, so we must be careful about what we pretend to be. -Kurt Vonnegut
+
+In preparing for battle, I have always found that plans are useless but planning is indispensable. -Dwight David Eisenhower, soldier and politician (1890–1969)
+
+Maybe all one can do is hope to end up with the right regrets. -Arthur Miller, playwright (1915–2005)
+
+Invention, it must be humbly admitted, does not consist in creating out of void, but out of chaos.
+
+–Mary Wollstonecraft Shelley, author (1797-1851)
+
+A desk is a dangerous place from which to view the world. -John le Carré, spy and author (1931-)
+
+The need to be right - the sign of a vulgar mind. Albert Camus, writer, philosopher, Nobel laureate (1913-1960)
+
+Any man can make mistakes, but only a fool persists in his error -Marcus Tullius Cicero, statesman, orator and writer (106-43 BCE)
+
+It is better to die for an idea that will live, than to live for an idea that will die. -Stephen Bantu Biko, activist (1946–1977)
+
+Truth is the daughter of time, and I feel no shame in being her midwife. -Johannes Kepler, astronomer (1571-1630)
+
+Nothing is a hobby - each discipline is its own world with its own high standards. -Patti Smith, poet (1946-)
+
+The impediment to action advances action. The obstacle is the way. -Marcus Aurelius, philosopher (121-180)
+
+If you would persuade, appeal to interest and not to reason. -Benjamin Franklin, statesman, author, and inventor (1706-1790) 
+
+Most people overestimate what they can do in one year and underestimate what they can do in ten years. -Bill Gates, co-founder of Microsoft (1955-)
+
+The art of being wise is the art of knowing what to overlook. -William James, psychologist and philosopher (1842-1910) 
+
+Step by step they were led to things which dispose to vice, the lounge, the bath, the elegant banquet. All this in their ignorance they called civilisation, when it was but a part of their servitude. -Publius Cornelius Tacitus, historian (c.55-c.120)
+
+Confronted with the impossibility of remaining faithful to one’s beliefs, and the equal impossibility of becoming free of them, one can be driven to the most inhuman excesses. –James Baldwin, writer (1924-1987)
+
+I conceive of God, in fact, as a means of liberation and not a means to control others. –James Baldwin, writer (1924-1987)
+
+The price one pays for pursuing any profession or calling is an intimate knowledge of its ugly side. –James Baldwin, writer (1924-1987)
+
+Half the trouble in life is caused by pretending that there isn’t any. -Edith Wharton, novelist and designer (1862-1937) 
+
+The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design. - Friedrich Hayek, economist and philosopher (1899-1992)
+
+A man who procrastinates in his choosing will inevitably have his choice made for him by circumstance. - Hunter S. Thompson, journalist and author (1937–2005)
+
+The enemy of a love is never outside, it's not a man or a woman, it's what we lack in ourselves. - Anaïs Nin, author (1903–1977)
+
+Great lives never go out; they go on. - Benjamin Harrison, 23rd US president and lawyer (1833–1901)
+
+Be thine own palace, or the world's’ thy jail. - John Donne, poet (1573-1631)
+
+
+Little minds are tamed and subdued by misfortune; but great minds rise above it. -Washington Irving, writer (1783-1859)
+
+The secret of good writing is to say an old thing in a new way, or a new thing in an old way. - Richard Harding Davis, journalist and writer
+
+Every word is like an unnecessary stain on silence and nothingness. - Samuel Beckett, playwright, novelist, and poet (1906–1989)
+
+The time-state of attainment eliminates so accurately the time-state of aspiration, that the actual seems the inevitable, and, all conscious intellectual effort to reconstitute the invisible and unthinkable as a reality being fruitless, we are incapable of appreciating our joy by comparing it with our sorrow.  - Samuel Beckett, playwright, novelist, and poet (1906–1989)
+
+(Samuel) Beckett does not believe in God, though he seems to imply that God has committed an unforgivable sin by not existing. - Anthony Burgess, writer (1917–1993)
+
+Tis a great confidence in a friend to tell him your faults; greater to tell him his. - Benjamin Franklin, polymath (1706–1790)
+
+Those who will not reason, are bigots; those who cannot, are fools; and those who dare not, are slaves. -Lord Byron, poet (1788-1824)
+
+The difficulty lies not so much in developing new ideas as escaping from old ones. -John Maynard Keynes, economist (1883-1946)
+
+
+To live only for some future goal is shallow. It’s the sides of the mountain that sustain life, not the top. -Robert Pirsig, philosopher and novelist (1928–2017)
+
+The day is coming when a single carrot, freshly observed, will set off a revolution. -Paul Cézanne, painter (1839–1906)
+
+Life is a shipwreck, but we must not forget to sing in the lifeboats. -Voltaire, philosopher (1694-1778)
+
+Virtue is more to be feared than vice, because its excesses are not subject to the regulation of conscience. -Adam Smith, economist (1723-1790) 
+
+I never wonder to see men wicked, but I often wonder to see them not ashamed. -Jonathan Swift, satirist (1667-1745)
+
+Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after. –George Orwell, writer (1903-1950)
+
+Despicable means used to achieve laudable goals render the goals themselves despicable. -Anton Chekhov, short-story writer and dramatist (1860-1904)
+
+  
+
+The line separating good and evil passes not through states, nor between classes, nor between political parties either — but right through every human heart. -Alexander Solzhenitsyn, novelist, Nobel laureate (1918-2008)
+
+
+Euclid taught me that without assumptions there is no proof. Therefore, in any argument, examine the assumptions. Then, in the alleged proof, be alert for inexplicit assumptions. -Eric Temple Bell, mathematician and science fiction author (1883-1960)
+
+The so-called obvious was repeatedly scrutinized from every angle and was frequently found to be not obvious but false. "Obvious" is the most dangerous word in mathematics. -Eric Temple Bell, mathematician and science fiction author (1883-1960)
+
+Until we have begun to go without them, we fail to realize how unnecessary many things are. We've been using them not because we needed them but because we had them. –Lucius Annaeus Seneca, philosopher and writer (c. 3 BCE - AD 65)
+
+The most important component of evolution is death... it's easier to create a new organism than to change an existing one. -John Ousterhourt, computer science professor (1954-)
+
+Facts precede concepts: a fact is a piece of information that can be observed or measured; a concept is a general rule that can be used to predict many facts or a solution to many problems... before you can appreciate or develop a concept you need to observe a large number of facts related to the concept. -John Ousterhourt, computer science professor (1954-)
+
+Always too eager for the future, we / Pick up bad habits of expectancy. -Philip Larkin, poet, novelist and librarian (1922–1985)
+
+In everyone there sleeps / A sense of life lived according to love. / To some it means the difference they could make / By loving others, but across most it sweeps / As all they might have done had they been loved. / That nothing cures. -Philip Larkin, poet, novelist and librarian (1922–1985)
+
+Life is first boredom, then fear. / Whether or not we use it, it goes, / And leaves what something hidden from us chose, / And age, and then the only end of age. -Philip Larkin, poet, novelist and librarian (1922–1985)
+
+All the other lads there / Were itching to have a bash / But I thought wanting unfair: / It and finding out clash. -Philip Larkin, poet, novelist and librarian (1922–1985)
+
+History is the autobiography of a madman. -Alexander Herzen, author (1812-1870)
+
+History... is the ultimate in speculative narrative, subject to ongoing and inevitable revision. Science fiction tends to behave like a species of history pointing in the opposite direction, up the timeline rather than back. But you can't draw imaginary future histories without a map of the past that your readers will accept as their own. -William Gibson, author (1948-)
+
+Poetry is just the evidence of life. If your life is burning well, poetry is just the ash. -Leonard Cohen, musician and poet (1934-2016)
+
+It is better to go skiing and think of God than to go to church and think of sport. -Fridtjof Nansen, explorer, diplomat, and Nobel laureate (1861–1930)
+
+Never trust a thought that occurs to you indoors. -Friedrich Nietzsche, philosopher (1844-1900)
+
+There is no foreign land; it is the traveller only that is foreign. -Robert Louis Stevenson, novelist, essayist, and poet (1850-1894)
+
+Music is a hidden arithmetic exercise of the soul, which does not know what it is counting. -Gottfried Leibniz, mathematician and philosopher (1646-1716)
+
+The truth isn’t always beauty, but the hunger for it is. -Nadine Gordimer, writer, activist, Nobel laureate (1923-2014)
+
+We're all going to die, all of us, what a circus! That alone should make us love each other but it doesn't. We are terrorized and flattened by trivialities, we are eaten up by nothing. -Charles Bukowski, writer (1920-1994)
+
+It is probably true that business corrupts everything it touches. It corrupts politics, sports, literature, art, labor unions and so on. But business also corrupts and undermines monolithic totalitarianism. Capitalism is at its liberating best in a noncapitalist environment. -Eric Hoffer, philosopher and author (1902-1983)
+
+Faith in a holy cause is to a considerable extent a substitute for the lost faith in ourselves. -Eric Hoffer, philosopher and author (1902-1983)
+
+It has often been said that power corrupts. But it is perhaps equally important to realize that weakness, too, corrupts. Power corrupts the few, while weakness corrupts the many. -Eric Hoffer, philosopher and author (1902-1983)
+
+Rudeness is the weak man's imitation of strength. -Eric Hoffer, philosopher and author (1902-1983)
+
+It is easier to love humanity as a whole than to love one's neighbor. -Eric Hoffer, philosopher and author (1902-1983)
+
+You accept certain unlovely things about yourself and manage to live with them. The atonement for such an acceptance is that you make allowances for others — that you cleanse yourself of the sin of self-righteousness. -Eric Hoffer, philosopher and author (1902-1983)
+
+The significant point is that people... who cannot do much with (freedom) are hungry for power. The desire for freedom... says: leave me alone and I shall grow, learn, and realize my capacities. Freedom gives us a chance to realize our human and individual uniqueness. Absolute power can also bestow uniqueness: to have absolute power is to have the power to reduce all the people around us to puppets, robots, toys, or animals, and be the only man in sight. Absolute power achieves uniqueness by dehumanizing others. To sum up: Those who lack the capacity to achieve much in an atmosphere of freedom will clamor for power. -Eric Hoffer, philosopher and author (1902-1983)
+
+It is the individual only who is timeless. Societies, cultures, and civilizations — past and present — are often incomprehensible to outsiders, but the individual's hunger, anxieties, dreams, and preoccupations have remained unchanged through the millennia. Thus, we are up against the paradox that the individual who is more complex, unpredictable, and mysterious than any communal entity is the one nearest to our understanding; so near that even the interval of millennia cannot weaken our feeling of kinship. -Eric Hoffer, philosopher and author (1902-1983)
+
+It is not good for our efforts at self-realization to know the opinions other people have of us. It is difficult or perhaps impossible to be ourselves if we are known. -Eric Hoffer, philosopher and author (1902-1983)
+
+Nature gets credit which should in truth be reserved for ourselves: the rose for its scent, the nightingale for its song, and the sun for its radiance. The poets are entirely mistaken. They should address their lyrics to themselves and should turn them into odes of self-congratulation on the excellence of the human mind.  -Alfred North Whitehead, mathematician and philosopher (1861-1947)
+
+It is a profoundly erroneous truism... that we should cultivate the habit of thinking of what we are doing. The precise opposite is the case. Civilization advances by extending the number of important operations which we can perform without thinking about them. -Alfred North Whitehead, mathematician and philosopher (1861-1947)
+
+
+Work destroys your soul by stealthily invading your brain during the hours not officially spent working; be selective about professions. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+The best revenge on a liar is to convince him that you believe what he said. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+If you want people to read a book, tell them it is overrated. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+We need to feel a little bit lost somewhere, physically or intellectually, at least once a day. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+Thinking that all individuals pursue “selfish” interests is equivalent to assuming that all random variables have zero covariance. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+Quite revealing of human preferences that more suicides come from shame or loss of financial and social status than medical diagnoses. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+Business wars are typically lost by both parties; academic wars are won by both sides. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+People focus on role models; it is more effective to find antimodels — people you don’t want to resemble when you grow up. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+The twentieth century was the bankruptcy of the social utopia; the twenty-first will be that of the technological one. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+For so many, instead of looking for “cause of death” when they expire, we should be looking for “cause of life” when they are still around. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+Any book not worth rereading isn’t worth reading. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+A heuristic on whether you have control of your life: can you take naps? -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+Hard science gives sensational results with a horribly boring process; philosophy gives boring results with a sensational process; literature gives sensational results with a sensational process; and economics gives boring results with a boring process. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+The genius of Benoît Mandelbrot is in achieving aesthetic simplicity without having recourse to smoothness. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+The difference between the politician and the philosopher is that, in a debate, the politician doesn’t try to convince the other side, only the audience. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+The nation-state: apartheid without political incorrectness. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+Someone from your social class who becomes poor affects you more than thousands of starving ones outside of it. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+To understand how something works, figure out how to break it. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+When conflicted between two choices, take neither. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+For the robust, an error is information; for the fragile, an error is an error. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+People like to eat fish by the water even if the fish was caught far away and transported by trucks. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+The best way to spot a charlatan: someone (like a consultant or a stockbroker) who tells you what to do instead of what not to do. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+To become a philosopher, start by walking very slowly. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+It is perplexing but amusing to observe people getting extremely excited about things you don’t care about; it is sinister to watch them ignore things you believe are fundamental. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+Let us find what risks we can measure and these are the risks we should be taking. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+Contra the prevailing belief, “success” isn’t being on top of a hierarchy, it is standing outside all hierarchies. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+A happier world is one in which everyone realizes that 1) it is not what you tell people, it is how you say it that makes them feel bad; 2) it is not what you do to them but how you make them look that gets them angry; 3) they should be the ones putting themselves in a specific category. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
