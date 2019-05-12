@@ -1,9 +1,33 @@
 ## Reread, and write a response
 
-1. Meetup and Event Notes [ ]
+1. ABE phonics app reimplementation `**<===Current===**`
+
+### Non-technical revisitations
+
+1. Crash Course Computer Science [ ]
+
+1. How Language Began [ ]
+
+1. Crash Course Study Skills [ ]
+
+1. Through the Language Glass [ ]
+
+1. Words and Rules [ ]
+
+1. How We Learn [ ]
+
+1. Write comparison of different sources of OER: (_yes, you'll need to build a rubric/taxonomy of some sort_)
+    - [OpenStax](https://openstax.org/about&sa=D&ust=1543096216913000) at Rice University
+    - [Open Textbook Library](http://open.umn.edu/opentextbooks/About.aspx&sa=D&ust=1543096216913000) (and network) at University of Minnesota
+    - [OpenEd](https://open.bccampus.ca/find-open-textbooks/&sa=D&ust=1543096216914000) at BCcampus (a support org for British Columbia schools)
+    - [Lumen Learning](https://lumenlearning.com/courses?&sa=D&ust=1543096216914000) (a for-profit company that uses OER to sell integrated learning analytics software)
+    - The [Open Ed Consortium](https://www.oeconsortium.org/about-oec/&sa=D&ust=1543096216915000) (global nonprofit) and [MERLOT](http://info.merlot.org/merlothelp/topic.htm%23t%3DWho_We_Are.htm&sa=D&ust=1543096216915000) (originally CSU, but now partnered with OEC?) also provide search tools (do they host/support any objects of their own, though?)
+    - [Open Washington](http://www.openwa.org/&sa=D&ust=1543096216916000) has an short, introductory course on OER use and licenses.
+    - [Creative Commons](https://creativecommons.org/about/program-areas/education-oer/education-oer-resources/&sa=D&ust=1543096216917000) has a list of search tools.
+
+### Ideas
 
 1. **Idea:** GUI for content professors (_i.e. experts in research, but not pedagogy_) to build lessons, guided by sound teaching principles and pleasing design.
-
    - (_Note you have two reaaaaaal ugly back-of-the-napkin wireframe illustrations for this in Dropbox._)
    - Sold to universities: align with institution-unique accreditation requirements.
      - Software that takes an instructor from subject matter expert tune near-professional educator, by scaffolding their building of lesson plans, assessments, and syllabi.
@@ -13,14 +37,7 @@
    - UI for [content and activity] selection (for touchscreen access)
    - Track [content and activity]-types across lessons (by week, unit, semester etc)
 
-1. Business and Management Book Summaries [ ]
-
-1. Crash Course Computer Science [ ]
-
-1. How Language Began [ ]
-
 1. **Idea:** SMS-based daily speaking prompts (_for APAC white-collar EFL learners_).
-
    - Delivered by voice recording + optional supplementary text,
    - using push notifications/email.
    - Prompt contains topic;
@@ -32,19 +49,21 @@
      - every other day is VoIP role-play;
      - two chances to record: once w/o prep, at beginning of day, and once after receiving 5-10 potentially-useful vocabulary words.
 
-1. Crash Course Study Skills [ ]
-
-1. Through the Language Glass [ ]
-
 1. **Idea:** Use noun project API to create "conversation starters" for video sessions (_e.g. speakers tell a story based on randomly-generated pics._) Options:
-
    - timed/untimed
    - number of images (either choose one from three, or must integrate entire set into story?)
    - Image categories
    - Bring in various Faker-generated sentences as prompts (use e.g. quotes Classes, rather than single-word entries) https://github.com/stympy/faker
    - [plenty](https://thenounproject.com/browse/) [such](https://gallery.manypixels.co/) [sources](https://www.ikonate.com/) for grabbing image-prompts, too
 
-1. Words and Rules [ ]
+### Technical revisitations
+
+1. Full-Stack for Frontends 01 [ ]
+1. Full-Stack for Frontends 02 [ ]
+
+1. Meetup and Event Notes [ ]
+
+1. Business and Management Book Summaries [ ]
 
 1. Beautiful JavaScript [ ]
 1. JavaScript_The Hard (and New Hard) Parts [ ]
@@ -52,37 +71,32 @@
 1. JavaScript: The Recent Parts
 1. Learning Javascript
 
-1. Write comparison of different sources of OER: (_yes, you'll need to build a rubric/taxonomy of some sort_)
-    - [OpenStax](https://openstax.org/about&sa=D&ust=1543096216913000) at Rice University
-    - [Open Textbook Library](http://open.umn.edu/opentextbooks/About.aspx&sa=D&ust=1543096216913000) (and network) at University of Minnesota
-    - [OpenEd](https://open.bccampus.ca/find-open-textbooks/&sa=D&ust=1543096216914000) at BCcampus (a support org for British Columbia schools)
-    - [Lumen Learning](https://lumenlearning.com/courses?&sa=D&ust=1543096216914000) (a for-profit company that uses OER to sell integrated learning analytics software)
-    - The [Open Ed Consortium](https://www.oeconsortium.org/about-oec/&sa=D&ust=1543096216915000) (global nonprofit) and [MERLOT](http://info.merlot.org/merlothelp/topic.htm%23t%3DWho_We_Are.htm&sa=D&ust=1543096216915000) (originally CSU, but now partnered with OEC?) also provide search tools (do they host/support any objects of their own, though?)
-    - [Open Washington](http://www.openwa.org/&sa=D&ust=1543096216916000) has an short, introductory course on OER use and licenses.
-    - [Creative Commons](https://creativecommons.org/about/program-areas/education-oer/education-oer-resources/&sa=D&ust=1543096216917000) has a list of search tools.
-
 1. Design for Developers [ ]
-
-1. Full-Stack for Frontends 01 [ ]
-1. Full-Stack for Frontends 02 [ ]
 
 1. Introduction to Gatsby [ ]
 
-1. How We Learn [ ]
+1. Digging into Node [ ]
+
+1. Service Workers [ ]
+
 
 ---
 
 ## Read a book; build a thing
 
-1. Get a one-month GoRails subscription, and burn ruthlessly though their resources `**<===Current===**`
+### Step 01: RoR and RN
+
+1. Work through GoRails subscription, and burn ruthlessly though their resources `**<===Current===**`
+
+1. RoR PWA to shoot you a daily quote from _Other People's Lines._
 
 1. Ruby chapter in Json At Work (O'Reilly)
 
-1. [Manning book on Ruby](https://www.manning.com/books/the-well-grounded-rubyist-third-edition)
-
 1. Learning React Native
 
-1. PWA (_or React Native app!_) to shoot you a daily quote from _Other People's Lines._
+1. RoR JSON API / React Native app to perform the equivalent of an Anki deck of cognitive biases/logical fallacies (just scrape Wikipedia for content)
+
+### Step 02: O'Reilly Cookbook Reprocessing
 
 1. [The Linux Command Line](http://linuxcommand.org/tlcl.php) (No Starch)
 
@@ -102,9 +116,11 @@
 
 1. `${Add projects from "Next Steps" section of 'Revisiting' and 'Ideas' files}`
 
-1. After you do some NLP learning, build a program that creates (e.g. noun-verb) collocates based on pairs that rarely/never collocate (idea-prompting sample: “the clocks delectate.”)
+### Step 03: hashtag #gitgud at Ruby, or NLP, or both
 
-1. Create a new Anki deck of cognitive biases/logical fallacies (just scrape Wikipedia) -- programmatically parsing/processing text into Anki cards as another NLP task?
+1. [Manning book on Ruby](https://www.manning.com/books/the-well-grounded-rubyist-third-edition)
+
+1. After you do some NLP learning, build a program that creates (e.g. noun-verb) collocates based on pairs that rarely/never collocate (idea-prompting sample: “the clocks delectate.”)
 
 ---
 
@@ -152,6 +168,6 @@
 1. Apps and Ideas Heap #18 [ x ]
 1. Apps and Ideas Heap #8 [ x ]
 1. Apps and Ideas Heap #15 [ identical to #17 ]
-1. ~~Educause's 7 Things You Should Know [ ]~~
+1. ~~Educause's 7 Things You Should Know [ not a ton of content; kept OER-links list]~~
 1. Zero to One [ x ]
 

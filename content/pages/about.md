@@ -16,7 +16,7 @@ And you probably shouldn’t.
 
 I didn’t! This is almost byte-for-byte the [Lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) starter for [Gatsby.](https://www.gatsbyjs.org/features/) No, [seriously.](https://lumen.netlify.com/) 
 
-The code is almost entirely the work of others: my adaptation has largely been to rip out the pieces that made it difficult for me to rapidly reason about. You know, little things like “the entire CMS admin view” and “static typechecking.” 
+The code is pretty much entirely the work of others: my adaptation has largely been to rip out the pieces that made it difficult for me to rapidly reason about. You know, little things like “the entire CMS admin view” and “static typechecking.” 
 
 (_That’s right, to be clear: my personal addition to this codebase has been purely to make it **worse**. But... faster to work with!_)
 
