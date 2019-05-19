@@ -94,7 +94,9 @@
 
 1. Learning React Native
 
-1. RoR JSON API / React Native app to perform the equivalent of an Anki deck of cognitive biases/logical fallacies (just scrape Wikipedia for content)
+1. RoR JSON API / React Native app to 
+    * perform the equivalent of an Anki deck of cognitive biases/logical fallacies (just scrape Wikipedia for content); or
+    * serve as a [decision journal](https://fs.blog/2014/02/decision-journal/)
 
 ### Step 02: O'Reilly Cookbook Reprocessing
 

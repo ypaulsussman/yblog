@@ -251,3 +251,72 @@ Models that make use of ActionCable will have an `after_commit` hook that passes
 
 
 ## Episode 13. Rails Counter Caches 
+
+Counter caches = performance improvement (you can run one query to get the number '40,000' from the record, rather than summing each record.)
+
+On models, remember to use e.g. `rails g model Baz foo_bar:references` to create an id that will point to a record on the `FooBar` model.
+
+Good practice when creating a field you'll later use for a counter cache: add default and disallow `null`, as in: `t. integer :posts_count, default: 0, null: false` within the migration.
+
+To create the cache, add it to the association within the model, e.g.:
+```ruby
+class ForumPost < ApplicationRecord
+  belongs_to :user, counter_cache: true
+# ...  
+end
+```
+As a result of the above, creating/deleting a `ForumPost` will trigger a callback that the `counter_cache` method will perform. (That is, it always goes on the "child" model, the one with the `belongs_to`.)
+
+In rails console, you can do e.g. `u.forum_posts.create` to make a new `ForumPost` instance which belongs to `User` (assuming `u` was an instance of `User` and there's a `belongs_to` relation on `forum_posts`.)
+
+The actual counter-cache increment/decrement takes place at the db level (via a `COALESCE`), so it's faster than any Ruby code.
+
+If you want to implement a counter cache on a preexisting field, you'll need to add a summing function to the migration:
+```ruby
+def change
+  add_column :user, :forum_posts_count, :integer, default: 0, null: false
+# calculating function; `reset_counters` is model class method:
+  User.find_each {|u| User.reset_counters(ft.id, :forum_posts)}  
+end
+```
+Above can be slow, though, in that it needs to load all the records into Ruby in order to access the `reset_counter` method; there's [a good example here](https://ryan.mcgeary.org/2016/02/05/proper-counter-cache-migrations-in-rails/) of the direct SQL query to add to the migration instead.
+
+Make sure, when using a counter-cached association, to call it correctly: `u.forum_posts_count` will give you the fast, cached version; but calling `u.forum_posts.count` will actually run the full `SELECT` query.
+
+
+## Episode 14. Atomic Updates And Performance with ActiveRecord Transactions 
+
+Note: Rails already uses a `transaction` for each `.save` and `.destroy`, in order to process nested attributes (e.g. when creating a `User` model with various associations, logs, etc) and sure that either none or all connected queries succeed.
+
+Because of inheritance, you can define a `transaction` in several different ways:
+```ruby
+ActiveRecord::Base.transaction do end
+# is, assuming Account is a model class, the same as
+Account.transaction do end
+# or even
+self.transaction do end
+# which is the same as 
+transaction do end
+```  
+
+Because a `transaction` occurs at the db-connection level, rather than the model level, it can keep track of multiple tables being updated within a single transaction. (Crucial!)
+
+If you want to see how some Ruby code is being parsed into SQL w/o actually changing your db, wrap the relevant code in a `transaction`, then just before it ends call `raise ActiveRecord::Rollback` 
+
+At very large record counts, `transaction` can provide a significant performance boost by letting you call `commit` just once (rather than after each save/destroy.)  
+
+
+## Episode 15. Debugging: How to Interpret a Stacktrace 
+
+_Nice walkthrough of a stack trace, but no facts immediately-visible as worth adding to your personal memory._
+
+
+## Episode 16. Rails Application Templates  
+
+Application Templates are Ruby scripts that run after app-creation to modify e.g. the Gemfile, routes, envvars, etc.
+
+It's based on a toolkit called Thor; the documentation there is also useful.
+
+Application Templates are called by passing the `-m` flag to `rails new` (followed by the path to the Ruby file.)
+
+[The example template](https://github.com/excid3/jumpstart) used in this screencast is glorious, and worth at least referencing as you build future apps.

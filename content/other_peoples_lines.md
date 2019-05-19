@@ -7,19 +7,19 @@ Many people take no care of their money till they come nearly to the end of it, 
 
 Love is never lost. If not reciprocated, it will flow back and soften and purify the heart. -Washington Irving, writer (1783-1859)
 
-In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time. -Leonardo da Vinci, painter, engineer, musician, and scientist (1452-1519) 
+In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time. -Leonardo da Vinci, painter, engineer, musician, and scientist (1452-1519)
 
-Poetry is what gets lost in translation. -Robert Frost, poet (1874-1963) 
+Poetry is what gets lost in translation. -Robert Frost, poet (1874-1963)
 
-I call architecture frozen music. -Johann Wolfgang von Goethe (1749-1832) 
+I call architecture frozen music. -Johann Wolfgang von Goethe (1749-1832)
 
-Maybe this world is another planet's Hell. -Aldous Huxley, novelist (1894-1963) 
+Maybe this world is another planet's Hell. -Aldous Huxley, novelist (1894-1963)
 
 Spring is a natural resurrection, an experience in immortality. -Henry David Thoreau, naturalist and author (1817-1862) 	
 
 To the mind that is still, the whole universe surrenders. -Lao-Tzu, philosopher (6th century BCE)
 
-A committee is a cul-de-sac down which ideas are lured and then quietly strangled. -Sir Barnett Cocks, clerk to the House of Commons  
+A committee is a cul-de-sac down which ideas are lured and then quietly strangled. -Sir Barnett Cocks, clerk to the House of Commons
 
 Speech is conveniently located midway between thought and action, where it often substitutes for both. -John Andrew Holmes
 
@@ -29,13 +29,13 @@ The mountain remains unmoved at seeming defeat by the mist. -Rabindranath Tagore
 
 Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one getting burned. -Buddha (c. 566-480 BCE)
 
-It is easy enough to be friendly to one's friends. But to befriend the one who regards himself as your enemy is the quintessence of true religion. The other is mere business.  -Mohandas K. Gandhi (1869-1948)
+It is easy enough to be friendly to one's friends. But to befriend the one who regards himself as your enemy is the quintessence of true religion. The other is mere business. -Mohandas K. Gandhi (1869-1948)
 
 Most men pursue pleasure with such breathless haste they hurry past it. -Soren Kierkegaard, philosopher (1813-1855)
 
-Nothing contributes so much to tranquilizing the mind as a steady purpose - a point on which the soul may fix its intellectual eye. –Mary Wollstonecraft Shelley, author (1797-1851)
+Nothing contributes so much to tranquilizing the mind as a steady purpose - a point on which the soul may fix its intellectual eye. -Mary Wollstonecraft Shelley, author (1797-1851)
 
-A painting is never finished - it simply stops in interesting places. –Paul Gardner, painter
+A painting is never finished - it simply stops in interesting places. -Paul Gardner, painter
 
 Sometimes I think we're alone in the universe, and sometimes I think we're not. In either case, the idea is quite staggering. -Arthur C Clarke, science fiction writer (1917- )
 
@@ -45,7 +45,7 @@ My library / Was dukedom large enough. -William Shakespeare, poet and dramatist 
 
 No two persons ever read the same book. -Edmund Wilson, critic (1895-1972)
 
-Just as appetite comes by eating so work brings inspiration. –Igor Stravinsky, composer (1882-1971)
+Just as appetite comes by eating so work brings inspiration. -Igor Stravinsky, composer (1882-1971)
 
 Words are things; and a small drop of ink / Falling like dew upon a thought, produces / That which makes thousands, perhaps millions, think. -Lord Byron, poet (1788-1824)
 
@@ -59,7 +59,7 @@ We who lived in concentration camps can remember the men who walked through the 
 
 I have always imagined that paradise will be a kind of library. -Jorge Luis Borges, writer (1899-1986)
 
-Praise, like gold and diamonds, owes its value to its scarcity. –Samuel Butler, poet (1612-1680)
+Praise, like gold and diamonds, owes its value to its scarcity. -Samuel Butler, poet (1612-1680)
 
 To be nobody but yourself - in a world which is doing its best, night and day, to make you like everybody else - means to fight the hardest battle which any human being can fight, and never stop fighting. -e.e. cummings, poet (1894-1962)
 
@@ -69,9 +69,9 @@ Words are like money; there is nothing so useless, unless when in actual use. -S
 
 Please subdue the anguish of your soul. Nobody is destined only to happiness or to pain. The wheel of life takes one up and down by turn. -Kalidasa, dramatist (c. 4th century)
 
-To live content with small means; to seek elegance rather than luxury, and refinement rather than fashion; to be worthy, not respectable, and wealthy, not rich; to listen to stars and birds, babes and sages, with open heart; to study hard; to think quietly, act frankly, talk gently, await occasions, hurry never; in a word, to let the spiritual, unbidden and unconscious, grow up through the common--this is my symphony. -William Henry Channing, clergyman, reformer (1810-1884)
+To live content with small means; to seek elegance rather than luxury, and refinement rather than fashion; to be worthy, not respectable, and wealthy, not rich; to listen to stars and birds, babes and sages, with open heart; to study hard; to think quietly, act frankly, talk gently, await occasions, hurry never; in a word, to let the spiritual, unbidden and unconscious, grow up through the common - this is my symphony. -William Henry Channing, clergyman, reformer (1810-1884)
 
-Each man carries within him the soul of a poet who died young. –Charles Augustin Sainte-Beuve, literary critic (1804-1869)
+Each man carries within him the soul of a poet who died young. -Charles Augustin Sainte-Beuve, literary critic (1804-1869)
 
 I learned long ago that being Lewis Carroll was infinitely more exciting than being Alice. -Joyce Carol Oates, writer (1938- )
 
@@ -83,9 +83,9 @@ One may have a blazing hearth in one's soul, and yet no one ever comes to sit by
 
 No man is an Island, entire of itself; every man is a piece of the Continent, a part of the main; if a clod be washed away by the sea, Europe is the less, as well as if a promontory were, as well as if a manor of thy friends or of thine own were; any man's death diminishes me, because I am involved in Mankind; And therefore never send to know for whom the bell tolls; It tolls for thee. -John Donne, poet (1573-1631)
 
-Works of imagination should be written in very plain language; the more purely imaginative they are the more necessary it is to be plain. –Samuel Taylor Coleridge, poet and philosopher (1772-1834)
+Works of imagination should be written in very plain language; the more purely imaginative they are the more necessary it is to be plain. -Samuel Taylor Coleridge, poet and philosopher (1772-1834)
 
-It is easier to exclude harmful passions than to rule them, and to deny them admittance than to control them after they have been admitted. –Lucius Annaeus Seneca, philosopher and writer (c. 3 BCE - AD 65)
+It is easier to exclude harmful passions than to rule them, and to deny them admittance than to control them after they have been admitted. -Lucius Annaeus Seneca, philosopher and writer (c. 3 BCE - AD 65)
 
 There would be no society if living together depended upon understanding each other. -Eric Hoffer, philosopher and author (1902-1983)
 
@@ -99,7 +99,7 @@ The only wisdom we can hope to acquire is the wisdom of humility: Humility is en
 
 Sometimes even to live is an act of courage. -Lucius Annaeus Seneca, writer and philosopher (BCE 3-65 CE)
 
-Who is content with nothing possesses all things. –Nicolas Boileau-Despreaux, poet (1636-1711)
+Who is content with nothing possesses all things. -Nicolas Boileau-Despreaux, poet (1636-1711)
 
 The death of democracy is not likely to be an assassination from ambush. It will be a slow extinction from apathy, indifference, and undernourishment. -Robert Maynard Hutchins, educator (1899-1977)
 
@@ -107,19 +107,19 @@ Poetry is to prose as dancing is to walking. -John Barrington Wain, writer (1925
 
 Beautiful young people are accidents of nature, but beautiful old people are works of art. -Eleanor Roosevelt, diplomat and writer (1884-1962)
 
-If a man walks in the woods for love of them half of each day, he is in danger of being regarded as a loafer. But if he spends his days as a speculator, shearing off those woods and making the earth bald before her time, he is deemed an industrious and enterprising citizen. -Henry David Thoreau, naturalist and author (1817-1862) 
+If a man walks in the woods for love of them half of each day, he is in danger of being regarded as a loafer. But if he spends his days as a speculator, shearing off those woods and making the earth bald before her time, he is deemed an industrious and enterprising citizen. -Henry David Thoreau, naturalist and author (1817-1862)
 
-Of course, it's possible to love a human being -- if you don't know them too well. -Charles Bukowski, writer (1920-1994)
+Of course, it's possible to love a human being - if you don't know them too well. -Charles Bukowski, writer (1920-1994)
 
 Never attribute to malice that which can be adequately explained by stupidity. -Hanlon's Razor
 
 Kindness is in our power, even when fondness is not. -Samuel Johnson, lexicographer (1709-1784)
 
-Try to learn something about everything and everything about something.  -Thomas Huxley, biologist (1825-1895)
+Try to learn something about everything and everything about something. -Thomas Huxley, biologist (1825-1895)
 
 The end of the human race will be that it will eventually die of civilization. -Ralph Waldo Emerson, writer and philosopher (1803-1882)
 
-What is the function of a critic? So far as I am concerned, he can do me one or more of the following services: 1) Introduce me to authors or works of which I was hitherto unaware. 2) Convince me that I have undervalued an author or a work because I had not read them carefully enough. 3) Show me relations between works of different ages and cultures which I could never have seen for myself because I do not know enough and never shall. 4) Give a “reading” of a work which increases my understanding of it. 5) Throw light upon the process of artistic “Making.” 6) Throw light upon the relation of art to life, to science, economics, ethics, religion, etc. -W. H. Auden, The Dyer’s Hand
+What is the function of a critic? So far as I am concerned, he can do me one or more of the following services: 1) Introduce me to authors or works of which I was hitherto unaware. 2) Convince me that I have undervalued an author or a work because I had not read them carefully enough. 3) Show me relations between works of different ages and cultures which I could never have seen for myself because I do not know enough and never shall. 4) Give a "reading" of a work which increases my understanding of it. 5) Throw light upon the process of artistic "Making." 6) Throw light upon the relation of art to life, to science, economics, ethics, religion, etc. -W. H. Auden, The Dyer’s Hand
 
 Drama is life with the dull bits cut out. -Alfred Hitchcock, film-maker (1899-1980)
 
@@ -127,13 +127,13 @@ So difficult it is to show the various meanings and imperfections of words when 
 
 Music was invented to confirm human loneliness. -Lawrence Durrell, novelist and poet (1912-1990)
 
-If thought corrupts language, language can also corrupt thought. –George Orwell, writer (1903-1950)
+If thought corrupts language, language can also corrupt thought. -George Orwell, writer (1903-1950)
 
-What a strange machine man is! You fill him with bread, wine, fish, and radishes, and out come sighs, laughter, and dreams. -Nikos Kazantzakis, poet and novelist (1883-1957) 
+What a strange machine man is! You fill him with bread, wine, fish, and radishes, and out come sighs, laughter, and dreams. -Nikos Kazantzakis, poet and novelist (1883-1957)
 
 Excellence in any department can be attained only by the labor of a lifetime; it is not to be purchased at a lesser price. -Samuel Johnson, lexicographer (1709-1784)
 
-I do not feel obliged to believe that the same God who has endowed us with sense, reason, and intellect has intended us to forgo their use. –Galileo Galilei, physicist and astronomer (1564-1642)
+I do not feel obliged to believe that the same God who has endowed us with sense, reason, and intellect has intended us to forgo their use. -Galileo Galilei, physicist and astronomer (1564-1642)
 
 Am I not destroying my enemies when I make friends of them? –Abraham Lincoln, 16th US president (1809-1865)
 
@@ -141,11 +141,11 @@ It is the final proof of God's omnipotence that he need not exist in order to sa
 
 A writer is somebody for whom writing is more difficult than it is for other people. -Thomas Mann, novelist, Nobel laureate (1875-1955)
 
-The tax which will be paid for the purpose of education is not more than the thousandth part of what will be paid to kings, priests and nobles who will rise up among us if we leave the people in ignorance. –Thomas Jefferson, third US president, architect and author (1743-1826)
+The tax which will be paid for the purpose of education is not more than the thousandth part of what will be paid to kings, priests and nobles who will rise up among us if we leave the people in ignorance. -Thomas Jefferson, third US president, architect and author (1743-1826)
 
 It is horrifying that we have to fight our own government to save the environment. -Ansel Adams, photographer (1902-1984)
 
-The great tragedy of science -- the slaying of a beautiful hypothesis by an ugly fact. -Thomas Huxley, biologist and writer (1825-1895)
+The great tragedy of science - the slaying of a beautiful hypothesis by an ugly fact. -Thomas Huxley, biologist and writer (1825-1895)
 
 Tears are not arguments. -Machado de Assis, writer (1839-1908)
 
@@ -181,25 +181,25 @@ Remember that there is nothing stable in human affairs; therefore avoid undue el
 
 If all men knew what others say of them, there would not be four friends in the world. -Blaise Pascal, philosopher and mathematician (1623-1662)
 
-The future will soon be a thing of the past. –George Carlin
+The future will soon be a thing of the past. -George Carlin
 
-I’m always relieved when someone is delivering a eulogy and I realize I’m listening to it. –George Carlin
+I’m always relieved when someone is delivering a eulogy and I realize I’m listening to it. -George Carlin
 
-One good reason for maintaining only a small circle of friends is that three out of four murders are committed by people who know the victim. –George Carlin
+One good reason for maintaining only a small circle of friends is that three out of four murders are committed by people who know the victim. -George Carlin
 
-Civilization began its downhill path the day some guy first uttered the words, “A man’s gotta do what a man’s gotta do.” –George Carlin
+Civilization began its downhill path the day some guy first uttered the words, "A man’s gotta do what a man’s gotta do." –George Carlin
 
-I don’t know about you, but I really don’t have a problem with atrocities.  What’s the big deal?  Lighten up. –George Carlin
+I don’t know about you, but I really don’t have a problem with atrocities.  What’s the big deal?  Lighten up. -George Carlin
 
-I think many years ago an advanced civilization intervened with us genetically and gave us just enough intelligence to develop dangerous technology but not enough to use it wisely.  Then they sat back to watch the fun.  Kind of like a human zoo.  And you know something?  They’re definitely getting their money’s worth. –George Carlin
+I think many years ago an advanced civilization intervened with us genetically and gave us just enough intelligence to develop dangerous technology but not enough to use it wisely.  Then they sat back to watch the fun.  Kind of like a human zoo.  And you know something?  They’re definitely getting their money’s worth. -George Carlin
 
-Do you realize that somewhere in the world there exists someone who qualifies as the worst doctor?  If you took the time, by process of elimination you could actually determine the worst doctor in the world.  And the nicest part is knowing that someone has an appointment to see him tomorrow. –George Carlin
+Do you realize that somewhere in the world there exists someone who qualifies as the worst doctor?  If you took the time, by process of elimination you could actually determine the worst doctor in the world.  And the nicest part is knowing that someone has an appointment to see him tomorrow. -George Carlin
 
-So I say live and let live. That's my motto. Live and let live. Anyone who can't go along with that, take him outside and shoot the motherfucker. It's a simple philosophy, but it's always worked in our family. –George Carlin
+So I say live and let live. That's my motto. Live and let live. Anyone who can't go along with that, take him outside and shoot the motherfucker. It's a simple philosophy, but it's always worked in our family. -George Carlin
 
-The mayfly lives only one day, and sometimes it rains. –George Carlin
+The mayfly lives only one day, and sometimes it rains. -George Carlin
 
-No one ever knows what’s next, but they always do it. –George Carlin
+No one ever knows what’s next, but they always do it. -George Carlin
 
 I envy people who drink - at least they know what to blame everything on. -Oscar Levant, composer (1906-1972)
 
@@ -223,15 +223,15 @@ At bottom, every man knows perfectly well that he is a unique being, only once o
 
 Three grand essentials to happiness in this life are something to do, something to love, and something to hope for. -Joseph Addison, writer (1672-1719)
 
-Growth in wisdom can be measured precisely by decline in bile. –Friedrich Wilhelm Nietzsche, philosopher (1844-1900)
+Growth in wisdom can be measured precisely by decline in bile. -Friedrich Wilhelm Nietzsche, philosopher (1844-1900)
 
-Home is not where you live but where they understand you. –Christion Morgenstern, writer (1871-1914)
+Home is not where you live but where they understand you. -Christion Morgenstern, writer (1871-1914)
 
 Money may be the husk of many things but not the kernel. It brings you food, but not appetite; medicine, but not health; acquaintance, but not friends; servants, but not loyalty; days of joy, but not peace or happiness. -Henrik Ibsen, playwright (1828-1906)
 
-Words, like eyeglasses, obscure everything they do not make clear. –Joseph Joubert, moralist and essayist (1754-1824)
+Words, like eyeglasses, obscure everything they do not make clear. -Joseph Joubert, moralist and essayist (1754-1824)
 
-The fact that a believer is happier than a skeptic is no more to the point than the fact than a drunken man is happier than a sober one. –George Bernard Shaw, writer, Nobel laureate (1856-1950)
+The fact that a believer is happier than a skeptic is no more to the point than the fact than a drunken man is happier than a sober one. -George Bernard Shaw, writer, Nobel laureate (1856-1950)
 
 To kill time is not murder, it's suicide. -William James, psychologist and philosopher (1842-1910)
 
@@ -269,7 +269,7 @@ Language is a city to the building of which every human being brought a stone. -
 
 One has to be a lowbrow, a bit of a murderer, to be a politician, ready and willing to see people sacrificed, slaughtered, for the sake of an idea, whether a good one or a bad one. -Henry Miller, writer (1891-1980)
 
-Everything secret degenerates, even the administration of justice; nothing is safe that does not show how it can bear discussion and publicity. –Lord Acton, historian (1834-1902)
+Everything secret degenerates, even the administration of justice; nothing is safe that does not show how it can bear discussion and publicity. -Lord Acton, historian (1834-1902)
 
 If you don't find God in the next person you meet, it is a waste of time looking for him further. -Mahatma Gandhi (1869-1948)
 
@@ -303,9 +303,9 @@ My aim is to agitate and disturb people. I'm not selling bread, I'm selling yeas
 
 There are books in which the footnotes or comments scrawled by some reader's hand in the margin are more interesting than the text. The world is one of these books. -George Santayana, philosopher (1863-1952)
 
-A book lying idle on a shelf is wasted ammunition. Like money, books must be kept in constant circulation. Lend and borrow to the maximum. –Henry Miller, novelist (1891-1980)
+A book lying idle on a shelf is wasted ammunition. Like money, books must be kept in constant circulation. Lend and borrow to the maximum. -Henry Miller, novelist (1891-1980)
 
-If you torture data sufficiently, it will confess to almost anything. –Fred Menger, chemistry professor (1937- )
+If you torture data sufficiently, it will confess to almost anything. -Fred Menger, chemistry professor (1937- )
 
 During times of universal deceit, telling the truth becomes a revolutionary act. -George Orwell, writer (1903-1950)
 
@@ -325,13 +325,13 @@ The closing years of life are like the end of a masquerade party, when the masks
 
 Let the gods avenge themselves. -Roman law maxim, on blasphemy
 
-To fall in love is to create a religion that has a fallible god. –Jorge Luis Borges, writer (1899-1986)
+To fall in love is to create a religion that has a fallible god. -Jorge Luis Borges, writer (1899-1986)
 
 A man said to the universe: "Sir I exist!" / "However," replied the universe, "The fact has not created in me / A sense of obligation." -Stephen Crane, writer (1871-1900)
 
 I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others. -Marcus Aurelius, philosopher (121-180)
 
-I cannot believe in a God who wants to be praised all the time. –Friedrich Nietzsche, philosopher (1844-1900)
+I cannot believe in a God who wants to be praised all the time. -Friedrich Nietzsche, philosopher (1844-1900)
 
 What I like in a good author isn't what he says, but what he whispers. -Logan Pearsall Smith, essayist (1865-1946)
 
@@ -351,9 +351,9 @@ It is human nature to hate the man whom you have hurt. -Publius Cornelius Tacitu
 
 The desire of the man is for the woman, but the desire of the woman is for the desire of the man. -Madame de Stael, writer (1766-1817)
 
-The surest way to corrupt a youth is to instruct him to hold in higher esteem those who think alike than those who think differently. –Friedrich Nietzsche, philosopher (1844-1900)
+The surest way to corrupt a youth is to instruct him to hold in higher esteem those who think alike than those who think differently. -Friedrich Nietzsche, philosopher (1844-1900)
 
-It is kindness immediately to refuse what you intend to deny. –Publilius Syrus, writer (c. 1st century BCE)
+It is kindness immediately to refuse what you intend to deny. -Publilius Syrus, writer (c. 1st century BCE)
 
 If they can get you asking the wrong questions, they don't have to worry about the answers. -Thomas Pynchon, writer (1937- )
 
@@ -363,7 +363,7 @@ Loneliness... is and always has been the central and inevitable experience of ev
 
 I am, indeed, a king, because I know how to rule myself. -Pietro Aretino, satirist and dramatist (1492-1556)
 
-It is easier to make a saint out of a libertine than out of a prig. –George Santayana, philosopher (1863-1952)
+It is easier to make a saint out of a libertine than out of a prig. -George Santayana, philosopher (1863-1952)
 
 Any fool can destroy trees. They cannot run away; and if they could, they would still be destroyed, chased and hunted down as long as fun or a dollar could be got out of their bark hides, branching horns, or magnificent bole backbones. Few that fell trees plant them; nor would planting avail much towards getting back anything like the noble primeval forests. -John Muir, naturalist, explorer, and writer (1838-1914)
 
@@ -371,7 +371,7 @@ A language is an exact reflection of the character and growth of its speakers. -
 
 Matters of religion should never be matters of controversy. We neither argue with a lover about his taste, nor condemn him, if we are just, for knowing so human a passion. -George Santayana, philosopher (1863-1952)
 
-I love America more than any other country in this world, and, exactly for this reason, I insist on the right to criticize her perpetually. –James Baldwin, writer (1924-1987)
+I love America more than any other country in this world, and, exactly for this reason, I insist on the right to criticize her perpetually. -James Baldwin, writer (1924-1987)
 
 A root is a flower that disdains fame. -Kahlil Gibran, mystic, poet, and artist (1883-1931)
 
@@ -405,7 +405,7 @@ I slept and dreamt that life was joy. I awoke and saw that life was service. I a
 
 The life of every man is a diary in which he means to write one story, and writes another, and his humblest hour is when he compares the volume as it is with what he vowed to make it. -J.M. Barrie, novelist and playwright (1860-1937)
 
-Happiness in intelligent people is the rarest thing I know. –Ernest Hemingway, author and journalist, Nobel laureate (1899-1961)
+Happiness in intelligent people is the rarest thing I know. -Ernest Hemingway, author and journalist, Nobel laureate (1899-1961)
 
 The more powerful and original a mind, the more it will incline towards the religion of solitude. -Aldous Huxley, novelist (1894-1963)
 
@@ -423,13 +423,13 @@ Nature's laws affirm instead of prohibit. If you violate her laws, you are your 
 
 We can't solve problems by using the same kind of thinking we used when we created them. -Albert Einstein, physicist, Nobel laureate (1879-1955)
 
-For all our conceits about being the center of the universe, we live in a routine planet of a humdrum star stuck away in an obscure corner ... on an unexceptional galaxy which is one of about 100 billion galaxies. ... That is the fundamental fact of the universe we inhabit, and it is very good for us to understand that. -Carl Sagan, astronomer and writer (1934-1996) 
+For all our conceits about being the center of the universe, we live in a routine planet of a humdrum star stuck away in an obscure corner ... on an unexceptional galaxy which is one of about 100 billion galaxies. ... That is the fundamental fact of the universe we inhabit, and it is very good for us to understand that. -Carl Sagan, astronomer and writer (1934-1996)
 
 In all history there is no war which was not hatched by the governments, the governments alone, independent of the interests of the people, to whom war is always pernicious even when successful. -Leo Tolstoy, author (1828-1910)
 
-Power does not corrupt. Fear corrupts... perhaps the fear of a loss of power. -John Steinbeck, novelist, Nobel laureate (1902-1968) 
+Power does not corrupt. Fear corrupts... perhaps the fear of a loss of power. -John Steinbeck, novelist, Nobel laureate (1902-1968)
 
-We are not the same persons this year as last; nor are those we love. It is a happy chance if we, changing, continue to love a changed person. –William Somerset Maugham, writer (1874-1965)
+We are not the same persons this year as last; nor are those we love. It is a happy chance if we, changing, continue to love a changed person. -William Somerset Maugham, writer (1874-1965)
 
 We perceive when love begins and when it declines by our embarrassment when alone together. -Jean de la Bruyere, essayist and moralist (1645-1696)
 
@@ -441,12 +441,11 @@ Words form the thread on which we string our experiences. -Aldous Huxley, noveli
 
 We love flattery, even though we are not deceived by it, because it shows that we are of importance enough to be courted. -Ralph Waldo Emerson, writer and philosopher (1803-1882)
 
-Travel is fatal to prejudice, bigotry and narrow-mindedness -- all foes to real understanding. Likewise, tolerance or broad, wholesome, charitable views of men and things cannot be acquired by vegetating in our little corner of the earth all one's lifetime. - Mark Twain
+Travel is fatal to prejudice, bigotry and narrow-mindedness - all foes to real understanding. Likewise, tolerance or broad, wholesome, charitable views of men and things cannot be acquired by vegetating in our little corner of the earth all one's lifetime. - Mark Twain
 
 Which of us is not forever a stranger and alone? -Thomas Wolfe, novelist (1900-1938)
 
-The limits of my language mean the limits of my world. -Ludwig Wittgenstein,
-philosopher (1889-1951)
+The limits of my language mean the limits of my world. -Ludwig Wittgenstein, philosopher (1889-1951)
 
 As societies grow decadent, the language grows decadent, too. Words are used to disguise, not to illuminate, action: you liberate a city by destroying it. Words are to confuse, so that at election time people will solemnly vote against their own interests. -Gore Vidal, writer (1925- )
 
@@ -464,13 +463,13 @@ You can safely assume that you've created God in your own image when it turns ou
 
 We must learn to regard people less in the light of what they do or omit to do, and more in the light of what they suffer. -Dietrich Bonhoeffer, theologian and writer (1906-1945)
 
-A poet looks at the world as a man looks at a woman. –Wallace Stevens, poet (1879-1955)
+A poet looks at the world as a man looks at a woman. -Wallace Stevens, poet (1879-1955)
 
-Good books don’t give up all their secrets at once. –Stephen King, novelist (1947- )
+Good books don’t give up all their secrets at once. -Stephen King, novelist (1947- )
 
 When work is a pleasure, life is a joy! When work is a duty, life is slavery. -Maxim Gorky, author (1868-1936)
 
-Permanent good can never be the outcome of untruth and violence. –Mahatma Gandhi (1869-1948)
+Permanent good can never be the outcome of untruth and violence. -Mahatma Gandhi (1869-1948)
 
 Habit converts luxurious enjoyments into dull and daily necessities. -Aldous Huxley, novelist (1894-1963)
 
@@ -514,7 +513,7 @@ In the course of a life devoted less to living than to reading, I have verified 
 
 Heaven and hell seem out of proportion to me: the actions of men do not deserve so much. -Jorge Luis Borges, writer (1899-1986)
 
-I have committed the worst sin that can be committed. I have not been happy.  -Jorge Luis Borges, writer (1899-1986)
+I have committed the worst sin that can be committed. I have not been happy. -Jorge Luis Borges, writer (1899-1986)
 
 I don't speak of revenge or forgiveness; forgetting is the only revenge and the only forgiveness. -Jorge Luis Borges, writer (1899-1986)
 
@@ -590,7 +589,7 @@ The arts put man at the center of the universe, whether he belongs there or not.
 
 Kindness is not without its rocks ahead. People are apt to put it down to an easy temper and seldom recognize it as the secret striving of a generous nature; whilst, on the other hand, the ill-natured get credit for all the evil they refrain from. -Honore De Balzac, novelist (1799-1850)
 
-Be ashamed to die until you have won some victory for humanity. –Horace Mann, educational reformer (1796-1859)
+Be ashamed to die until you have won some victory for humanity. -Horace Mann, educational reformer (1796-1859)
 
 Reading is to the mind what exercise is to the body. -Joseph Addison, essayist and poet (1672-1719)
 
@@ -618,31 +617,31 @@ If any kid ever realized what was involved in factory farming they would never t
 
 A myth is a fixed way of looking at the world which cannot be destroyed because, looked at through the myth, all evidence supports the myth. -Edward De Bono, consultant, writer, and speaker (1933- )
 
-Religion--freedom--vengeance--what you will, / A word's enough to raise mankind to kill. -Lord Byron, poet (1788-1824)
+Religion - freedom - vengeance - what you will, / A word's enough to raise mankind to kill. -Lord Byron, poet (1788-1824)
 
-In the course of many centuries a few laborsaving devices have been introduced into the mental kitchen – alcohol, coffee, tobacco, Benzedrine, etc – but these are very crude, constantly breaking down, and liable to injure the cook. Literary composition in the twentieth century A.D. is pretty much what it was in the twentieth century B.C.: nearly everything has still to be done by hand. –W.H. Auden
+In the course of many centuries a few laborsaving devices have been introduced into the mental kitchen – alcohol, coffee, tobacco, Benzedrine, etc – but these are very crude, constantly breaking down, and liable to injure the cook. Literary composition in the twentieth century A.D. is pretty much what it was in the twentieth century B.C.: nearly everything has still to be done by hand. -W.H. Auden
 
-The poet who writes "free" verse is like Robinson Crusoe on his desert island: he must do all his cooking, laundry and darning for himself. In a few exceptional cases, this manly independence produces something original and impressive, but more often the result is squalor – dirty sheets on the unmade bed and empty bottles on the unswept floor. –W.H. Auden
+The poet who writes "free" verse is like Robinson Crusoe on his desert island: he must do all his cooking, laundry and darning for himself. In a few exceptional cases, this manly independence produces something original and impressive, but more often the result is squalor – dirty sheets on the unmade bed and empty bottles on the unswept floor. -W.H. Auden
 
-What the mass media offers is not popular art, but entertainment which is intended to be consumed like food, forgotten, and replaced by a new dish. This is bad for everyone; the majority lose all genuine taste of their own, and the minority become cultural snobs. –W.H. Auden
+What the mass media offers is not popular art, but entertainment which is intended to be consumed like food, forgotten, and replaced by a new dish. This is bad for everyone; the majority lose all genuine taste of their own, and the minority become cultural snobs. -W.H. Auden
 
-All poets adore explosions, thunderstorms, tornadoes, conflagrations, ruins, scenes of spectacular carnage. The poetic imagination is not at all a desirable quality in a statesman. –W.H. Auden
+All poets adore explosions, thunderstorms, tornadoes, conflagrations, ruins, scenes of spectacular carnage. The poetic imagination is not at all a desirable quality in a statesman. -W.H. Auden
 
-The image of myself which I try to create in my own mind in order that I may love myself is very different from the image which I try to create in the minds of others in order that they may love me. –W.H. Auden
+The image of myself which I try to create in my own mind in order that I may love myself is very different from the image which I try to create in the minds of others in order that they may love me. -W.H. Auden
 
-To have a sense of sin means to feel guilty at there being an ethical choice to make, a guilt which, however "good" I may become, remains unchanged. –W.H. Auden
+To have a sense of sin means to feel guilty at there being an ethical choice to make, a guilt which, however "good" I may become, remains unchanged. -W.H. Auden
 
-When one looks into the window of a store which sells devotional art objects, one can't help wishing the iconoclasts had won. –W.H. Auden
+When one looks into the window of a store which sells devotional art objects, one can't help wishing the iconoclasts had won. -W.H. Auden
 
-No opera plot can be sensible, for people do not sing when they are feeling sensible. –W.H. Auden
+No opera plot can be sensible, for people do not sing when they are feeling sensible. -W.H. Auden
 
-The basic stimulus to the intelligence is doubt, a feeling that the meaning of an experience is not self-evident. –W.H. Auden
+The basic stimulus to the intelligence is doubt, a feeling that the meaning of an experience is not self-evident. -W.H. Auden
 
-He [Kierkegaard] suffers from one great literary defect, which is often found in lonely geniuses: he never knows when to stop. Lonely people are apt to fall in love with the sound of their own voice, as Narcissus fell in love with his reflection, not out of conceit but out of despair of finding another who will listen and respond. –W.H. Auden
+He [Kierkegaard] suffers from one great literary defect, which is often found in lonely geniuses: he never knows when to stop. Lonely people are apt to fall in love with the sound of their own voice, as Narcissus fell in love with his reflection, not out of conceit but out of despair of finding another who will listen and respond. -W.H. Auden
 
 All any drug amounts to is tweaking the incoming data. You have to be incredibly self-centered or pathetic to be satisfied with simply tweaking the incoming data. -William Gibson, author (1948-)
 
-One of my greatest pleasures in writing has come from the thought that perhaps my work might annoy someone of comfortably pretentious position.  Then comes the saddening realization that such people rarely read. –John Kenneth Galbraith, economist (1908-2006)
+One of my greatest pleasures in writing has come from the thought that perhaps my work might annoy someone of comfortably pretentious position.  Then comes the saddening realization that such people rarely read. -John Kenneth Galbraith, economist (1908-2006)
 
 It takes a certain maturity of mind to accept that nature works as steadily in rust as in rose petals. -Esther Warner Dendel, writer and artist (1910-2002)
 
@@ -670,23 +669,23 @@ To believe in something, and not to live it, is dishonest. -Mohandas K. Gandhi (
 
 Very few established institutions, governments and constitutions ... are ever destroyed by their enemies until they have been corrupted and weakened by their friends. -Walter Lippman, journalist (1889-1974)
 
-The only means of strengthening one's intellect is to make up one's mind about nothing -- to let the mind be a thoroughfare for all thoughts. –John Keats, poet (1795-1821)
+The only means of strengthening one's intellect is to make up one's mind about nothing - to let the mind be a thoroughfare for all thoughts. -John Keats, poet (1795-1821)
 
-The ideal place for me is the one in which it is most natural to live as a foreigner. –Italo Calvino
+The ideal place for me is the one in which it is most natural to live as a foreigner. -Italo Calvino
 
-In love, as in gluttony, pleasure is a matter of the utmost precision. –Italo Calvino
+In love, as in gluttony, pleasure is a matter of the utmost precision. -Italo Calvino
 
-What Romantic terminology called genius or talent or inspiration is nothing other than finding the right road empirically, following one's nose, taking shortcuts. –Italo Calvino
+What Romantic terminology called genius or talent or inspiration is nothing other than finding the right road empirically, following one's nose, taking shortcuts. -Italo Calvino
 
-It doesn't seem to me that this fantastically marvelous universe, this tremendous range of time and space and different kinds of animals, and all the different planets, and all these atoms with all their motions, and so on, all this complicated thing can merely be a stage so that God can watch human beings struggle for good and evil - which is the view that religion has. The stage is too big for the drama. –Richard Feynman, physicist (1918-1988)
+It doesn't seem to me that this fantastically marvelous universe, this tremendous range of time and space and different kinds of animals, and all the different planets, and all these atoms with all their motions, and so on, all this complicated thing can merely be a stage so that God can watch human beings struggle for good and evil - which is the view that religion has. The stage is too big for the drama. -Richard Feynman, physicist (1918-1988)
 
 Poets say science takes away from the beauty of the stars ― mere globs of gas atoms. Nothing is "mere". I too can see the stars on a desert night, and feel them. But do I see less or more? The vastness of the heavens stretches my imagination ― stuck on this carousel my little eye can catch one-million-year-old light. A vast pattern ― of which I am a part... What is the pattern or the meaning or the why? It does not do harm to the mystery to know a little more about it. For far more marvelous is the truth than any artists of the past imagined it. Why do the poets of the present not speak of it? What men are poets who can speak of Jupiter if he were a man, but if he is an immense spinning sphere of methane and ammonia must be silent? –Richard Feynman, physicist (1918-1988)
 
-I have a friend who's an artist, and he sometimes takes a view which I don't agree with. He'll hold up a flower and say, "Look how beautiful it is," and I'll agree. But then he'll say, "I, as an artist, can see how beautiful a flower is. But you, as a scientist, take it all apart and it becomes dull." I think he's kind of nutty. [...] There are all kinds of interesting questions that come from a knowledge of science, which only adds to the excitement and mystery and awe of a flower. It only adds. I don't understand how it subtracts. –Richard Feynman, physicist (1918-1988)
+I have a friend who's an artist, and he sometimes takes a view which I don't agree with. He'll hold up a flower and say, "Look how beautiful it is," and I'll agree. But then he'll say, "I, as an artist, can see how beautiful a flower is. But you, as a scientist, take it all apart and it becomes dull." I think he's kind of nutty. [...] There are all kinds of interesting questions that come from a knowledge of science, which only adds to the excitement and mystery and awe of a flower. It only adds. I don't understand how it subtracts. -Richard Feynman, physicist (1918-1988)
 
-Is no one inspired by our present picture of the universe? This value of science remains unsung by singers, you are reduced to hearing not a song or poem, but an evening lecture about it. This is not yet a scientific age. –Richard Feynman, physicist (1918-1988)
+Is no one inspired by our present picture of the universe? This value of science remains unsung by singers, you are reduced to hearing not a song or poem, but an evening lecture about it. This is not yet a scientific age. -Richard Feynman, physicist (1918-1988)
 
-The scientist has a lot of experience with ignorance and doubt and uncertainty, and this experience is of very great importance, I think. When a scientist doesn’t know the answer to a problem, he is ignorant. When he has a hunch as to what the result is, he is uncertain. And when he is pretty damn sure of what the result is going to be, he is still in some doubt. We have found it of paramount importance that in order to progress, we must recognize our ignorance and leave room for doubt. Scientific knowledge is a body of statements of varying degrees of certainty―some most unsure, some nearly sure, but none absolutely certain. Now, we scientists are used to this, and we take it for granted that it is perfectly consistent to be unsure, that it is possible to live and not know. But I don’t know whether everyone realizes this is true. Our freedom to doubt was born out of a struggle against authority in the early days of science. It was a very deep and strong struggle: permit us to question―to doubt―to not be sure. I think that it is important that we do not forget this struggle and thus perhaps lose what we have gained. –Richard Feynman, physicist (1918-1988)
+The scientist has a lot of experience with ignorance and doubt and uncertainty, and this experience is of very great importance, I think. When a scientist doesn’t know the answer to a problem, he is ignorant. When he has a hunch as to what the result is, he is uncertain. And when he is pretty damn sure of what the result is going to be, he is still in some doubt. We have found it of paramount importance that in order to progress, we must recognize our ignorance and leave room for doubt. Scientific knowledge is a body of statements of varying degrees of certainty―some most unsure, some nearly sure, but none absolutely certain. Now, we scientists are used to this, and we take it for granted that it is perfectly consistent to be unsure, that it is possible to live and not know. But I don’t know whether everyone realizes this is true. Our freedom to doubt was born out of a struggle against authority in the early days of science. It was a very deep and strong struggle: permit us to question―to doubt―to not be sure. I think that it is important that we do not forget this struggle and thus perhaps lose what we have gained. -Richard Feynman, physicist (1918-1988)
 
 Immature poets imitate; mature poets steal. -T.S. Eliot, poet (1888-1965)
 
@@ -702,7 +701,7 @@ We are healthy only to the extent that our ideas are humane. -Kurt Vonnegut
 
 There is no order in the world around us, we must adapt ourselves to the requirements of chaos instead. It is hard to adapt to chaos, but it can be done. I am living proof of that: It can be done. -Kurt Vonnegut
 
-I have been a soreheaded occupant of a file drawer labeled “Science Fiction” ... and I would like out, particularly since so many serious critics regularly mistake the drawer for a urinal. -Kurt Vonnegut
+I have been a soreheaded occupant of a file drawer labeled "Science Fiction" ... and I would like out, particularly since so many serious critics regularly mistake the drawer for a urinal. -Kurt Vonnegut
 
 Which brings us to the arts, whose purpose, in common with astrology, is to use frauds in order to make human beings seem more wonderful than they really are. Dancers show us human beings who move much more gracefully than human beings really move. Films and books and plays show us people talking much more entertainingly than people really talk, make paltry human enterprises seem important. Singers and musicians show us human beings making sounds far more lovely than human beings really make. Architects give us temples in which something marvelous is obviously going on. Actually, practically nothing is going on inside. And on and on. -Kurt Vonnegut
 
@@ -726,7 +725,7 @@ Thoughts, like fleas, jump from man to man, but they don't bite everybody. -Stan
 
 The first condition of immortality is death. -Stanislaw Jerzy Lec
 
-Restrictions are great, because they make you more imaginative, they make you rethink things, they make you not do the obvious. -Joss Whedon (from “What's in a Firefly” documentary, on the Serenity DVD)
+Restrictions are great, because they make you more imaginative, they make you rethink things, they make you not do the obvious. -Joss Whedon (from "What's in a Firefly" documentary, on the Serenity DVD)
 
 Again, my favorite thing is always gonna be taking a moment of comedy and throwing something horrible in the middle of it, or vice versa... -Joss Whedon (from Serenity commentary)
 
@@ -778,15 +777,15 @@ What is philosophy but a continual battle against custom? -Thomas Carlyle, histo
 
 A coward is a hero with a wife, kids, and a mortgage. -Marvin Kitman, author and media critic (b. 1929)
 
-The great men in literature have usually tried to bring the written word into harmony with the spoken, instead of encouraging an exclusive language to write in. -John Erskine, novelist, poet, and essayist (1879-1951) 
+The great men in literature have usually tried to bring the written word into harmony with the spoken, instead of encouraging an exclusive language to write in. -John Erskine, novelist, poet, and essayist (1879-1951)
 
-What can be added to the happiness of a man who is in health, out of debt, and has a clear conscience? -Adam Smith, economist (1723-1790) 
+What can be added to the happiness of a man who is in health, out of debt, and has a clear conscience? -Adam Smith, economist (1723-1790)
 
-Religions are not revealed: they are evolved. If a religion were revealed by God, that religion would be perfect in whole and in part, and would be as perfect at the first moment of its revelation as after ten thousand years of practice. There has never been a religion that which fulfills those conditions. -Robert Blatchford, author (1851-1943) 
+Religions are not revealed: they are evolved. If a religion were revealed by God, that religion would be perfect in whole and in part, and would be as perfect at the first moment of its revelation as after ten thousand years of practice. There has never been a religion that which fulfills those conditions. -Robert Blatchford, author (1851-1943)
 
-Who overcomes by force hath overcome but half his foe. -John Milton, poet (1608-1674) 
+Who overcomes by force hath overcome but half his foe. -John Milton, poet (1608-1674)
 
-The speaking in a perpetual hyperbole is comely in nothing but in love. -Francis Bacon, essayist, philosopher, and statesman (1561-1626) 
+The speaking in a perpetual hyperbole is comely in nothing but in love. -Francis Bacon, essayist, philosopher, and statesman (1561-1626)
 
 In politics, absurdity is not a handicap. -Napoleon Bonaparte, general and politician (1769-1821)
 
@@ -796,11 +795,11 @@ Neither genius, fame, nor love show the greatness of the soul. Only kindness can
 
 Trust is the first step to love. -Munshi Premchand, novelist and poet (1880-1936)
 
-I (mention) Arthur Schopenhauer's well known fable, a story Freud liked enough to cite in his book on group psychology (and) I paraphrase the fable as follows: 'A troop of porcupines is milling about on a cold winter's day. In order to keep from freezing, the animals move closer together. Just as they are close enough to huddle, however, they start to poke each other with their quills. In order to stop the pain, they spread out, lose the advantage of commingling, and begin to shiver. This sends them back in search of each other, and the cycle repeats as they struggle to find a comfortable distance between entanglement and freezing.' The story spoke to Freud as a lesson about boundaries. ("No one can tolerate a too intimate approach to his neighbor.") It also spoke to his belief that love is everywhere a thorny affair. Freud wrote: 'The evidence ... shows that almost every intimate emotional relation between two people which lasts for some time--marriage, friendship, the relations between parents and children -contains a sediment of feelings of aversion and hostility, which only escapes perception as a result of repression'... All relationships ... require us to contain contradictory feelings for the same person. As the poet Molly Peacock observed: 'There must be room in love for hate.' -Deborah Anna Luepnitz
+I (mention) Arthur Schopenhauer's well known fable, a story Freud liked enough to cite in his book on group psychology (and) I paraphrase the fable as follows: 'A troop of porcupines is milling about on a cold winter's day. In order to keep from freezing, the animals move closer together. Just as they are close enough to huddle, however, they start to poke each other with their quills. In order to stop the pain, they spread out, lose the advantage of commingling, and begin to shiver. This sends them back in search of each other, and the cycle repeats as they struggle to find a comfortable distance between entanglement and freezing.' The story spoke to Freud as a lesson about boundaries. ("No one can tolerate a too intimate approach to his neighbor.") It also spoke to his belief that love is everywhere a thorny affair. Freud wrote: 'The evidence ... shows that almost every intimate emotional relation between two people which lasts for some time - marriage, friendship, the relations between parents and children -contains a sediment of feelings of aversion and hostility, which only escapes perception as a result of repression'... All relationships ... require us to contain contradictory feelings for the same person. As the poet Molly Peacock observed: 'There must be room in love for hate.' -Deborah Anna Luepnitz
 
-What difference does it make to the dead, the orphans, and the homeless, whether the mad destruction is wrought under the name of totalitarianism or the holy name of liberty or democracy? -Mohandas K. Gandhi (1869-1948) 
+What difference does it make to the dead, the orphans, and the homeless, whether the mad destruction is wrought under the name of totalitarianism or the holy name of liberty or democracy? -Mohandas K. Gandhi (1869-1948)
 
-The only real voyage of discovery consists not in seeking new landscapes but in having new eyes. -Marcel Proust, novelist (1871-1922) 
+The only real voyage of discovery consists not in seeking new landscapes but in having new eyes. -Marcel Proust, novelist (1871-1922)
 
 Language is the only homeland. -Czeslaw Milosz, writer, Nobel laureate (b. 1911)
 
@@ -814,17 +813,17 @@ Patriotism is proud of a country's virtues and eager to correct its deficiencies
 
 The artist brings something into the world that didn't exist before, and he does it without destroying something else. -John Updike, writer (1932-2009)
 
-Eight rules for writing fiction: 1. Use the time of a total stranger in such a way that he or she will not feel the time was wasted.  2. Give the reader at least one character he or she can root for.  3. Every character should want something, even if it is only a glass of water.  4. Every sentence must do one of two things -- reveal character or advance the action.  5. Start as close to the end as possible.  6. Be a sadist. Now matter how sweet and innocent your leading characters, make awful things happen to them -- in order that the reader may see what they are made of.  7. Write to please just one person. If you open a window and make love to the world, so to speak, your story will get pneumonia.  8. Give your readers as much information as possible as soon as possible. To heck with suspense. Readers should have such complete understanding of what is going on, where and why, that they could finish the story themselves, should cockroaches eat the last few pages. -Kurt Vonnegut, Bagombo Snuff Box
+Eight rules for writing fiction: 1. Use the time of a total stranger in such a way that he or she will not feel the time was wasted.  2. Give the reader at least one character he or she can root for.  3. Every character should want something, even if it is only a glass of water.  4. Every sentence must do one of two things - reveal character or advance the action.  5. Start as close to the end as possible.  6. Be a sadist. Now matter how sweet and innocent your leading characters, make awful things happen to them - in order that the reader may see what they are made of.  7. Write to please just one person. If you open a window and make love to the world, so to speak, your story will get pneumonia.  8. Give your readers as much information as possible as soon as possible. To heck with suspense. Readers should have such complete understanding of what is going on, where and why, that they could finish the story themselves, should cockroaches eat the last few pages. -Kurt Vonnegut, Bagombo Snuff Box
 
-Even funnier than the man who has been made ridiculous, however, is the man who, having had something funny happens to him, refuses to admit that anything out of the way has happened, and attempts to maintain his dignity. -Charlie Chaplin, “What People Laugh At”
+Even funnier than the man who has been made ridiculous, however, is the man who, having had something funny happens to him, refuses to admit that anything out of the way has happened, and attempts to maintain his dignity. -Charlie Chaplin, "What People Laugh At"
 
-Each morning puts a man on trial and each evening passes judgment. -Roy L. Smith 
+Each morning puts a man on trial and each evening passes judgment. -Roy L. Smith
 
 Myth: we have to save the earth... The planet has survived cataclysmic and catastrophic changes for millions upon millions of years. Over that time, it is widely believed, 99 percent of all species have come and gone while the planet has remained. Saving the environment is really about saving our environment - making it safe for ourselves, our children, and the world as we know it. If more people saw the issue as one of saving themselves, we would probably see increased motivation and commitment to actually do so. -Robert M. Lilienfeld, management consultant and author (b. 1953) and William L. Rathje, archaeologist and author (b. 1945)
 
 Whatever a man prays for, he prays for a miracle. Every prayer reduces itself to this: Great God, grant that twice two be not four. -Ivan Turgenev, novelist and playwright (1818-1883)
 
-I believe I have no prejudices whatsoever. All I need to know is that a man is a member of the human race. That's bad enough for me. -Mark Twain, author and humorist (1835-1910) 
+I believe I have no prejudices whatsoever. All I need to know is that a man is a member of the human race. That's bad enough for me. -Mark Twain, author and humorist (1835-1910)
 
 The difference in mind between man and the higher animals, great as it is, certainly is one of degree and not of kind. -Charles Darwin, naturalist and author (1809-1882)
 
@@ -836,38 +835,37 @@ Language is the amber in which a thousand precious and subtle thoughts have been
 
 Only the madman is absolutely sure. -Robert Anton Wilson, novelist (1932-2007)
 
-Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth. -Oscar Wilde, writer (1854-1900) 
+Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth. -Oscar Wilde, writer (1854-1900)
 
 Conscience is a man's compass, and though the needle sometimes deviates, though one often perceives irregularities when directing one's course by it, one must still try to follow its direction. -Vincent van Gogh, painter (1853-1890)
 
-Men have slow reflexes. In general it takes several generations later for them to understand. -Stanislaw J. Lec, poet and aphorist (1909-1966) 
+Men have slow reflexes. In general it takes several generations later for them to understand. -Stanislaw J. Lec, poet and aphorist (1909-1966)
 
+What monstrosities would walk the streets were some people's faces as unfinished as their minds. -Eric Hoffer, philosopher and author (1902-1983)
 
-What monstrosities would walk the streets were some people's faces as unfinished as their minds. -Eric Hoffer, philosopher and author (1902-1983) 
-
-The propagandist's purpose is to make one set of people forget that certain other sets of people are human. -Aldous Huxley, novelist (1894-1963) 
+The propagandist's purpose is to make one set of people forget that certain other sets of people are human. -Aldous Huxley, novelist (1894-1963)
 
 Action is consolatory. -Joseph Conrad
 
-All animals, except man, know that the principal business of life is to enjoy it. –Samuel Butler, poet (1612-1680)
+All animals, except man, know that the principal business of life is to enjoy it. -Samuel Butler, poet (1612-1680)
 
 Artists are the antennae of the race. -Ezra Pound, poet (1885-1972)
 
 The art of leadership is saying no, not yes. It is very easy to say yes. -Tony Blair
 
-Chastity―the most unnatural of all the sexual perversions. -Aldous Huxley, novelist (1894-1963) 
+Chastity―the most unnatural of all the sexual perversions. -Aldous Huxley, novelist (1894-1963)
 
 Ask yourself whether you are happy, and you cease to be so. -John Stuart Mill, philosopher and economist (1806-1873)
 
 Show me a hero and I will write you a tragedy. -F. Scott Fitzgerald
 
-It is no measure of health to be well adjusted to a profoundly sick society. -J. Krishnamurti, author, speaker, and philosopher (1895-1986) 
+It is no measure of health to be well adjusted to a profoundly sick society. -J. Krishnamurti, author, speaker, and philosopher (1895-1986)
 
 Death must be distinguished from dying, with which it is often confused. -Sydney Smith
 
 If God made us in His image, we have certainly returned the compliment. -Voltaire, philosopher (1694-1778)
 
-Parodies and caricatures are the most penetrating of criticisms. -Aldous Huxley, novelist (1894-1963) 
+Parodies and caricatures are the most penetrating of criticisms. -Aldous Huxley, novelist (1894-1963)
 
 A critic is a man who knows the way but can’t drive the car. -Kenneth Tynan
 
@@ -885,7 +883,7 @@ One who has a reputation for rising early can sleep until noon. -Alphonse Daudet
 
 Few men are so disinterested as to prefer to live in discomfort under a government which they hold to be right, rather than in comfort under one which they hold to be wrong. -C. V. Wedgwood
 
-I hate war as only a soldier who has lived it can, only as one who has seen its brutality, its futility, its stupidity. -Dwight D. Eisenhower, U.S. general and 34th president (1890-1969) 
+I hate war as only a soldier who has lived it can, only as one who has seen its brutality, its futility, its stupidity. -Dwight D. Eisenhower, U.S. general and 34th president (1890-1969)
 
 Those only are happy... who have their minds fixed on some object other than their own happiness. Aiming thus at something else, they find happiness along the way. -John Stuart Mill, philosopher and economist (1806-1873)
 
@@ -903,17 +901,17 @@ There is no loneliness greater than the loneliness of failure. -Eric Hoffer, phi
 
 Only the hypocrite is really rotten to the core. -Hannah Arendt, historian and philosopher (1906-1975)
 
-If we let things terrify us, life will not be worth living. –Lucius Annaeus Seneca, philosopher and writer (c. 3 BCE - AD 65)
+If we let things terrify us, life will not be worth living. -Lucius Annaeus Seneca, philosopher and writer (c. 3 BCE - AD 65)
 
 If you want me to weep, you must first feel grief yourself. -Horace, poet (65-8 B.C.)
 
 Liberty is, to the lowest rank of every nation, little more than the choice of working or starving. -Samuel Johnson, lexicographer (1709-1784)
 
-We can scarcely hate any one that we know. -William Hazlitt 
+We can scarcely hate any one that we know. -William Hazlitt
 
 I never think of the future. It comes soon enough. -Albert Einstein, physicist, Nobel laureate (1879-1955)
 
-We are all of us more or less echoes, repeating involuntarily the virtues, the defects, the movements, and the characters of those among whom we live. -Joseph Joubert, essayist (1754-1824) 
+We are all of us more or less echoes, repeating involuntarily the virtues, the defects, the movements, and the characters of those among whom we live. -Joseph Joubert, essayist (1754-1824)
 
 Custom reconciles us to everything. -Edmund Burke
 
@@ -925,9 +923,9 @@ Hell is oneself. -T.S. Eliot, poet (1888-1965)
 
 A man should live with his superiors as he does with his fire: not too near, lest he burn; nor too far off, lest he freeze. -Diogenes, philosopher (412?-323 BCE)
 
-You can approach the act of writing with nervousness, excitement, hopefulness, or even despair--the sense that you can never completely put on the page what's in your mind and heart. You can come to the act with your fists clenched and your eyes narrowed, ready to kick ass and take down names. You can come to it because you want a girl to marry you or because you want to change the world. Come to it any way but lightly. Let me say it again: you must not come lightly to the blank page. –Stephen King, novelist (1947- )
+You can approach the act of writing with nervousness, excitement, hopefulness, or even despair - the sense that you can never completely put on the page what's in your mind and heart. You can come to the act with your fists clenched and your eyes narrowed, ready to kick ass and take down names. You can come to it because you want a girl to marry you or because you want to change the world. Come to it any way but lightly. Let me say it again: you must not come lightly to the blank page. -Stephen King, novelist (1947- )
 
-Any writer, I suppose, feels that the world into which he was born is nothing less than a conspiracy against the cultivation of his talent. –James Baldwin, writer (1924-1987)
+Any writer, I suppose, feels that the world into which he was born is nothing less than a conspiracy against the cultivation of his talent. -James Baldwin, writer (1924-1987)
 
 Inspiration is wonderful when it happens, but the writer must develop an approach for the rest of the time... The wait is simply too long. -Leonard Bernstein
 
@@ -937,7 +935,7 @@ Poetry, indeed, cannot be translated; and, therefore, it is the poets that prese
 
 He who knows only his own side of the case knows little of that. -John Stuart Mill, philosopher and economist (1806-1873)
 
-Hope is a good breakfast, but it is a bad supper. -Francis Bacon, essayist, philosopher, and statesman (1561-1626) 
+Hope is a good breakfast, but it is a bad supper. -Francis Bacon, essayist, philosopher, and statesman (1561-1626)
 
 The optimist proclaims that we live in the best of all possible worlds; the pessimist fears this is true. -James Branch Cabell
 
@@ -959,7 +957,7 @@ Never...murder a man who is committing suicide. -Woodrow Wilson
 
 An intellectual is someone whose mind watches itself. -Albert Camus, writer, philosopher, Nobel laureate (1913-1960)
 
-If all else fails, immortality can always be assured by a spectacular error. –John Kenneth Galbraith, economist (1908-2006)
+If all else fails, immortality can always be assured by a spectacular error. -John Kenneth Galbraith, economist (1908-2006)
 
 To be clever enough to get all the money, one must be stupid enough to want it. -G.K. Chesterton, essayist and novelist (1874-1936)
 
@@ -967,13 +965,13 @@ Human life is but a series of footnotes to a vast obscure unfinished masterpiece
 
 Fear of death and fear of life both become piety. -H.L. Mencken, writer, editor, and critic (1880-1956)
 
-My atheism...is true piety towards the universe and denies only gods fashioned by men in their own image, to be servants of their human interests. –George Santayana, philosopher (1863-1952)
+My atheism...is true piety towards the universe and denies only gods fashioned by men in their own image, to be servants of their human interests. -George Santayana, philosopher (1863-1952)
 
 There is not a more mean, stupid, dastardly, pitiful, selfish, spiteful, envious, ungrateful animal than the public. It is the greatest of cowards, for it is afraid of itself. -William Hazlitt
 
 What has posterity ever done for me? -Groucho Marx, comedian and actor (1890–1977)
 
-For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled. –Richard Feynman, physicist (1918-1988)
+For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled. -Richard Feynman, physicist (1918-1988)
 
 The secret of happiness is to face the fact that the world is horrible, horrible, horrible. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
 
@@ -981,7 +979,7 @@ Art is a lie that makes us realize truth. -Pablo Picasso
 
 An apology for the Devil: It must be remembered that we have only heard one side of the case. God has written all the books. -Samuel Butler, writer (1835-1902)
 
-Sanity is madness put to good uses. –George Santayana, philosopher (1863-1952)
+Sanity is madness put to good uses. -George Santayana, philosopher (1863-1952)
 
 The true University of these days is a collection of books. -Thomas Carlyle, historian and essayist (1795-1881)
 
@@ -989,7 +987,7 @@ God created man and, finding him not sufficiently alone, gave him a companion to
 
 A mind all logic is like a knife all blade. It makes the hand bleed that uses it. -Rabindranath Tagore, poet, philosopher, author, songwriter, painter, educator, composer, Nobel laureate (1861-1941)
 
-Silence is the virtue of fools. -Francis Bacon, essayist, philosopher, and statesman (1561-1626) 
+Silence is the virtue of fools. -Francis Bacon, essayist, philosopher, and statesman (1561-1626)
 
 Do you wish people to believe good of you? Don’t speak. -Blaise Pascal, philosopher and mathematician (1623-1662)
 
@@ -999,7 +997,7 @@ Faith in a holy cause is to a considerable extent a substitute for the lost fait
 
 The work of science is to substitute facts for appearances, and demonstration for impressions. -John Ruskin
 
-Even while they teach, men learn. –Lucius Annaeus Seneca, philosopher and writer (c. 3 BCE - AD 65)
+Even while they teach, men learn. -Lucius Annaeus Seneca, philosopher and writer (c. 3 BCE - AD 65)
 
 To persevere, trusting in what hopes he has, is courage in a man. -Euripides
 
@@ -1019,7 +1017,7 @@ A man is a small thing, and the night is very large and full of wonders. -Lord D
 
 A good novel tells us the truth about its hero; but a bad novel tells us the truth about its author. -G.K. Chesterton, essayist and novelist (1874-1936)
 
-It is only an illusion that youth is happy, an illusion of those who have lost it. –William Somerset Maugham, writer (1874-1965)
+It is only an illusion that youth is happy, an illusion of those who have lost it. -William Somerset Maugham, writer (1874-1965)
 
 The trouble with words is that you never know whose mouths they've been in. -Dennis Potter, dramatist (1935-1994)
 
@@ -1049,7 +1047,7 @@ Society is composed of two great classes: those who have more dinners than appet
 
 We all have handicaps. The difference is that some of us must reveal ours, while others must conceal theirs, to be treated with mercy. -Yahia Lababidi, author (b. 1973)
 
-Home is the place where, when you have to go there, they have to take you in. -Robert Frost, poet (1874-1963) 
+Home is the place where, when you have to go there, they have to take you in. -Robert Frost, poet (1874-1963)
 
 The future is already here, it’s just unevenly distributed. -William Gibson, author (1948-)
 
@@ -1111,11 +1109,11 @@ You know, if you're an American and you're born at this time in history especial
 
 What is character but the determination of incident? / What is incident but the illustration of character? -Henry James
 
-When you write a story, you're telling yourself the story... When you rewrite, your main job is taking out all the things that are not the story. –Stephen King, novelist (1947- )
+When you write a story, you're telling yourself the story... When you rewrite, your main job is taking out all the things that are not the story. -Stephen King, novelist (1947- )
 
-I'm convinced that fear is at the root of most bad writing. –Stephen King, novelist (1947- )
+I'm convinced that fear is at the root of most bad writing. -Stephen King, novelist (1947- )
 
-If you want to be a writer, you must do two things above all others: read a lot and write a lot. –Stephen King, novelist (1947- )
+If you want to be a writer, you must do two things above all others: read a lot and write a lot. -Stephen King, novelist (1947- )
 
 Life isn't about finding yourself. Life is about creating yourself. -George Bernard Shaw, writer, Nobel laureate (1856-1950)
 
@@ -1127,15 +1125,15 @@ All poetry is supposed to be instructive but in an unnoticeable manner; it is su
 
 Who is the happiest of men? He who values the merits of others, // And in their pleasure takes joy, even as though 'twere his own. -Johann Wolfgang von Goethe, poet, dramatist, novelist, and philosopher (1749-1832)
 
-I'm afraid of losing my obscurity. Genuineness only thrives in the dark. Like celery. -Aldous Huxley, novelist (1894-1963) 
+I'm afraid of losing my obscurity. Genuineness only thrives in the dark. Like celery. -Aldous Huxley, novelist (1894-1963)
 
-Experience is not what happens to a man; it is what a man does with what happens to him. -Aldous Huxley, novelist (1894-1963) 
+Experience is not what happens to a man; it is what a man does with what happens to him. -Aldous Huxley, novelist (1894-1963)
 
-Most human beings have an almost infinite capacity for taking things for granted. -Aldous Huxley, novelist (1894-1963) 
+Most human beings have an almost infinite capacity for taking things for granted. -Aldous Huxley, novelist (1894-1963)
 
-It is a bit embarrassing to have been concerned with the human problem all one's life and find at the end that one has no more to offer by way of advice than 'Try to be a little kinder.' -Aldous Huxley, novelist (1894-1963) 
+It is a bit embarrassing to have been concerned with the human problem all one's life and find at the end that one has no more to offer by way of advice than 'Try to be a little kinder.' -Aldous Huxley, novelist (1894-1963)
 
-To see ourselves as others see us is a most salutary gift. Hardly less important is the capacity to see others as they see themselves. -Aldous Huxley, novelist (1894-1963) 
+To see ourselves as others see us is a most salutary gift. Hardly less important is the capacity to see others as they see themselves. -Aldous Huxley, novelist (1894-1963)
 
 Human judges can show mercy. But against the laws of nature, there is no appeal. -Arthur C Clarke, science fiction writer (1917- )
 
@@ -1143,11 +1141,11 @@ One of the biggest roles of science fiction is to prepare people to accept the f
 
 The greatest tragedy in mankind's entire history may be the hijacking of morality by religion. -Arthur C Clarke, science fiction writer (1917- )
 
-We are all atheists about most of the gods that societies have ever believed in. Some of us just go one god further. -Richard Dawkins, biologist and author (b. 1941) 
+We are all atheists about most of the gods that societies have ever believed in. Some of us just go one god further. -Richard Dawkins, biologist and author (b. 1941)
 
 One of the pleasant frustrations of modern life is that there are far more good books out there than any of us have time to read. - Stephen Walt
 
-If I could be sure of doing with my books as much as my [doctor] father did for the sick! -Marcel Proust, novelist (1871-1922) 
+If I could be sure of doing with my books as much as my [doctor] father did for the sick! -Marcel Proust, novelist (1871-1922)
 
 The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom. -Isaac Asimov, scientist and writer (1920-1992)
 
@@ -1157,13 +1155,13 @@ When the accumulation of wealth is no longer of high social importance, there wi
 
 The difficulty lies, not in [developing] new ideas, but in escaping from the old ones.-John Maynard Keynes, economist (1883-1946)
 
-A decent provision for the poor is the true test of civilisation. -Samuel Johnson, lexicographer (1709-1784) 
+A decent provision for the poor is the true test of civilisation. -Samuel Johnson, lexicographer (1709-1784)
 
-In the struggle between yourself and the world second the world. -Franz Kafka, novelist (1883-1924) 
+In the struggle between yourself and the world second the world. -Franz Kafka, novelist (1883-1924)
 
 Literature becomes the living memory of a nation. -Alexander Solzhenitsyn, novelist, Nobel laureate (1918-2008)
 
-One can promise actions, but not feelings, for the latter are involuntary. He who promises to love forever or hate forever or be forever faithful to someone is promising something that is not in his power. -Friedrich Wilhelm Nietzsche, philosopher (1844-1900) 
+One can promise actions, but not feelings, for the latter are involuntary. He who promises to love forever or hate forever or be forever faithful to someone is promising something that is not in his power. -Friedrich Wilhelm Nietzsche, philosopher (1844-1900)
 
 A great book should leave you with many experiences, and slightly exhausted at the end. You live several lives while reading it. -William Styron, novelist (1925-2006)
 
@@ -1211,31 +1209,31 @@ Life can only be understood backwards; but it must be lived forwards. -Soren Kie
 
 The tyrant dies and his rule is over; the martyr dies and his rule begins. -Soren Kierkegaard, philosopher (1813-1855)
 
-Language is not an abstract construction of the learned, or of dictionary makers, but is something arising out of the work, needs, ties, joys, affections, tastes, of long generations of humanity, and has its bases broad and low, close to the ground. -Noah Webster, lexicographer (1758-1843) 
+Language is not an abstract construction of the learned, or of dictionary makers, but is something arising out of the work, needs, ties, joys, affections, tastes, of long generations of humanity, and has its bases broad and low, close to the ground. -Noah Webster, lexicographer (1758-1843)
 
-Live a good life. If there are gods and they are just, they will not care how devout you have been, but will welcome you based on the virtues you have lived by. If there are gods, but unjust, then you should not want to worship them. If there are no gods, then you will be gone, but will have lived a noble life that will live on in the memories of your loved ones. -Marcus Aurelius, philosopher and writer (121-180) 
+Live a good life. If there are gods and they are just, they will not care how devout you have been, but will welcome you based on the virtues you have lived by. If there are gods, but unjust, then you should not want to worship them. If there are no gods, then you will be gone, but will have lived a noble life that will live on in the memories of your loved ones. -Marcus Aurelius, philosopher and writer (121-180)
 
-Any advertisement in public space that gives you no choice whether you see it or not is yours. It belongs to you. It's yours to take, re-arrange, and re-use. Asking for permission is like asking to keep a rock someone just threw at your head. -Banksy, street artist (b. 1974) 
+Any advertisement in public space that gives you no choice whether you see it or not is yours. It belongs to you. It's yours to take, re-arrange, and re-use. Asking for permission is like asking to keep a rock someone just threw at your head. -Banksy, street artist (b. 1974)
 
 It is necessary to the happiness of man that he be mentally faithful to himself. Infidelity does not consist in believing, or in disbelieving; it consists in professing to believe what he does not believe. -Thomas Paine, philosopher and writer (1737-1809)
 
 Is man one of God's blunders or is God one of man's? -Friedrich Nietzsche, philosopher (1844-1900)
 
-American life is a powerful solvent. It seems to neutralize every intellectual element, however tough and alien it may be, and to fuse it in the native good will, complacency, thoughtlessness, and optimism. –George Santayana, philosopher (1863-1952)
+American life is a powerful solvent. It seems to neutralize every intellectual element, however tough and alien it may be, and to fuse it in the native good will, complacency, thoughtlessness, and optimism. -George Santayana, philosopher (1863-1952)
 
-They [the wise spirits of antiquity in the first circle of Dante's Inferno] are condemned, Dante tells us, to no other penalty than to live in desire without hope, a fate appropriate to noble souls with a clear vision of life. –George Santayana, philosopher (1863-1952)
+They [the wise spirits of antiquity in the first circle of Dante's Inferno] are condemned, Dante tells us, to no other penalty than to live in desire without hope, a fate appropriate to noble souls with a clear vision of life. -George Santayana, philosopher (1863-1952)
 
-Fanaticism consists in redoubling your efforts when you have forgotten your aim. –George Santayana, philosopher (1863-1952)
+Fanaticism consists in redoubling your efforts when you have forgotten your aim. -George Santayana, philosopher (1863-1952)
 
-Perhaps the only true dignity of man is his capacity to despise himself. –George Santayana, philosopher (1863-1952)
+Perhaps the only true dignity of man is his capacity to despise himself. -George Santayana, philosopher (1863-1952)
 
-The world is a perpetual caricature of itself; at every moment it is the mockery and the contradiction of what it is pretending to be. –George Santayana, philosopher (1863-1952)
+The world is a perpetual caricature of itself; at every moment it is the mockery and the contradiction of what it is pretending to be. -George Santayana, philosopher (1863-1952)
 
 There is no cure for birth and death save to enjoy the interval.–George Santayana, philosopher (1863-1952)
 
-I like to walk about amidst the beautiful things that adorn the world; but private wealth I should decline, or any sort of personal possessions, because they would take away my liberty. –George Santayana, philosopher (1863-1952)
+I like to walk about amidst the beautiful things that adorn the world; but private wealth I should decline, or any sort of personal possessions, because they would take away my liberty. -George Santayana, philosopher (1863-1952)
 
-Only the dead have seen the end of war. –George Santayana, philosopher (1863-1952)
+Only the dead have seen the end of war. -George Santayana, philosopher (1863-1952)
 
 The Earth is a very small stage in a vast cosmic arena. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a fraction of a dot. Think of the endless cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds. -Carl Sagan, astronomer and writer (1934-1996)
 
@@ -1253,15 +1251,15 @@ Many orthodox people speak as though it were the business of sceptics to disprov
 
 Wherever one finds oneself inclined to bitterness, it is a sign of emotional failure: a larger heart, and a greater self-restraint, would put a calm autumnal sadness in the place of the instinctive outcry of pain. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
 
-I cannot believe — and I say this with all the emphasis of which I am capable — that there can ever be any good excuse for refusing to face the evidence in favour of something unwelcome. It is not by delusion, however exalted, that mankind can prosper, but only by unswerving courage in the pursuit of truth. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
+I cannot believe - and I say this with all the emphasis of which I am capable - that there can ever be any good excuse for refusing to face the evidence in favour of something unwelcome. It is not by delusion, however exalted, that mankind can prosper, but only by unswerving courage in the pursuit of truth. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
 
-A process which led from the amœba to man appeared to the philosophers to be obviously a progress — though whether the amœba would agree with this opinion is not known. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
+A process which led from the amœba to man appeared to the philosophers to be obviously a progress - though whether the amœba would agree with this opinion is not known. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
 
 Those who forget good and evil and seek only to know the facts are more likely to achieve good than those who view the world through the distorting medium of their own desires. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
 
 An extra-terrestrial philosopher, who had watched a single youth up to the age of twenty-one and had never come across any other human being, might conclude that it is the nature of human beings to grow continually taller and wiser in an indefinite progress towards perfection; and this generalisation would be just as well founded as the generalisation which evolutionists base upon the previous history of this planet. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
 
-In adolescence, I hated life and was continually on the verge of suicide... Now, on the contrary, I enjoy life; I might almost say that with every year that passes I enjoy it more... very largely it is due to a diminishing preoccupation with myself. Like others who had a Puritan education, I had the habit of meditating on my sins, follies, and shortcomings. I seemed to myself — no doubt justly — a miserable specimen. Gradually I learned to be indifferent to myself and my deficiencies; I came to centre my attention increasingly upon external objects: the state of the world, various branches of knowledge, individuals for whom I felt affection. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
+In adolescence, I hated life and was continually on the verge of suicide... Now, on the contrary, I enjoy life; I might almost say that with every year that passes I enjoy it more... very largely it is due to a diminishing preoccupation with myself. Like others who had a Puritan education, I had the habit of meditating on my sins, follies, and shortcomings. I seemed to myself - no doubt justly - a miserable specimen. Gradually I learned to be indifferent to myself and my deficiencies; I came to centre my attention increasingly upon external objects: the state of the world, various branches of knowledge, individuals for whom I felt affection. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
 
 Conventional people are roused to fury by departures from convention, largely because they regard such departures as a criticism of themselves. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
 
@@ -1279,13 +1277,13 @@ If I were granted omnipotence, and millions of years to experiment in, I should 
 
 Standard English is a convenient abstraction, like the average man. -Geroge Leslie Brook, English professor, author (1910-1987)
 
-Poetry is a purging of the world's poverty and change and evil and death. It is a present perfecting, a satisfaction in the irremediable poverty of life. –Wallace Stevens, poet (1879-1955)
+Poetry is a purging of the world's poverty and change and evil and death. It is a present perfecting, a satisfaction in the irremediable poverty of life. -Wallace Stevens, poet (1879-1955)
 
 Nobody realizes that some people expend tremendous energy merely to be normal. -Albert Camus, writer, philosopher, Nobel laureate (1913-1960)
 
 There is always a philosophy for lack of courage. -Albert Camus, writer, philosopher, Nobel laureate (1913-1960)
 
-The greatest saving one can make in the order of thought is to accept the unintelligibility of the world -- and to pay attention to man. -Albert Camus, writer, philosopher, Nobel laureate (1913-1960)
+The greatest saving one can make in the order of thought is to accept the unintelligibility of the world - and to pay attention to man. -Albert Camus, writer, philosopher, Nobel laureate (1913-1960)
 
 Homo sapiens is the species that invents symbols in which to invest passion and authority, then forgets that symbols are inventions. -Joyce Carol Oates, writer (b. 1938)
 
@@ -1311,7 +1309,7 @@ A gun gives you the body, not the bird. -Henry David Thoreau, naturalist and aut
 
 Cautious, careful people, always casting about to preserve their reputation and social standing, never can bring about a reform. Those who are really in earnest must be willing to be anything or nothing in the world's estimation. -Susan B. Anthony, reformer and suffragist (1820-1906)
 
-One owes respect to the living. To the dead, one owes only the truth. -Voltaire, philosopher and writer (1694-1778) 
+One owes respect to the living. To the dead, one owes only the truth. -Voltaire, philosopher and writer (1694-1778)
 
 One need not hope in order to undertake, nor succeed in order to persevere. -William the Silent, Prince of Orange (1533-1584)
 
@@ -1329,9 +1327,9 @@ He marveled at the strange blindness by which men, though they are so alert to w
 
 I contend that we are both atheists. I just believe in one fewer god than you do. When you understand why you dismiss all the other possible gods, you will understand why I dismiss yours. -Stephen Roberts, database architect (b. 1967)
 
-Inspiration is not the exclusive privilege of poets or artists. There is, there has been, there will always be a certain group of people whom inspiration visits. It's made up of all those who've consciously chosen their calling and do their job with love and imagination. It may include doctors, teachers, gardeners — I could list a hundred more professions. Their work becomes one continuous adventure as long as they manage to keep discovering new challenges in it. Difficulties and setbacks never quell their curiosity. A swarm of new questions emerges from every problem that they solve. Whatever inspiration is, it's born from a continuous "I don't know." -Wislawa Szymborska, poet (b. 1923)
+Inspiration is not the exclusive privilege of poets or artists. There is, there has been, there will always be a certain group of people whom inspiration visits. It's made up of all those who've consciously chosen their calling and do their job with love and imagination. It may include doctors, teachers, gardeners - I could list a hundred more professions. Their work becomes one continuous adventure as long as they manage to keep discovering new challenges in it. Difficulties and setbacks never quell their curiosity. A swarm of new questions emerges from every problem that they solve. Whatever inspiration is, it's born from a continuous "I don't know." -Wislawa Szymborska, poet (b. 1923)
 
-The world — whatever we might think when terrified by its vastness and our own impotence, or embittered by its indifference to individual suffering, of people, animals, and perhaps even plants, for why are we so sure that plants feel no pain; whatever we might think of its expanses pierced by the rays of stars surrounded by planets we've just begun to discover, planets already dead? still dead? we just don't know; whatever we might think of this measureless theater to which we've got reserved tickets, but tickets whose lifespan is laughably short, bounded as it is by two arbitrary dates; whatever else we might think of this world — it is astonishing. -Wislawa Szymborska, poet (b. 1923)
+The world - whatever we might think when terrified by its vastness and our own impotence, or embittered by its indifference to individual suffering, of people, animals, and perhaps even plants, for why are we so sure that plants feel no pain; whatever we might think of its expanses pierced by the rays of stars surrounded by planets we've just begun to discover, planets already dead? still dead? we just don't know; whatever we might think of this measureless theater to which we've got reserved tickets, but tickets whose lifespan is laughably short, bounded as it is by two arbitrary dates; whatever else we might think of this world - it is astonishing. -Wislawa Szymborska, poet (b. 1923)
 
 Not long ago, if you wanted to seize political power in a country you had merely to control the army and the police. Today it is only in the most backward countries that fascist generals, in carrying out a coup d'état, still use tanks. If a country has reached a high degree of industrialization the whole scene changes. The day after the fall of Khrushchev, the editors of Pravda, Izvestiia, the heads of the radio and television were replaced; the army wasn't called out. Today a country belongs to the person who controls communications. -Umberto Eco, novelist (b. 1932)
 
@@ -1349,11 +1347,11 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 
 I am I plus my surroundings and if I do not preserve the latter, I do not preserve myself. -Jose Ortega Y Gasset, philosopher and essayist (1883-1955)
 
-I don't hate my enemies. After all, I made 'em. -Red Skelton, comedian (1913-1997) 
+I don't hate my enemies. After all, I made 'em. -Red Skelton, comedian (1913-1997)
 
 They are happy men whose natures sort with their vocations. -Francis Bacon, essayist, philosopher, and statesman (1561-1626)
 
-Pride, like laudanum and other poisonous medicines, is beneficial in small, though injurious in large, quantities. No man who is not pleased with himself, even in a personal sense, can please others. -Frederick Saunders, librarian and essayist (1807-1902) 
+Pride, like laudanum and other poisonous medicines, is beneficial in small, though injurious in large, quantities. No man who is not pleased with himself, even in a personal sense, can please others. -Frederick Saunders, librarian and essayist (1807-1902)
 
 The living language is like a cow-path: it is the creation of the cows themselves, who, having created it, follow it or depart from it according to their whims or their needs. From daily use, the path undergoes change. A cow is under no obligation to stay. -E.B. White, writer (1899-1985)
 
@@ -1411,9 +1409,9 @@ You desire to know the art of living, my friend? It is contained in one phrase: 
 
 There is no excellent beauty that hath not some strangeness in the proportion. -Francis Bacon, essayist, philosopher, and statesman (1561-1626)
 
-Although a democracy must often fight with one hand tied behind its back, it nonetheless has the upper hand. -Aharon Barak, law professor, former President of the Supreme Court of Israel (b.1936) 
+Although a democracy must often fight with one hand tied behind its back, it nonetheless has the upper hand. -Aharon Barak, law professor, former President of the Supreme Court of Israel (b.1936)
 
-In all life one should comfort the afflicted, but verily, also, one should afflict the comfortable, and especially when they are comfortably, contentedly, even happily wrong. -John Kenneth Galbraith, economist (1908-2006) 
+In all life one should comfort the afflicted, but verily, also, one should afflict the comfortable, and especially when they are comfortably, contentedly, even happily wrong. -John Kenneth Galbraith, economist (1908-2006)
 
 Writing is like driving a car at night. You can only see as far as the headlights, but you make the whole trip that way. -E.L. Doctorow, writer (b. 1931)
 
@@ -1441,13 +1439,13 @@ The real argument against aristocracy is that it always means the rule of the ig
 
 Walking is man's best medicine. -Hippocrates, the Father of Medicine (460-377 BCE)
 
-Nobody made a greater mistake than he who did nothing because he could do only a little. -Edmund Burke, statesman and writer (1729-1797) 
+Nobody made a greater mistake than he who did nothing because he could do only a little. -Edmund Burke, statesman and writer (1729-1797)
 
-There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered. -Nelson Mandela, activist, South African president, Nobel laureate (b. 1918) 
+There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered. -Nelson Mandela, activist, South African president, Nobel laureate (b. 1918)
 
 Boredom is the feeling that everything is a waste of time; serenity, that nothing is. -Thomas Szasz, author, professor of psychiatry (b. 1920)
 
-Writing is a way of talking without being interrupted. -Jules Renard, author (1864-1910) 
+Writing is a way of talking without being interrupted. -Jules Renard, author (1864-1910)
 
 Boredom is a vital problem for the moralist, since at least half of the sins of mankind are caused by the fear of it. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
 
@@ -1455,95 +1453,95 @@ Intolerance of ambiguity is the mark of an authoritarian personality. -Theodor A
 
 Creative activity could be described as a type of learning process where teacher and pupil are located in the same individual. -Arthur Koestler, novelist and journalist (1905-1983)
 
-Because we don't understand the brain very well we're constantly tempted to use the latest technology as a model for trying to understand it. In my childhood we were always assured that the brain was a telephone switchboard. (What else could it be?) And I was amused to see that Sherrington, the great British neuroscientist, thought that the brain worked like a telegraph system. Freud often compared the brain to hydraulic and electromagnetic systems. Leibniz compared it to a mill, and now, obviously, the metaphor is the digital computer. -John R. Searle, philosophy professor (b. 1932) 
+Because we don't understand the brain very well we're constantly tempted to use the latest technology as a model for trying to understand it. In my childhood we were always assured that the brain was a telephone switchboard. (What else could it be?) And I was amused to see that Sherrington, the great British neuroscientist, thought that the brain worked like a telegraph system. Freud often compared the brain to hydraulic and electromagnetic systems. Leibniz compared it to a mill, and now, obviously, the metaphor is the digital computer. -John R. Searle, philosophy professor (b. 1932)
 
 We judge ourselves by what we feel capable of doing, while others judge us by what we have already done. -Henry Wadsworth Longfellow, poet (1807-1882)
 
 Once I ventured the guess that men worked in response to a vague inner urge for self-expression... An hypothesis with rather more plausibility in it now suggests itself. It is that men work simply in order to escape the depressing agony of contemplating life – that their work, like their play, is a mumbo-jumbo that serves them by permitting them to escape from reality... Man cannot sit still, contemplating his destiny in this world, without going frantic. So he invents ways to take his mind off the horror. He works. He plays. He accumulates the preposterous nothing called property. He strives for the coy eye-wink called fame. He founds a family and spreads his curse over others. All the while the thing that moves him is simply the yearning to lose himself, to forget himself, to escape the tragic-comedy that is himself. Life, fundamentally, is not worth living. -H.L. Mencken, writer, editor, and critic (1880-1956)
 
-Wanting to meet an author because you like his work is like wanting to meet a duck because you like paté. -Margaret Atwood, novelist and poet (b. 1939) 
+Wanting to meet an author because you like his work is like wanting to meet a duck because you like paté. -Margaret Atwood, novelist and poet (b. 1939)
 
-It ought to be plain / how little you gain / by getting excited / and vexed. / You'll always be late / for the previous train, / and always in time / for the next. -Piet Hein, poet and scientist (1905-1996) 
+It ought to be plain / how little you gain / by getting excited / and vexed. / You'll always be late / for the previous train, / and always in time / for the next. -Piet Hein, poet and scientist (1905-1996)
 
-Though familiarity may not breed contempt, it takes off the edge of admiration. -William Hazlitt, essayist (1778-1830) 
+Though familiarity may not breed contempt, it takes off the edge of admiration. -William Hazlitt, essayist (1778-1830)
 
-Inquiry is fatal to certainty. -Will Durant, historian (1885-1981) 
+Inquiry is fatal to certainty. -Will Durant, historian (1885-1981)
 
-What we think, or what we know, or what we believe, is in the end, of little consequence. The only thing of consequence is what we do. -John Ruskin, author, art critic, and social reformer (1819-1900) 
+What we think, or what we know, or what we believe, is in the end, of little consequence. The only thing of consequence is what we do. -John Ruskin, author, art critic, and social reformer (1819-1900)
 
-Problems worthy / of attack / prove their worth / by hitting back. -Piet Hein, poet and scientist (1905-1996) 
+Problems worthy / of attack / prove their worth / by hitting back. -Piet Hein, poet and scientist (1905-1996)
 
-Trying to determine what is going on in the world by reading newspapers is like trying to tell the time by watching the second hand of a clock. -Ben Hecht, screenwriter, playwright, novelist, director, and producer (1894-1964) 
+Trying to determine what is going on in the world by reading newspapers is like trying to tell the time by watching the second hand of a clock. -Ben Hecht, screenwriter, playwright, novelist, director, and producer (1894-1964)
 
-Satire is a sort of glass, wherein beholders do generally discover everybody's face but their own, which is the chief reason for that kind of reception it meets in the world, and that so very few are offended with it. -Jonathan Swift, satirist (1667-1745) 
+Satire is a sort of glass, wherein beholders do generally discover everybody's face but their own, which is the chief reason for that kind of reception it meets in the world, and that so very few are offended with it. -Jonathan Swift, satirist (1667-1745)
 
-Moderate giftedness has been made worthless by the printing press and radio and television and satellites and all that. A moderately gifted person who would have been a community treasure a thousand years ago has to give up, has to go into some other line of work, since modern communications put him or her into daily competition with nothing but world's champions. -Kurt Vonnegut, Jr., novelist (1922-2007) 
+Moderate giftedness has been made worthless by the printing press and radio and television and satellites and all that. A moderately gifted person who would have been a community treasure a thousand years ago has to give up, has to go into some other line of work, since modern communications put him or her into daily competition with nothing but world's champions. -Kurt Vonnegut, Jr., novelist (1922-2007)
 
-Convictions are more dangerous enemies of truth than lies. -Friedrich Wilhelm Nietzsche, philosopher (1844-1900) 
+Convictions are more dangerous enemies of truth than lies. -Friedrich Wilhelm Nietzsche, philosopher (1844-1900)
 
-Of all the preposterous assumptions of humanity over humanity, nothing exceeds most of the criticisms made on the habits of the poor by the well-housed, well-warmed, and well-fed. -Herman Melville, novelist and poet (1819-1891) 
+Of all the preposterous assumptions of humanity over humanity, nothing exceeds most of the criticisms made on the habits of the poor by the well-housed, well-warmed, and well-fed. -Herman Melville, novelist and poet (1819-1891)
 
-In this world there are only two tragedies. One is not getting what one wants, and the other is getting it. The last is much the worst. -Oscar Wilde, writer (1854-1900) 
+In this world there are only two tragedies. One is not getting what one wants, and the other is getting it. The last is much the worst. -Oscar Wilde, writer (1854-1900)
 
-If there is a sin against life, it consists perhaps not so much in despairing of life as in hoping for another life and in eluding the implacable grandeur of this life. -Albert Camus, writer, philosopher, Nobel laureate (1913-1960) 
+If there is a sin against life, it consists perhaps not so much in despairing of life as in hoping for another life and in eluding the implacable grandeur of this life. -Albert Camus, writer, philosopher, Nobel laureate (1913-1960)
 
-We are not afraid to entrust the American people with unpleasant facts, foreign ideas, alien philosophies, and competitive values. For a nation that is afraid to let its people judge the truth and falsehood in an open market is a nation that is afraid of its people. -John F. Kennedy, 35th US president (1917-1963) 
+We are not afraid to entrust the American people with unpleasant facts, foreign ideas, alien philosophies, and competitive values. For a nation that is afraid to let its people judge the truth and falsehood in an open market is a nation that is afraid of its people. -John F. Kennedy, 35th US president (1917-1963)
 
 A physician is not angry at the intemperance of a mad patient; nor does he take it ill to be railed at by a man in a fever. Just so should a wise man treat all mankind, as a physician does his patient; and looking upon them only as sick and extravagant. -Lucius Annaeus Seneca, philosopher (BCE 3-65 CE)
 
-An individual human existence should be like a river: small at first, narrowly contained within its banks, and rushing passionately past rocks and over waterfalls. Gradually the river grows wider, the banks recede, the waters flow more quietly, and in the end, without any visible break, they become merged in the sea, and painlessly lose their individual being. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970) 
+An individual human existence should be like a river: small at first, narrowly contained within its banks, and rushing passionately past rocks and over waterfalls. Gradually the river grows wider, the banks recede, the waters flow more quietly, and in the end, without any visible break, they become merged in the sea, and painlessly lose their individual being. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
 
-In nature there are neither rewards nor punishments; there are consequences. -Robert Green Ingersoll, lawyer and orator (1833-1899) 
+In nature there are neither rewards nor punishments; there are consequences. -Robert Green Ingersoll, lawyer and orator (1833-1899)
 
-Every age is fed on illusions, lest men should renounce life early and the human race come to an end. -Joseph Conrad, novelist (1857-1924) 
+Every age is fed on illusions, lest men should renounce life early and the human race come to an end. -Joseph Conrad, novelist (1857-1924)
 
-In all affairs it's a healthy thing now and then to hang a question mark on the things you have long taken for granted. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970) 
+In all affairs it's a healthy thing now and then to hang a question mark on the things you have long taken for granted. -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
 
-It's alright to tell a man to lift himself by his own bootstraps, but it is a cruel jest to say to a bootless man that he ought to lift himself by his own bootstraps. -Martin Luther King, Jr., civil-rights leader (1929-1968) 
+It's alright to tell a man to lift himself by his own bootstraps, but it is a cruel jest to say to a bootless man that he ought to lift himself by his own bootstraps. -Martin Luther King, Jr., civil-rights leader (1929-1968)
 
-It is useless to attempt to reason a man out of a thing he was never reasoned into. -Jonathan Swift, satirist (1667-1745) 
+It is useless to attempt to reason a man out of a thing he was never reasoned into. -Jonathan Swift, satirist (1667-1745)
 
-Only the good doubt their own goodness, which is what makes them good in the first place. The bad know they are good, but the good know nothing. They spend their lives forgiving others, but they can't forgive themselves. -Paul Auster, novelist and poet (b. 1947)  
+Only the good doubt their own goodness, which is what makes them good in the first place. The bad know they are good, but the good know nothing. They spend their lives forgiving others, but they can't forgive themselves. -Paul Auster, novelist and poet (b. 1947)
 
 Men, said the Devil, are [so] good to their brothers: / they don't want to mend their own ways, but [rather] each other's. -Piet Hein, poet and scientist (1905-1996)
 
-The liar's punishment is not in the least that he is not believed, but that he cannot believe anyone else. -George Bernard Shaw, writer, Nobel laureate (1856-1950) 
+The liar's punishment is not in the least that he is not believed, but that he cannot believe anyone else. -George Bernard Shaw, writer, Nobel laureate (1856-1950)
 
-I have never met a man so ignorant that I couldn't learn something from him. -Galileo Galilei, physicist and astronomer (1564-1642) 
+I have never met a man so ignorant that I couldn't learn something from him. -Galileo Galilei, physicist and astronomer (1564-1642)
 
-It is of interest to note that while some dolphins are reported to have learned English -- up to fifty words used in correct context -- no human being has been reported to have learned dolphinese. -Carl Sagan, astronomer and writer (1934-1996) 
+It is of interest to note that while some dolphins are reported to have learned English - up to fifty words used in correct context - no human being has been reported to have learned dolphinese. -Carl Sagan, astronomer and writer (1934-1996)
 
 The desire of knowledge, like the thirst of riches, increases ever with the acquisition of it. -Laurence Sterne, novelist and clergyman (1713-1768)
 
-Clear thinking requires courage rather than intelligence. -Thomas Szasz, author, professor of psychiatry (b. 1920) 
+Clear thinking requires courage rather than intelligence. -Thomas Szasz, author, professor of psychiatry (b. 1920)
 
-There are stars whose radiance is visible on Earth though they have long been extinct. There are people whose brilliance continues to light the world though they are no longer among the living. These lights are particularly bright when the night is dark. They light the way for humankind. -Hannah Senesh, poet, playwright, and paratrooper (1921-1944) 
+There are stars whose radiance is visible on Earth though they have long been extinct. There are people whose brilliance continues to light the world though they are no longer among the living. These lights are particularly bright when the night is dark. They light the way for humankind. -Hannah Senesh, poet, playwright, and paratrooper (1921-1944)
 
-I'd like to widen people's awareness of the tremendous timespan lying ahead -- for our planet, and for life itself. Most educated people are aware that we're the outcome of nearly 4bn years of Darwinian selection, but many tend to think that humans are somehow the culmination. Our sun, however, is less than halfway through its lifespan. Six billion years from now, it will not be humans who watch the sun's demise. Any creatures that then exist will be as different from us as we are from bacteria or amoebae. -Martin Rees, cosmologist and astrophysicist (b. 1942)
+I'd like to widen people's awareness of the tremendous timespan lying ahead - for our planet, and for life itself. Most educated people are aware that we're the outcome of nearly 4bn years of Darwinian selection, but many tend to think that humans are somehow the culmination. Our sun, however, is less than halfway through its lifespan. Six billion years from now, it will not be humans who watch the sun's demise. Any creatures that then exist will be as different from us as we are from bacteria or amoebae. -Martin Rees, cosmologist and astrophysicist (b. 1942)
 
-All slang is metaphor, and all metaphor is poetry. -G.K. Chesterton, writer (1874-1936) 
+All slang is metaphor, and all metaphor is poetry. -G.K. Chesterton, writer (1874-1936)
 
-The most dangerous of all falsehoods is a slightly distorted truth. -Georg Christoph Lichtenberg, scientist and philosopher (1742-1799) 
+The most dangerous of all falsehoods is a slightly distorted truth. -Georg Christoph Lichtenberg, scientist and philosopher (1742-1799)
 
-There is nothing so useless as doing efficiently that which should not be done at all. -Peter Drucker, management consultant, professor, and writer (1909-2005) 
+There is nothing so useless as doing efficiently that which should not be done at all. -Peter Drucker, management consultant, professor, and writer (1909-2005)
 
-Style is time's fool. Form is time's student. -Stewart Brand, writer and editor (b. 1938) 
+Style is time's fool. Form is time's student. -Stewart Brand, writer and editor (b. 1938)
 
-Faced with the choice between changing one's mind and proving that there is no need to do so, almost everyone gets busy on the proof. -John Kenneth Galbraith, economist (1908-2006) 
+Faced with the choice between changing one's mind and proving that there is no need to do so, almost everyone gets busy on the proof. -John Kenneth Galbraith, economist (1908-2006)
 
-Misunderstandings and neglect occasion more mischief in the world than even malice and wickedness. -Johann Wolfgang von Goethe, poet, dramatist, novelist, and philosopher (1749-1832) 
+Misunderstandings and neglect occasion more mischief in the world than even malice and wickedness. -Johann Wolfgang von Goethe, poet, dramatist, novelist, and philosopher (1749-1832)
 
 Before we set our hearts too much on anything, let us examine how happy are those who already possess it. -Francois, duc de La Rochefoucauld, moralist (1613-1680)
 
-A problem well stated is a problem half solved. -Charles F. Kettering, inventor and engineer (1876-1958) 
+A problem well stated is a problem half solved. -Charles F. Kettering, inventor and engineer (1876-1958)
 
 To read is to translate, for no two persons' experiences are the same. A bad reader is like a bad translator: he interprets literally when he ought to paraphrase and paraphrases when he ought to interpret literally. -W.H. Auden, poet (1907-1973)
 
-There are a thousand thoughts lying within a man that he does not know till he takes up a pen to write. -William Makepeace Thackeray, novelist (1811-1863) 
+There are a thousand thoughts lying within a man that he does not know till he takes up a pen to write. -William Makepeace Thackeray, novelist (1811-1863)
 
 When small men begin to cast big shadows, it means that the sun is about to set. -Lin Yutang, writer and translator (1895-1976)
 
-If Galileo had said in verse that the world moved, the inquisition might have let him alone. -Thomas Hardy, novelist and poet (1840-1928) 
+If Galileo had said in verse that the world moved, the inquisition might have let him alone. -Thomas Hardy, novelist and poet (1840-1928)
 
 A casual stroll through the lunatic asylum shows that faith does not prove anything. -Friedrich Nietzsche, philosopher (1844-1900)
 
@@ -1557,25 +1555,25 @@ No victor believes in chance. -Friedrich Nietzsche, philosopher (1844-1900)
 
 The most common lie is that which one tells himself; lying to others is relatively an exception. -Friedrich Nietzsche, philosopher (1844-1900)
 
-My life has been full of terrible misfortunes, most of which never happened. -Michel de Montaigne, essayist (1533-1592) 
+My life has been full of terrible misfortunes, most of which never happened. -Michel de Montaigne, essayist (1533-1592)
 
-Wandering in a vast forest at night, I have only a faint light to guide me. A stranger appears and says to me: 'My friend, you should blow out your candle in order to find your way more clearly.' The stranger is a theologian. -Denis Diderot, philosopher (1713-1784) 
+Wandering in a vast forest at night, I have only a faint light to guide me. A stranger appears and says to me: 'My friend, you should blow out your candle in order to find your way more clearly.' The stranger is a theologian. -Denis Diderot, philosopher (1713-1784)
 
-There are two kinds of light -- the glow that illuminates, and the glare that obscures. -James Thurber, writer and cartoonist (1894-1961) 
+There are two kinds of light - the glow that illuminates, and the glare that obscures. -James Thurber, writer and cartoonist (1894-1961)
 
-Life is a tragedy when seen in close-up, but a comedy in long-shot. -Charlie Chaplin, actor, director, and composer (1889-1977) 
+Life is a tragedy when seen in close-up, but a comedy in long-shot. -Charlie Chaplin, actor, director, and composer (1889-1977)
 
 Prayers are to men as dolls are to children. They are not without use and comfort, but it is not easy to take them very seriously. -Samuel Butler, poet (1612-1680)
 
 In order that people may be happy in their work, these three things are needed: they must be fit for it; they must not do too much of it; and they must have a sense of success in it. -John Ruskin, author, art critic, and social reformer (1819-1900)
 
-Never cut what you can untie. -Joseph Joubert, essayist (1754-1824) 
+Never cut what you can untie. -Joseph Joubert, essayist (1754-1824)
 
-The best way to have a good idea is to have lots of ideas. -Linus Pauling, chemist, peace activist, author, educator; Nobel Prize in chemistry, Nobel Peace Prize (1901-1994) 
+The best way to have a good idea is to have lots of ideas. -Linus Pauling, chemist, peace activist, author, educator; Nobel Prize in chemistry, Nobel Peace Prize (1901-1994)
 
-The only fence against the world is a thorough knowledge of it. -John Locke, philosopher (1632-1704) 
+The only fence against the world is a thorough knowledge of it. -John Locke, philosopher (1632-1704)
 
-It is not so much our friends' help that helps us as the confident knowledge that they will help us. -Epicurus, philosopher (c. 341-270 BCE) 
+It is not so much our friends' help that helps us as the confident knowledge that they will help us. -Epicurus, philosopher (c. 341-270 BCE)
 
 If what you are getting online is for free, you are not the customer, you are the product. -Jonathan Zittrain, professor of Internet law (b. 1969)
 
@@ -1583,33 +1581,33 @@ A man may be very industrious, and yet not spend his time well. There is no more
 
 In everyone's life, at some time, our inner fire goes out. It is then burst into flame by an encounter with another human being. We should all be thankful for those people who rekindle the inner spirit. -Albert Schweitzer, philosopher, physician, musician, Nobel laureate (1875-1965)
 
-No man should judge unless he asks himself in absolute honesty whether in a similar situation he might not have done the same. -Viktor Frankl, author, neurologist and psychiatrist, Holocaust survivor (1905-1997) 
+No man should judge unless he asks himself in absolute honesty whether in a similar situation he might not have done the same. -Viktor Frankl, author, neurologist and psychiatrist, Holocaust survivor (1905-1997)
 
-Totalitarianism, however, does not so much promise an age of faith as an age of schizophrenia. A society becomes totalitarian when its structure becomes flagrantly artificial: that is, when its ruling class has lost its function but succeeds in clinging to power by force or fraud. Such a society, no matter how long it persists, can never afford to become either tolerant or intellectually stable. It can never permit either the truthful recording of facts or the emotional sincerity that literary creation demands. –George Orwell, writer (1903-1950)
+Totalitarianism, however, does not so much promise an age of faith as an age of schizophrenia. A society becomes totalitarian when its structure becomes flagrantly artificial: that is, when its ruling class has lost its function but succeeds in clinging to power by force or fraud. Such a society, no matter how long it persists, can never afford to become either tolerant or intellectually stable. It can never permit either the truthful recording of facts or the emotional sincerity that literary creation demands. -George Orwell, writer (1903-1950)
 
 In a completely rational society, the best of us would be teachers and the rest of us would have to settle for something less, because passing civilization along from one generation to the next ought to be the highest honor and the highest responsibility anyone could have. -Lee Iacocca, automobile executive (b. 1924)
 
-Seek not to follow in the footsteps of men of old; seek what they sought. -Matsuo Basho, poet (1644-1694) 
+Seek not to follow in the footsteps of men of old; seek what they sought. -Matsuo Basho, poet (1644-1694)
 
-Our lives are like islands in the sea, or like trees in the forest. The maple and the pine may whisper to each other with their leaves ... But the trees also commingle their roots in the darkness underground, and the islands also hang together through the ocean's bottom. -William James, psychologist and philosopher (1842-1910) 
+Our lives are like islands in the sea, or like trees in the forest. The maple and the pine may whisper to each other with their leaves ... But the trees also commingle their roots in the darkness underground, and the islands also hang together through the ocean's bottom. -William James, psychologist and philosopher (1842-1910)
 
-May my silences become more accurate. -Theodore Roethke, poet (1908-1963) 
+May my silences become more accurate. -Theodore Roethke, poet (1908-1963)
 
-Be silent and safe — silence never betrays you. -John Boyle O'Reilly, poet (1844-1890)
+Be silent and safe - silence never betrays you. -John Boyle O'Reilly, poet (1844-1890)
 
-Silence is learned by the many misfortunes of life. –Lucius Annaeus Seneca, philosopher and writer (c. 3 BCE - AD 65)
+Silence is learned by the many misfortunes of life. -Lucius Annaeus Seneca, philosopher and writer (c. 3 BCE - AD 65)
 
-On the mountains of truth you can never climb in vain: either you will reach a point higher up today, or you will be training your powers so that you will be able to climb higher tomorrow. -Friedrich Nietzsche, philosopher (1844-1900) 
+On the mountains of truth you can never climb in vain: either you will reach a point higher up today, or you will be training your powers so that you will be able to climb higher tomorrow. -Friedrich Nietzsche, philosopher (1844-1900)
 
-Without the freedom to criticize, there is no true praise. -Pierre Beaumarchais, playwright (1732-1799) 
+Without the freedom to criticize, there is no true praise. -Pierre Beaumarchais, playwright (1732-1799)
 
-True compassion is more than flinging a coin to a beggar; it is not haphazard and superficial. It comes to see that an edifice that produces beggars needs restructuring. -Martin Luther King, Jr., civil-rights leader (1929-1968) 
+True compassion is more than flinging a coin to a beggar; it is not haphazard and superficial. It comes to see that an edifice that produces beggars needs restructuring. -Martin Luther King, Jr., civil-rights leader (1929-1968)
 
 The church says: The body is a sin. Science says: The body is a machine. Advertising says: The body is a business. The body says: I am a fiesta. -Eduardo Galeano, journalist and novelist (b. 1940)
 
 Those who can write / have a lot to / learn from those / bright enough not to. -Piet Hein, poet and scientist (1905-1996)
 
-He who aims / to keep abreast / is forever / second best. -Piet Hein, poet and scientist (1905-1996) 
+He who aims / to keep abreast / is forever / second best. -Piet Hein, poet and scientist (1905-1996)
 
 Nature, it seems is the popular name / for milliards and milliards and milliards / of particles playing their infinite game / of billiards and billiards and billiards. -Piet Hein, poet and scientist (1905-1996)
 
@@ -1619,71 +1617,69 @@ The universe may / be as great as they say. / But it wouldn't be missed / if it 
 
 The road to wisdom? Well, it's plain / And simple to express: / Err / and err / and err again, / but less / and less / and less. -Piet Hein, poet and scientist (1905-1996)
 
-The cure for anything is salt water -- sweat, tears, or the sea. -Isak Dinesen (pen name of Karen Blixen), author (1885-1962) 
+The cure for anything is salt water - sweat, tears, or the sea. -Isak Dinesen (pen name of Karen Blixen), author (1885-1962)
 
-In the Soviet Union, capitalism triumphed over communism. In this country, capitalism triumphed over democracy. -Fran Lebowitz, author (b. 1950) 
+In the Soviet Union, capitalism triumphed over communism. In this country, capitalism triumphed over democracy. -Fran Lebowitz, author (b. 1950)
 
-Men are the devils of the earth and the animals are its tormented souls. -Arthur Schopenhauer, philosopher (1788-1860) 
+Men are the devils of the earth and the animals are its tormented souls. -Arthur Schopenhauer, philosopher (1788-1860)
 
-Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted. -Ralph Waldo Emerson, writer and philosopher (1803-1882) 
+Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted. -Ralph Waldo Emerson, writer and philosopher (1803-1882)
 
 Ultimately, man should not ask what the meaning of his life is, but rather must recognize that it is he who is asked. In a word, each man is questioned by life; and he can only answer to life by answering for his own life; to life he can only respond by being responsible. -Viktor Frankl, author, neurologist and psychiatrist, Holocaust survivor (1905-1997)
 
 ...success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side-effect of one's personal dedication to a cause greater than oneself or as the by-product of one's surrender to a person other than oneself. Happiness must happen, and the same holds for success... success will follow you precisely because you had forgotten to think of it. -Viktor Frankl, author, neurologist and psychiatrist, Holocaust survivor (1905-1997)
 
-Many wealthy people are little more than janitors of their possessions. -Frank Lloyd Wright, architect (1867-1959) 
+Many wealthy people are little more than janitors of their possessions. -Frank Lloyd Wright, architect (1867-1959)
 
 No man was ever more than about nine meals away from crime or suicide. -Eric Sevareid, journalist (1912-1992)
 
-We should tackle reality in a slightly jokey way, otherwise we miss its point. -Lawrence Durrell, novelist, poet, and playwright (1912-1990) 
+We should tackle reality in a slightly jokey way, otherwise we miss its point. -Lawrence Durrell, novelist, poet, and playwright (1912-1990)
 
-To blame the poor for subsisting on welfare has no justice unless we are also willing to judge every rich member of society by how productive he or she is. Taken individual by individual, it is likely that there's more idleness and abuse of government favors among the economically privileged than among the ranks of the disadvantaged. -Norman Mailer, author (1923-2007) 
+To blame the poor for subsisting on welfare has no justice unless we are also willing to judge every rich member of society by how productive he or she is. Taken individual by individual, it is likely that there's more idleness and abuse of government favors among the economically privileged than among the ranks of the disadvantaged. -Norman Mailer, author (1923-2007)
 
 Children have never been very good at listening to their elders, but they have never failed to imitate them. -James Baldwin, writer (1924-1987)
 
-The law, in its majestic equality, forbids the rich as well as the poor to sleep under bridges, to beg in the streets, and to steal bread. -Anatole France, novelist, essayist, Nobel laureate (1844-1924) 
+The law, in its majestic equality, forbids the rich as well as the poor to sleep under bridges, to beg in the streets, and to steal bread. -Anatole France, novelist, essayist, Nobel laureate (1844-1924)
 
-A teacher affects eternity; he can never tell where his influence stops. -Henry Adams, historian and teacher (1838-1918) 
+A teacher affects eternity; he can never tell where his influence stops. -Henry Adams, historian and teacher (1838-1918)
 
-What is the use of a fine house if you haven't got a tolerable planet to put it on. -Henry David Thoreau, naturalist and author (1817-1862) 
+What is the use of a fine house if you haven't got a tolerable planet to put it on. -Henry David Thoreau, naturalist and author (1817-1862)
 
-The late F.W.H. Myers used to tell how he asked a man at a dinner table what he thought would happen to him when he died. The man tried to ignore the question, but on being pressed, replied: "Oh well, I suppose I shall inherit eternal bliss, but I wish you wouldn't talk about such unpleasant subjects." -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970) 
+The late F.W.H. Myers used to tell how he asked a man at a dinner table what he thought would happen to him when he died. The man tried to ignore the question, but on being pressed, replied: "Oh well, I suppose I shall inherit eternal bliss, but I wish you wouldn't talk about such unpleasant subjects." -Bertrand Russell, philosopher, mathematician, author, Nobel laureate (1872-1970)
 
-The moral test of government is how that government treats those who are in the dawn of life, the children; those who are in the twilight of life, the elderly; and those who are in the shadows of life -- the sick, the needy and the handicapped. -Hubert Horatio Humphrey, US Vice President (1911-1978) 
+The moral test of government is how that government treats those who are in the dawn of life, the children; those who are in the twilight of life, the elderly; and those who are in the shadows of life - the sick, the needy and the handicapped. -Hubert Horatio Humphrey, US Vice President (1911-1978)
 
 When two opposite points of view are expressed with equal intensity, the truth does not necessarily lie exactly halfway between them. It is possible for one side to be simply wrong. -Richard Dawkins, biologist and author (b. 1941)
 
 I would rather be able to appreciate things I can not have than to have things I am not able to appreciate. -Elbert Hubbard, author, editor, printer (1856-1915)
 
-
 God will not look you over for medals, diplomas, or degrees – but for scars. -Elbert Hubbard, author, editor, printer (1856-1915)
 
+If money be not thy servant, it will be thy master. The covetous man cannot so properly be said to possess wealth, as that may be said to possess him. -Francis Bacon, essayist, philosopher, and statesman (1561-1626)
 
-If money be not thy servant, it will be thy master. The covetous man cannot so properly be said to possess wealth, as that may be said to possess him. -Francis Bacon, essayist, philosopher, and statesman (1561-1626) 
-
-Art is the elimination of the unnecessary. -Pablo Picasso, painter, and sculptor (1881-1973) 
+Art is the elimination of the unnecessary. -Pablo Picasso, painter, and sculptor (1881-1973)
 
 Our chief want in life is somebody who shall make us do what we can. -Ralph Waldo Emerson, writer and philosopher (1803-1882)
 
-There is then creative reading as well as creative writing. When the mind is braced by labor and invention, the page of whatever book we read becomes luminous with manifold allusion. -Ralph Waldo Emerson, writer and philosopher (1803-1882) 
+There is then creative reading as well as creative writing. When the mind is braced by labor and invention, the page of whatever book we read becomes luminous with manifold allusion. -Ralph Waldo Emerson, writer and philosopher (1803-1882)
 
-The greatest obstacle to discovering the shape of the earth, the continents, and the oceans was not ignorance but the illusion of knowledge. -Daniel J. Boorstin, historian, professor, attorney, and writer (1914-2004) 
+The greatest obstacle to discovering the shape of the earth, the continents, and the oceans was not ignorance but the illusion of knowledge. -Daniel J. Boorstin, historian, professor, attorney, and writer (1914-2004)
 
 We do not err because truth is difficult to see. It is visible at a glance. We err because this is more comfortable. -Alexander Solzhenitsyn, novelist, Nobel laureate (1918-2008)
 
-In some circumstances, the refusal to be defeated is a refusal to be educated. -Margaret Halsey, novelist (1910-1997) 
+In some circumstances, the refusal to be defeated is a refusal to be educated. -Margaret Halsey, novelist (1910-1997)
 
-Laws too gentle are seldom obeyed; too severe, seldom executed. -Benjamin Franklin, statesman, author, and inventor (1706-1790) 
+Laws too gentle are seldom obeyed; too severe, seldom executed. -Benjamin Franklin, statesman, author, and inventor (1706-1790)
 
-Poetry is when an emotion has found its thought and the thought has found words. -Robert Frost, poet (1874-1963) 
+Poetry is when an emotion has found its thought and the thought has found words. -Robert Frost, poet (1874-1963)
 
-It is lamentable, that to be a good patriot one must become the enemy of the rest of mankind. -Voltaire, philosopher (1694-1778) 
+It is lamentable, that to be a good patriot one must become the enemy of the rest of mankind. -Voltaire, philosopher (1694-1778)
 
 As I grow to understand life less and less, I learn to live it more and more. -Jules Renard, writer (1864-1910)
 
-Most institutions demand unqualified faith; but the institution of science makes skepticism a virtue. -Robert King Merton, sociologist (1910-2003) 
+Most institutions demand unqualified faith; but the institution of science makes skepticism a virtue. -Robert King Merton, sociologist (1910-2003)
 
-You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions. -Naguib Mahfouz, writer, Nobel laureate (1911-2006) 
+You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions. -Naguib Mahfouz, writer, Nobel laureate (1911-2006)
 
 Since Auschwitz we know what man is capable of. And since Hiroshima we know what is at stake. -Viktor Frankl, author, neurologist and psychiatrist, Holocaust survivor (1905-1997)
 
@@ -1695,11 +1691,11 @@ If this life be not a real fight, in which something is eternally gained for the
 
 He is happy, whose circumstances suit his temper; but he is more happy, who can suit his temper to any circumstances. -David Hume,  philosopher, historian, and economist (1711-1776)
 
-It was amazing that in this country where people allowed emotion to guide their politics they approached love with the precision of accountants. -Naguib Mahfouz, writer, Nobel laureate (1911-2006) 
+It was amazing that in this country where people allowed emotion to guide their politics they approached love with the precision of accountants. -Naguib Mahfouz, writer, Nobel laureate (1911-2006)
 
-Suffering - how divine it is, how misunderstood! We owe to it all that is good in us, all that gives value to life; we owe to it pity, we owe to it courage, we owe to it all the virtues. -Anatole France, novelist, essayist, Nobel laureate (1844-1924) 
+Suffering - how divine it is, how misunderstood! We owe to it all that is good in us, all that gives value to life; we owe to it pity, we owe to it courage, we owe to it all the virtues. -Anatole France, novelist, essayist, Nobel laureate (1844-1924)
 
-Innocence most often is a good fortune and not a virtue. -Anatole France, novelist, essayist, Nobel laureate (1844-1924) 
+Innocence most often is a good fortune and not a virtue. -Anatole France, novelist, essayist, Nobel laureate (1844-1924)
 
 Never use a metaphor, simile, or other figure of speech which you are used to seeing in print. -George Orwell, writer (1903-1950)
 
@@ -1743,21 +1739,21 @@ Nothing is a hobby - each discipline is its own world with its own high standard
 
 The impediment to action advances action. The obstacle is the way. -Marcus Aurelius, philosopher (121-180)
 
-If you would persuade, appeal to interest and not to reason. -Benjamin Franklin, statesman, author, and inventor (1706-1790) 
+If you would persuade, appeal to interest and not to reason. -Benjamin Franklin, statesman, author, and inventor (1706-1790)
 
 Most people overestimate what they can do in one year and underestimate what they can do in ten years. -Bill Gates, co-founder of Microsoft (1955-)
 
-The art of being wise is the art of knowing what to overlook. -William James, psychologist and philosopher (1842-1910) 
+The art of being wise is the art of knowing what to overlook. -William James, psychologist and philosopher (1842-1910)
 
 Step by step they were led to things which dispose to vice, the lounge, the bath, the elegant banquet. All this in their ignorance they called civilisation, when it was but a part of their servitude. -Publius Cornelius Tacitus, historian (c.55-c.120)
 
-Confronted with the impossibility of remaining faithful to one’s beliefs, and the equal impossibility of becoming free of them, one can be driven to the most inhuman excesses. –James Baldwin, writer (1924-1987)
+Confronted with the impossibility of remaining faithful to one’s beliefs, and the equal impossibility of becoming free of them, one can be driven to the most inhuman excesses. -James Baldwin, writer (1924-1987)
 
-I conceive of God, in fact, as a means of liberation and not a means to control others. –James Baldwin, writer (1924-1987)
+I conceive of God, in fact, as a means of liberation and not a means to control others. -James Baldwin, writer (1924-1987)
 
-The price one pays for pursuing any profession or calling is an intimate knowledge of its ugly side. –James Baldwin, writer (1924-1987)
+The price one pays for pursuing any profession or calling is an intimate knowledge of its ugly side. -James Baldwin, writer (1924-1987)
 
-Half the trouble in life is caused by pretending that there isn’t any. -Edith Wharton, novelist and designer (1862-1937) 
+Half the trouble in life is caused by pretending that there isn’t any. -Edith Wharton, novelist and designer (1862-1937)
 
 The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design. - Friedrich Hayek, economist and philosopher (1899-1992)
 
@@ -1769,14 +1765,13 @@ Great lives never go out; they go on. - Benjamin Harrison, 23rd US president and
 
 Be thine own palace, or the world's’ thy jail. - John Donne, poet (1573-1631)
 
-
 Little minds are tamed and subdued by misfortune; but great minds rise above it. -Washington Irving, writer (1783-1859)
 
 The secret of good writing is to say an old thing in a new way, or a new thing in an old way. - Richard Harding Davis, journalist and writer
 
 Every word is like an unnecessary stain on silence and nothingness. - Samuel Beckett, playwright, novelist, and poet (1906–1989)
 
-The time-state of attainment eliminates so accurately the time-state of aspiration, that the actual seems the inevitable, and, all conscious intellectual effort to reconstitute the invisible and unthinkable as a reality being fruitless, we are incapable of appreciating our joy by comparing it with our sorrow.  - Samuel Beckett, playwright, novelist, and poet (1906–1989)
+The time-state of attainment eliminates so accurately the time-state of aspiration, that the actual seems the inevitable, and, all conscious intellectual effort to reconstitute the invisible and unthinkable as a reality being fruitless, we are incapable of appreciating our joy by comparing it with our sorrow. - Samuel Beckett, playwright, novelist, and poet (1906–1989)
 
 (Samuel) Beckett does not believe in God, though he seems to imply that God has committed an unforgivable sin by not existing. - Anthony Burgess, writer (1917–1993)
 
@@ -1786,31 +1781,27 @@ Those who will not reason, are bigots; those who cannot, are fools; and those wh
 
 The difficulty lies not so much in developing new ideas as escaping from old ones. -John Maynard Keynes, economist (1883-1946)
 
-
 To live only for some future goal is shallow. It’s the sides of the mountain that sustain life, not the top. -Robert Pirsig, philosopher and novelist (1928–2017)
 
 The day is coming when a single carrot, freshly observed, will set off a revolution. -Paul Cézanne, painter (1839–1906)
 
 Life is a shipwreck, but we must not forget to sing in the lifeboats. -Voltaire, philosopher (1694-1778)
 
-Virtue is more to be feared than vice, because its excesses are not subject to the regulation of conscience. -Adam Smith, economist (1723-1790) 
+Virtue is more to be feared than vice, because its excesses are not subject to the regulation of conscience. -Adam Smith, economist (1723-1790)
 
 I never wonder to see men wicked, but I often wonder to see them not ashamed. -Jonathan Swift, satirist (1667-1745)
 
-Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after. –George Orwell, writer (1903-1950)
+Each generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after. -George Orwell, writer (1903-1950)
 
 Despicable means used to achieve laudable goals render the goals themselves despicable. -Anton Chekhov, short-story writer and dramatist (1860-1904)
 
-  
-
-The line separating good and evil passes not through states, nor between classes, nor between political parties either — but right through every human heart. -Alexander Solzhenitsyn, novelist, Nobel laureate (1918-2008)
-
+The line separating good and evil passes not through states, nor between classes, nor between political parties either - but right through every human heart. -Alexander Solzhenitsyn, novelist, Nobel laureate (1918-2008)
 
 Euclid taught me that without assumptions there is no proof. Therefore, in any argument, examine the assumptions. Then, in the alleged proof, be alert for inexplicit assumptions. -Eric Temple Bell, mathematician and science fiction author (1883-1960)
 
 The so-called obvious was repeatedly scrutinized from every angle and was frequently found to be not obvious but false. "Obvious" is the most dangerous word in mathematics. -Eric Temple Bell, mathematician and science fiction author (1883-1960)
 
-Until we have begun to go without them, we fail to realize how unnecessary many things are. We've been using them not because we needed them but because we had them. –Lucius Annaeus Seneca, philosopher and writer (c. 3 BCE - AD 65)
+Until we have begun to go without them, we fail to realize how unnecessary many things are. We've been using them not because we needed them but because we had them. -Lucius Annaeus Seneca, philosopher and writer (c. 3 BCE - AD 65)
 
 The most important component of evolution is death... it's easier to create a new organism than to change an existing one. -John Ousterhourt, computer science professor (1954-)
 
@@ -1852,18 +1843,17 @@ Rudeness is the weak man's imitation of strength. -Eric Hoffer, philosopher and 
 
 It is easier to love humanity as a whole than to love one's neighbor. -Eric Hoffer, philosopher and author (1902-1983)
 
-You accept certain unlovely things about yourself and manage to live with them. The atonement for such an acceptance is that you make allowances for others — that you cleanse yourself of the sin of self-righteousness. -Eric Hoffer, philosopher and author (1902-1983)
+You accept certain unlovely things about yourself and manage to live with them. The atonement for such an acceptance is that you make allowances for others - that you cleanse yourself of the sin of self-righteousness. -Eric Hoffer, philosopher and author (1902-1983)
 
 The significant point is that people... who cannot do much with (freedom) are hungry for power. The desire for freedom... says: leave me alone and I shall grow, learn, and realize my capacities. Freedom gives us a chance to realize our human and individual uniqueness. Absolute power can also bestow uniqueness: to have absolute power is to have the power to reduce all the people around us to puppets, robots, toys, or animals, and be the only man in sight. Absolute power achieves uniqueness by dehumanizing others. To sum up: Those who lack the capacity to achieve much in an atmosphere of freedom will clamor for power. -Eric Hoffer, philosopher and author (1902-1983)
 
-It is the individual only who is timeless. Societies, cultures, and civilizations — past and present — are often incomprehensible to outsiders, but the individual's hunger, anxieties, dreams, and preoccupations have remained unchanged through the millennia. Thus, we are up against the paradox that the individual who is more complex, unpredictable, and mysterious than any communal entity is the one nearest to our understanding; so near that even the interval of millennia cannot weaken our feeling of kinship. -Eric Hoffer, philosopher and author (1902-1983)
+It is the individual only who is timeless. Societies, cultures, and civilizations - past and present - are often incomprehensible to outsiders, but the individual's hunger, anxieties, dreams, and preoccupations have remained unchanged through the millennia. Thus, we are up against the paradox that the individual who is more complex, unpredictable, and mysterious than any communal entity is the one nearest to our understanding; so near that even the interval of millennia cannot weaken our feeling of kinship. -Eric Hoffer, philosopher and author (1902-1983)
 
 It is not good for our efforts at self-realization to know the opinions other people have of us. It is difficult or perhaps impossible to be ourselves if we are known. -Eric Hoffer, philosopher and author (1902-1983)
 
-Nature gets credit which should in truth be reserved for ourselves: the rose for its scent, the nightingale for its song, and the sun for its radiance. The poets are entirely mistaken. They should address their lyrics to themselves and should turn them into odes of self-congratulation on the excellence of the human mind.  -Alfred North Whitehead, mathematician and philosopher (1861-1947)
+Nature gets credit which should in truth be reserved for ourselves: the rose for its scent, the nightingale for its song, and the sun for its radiance. The poets are entirely mistaken. They should address their lyrics to themselves and should turn them into odes of self-congratulation on the excellence of the human mind. -Alfred North Whitehead, mathematician and philosopher (1861-1947)
 
 It is a profoundly erroneous truism... that we should cultivate the habit of thinking of what we are doing. The precise opposite is the case. Civilization advances by extending the number of important operations which we can perform without thinking about them. -Alfred North Whitehead, mathematician and philosopher (1861-1947)
-
 
 Work destroys your soul by stealthily invading your brain during the hours not officially spent working; be selective about professions. -Nassim Nicholas Taleb, trader and analyst (1960-)
 
@@ -1873,17 +1863,17 @@ If you want people to read a book, tell them it is overrated. -Nassim Nicholas T
 
 We need to feel a little bit lost somewhere, physically or intellectually, at least once a day. -Nassim Nicholas Taleb, trader and analyst (1960-)
 
-Thinking that all individuals pursue “selfish” interests is equivalent to assuming that all random variables have zero covariance. -Nassim Nicholas Taleb, trader and analyst (1960-)
+Thinking that all individuals pursue "selfish" interests is equivalent to assuming that all random variables have zero covariance. -Nassim Nicholas Taleb, trader and analyst (1960-)
 
 Quite revealing of human preferences that more suicides come from shame or loss of financial and social status than medical diagnoses. -Nassim Nicholas Taleb, trader and analyst (1960-)
 
 Business wars are typically lost by both parties; academic wars are won by both sides. -Nassim Nicholas Taleb, trader and analyst (1960-)
 
-People focus on role models; it is more effective to find antimodels — people you don’t want to resemble when you grow up. -Nassim Nicholas Taleb, trader and analyst (1960-)
+People focus on role models; it is more effective to find antimodels - people you don’t want to resemble when you grow up. -Nassim Nicholas Taleb, trader and analyst (1960-)
 
 The twentieth century was the bankruptcy of the social utopia; the twenty-first will be that of the technological one. -Nassim Nicholas Taleb, trader and analyst (1960-)
 
-For so many, instead of looking for “cause of death” when they expire, we should be looking for “cause of life” when they are still around. -Nassim Nicholas Taleb, trader and analyst (1960-)
+For so many, instead of looking for "cause of death" when they expire, we should be looking for "cause of life" when they are still around. -Nassim Nicholas Taleb, trader and analyst (1960-)
 
 Any book not worth rereading isn’t worth reading. -Nassim Nicholas Taleb, trader and analyst (1960-)
 
@@ -1915,7 +1905,17 @@ It is perplexing but amusing to observe people getting extremely excited about t
 
 Let us find what risks we can measure and these are the risks we should be taking. -Nassim Nicholas Taleb, trader and analyst (1960-)
 
-Contra the prevailing belief, “success” isn’t being on top of a hierarchy, it is standing outside all hierarchies. -Nassim Nicholas Taleb, trader and analyst (1960-)
+Contra the prevailing belief, "success" isn’t being on top of a hierarchy, it is standing outside all hierarchies. -Nassim Nicholas Taleb, trader and analyst (1960-)
 
 A happier world is one in which everyone realizes that 1) it is not what you tell people, it is how you say it that makes them feel bad; 2) it is not what you do to them but how you make them look that gets them angry; 3) they should be the ones putting themselves in a specific category. -Nassim Nicholas Taleb, trader and analyst (1960-)
+
+Scientific research is not conducted in a social vacuum. -Robert King Merton, sociologist (1910-2003)
+
+Men do not sufficiently realise that their future is in their own hands. Theirs is the task of determining first of all whether they want to go on living or not. Theirs is the responsibility, then, for deciding if they want merely to live, or intend to make just the extra effort required for fulfilling, even on their refractory planet, the essential function of the universe, which is a machine for the making of gods. -Henri-Louis Bergson, novelist and philosopher (1859-1941)
+
+I am far from denying the destructive and disintegrating forces of passion. I will go so far as to agree that apart from the reproductive function, men have hitherto used love, on the whole, as an instrument of self-corruption and intoxication. But what do these excesses prove? Because fire consumes and electricity can kill are we to stop using them? ...In every domain of the real (physical, affective, intellectual) "danger" is a sign of power. Only a mountain can create a terrifying drop. ..."The more dangerous a thing, the more is its conquest ordained by life": it is from that conviction that the modern world has emerged; and from that our religion, too, must be reborn. -Pierre Teilhard de Chardin, priest, philosopher, and paleontologist (1881–1955) 
+
+What paralyzes life is lack of faith and lack of audacity. The difficulty lies not in solving problems but expressing them. -Pierre Teilhard de Chardin, priest, philosopher, and paleontologist (1881–1955)
+
+It is biologically evident that to gain control of passion and so make it serve spirit must be a condition of progress. Sooner or later, then, the world will brush aside our incredulity and take this step... after harnessing the ether, the winds, the tides, gravitation, we shall harness for God the energies of love. And, on that day, for the second time in the history of the world, man will have discovered fire. -Pierre Teilhard de Chardin, priest, philosopher, and paleontologist (1881–1955)
 
