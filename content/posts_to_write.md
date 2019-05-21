@@ -11,6 +11,17 @@
     * https://gorails.com/series/solid-design-principles
 
 1. RoR PWA to shoot you a daily quote from _Other People's Lines._
+    * https://edgeguides.rubyonrails.org/active_record_postgresql.html#uuid-primary-keys (except make the `enable_extension` its own, first, migration)
+    * rails g migration CreateAuthors name:string
+    * rails g migration CreateQuote passage:string author:references
+    * https://gist.github.com/arjunvenkat/1115bc41bf395a162084
+        * pull in both csv's
+        * for author csv, just add each name to new record;
+        * for quote csv, lookup author by name, then grab id and write to author_id 
+    * counter cache quotes on authors; 
+        * when you delete a quote, 
+        * check if the author's counter cache is 0; 
+        * if so, delete the author
 
 1. Read _Learning React Native_ (O'Reilly)
 
