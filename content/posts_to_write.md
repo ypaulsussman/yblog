@@ -1,6 +1,56 @@
+## Read a book; build a thing
+
+### Step 01: RoR and RN
+
+1. Work through GoRails subscription, and burn ruthlessly though their resources `**<===Current===**`
+    * https://gorails.com/series/rails-for-beginners
+    * https://gorails.com/series/refactoring-your-code
+    * https://gorails.com/series/rails-performance-techniques
+    * https://gorails.com/series/improve-performance-with-caching
+    * https://gorails.com/series/design-patterns
+    * https://gorails.com/series/solid-design-principles
+
+1. RoR PWA to shoot you a daily quote from _Other People's Lines._
+
+1. Read _Learning React Native_ (O'Reilly)
+
+1. Ruby chapter in _Json At Work_ (O'Reilly)
+
+1. Watch React Native series [from GoRails](https://gorails.com/episodes/tagged/React%20Native)
+
+1. RoR JSON API / React Native app to 
+    * perform the equivalent of an Anki deck of cognitive biases/logical fallacies (just scrape Wikipedia for content); or
+    * serve as a [decision journal](https://fs.blog/2014/02/decision-journal/)
+
+### Step 02: O'Reilly Cookbook Reprocessing
+
+1. [The Linux Command Line](http://linuxcommand.org/tlcl.php) (No Starch)
+
+1. _Explore how to turn (the process of reading a_ '`* Cookbook`' _O'Reilly text, after having engaged in a basic primer in the technology) into more of an interactive, problem-solving activity_
+    * Possibly, for each, build a https://lab.github.com/ course?
+    * Possibly using principle of "progressive disclosure" of hints, as requested by user (e.g. first click on card gives you desc of line of code in EN, next lists obj, next lists method, next lists argument?)
+
+1. Bash Cookbook (O'Reilly)
+
+1. SQL Cookbook (O'Reilly)
+
+1. Javascript Cookbook (O'Reilly)
+
+1. CSS Cookbook (O'Reilly)
+
+1. Regex Cookbook (O'Reilly)
+
+1. `${Add projects from "Next Steps" section of 'Revisiting' and 'Ideas' files}`
+
+### Step 03: hashtag #gitgud at Ruby, or anything else you've got O'Reilly books for?
+
+1. [Manning book on Ruby](https://www.manning.com/books/the-well-grounded-rubyist-third-edition)
+
+---
+
 ## Reread, and write a response
 
-1. ABE phonics app reimplementation `**<===Current===**`
+1. ABE phonics app reimplementation: what would you do differently? `**<===Current===**`
 
 ### Non-technical revisitations
 
@@ -81,48 +131,6 @@
 
 
 ---
-
-## Read a book; build a thing
-
-### Step 01: RoR and RN
-
-1. Work through GoRails subscription, and burn ruthlessly though their resources `**<===Current===**`
-
-1. RoR PWA to shoot you a daily quote from _Other People's Lines._
-
-1. Ruby chapter in Json At Work (O'Reilly)
-
-1. Learning React Native
-
-1. RoR JSON API / React Native app to 
-    * perform the equivalent of an Anki deck of cognitive biases/logical fallacies (just scrape Wikipedia for content); or
-    * serve as a [decision journal](https://fs.blog/2014/02/decision-journal/)
-
-### Step 02: O'Reilly Cookbook Reprocessing
-
-1. [The Linux Command Line](http://linuxcommand.org/tlcl.php) (No Starch)
-
-1. _Explore how to turn (the process of reading a_ '`* Cookbook`' _O'Reilly text, after having engaged in a basic primer in the technology) into more of an interactive, problem-solving activity_
-    * Possibly, for each, build a https://lab.github.com/ course?
-    * Possibly using principle of "progressive disclosure" of hints, as requested by user (e.g. first click on card gives you desc of line of code in EN, next lists obj, next lists method, next lists argument?)
-
-1. Bash Cookbook (O'Reilly)
-
-1. SQL Cookbook (O'Reilly)
-
-1. Javascript Cookbook (O'Reilly)
-
-1. CSS Cookbook (O'Reilly)
-
-1. Regex Cookbook (O'Reilly)
-
-1. `${Add projects from "Next Steps" section of 'Revisiting' and 'Ideas' files}`
-
-### Step 03: hashtag #gitgud at Ruby, or NLP, or both
-
-1. [Manning book on Ruby](https://www.manning.com/books/the-well-grounded-rubyist-third-edition)
-
-1. After you do some NLP learning, build a program that creates (e.g. noun-verb) collocates based on pairs that rarely/never collocate (idea-prompting sample: “the clocks delectate.”)
 
 ---
 
