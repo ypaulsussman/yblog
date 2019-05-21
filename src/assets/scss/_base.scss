@@ -4,3 +4,8 @@
 @import "~katex/dist/katex.min.css";
 @import "~prismjs/themes/prism-solarizedlight.css";
 @import "base/generic";
+
+//@todo: fix this, and feel ashamed!
+.language-text {
+  font-size: .8em !important;
+}

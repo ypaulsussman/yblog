@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Y Sussman',
+    name: 'Y, Sussman',
     photo: '/photo.jpg',
     bio: 'Between the lakes and river.',
     contacts: {

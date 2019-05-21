@@ -12,8 +12,8 @@
 
 1. RoR PWA to shoot you a daily quote from _Other People's Lines._
     * https://edgeguides.rubyonrails.org/active_record_postgresql.html#uuid-primary-keys (except make the `enable_extension` its own, first, migration)
-    * rails g migration CreateAuthors name:string
-    * rails g migration CreateQuote passage:string author:references
+    * rails g scaffold CreateAuthors name:string
+    * rails g scaffold CreateQuote passage:string author:references
     * https://gist.github.com/arjunvenkat/1115bc41bf395a162084
         * pull in both csv's
         * for author csv, just add each name to new record;
@@ -22,6 +22,10 @@
         * when you delete a quote, 
         * check if the author's counter cache is 0; 
         * if so, delete the author
+    * devise to require login
+    * PWA research
+        * https://johnbeatty.co/2019/01/08/easy-pwas-the-rails-way/
+        * https://rossta.net/blog/make-your-rails-app-a-progressive-web-app.html and https://keithpblog.org/post/rails-5-progressive-web-app/
 
 1. Read _Learning React Native_ (O'Reilly)
 

@@ -1,25 +1,25 @@
-/** 
+/**
  * Variables
  */
 
 // Colors
-$color-base: #222;
-$color-primary: #5D93FF;
-$color-secondary: #F7A046;
+$color-base: #1E1B18;
+$color-primary: #276fbf; // #0A2463;
+$color-secondary: #af5b5b; //#FF4242;
 
-$color-white: #FFF;
+$color-white: #f6f4f3;
 $color-gray: lighten($color-base, 40%);
 $color-gray-border: lighten($color-base, 77%);
 $color-gray-bg: lighten($color-base, 79%);
 
 // Typographic
-$typographic-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+$typographic-font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 
 $typographic-root-font-size: 100;
 $typographic-base-font-size: 16px;
 $typographic-small-font-size: 14px;
 
-$typographic-base-line-height: 1.625;
+$typographic-base-line-height: 1.5;
 
 $typographic-base-font-color: $color-base;
 $typographic-link-p-font-color: $color-primary;
