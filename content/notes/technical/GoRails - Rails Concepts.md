@@ -1,5 +1,5 @@
 ﻿---
-title: GoRails
+title: GoRails Rails Concepts Notes
 date: "2019-05-19"
 template: "post"
 draft: true
