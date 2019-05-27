@@ -1,6 +1,6 @@
 ---
 title: GoRails Beginner and Refactoring Notes
-date: "2019-05-19"
+date: "2019-05-26"
 template: "post"
 draft: true
 slug: "/posts/gorails-rails-beginners-refactoring-notes/"
