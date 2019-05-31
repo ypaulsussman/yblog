@@ -98,9 +98,8 @@ You'll need to render a partial in order to take advantage of the 'multi-get' th
 ```
 
 
+https://gorails.com/episodes/russian-doll-caching-with-rails-5?autoplay=1
+
+@11:09
 
 
-
-
-
-* https://gorails.com/series/improve-performance-with-caching
