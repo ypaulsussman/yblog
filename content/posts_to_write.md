@@ -22,6 +22,13 @@
         1. _your decision-making process,_ 
         1. _articles/books that you reference, and_ 
         1. _unexpected issues you encounter._
+    * upgrade brew
+    * upgrade postgres
+    * upgrade rvm
+    * upgrade ruby
+    * upgrade nvm
+    * upgrade node
+    * upgrade yarn
     * https://edgeguides.rubyonrails.org/active_record_postgresql.html#uuid-primary-keys (except make the `enable_extension` its own, first, migration)
     * rails g migration CreateAuthors name:string
     * rails g migration CreateQuote passage:string author:references
