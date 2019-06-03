@@ -1,9 +1,9 @@
 ---
-title: GoRails Beginner and Refactoring Notes
-date: "2019-05-27"
+title: GoRails Performance and Caching Notes
+date: "2019-06-01"
 template: "post"
 draft: true
-slug: "/posts/gorails-rails-performance-notes/"
+slug: "/posts/gorails-performance-notes/"
 category: "What I Read"
 tags:
   - "Ruby"
@@ -97,9 +97,53 @@ You'll need to render a partial in order to take advantage of the 'multi-get' th
   <%= render partial: 'todos/todo', collection: list.todos, cached: true %>
 ```
 
+Man, this is _nifty,_ but... I'm just not sure it's worth knowing the implementation directly. Return to this video when you find yourself in the position of displaying lots of listed data. 
 
-https://gorails.com/episodes/russian-doll-caching-with-rails-5?autoplay=1
 
-@11:09
+## Episode 03 @ Improve Performance With Caching:  Advanced Caching with User Permissions and Authorization 
+
+You _could_ add the user's ID to the cache key, in order to prevent the server from accidentally displaying the e.g. (the cached version of the view for a read-only user) to (an admin who should also see various edit buttons.)
+
+This, however, will cause your cache to run out of memory pretty fast (_one view for each user!_)
+
+Better is to remove any role-evaluation logic (for user-dependent tags) from the `.erb` file, and instead always display them (for ease of caching), then hide them on load via JavaScript and meta tags.
+
+```rhtml
+<!-- Rather than:-->
+
+  <%= link_to 'Edit', edit_list_path if user_signed_in? && current_user.role == 'admin' %>
+
+<!-- Always render:-->
+
+<%= link_to 'Edit', edit_list_path, class: "hidden", data: {role: "admin"} %>
+
+<!-- Then, in application.html.erb, include in the <head> the logic: -->
+
+<%if user_signed_in? %>
+  <meta 
+    name="current-user" 
+    content="<%= current_user.id %>" 
+    data-role="<%= current_user.role %>" 
+  >
+<% end %>
+```
+Then in a js (or, sigh, CoffeScript) file, remove the "hidden" class accordingly: 
+
+```coffeescript
+jQuery ->
+  role = $("meta[name='current-user']").data("role")
+$("[data-role='#{role}']").removeClass("hidden")
+```
+
+(Obviously, you'd need some CSS keyed off the selector to actually set `display: none`, too.)
+
+
+
+
+
+
+
+
+
 
 
