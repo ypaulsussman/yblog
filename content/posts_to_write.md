@@ -2,16 +2,11 @@
 
 ### First: RoR Toy App
 
-1. Work through GoRails subscription `**<===Current===**`
-    * https://gorails.com/series/rails-performance-techniques
-    * https://gorails.com/series/improve-performance-with-caching
-    * https://gorails.com/series/design-patterns
-    * https://gorails.com/series/solid-design-principles
+1. Work through GoRails design videos
+    * (maybe) https://gorails.com/series/design-patterns
+    * (maybe) https://gorails.com/series/solid-design-principles
 
-1. Watch these specifically:
-    * https://gorails.com/episodes/webpacker-javascript-in-rails-6
-    * https://gorails.com/episodes/how-to-use-bootstrap-with-webpack-and-rails
-    * (maybe) https://gorails.com/episodes/purgecss
+1. Work through GoRails Turbolinks videos `**<===Current===**`
     * https://gorails.com/episodes/upgrade-to-turbolinks-5
     * https://gorails.com/episodes/how-to-use-turbolinks-clearCache
     * (maybe) https://gorails.com/episodes/turbolinks-simplemde-markdown-editor
@@ -44,7 +39,9 @@
         * if so, delete the author
     * PWA research
         * https://johnbeatty.co/2019/01/08/easy-pwas-the-rails-way/
-        * https://rossta.net/blog/make-your-rails-app-a-progressive-web-app.html and https://keithpblog.org/post/rails-5-progressive-web-app/
+        * https://www.youtube.com/watch?v=JOcs__ofsps
+        * https://rossta.net/blog/make-your-rails-app-a-progressive-web-app.html 
+        * https://keithpblog.org/post/rails-5-progressive-web-app/
     * after MVP:
         * devise to require login
         * pundit to create 'admin' and 'user' policies
@@ -54,7 +51,7 @@
             * (optional) users can suggest quotes (add to 'suggestion' table; if admin approves, add to 'quotes' table)
         * Randomized associated images (parse quote to grab nouns/verbs; use ddg image search; grab associated image; copy it to the ) 
 
-## Next: RN Toy App
+### Next: RN Toy App
 
 1. Read _Learning React Native_ (O'Reilly)
 
@@ -88,17 +85,21 @@
 
 ### Next: hashtag #gitgud at [Ruby, or anything else you've got O'Reilly books for]
 
-1. [Manning book on Ruby](https://www.manning.com/books/the-well-grounded-rubyist-third-edition)
+1. [Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist-third-edition)
+
+1. [Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)
+
+1. [Rails 5 Test Prescriptions](https://pragprog.com/book/nrtest3/rails-5-test-prescriptions)
+
+1. [Ruby Performance Optimization](https://pragprog.com/book/adrpo/ruby-performance-optimization)
 
 ---
 
 ## Reread, and write a response
 
-1. ABE phonics app reimplementation: what would you do differently? `**<===Current===**`
-
 ### Non-technical revisitations
 
-1. Crash Course Computer Science [ ]
+1. Crash Course Computer Science [ ] `**<===Current===**`
 
 1. How Language Began [ ]
 
@@ -224,4 +225,4 @@
 1. Apps and Ideas Heap #15 [ identical to #17 ]
 1. ~~Educause's 7 Things You Should Know [ not a ton of content; kept OER-links list]~~
 1. Zero to One [ x ]
-
+1. ~~ABE phonics app reimplementation: what would you do differently? [ begun; not very insight-provoking; discarded]~~
