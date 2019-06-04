@@ -16,11 +16,11 @@ I’ll confess: my first read of “Zero to One” made me feel just _great_ abo
 
 ...well, I really liked it. 
 
-I didn’t agree with the assumptions underlying a wide swath of it, to be clear. (_Oft-maligned "Lifestyle business" easily >= "shot at monopooly" as a personal goal, any day._) But I did learn a ton, thought about entire new topics for the first time, and even finished the book invigorated, albeit in a kind of cheesy, young-pioneer, “_to seek, to strive, and not to yield!_” sort of way.
+I didn’t agree with the assumptions underlying a wide swath of it, to be clear. (_Oft-maligned "Lifestyle business" > "shot at monopoly" as a personal goal, any day, and easily so._) But I did learn a ton, thought about entire new topics for the first time, and even finished the book invigorated, albeit in a kind of cheesy, young-pioneer, “_to seek, to strive, and not to yield!_” sort of way.
 
 All while the author himself was simultaneously advocating for teenagers to avoid college, suing newspapers out of existence, and buying apocalypse-insurance citizenship in Hobbiton. (_More like "Zero for Three," amirite?!_) So open-minded, Y.
 
-And then that was that, for about a year and a half. Even among the best of the genre, a little business/entrepreneurship-text goes along way.
+And then... that was that, for about a year and a half. Even among the best of the genre, a little business/entrepreneurship nonfiction goes along way.
 
 ## Revisitations
 
