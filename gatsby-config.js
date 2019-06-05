@@ -3,6 +3,8 @@
 const siteConfig = require('./config.js');
 const postCssPlugins = require('./postcss-config.js');
 
+console.log('ya config:', siteConfig);
+
 module.exports = {
   siteMetadata: {
     url: siteConfig.url,
@@ -115,37 +117,38 @@ module.exports = {
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
     'gatsby-plugin-netlify',
-    {
-      resolve: 'gatsby-plugin-sitemap',
-      options: {
-        query: `
-          {
-            site {
-              siteMetadata {
-                url
-              }
-            }
-            allSitePage(
-              filter: {
-                path: { regex: "/^(?!/404/|/404.html|/dev-404-page/)/" }
-              }
-            ) {
-              edges {
-                node {
-                  path
-                }
-              }
-            }
-          }
-        `,
-        output: '/sitemap.xml',
-        serialize: ({ site, allSitePage }) => allSitePage.edges.map((edge) => ({
-          url: site.siteMetadata.url + edge.node.path,
-          changefreq: 'daily',
-          priority: 0.7
-        }))
-      }
-    },
+    // 'gatsby-plugin-sitemap',
+    // {
+    //   resolve: 'gatsby-plugin-sitemap',
+    //   options: {
+    //     query: `
+    //       {
+    //         site {
+    //           siteMetadata {
+    //             url
+    //           }
+    //         }
+    //         allSitePage(
+    //           filter: {
+    //             path: { regex: "/^(?!/404/|/404.html|/dev-404-page/)/" }
+    //           }
+    //         ) {
+    //           edges {
+    //             node {
+    //               path
+    //             }
+    //           }
+    //         }
+    //       }
+    //     `,
+    //     output: '/sitemap.xml',
+    //     serialize: ({ site, allSitePage }) => allSitePage.edges.map((edge) => ({
+    //       url: site.siteMetadata.url + edge.node.path,
+    //       changefreq: 'daily',
+    //       priority: 0.7
+    //     }))
+    //   }
+    // },
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
