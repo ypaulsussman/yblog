@@ -3,7 +3,6 @@
 const siteConfig = require('./config.js');
 const postCssPlugins = require('./postcss-config.js');
 
-console.log('ya config:', siteConfig);
 
 module.exports = {
   siteMetadata: {
