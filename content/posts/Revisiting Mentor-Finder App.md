@@ -2,7 +2,7 @@
 title: Revisiting Notes on 'Mentor-Finder'
 date: "2019-06-19"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/mentor-finder-revisitation/"
 category: "What I Read"
 tags:
