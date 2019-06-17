@@ -123,7 +123,7 @@ module.exports = {
         query: `
           {
             site {
-              siteMetadata {
+              Metadata {
                 url
               }
             }
