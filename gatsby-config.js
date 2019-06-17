@@ -123,8 +123,8 @@ module.exports = {
         query: `
           {
             site {
-              Metadata {
-                url
+              siteMetadata {
+                siteUrl: url
               }
             }
             allSitePage(
