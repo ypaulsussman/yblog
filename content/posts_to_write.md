@@ -2,17 +2,8 @@
 
 ### First: RoR Toy App
 
-1. Work through GoRails design videos
-    * (maybe) https://gorails.com/series/design-patterns
-    * (maybe) https://gorails.com/series/solid-design-principles
-
-1. Work through GoRails Turbolinks videos `**<===Current===**`
-    * https://gorails.com/episodes/upgrade-to-turbolinks-5
-    * https://gorails.com/episodes/how-to-use-turbolinks-clearCache
-    * (maybe) https://gorails.com/episodes/turbolinks-simplemde-markdown-editor
-
 1. RoR PWA to shoot you a daily quote from _Other People's Lines._
-    * Major goal: familiarize w/ webpacker-in-rails, turbolinks 5+, and PWA's / lighthouse audits.
+    * Major goal: familiarize w/ webpacker-in-rails, and PWA's / lighthouse audits.
     * _In the below, write notes for each action you take, focusing especially on..._ 
         1. _your decision-making process,_ 
         1. _articles/books that you reference, and_ 

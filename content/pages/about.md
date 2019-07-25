@@ -22,8 +22,8 @@ The code is pretty much entirely the work of others: my adaptation has largely b
 
 ## So why a blog, though?
 
-Eh, I should do more brain calisthenics. A good way to elicit such is to cast thoughts into writing, and then reexamine both. 
+Eh, I should do more brain calisthenics. A typically-strong way to that is to cast one's idle thoughts into writing, and then reexamine both.
 
-And a good way to _that,_ or so I hear, is to maintain a public-facing collection of those writings: one that shames you into perpetually refining and expanding them.
+And a good way to do _that,_ or so I hear, is to maintain a collection of those writings: a public-facing one, one that shames you into perpetual expansion and polish.
 
 Ta da!
