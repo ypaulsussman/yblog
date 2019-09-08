@@ -111,6 +111,16 @@
     - [Open Washington](http://www.openwa.org/&sa=D&ust=1543096216916000) has an short, introductory course on OER use and licenses.
     - [Creative Commons](https://creativecommons.org/about/program-areas/education-oer/education-oer-resources/&sa=D&ust=1543096216917000) has a list of search tools.
 
+1. E-Learning Rubrics
+    - comparing and searching for different rubrics by which to measure an e-learning product:
+    - concluding with that you can’t actually write about the product, because they are clients of the company that employs you
+    - Rate the learning experience of the badge course you’re currently taking
+        - Suitably anonymize it, first, per blogpost above
+        - Better done when you can compare two programs (perhaps the Linux/Docker course?)
+        - Which taxonomy to use?
+            - “E-learning in the science of instruction”?
+            - “Really Useful E-Learning Manual“ from O'Reilly (perhaps there’s an EPub version?)
+
 ### Ideas
 
 1. **Idea:** GUI for content professors (_i.e. experts in research, but not pedagogy_) to build lessons, guided by sound teaching principles and pleasing design.
@@ -142,6 +152,16 @@
    - Bring in various Faker-generated sentences as prompts (use e.g. quotes Classes, rather than single-word entries) https://github.com/stympy/faker
    - [plenty](https://thenounproject.com/browse/) [such](https://gallery.manypixels.co/) [sources](https://www.ikonate.com/) for grabbing image-prompts, too
 
+1. **Idea:** "Corona"
+    - tool for retros && retro commentary/weigh-in (plus one's, comments, concerns, qualifications, etc)
+    - web form, with support from slackbot
+    - like, "Corona" refers to part of the eye -- but it also sounds like "Coroner," who performs... post-mortems. Heh.
+
+1. **Idea:** "ThousandWord"
+    - Repository for collected PF01 images
+    - On top of a PG database?
+    - Use as practice w/ Redis/ElasticSearch/any search-or-filter-heavy stack 
+
 ### Technical revisitations
 
 1. Full-Stack for Frontends 01 [ ]
@@ -165,8 +185,6 @@
 
 1. Service Workers [ ]
 
-
----
 
 ---
 
