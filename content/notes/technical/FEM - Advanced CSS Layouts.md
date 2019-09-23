@@ -1,3 +1,17 @@
+---
+title: Advanced CSS Layouts (Kramer, Jen)
+date: "2019-08-15"
+template: "post"
+draft: true
+slug: "/posts/advanced-css-layouts-notes/"
+category: "What I Read"
+tags:
+  - "CSS"
+  - "Frontend Masters"
+description: "Notes from a live workshop I attended. (Course tagline: \"By coding along with us, you'll: learn to combine Flexbox, calc(), custom properties, and media queries to create incredibly DRY layouts; understand modular scales for type; create responsive tables using correct table markup and different techniques for display; and create responsive forms that work well across devices.\")"
+---
+
+
 # Advanced CSS Layouts 
 
 ## 01 Review exercise
