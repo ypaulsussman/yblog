@@ -1,3 +1,5 @@
+# Stuff You Could Do Right Now 
+
 ## Read a book; build a thing
 
 ### First: RoR Toy App
@@ -86,22 +88,16 @@
 
 ---
 
-## Reread, and write a response
+## Reread the notes; respond or reflect 
 
 ### Non-technical revisitations
 
 1. Crash Course Computer Science [ ] `**<===Current===**`
-
 1. How Language Began [ ]
-
 1. Crash Course Study Skills [ ]
-
 1. Through the Language Glass [ ]
-
 1. Words and Rules [ ]
-
 1. How We Learn [ ]
-
 1. Write comparison of different sources of OER: (_yes, you'll need to build a rubric/taxonomy of some sort_)
     - [OpenStax](https://openstax.org/about&sa=D&ust=1543096216913000) at Rice University
     - [Open Textbook Library](http://open.umn.edu/opentextbooks/About.aspx&sa=D&ust=1543096216913000) (and network) at University of Minnesota
@@ -110,7 +106,6 @@
     - The [Open Ed Consortium](https://www.oeconsortium.org/about-oec/&sa=D&ust=1543096216915000) (global nonprofit) and [MERLOT](http://info.merlot.org/merlothelp/topic.htm%23t%3DWho_We_Are.htm&sa=D&ust=1543096216915000) (originally CSU, but now partnered with OEC?) also provide search tools (do they host/support any objects of their own, though?)
     - [Open Washington](http://www.openwa.org/&sa=D&ust=1543096216916000) has an short, introductory course on OER use and licenses.
     - [Creative Commons](https://creativecommons.org/about/program-areas/education-oer/education-oer-resources/&sa=D&ust=1543096216917000) has a list of search tools.
-
 1. E-Learning Rubrics
     - comparing and searching for different rubrics by which to measure an e-learning product:
     - concluding with that you can’t actually write about the product, because they are clients of the company that employs you
@@ -162,43 +157,33 @@
     - On top of a PG database?
     - Use as practice w/ Redis/ElasticSearch/any search-or-filter-heavy stack 
 
-### Technical revisitations
+### FEM revisitations
 
 1. Full-Stack for Frontends 01 [ ]
 1. Full-Stack for Frontends 02 [ ]
 
-1. Meetup and Event Notes [ ]
+1. (_non-FEM_) Beautiful JavaScript [ ]
+1. (_non-FEM_) Learning Javascript [ ]
 
-1. Business and Management Book Summaries [ ]
-
-1. Beautiful JavaScript [ ]
-1. JavaScript_The Hard (and New Hard) Parts [ ]
-1. Deep JavaScript Fundamentals
-1. JavaScript: The Recent Parts
-1. Learning Javascript
-
-1. Design for Developers [ ]
+1. JavaScript: The Hard (and New Hard) Parts [ ]
+1. Deep JavaScript Fundamentals [ ]
+1. JavaScript: The Recent Parts [ ]
+1. Digging into Node [ ]
+1. Service Workers [ ]
 
 1. Introduction to Gatsby [ ]
 
-1. Digging into Node [ ]
+1. Design for Developers [ ]
+1. Advanced CSS Layouts [ ]
 
-1. Service Workers [ ]
+### Other Revisitations
 
+1. Business and Management Book Summaries [ ]
+1. Prototype to Product [ ]
+1. Hello, Startup [ ]
+1. Ed Meetup and Event Notes [ ]
+1. Tech Meetup and Event Notes [ ]
 
----
-
-## Read a paper; take some notes
-
-1. _Self-Regulated Learning: Beliefs, Techniques, and Illusions_ (Bjork, 2013)
-
-1. _Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology_ (Dunlosky, 2013)
-
-1. _How People Learn II: Learners, Contexts, and Cultures_ (NAP, 2018)
-
-1. _Learning For Life I: Interest in and Aptitude for Technology_ (Tyton Partners, 2014)
-
-1. _Learning For Life II: The Supplier Ecosystem_ (Tyton Partners, 2014)
 
 ---
 
