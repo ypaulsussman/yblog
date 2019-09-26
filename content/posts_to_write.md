@@ -1,6 +1,6 @@
 # Stuff You Could Do Right Now 
 
-## Read a book; build a thing
+## Read a thing; build a thing
 
 ### First: RoR Toy App
 
@@ -22,6 +22,7 @@
     * rails g migration CreateQuote passage:string author:references
     * rails g scaffold Authors
     * rails g scaffold Quotes
+        * dependent destroy for relationship
     * https://gist.github.com/arjunvenkat/1115bc41bf395a162084
         * pull in both csv's
         * for author csv, just add each name to new record;
@@ -35,6 +36,7 @@
         * https://www.youtube.com/watch?v=JOcs__ofsps
         * https://rossta.net/blog/make-your-rails-app-a-progressive-web-app.html 
         * https://keithpblog.org/post/rails-5-progressive-web-app/
+    * Pre-fetch/pre-load for links at the bottom of the page (i.e. admin page)?
     * after MVP:
         * devise to require login
         * pundit to create 'admin' and 'user' policies
@@ -116,7 +118,34 @@
             - “E-learning in the science of instruction”?
             - “Really Useful E-Learning Manual“ from O'Reilly (perhaps there’s an EPub version?)
 
-### Ideas
+### FEM revisitations
+
+1. Full-Stack for Frontends 01 [ ]
+1. Full-Stack for Frontends 02 [ ]
+
+1. (_non-FEM_) Beautiful JavaScript [ ]
+1. (_non-FEM_) Learning Javascript [ ]
+
+1. JavaScript: The Hard (and New Hard) Parts [ ]
+1. Deep JavaScript Fundamentals [ ]
+1. JavaScript: The Recent Parts [ ]
+1. Digging into Node [ ]
+1. Service Workers [ ]
+
+1. Introduction to Gatsby [ ]
+
+1. Design for Developers [ ]
+1. Advanced CSS Layouts [ ]
+
+### Other Revisitations
+
+1. Business and Management Book Summaries [ ]
+1. Prototype to Product [ ]
+1. Hello, Startup [ ]
+1. Ed Meetup and Event Notes [ ]
+1. Tech Meetup and Event Notes [ ]
+
+## Ideas
 
 1. **Idea:** GUI for content professors (_i.e. experts in research, but not pedagogy_) to build lessons, guided by sound teaching principles and pleasing design.
    - (_Note you have two reaaaaaal ugly back-of-the-napkin wireframe illustrations for this in Dropbox._)
@@ -156,34 +185,6 @@
     - Repository for collected PF01 images
     - On top of a PG database?
     - Use as practice w/ Redis/ElasticSearch/any search-or-filter-heavy stack 
-
-### FEM revisitations
-
-1. Full-Stack for Frontends 01 [ ]
-1. Full-Stack for Frontends 02 [ ]
-
-1. (_non-FEM_) Beautiful JavaScript [ ]
-1. (_non-FEM_) Learning Javascript [ ]
-
-1. JavaScript: The Hard (and New Hard) Parts [ ]
-1. Deep JavaScript Fundamentals [ ]
-1. JavaScript: The Recent Parts [ ]
-1. Digging into Node [ ]
-1. Service Workers [ ]
-
-1. Introduction to Gatsby [ ]
-
-1. Design for Developers [ ]
-1. Advanced CSS Layouts [ ]
-
-### Other Revisitations
-
-1. Business and Management Book Summaries [ ]
-1. Prototype to Product [ ]
-1. Hello, Startup [ ]
-1. Ed Meetup and Event Notes [ ]
-1. Tech Meetup and Event Notes [ ]
-
 
 ---
 
