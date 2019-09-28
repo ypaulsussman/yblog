@@ -2,6 +2,7 @@ node_modules/
 .cache/
 public/
 npm-debug.log
+**/.DS_Store
 .eslintcache
 .gatsby-context.js
 .idea
