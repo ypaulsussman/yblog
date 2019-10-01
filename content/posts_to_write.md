@@ -10,14 +10,8 @@
         1. _your decision-making process,_ 
         1. _articles/books that you reference, and_ 
         1. _unexpected issues you encounter._
-    * upgrade brew
-    * upgrade postgres
-    * upgrade rvm
-    * upgrade ruby
-    * upgrade nvm
-    * upgrade node
-    * upgrade yarn
     * https://edgeguides.rubyonrails.org/active_record_postgresql.html#uuid-primary-keys (except make the `enable_extension` its own, first, migration)
+    * As an experiment/experience, skip Devise: use [Hartl's auth example](https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/filling_in_the_layout#sec-user_signup) instead 
     * rails g migration CreateAuthors name:string
     * rails g migration CreateQuote passage:string author:references
     * rails g scaffold Authors
@@ -34,17 +28,20 @@
     * PWA research
         * https://johnbeatty.co/2019/01/08/easy-pwas-the-rails-way/
         * https://www.youtube.com/watch?v=JOcs__ofsps
+        * mobileappdevelopmentwithionic -- final chapter
         * https://rossta.net/blog/make-your-rails-app-a-progressive-web-app.html 
         * https://keithpblog.org/post/rails-5-progressive-web-app/
+    * Use `respond_to` for "show" ("daily"?) endpoint, to differentiate `JSON/HTML`
     * Pre-fetch/pre-load for links at the bottom of the page (i.e. admin page)?
+    * Use [this reference](https://htmlhead.dev/) for your `<head>`, as well
     * after MVP:
         * devise to require login
         * pundit to create 'admin' and 'user' policies
             * admin can CRUD quotes
             * admin can RUD users
             * users can R quotes
-            * (optional) users can suggest quotes (add to 'suggestion' table; if admin approves, add to 'quotes' table)
-        * Randomized associated images (parse quote to grab nouns/verbs; use ddg image search; grab associated image; copy it to the ) 
+            * CSS and `fetch` for new-quotes form -- or vanilla JS w Webpacker gem? (Check GoRails/RoR guide)
+            * "_Add a new quote_" page renders as "_Suggest a quote_" page if logged-in but not admin; on server handle submission differently (_email admins about new email suggestion_)
 
 ### Next: RN Toy App
 
@@ -144,6 +141,8 @@
 1. Hello, Startup [ ]
 1. Ed Meetup and Event Notes [ ]
 1. Tech Meetup and Event Notes [ ]
+1. GoRails Notes []
+1. Foundations of PostgreSQL Admin Notes []
 
 ## Ideas
 
