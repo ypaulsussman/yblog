@@ -85,8 +85,6 @@
 
 1. [Ruby Performance Optimization](https://pragprog.com/book/adrpo/ruby-performance-optimization)
 
----
-
 ## Reread the notes; respond or reflect 
 
 ### Non-technical revisitations
@@ -184,39 +182,3 @@
     - Repository for collected PF01 images
     - On top of a PG database?
     - Use as practice w/ Redis/ElasticSearch/any search-or-filter-heavy stack 
-
----
-
-## Done
-
-1. _Apps and Ideas Heap #2_ [ x ]
-1. _Computational Thinking Research (for Code Kitty)_ [ x ]
-1. _Apps and Ideas Heap #20_ [ x ]
-1. _`daily_ua` notes_ [ x ]
-1. _Ruby Developer Questions_ [ x ]
-1. _Learn Ruby_ [ x ]
-1. ~~Apps and Ideas Heap #6 [ covered in other SRS notes eg #8 ]~~
-1. ~~Apps and Ideas Heap #16 [ impractical ]~~
-1. _How The Brain Learns_ [ x ]
-1. _Apps and Ideas Heap #19_ [ x ]
-1. _Learning React_ [ x ]
-1. _React Quickly_ [ x ]
-1. _Advanced React Patterns_ [ x ]
-1. ~~Apps and Ideas Heap #17 [ meh idea ]~~
-1. _Apps and Ideas Heap #5_ [ x ]
-1. ~~Data Structures and Algorithms [ see OOJ revisit ]~~
-1. ~~JS Data Structures and Algorithms [ see OOJ revisit ]~~
-1. _Object-Oriented JavaScript_ [ x ]
-1. ~~Apps and Ideas Heap #9 [ meh idea ]~~
-1. ~~Go Figure The Economist Explains [ fun read; no need for revisit ]~~
-1. ~~The Horologicon [ fun read; no need for revisit ]~~
-1. _Improving Adult Literacy Instruction_ [ x ]
-1. ~~Apps and Ideas Heap #13 [ see #19 ]~~
-1. ~~Apps and Ideas Heap #7 [ meh idea ]~~
-1. NYT's Book of Language and Linguistics [ x ]
-1. Apps and Ideas Heap #18 [ x ]
-1. Apps and Ideas Heap #8 [ x ]
-1. Apps and Ideas Heap #15 [ identical to #17 ]
-1. ~~Educause's 7 Things You Should Know [ not a ton of content; kept OER-links list]~~
-1. Zero to One [ x ]
-1. ~~ABE phonics app reimplementation: what would you do differently? [ begun; not very insight-provoking; discarded]~~
