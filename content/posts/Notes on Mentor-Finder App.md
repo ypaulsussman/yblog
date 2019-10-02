@@ -1,13 +1,13 @@
 ---
-title: Revisiting Notes on 'Mentor-Finder'
+title: Parallel Notes on 'Mentor-Finder' 
 date: "2019-06-19"
 template: "post"
 draft: false
-slug: "/posts/mentor-finder-revisitation/"
-category: "What I Read"
+slug: "/posts/mentor-finder-notes/"
+category: "What I Do"
 tags:
   - "Rails"
-description: "These are my thoughts on rereading -- admittedly, a week later -- the notes I'd kept on building a toy app by which mentors and mentees in the MPLS startup space could connect."
+description: "These is the account I'd kept while building a toy app by which mentors and mentees in the MPLS startup space could connect."
 ---
 
 ## Overview

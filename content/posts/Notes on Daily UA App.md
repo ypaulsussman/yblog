@@ -1,10 +1,10 @@
 ---
-title: Revisiting Notes on 'Daily UA' (The Partially-Successful Web App)
+title: Parallel Notes on 'Daily UA' (The Partially-Successful Web App)
 date: "2019-01-19"
 template: "post"
 draft: false
-slug: "/posts/daily-ua-app-revisitation/"
-category: "What I Read"
+slug: "/posts/daily-ua-app-notes/"
+category: "What I Do"
 tags:
   - "Ed Tech"
   - "Teaching"
