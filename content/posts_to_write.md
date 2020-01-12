@@ -2,29 +2,24 @@
 
 ## Read a thing; build a thing
 
-### Next
+### Currently: RoR App (see `opl_plans.md`)
 
-- First Blogpost: based on Hartl exprience, describe trialling this new strategy:
-
-  - work through chapter/feature, referencing pdf,
-  - extract notes as .mobi files // extract relevant RoR-guide pages
-  - adapt details as Anki flashcards
-
-- Second blogpost: conclusions from 'Auth is hard, Search is hard, I need Seneca'
-
-### Next: RN Toy App
+### Next: React Hooks/Context Toy App
 
 1. D&D Character Generator
 
 - Use as tool for learning hooks, context, and suspense.
-- Begin with suggestions from [this document.](https://www.dropbox.com/s/tsid5bnphznbvjv/Lessons%20learned%20from%205%20years%20in%20React.docx)
-- Reference [this article](https://www.robinwieruch.de/react-state) for creating global state with hooks and context, instead of redux.
-- Follow the FEM Pure React State Management workshop/notes, as well
+  - Reference [this article](https://www.robinwieruch.de/react-state) for creating global state with hooks and context, instead of redux.
+  - Reference [this article](https://wattenberger.com/blog/react-hooks) for more on using hooks naturally
+  - Follow the FEM Pure React State Management workshop/notes, as well
+- Think through 'React Architecture'
+  - Use suggestions from [this document.](https://www.dropbox.com/s/tsid5bnphznbvjv/Lessons%20learned%20from%205%20years%20in%20React.docx)
+  - Extract learnings from [Cooperpress' most-popular 2019 React articles](https://react.statuscode.com/issues/169), too
 - Include TypeScript? Or is that too much?
 
-1. Ruby chapter in _Json At Work_ (O'Reilly)
+1. Ruby chapter in _Json At Work_ (O'Reilly) to provide data: keep it simple && straightforward
 
-## Next: (Maybe?) RN App
+### Next: (Maybe?) RN App
 
 1. Watch React Native series [from GoRails](https://gorails.com/episodes/tagged/React%20Native)
 
@@ -172,8 +167,14 @@
 1. **Idea:** "ThousandWord"
 
    - Repository for collected PF01 images
+   - Use as practice w/ ElasticSearch
    - On top of a PG database?
-   - Use as practice w/ Redis/ElasticSearch/any search-or-filter-heavy stack
 
 1. **Idea:** "Cardbuilder"
+
    - The grammarly for SRS cardbuilding
+   - Declarative/content knowledge: SRS
+   - Explicit procedural knowledge: checklist
+   - Implicit procedural knowledge: practice
+
+1. Expanding what we know [vs] applying what we know -- [how to do one of those better] is what to research, perhaps? (instead of SRS for non-declarative/content knowledges)
