@@ -24,6 +24,6 @@ The code is pretty much entirely the work of others: my adaptation has largely b
 
 Eh, I should do more brain calisthenics. A typically-strong way to do so, I hear, is to cast one's thoughts into writing, and then reexamine both.
 
-And a good way to do _that,_ I also hear, is to maintain a collection of those writings: a public-facing one, one that embarrasses you into perpetual expansion and polish.
+And a good way to do _that,_ I also hear, is to maintain a collection of those writings: a public-facing one, one that embarrasses you into perpetual drafting and revision.
 
 Ta da!
