@@ -1,5 +1,5 @@
 ---
-title: Revisiting Ruby Notes
+title: Revisiting Various Ruby Notes
 date: "2019-01-31"
 template: "post"
 draft: false

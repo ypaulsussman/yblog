@@ -1,5 +1,5 @@
 ---
-title: Parallel Notes on 'Mentor-Finder' 
+title: Auth And Search For A Weekend Hackathon
 date: "2019-06-19"
 template: "post"
 draft: false
@@ -7,7 +7,7 @@ slug: "/posts/mentor-finder-notes/"
 category: "What I Do"
 tags:
   - "Rails"
-description: "These is the account I'd kept while building a toy app by which mentors and mentees in the MPLS startup space could connect."
+description: "These is the account I'd kept while building what I'd dubbed 'Mentor-Finder' -- a toy app by which mentors and mentees in the MPLS ed-tech space could connect."
 ---
 
 ## Overview

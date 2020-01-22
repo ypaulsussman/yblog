@@ -1,5 +1,5 @@
 ---
-title: Revisiting Vanilla JS Notes
+title: Revisiting Various JavaScript Notes
 date: "2019-03-04"
 template: "post"
 draft: false

@@ -16,6 +16,7 @@
   - Use suggestions from [this document.](https://www.dropbox.com/s/tsid5bnphznbvjv/Lessons%20learned%20from%205%20years%20in%20React.docx)
   - Extract learnings from [Cooperpress' most-popular 2019 React articles](https://react.statuscode.com/issues/169), too
 - Include TypeScript? Or is that too much?
+- Use your notes from the FEM course to apply responsive HTML styles 
 
 1. Ruby chapter in _Json At Work_ (O'Reilly) to provide data: keep it simple && straightforward
 

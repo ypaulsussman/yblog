@@ -1,5 +1,5 @@
 ---
-title: Parallel Notes on 'Daily UA' (The Partially-Successful Web App)
+title: Daily UA (The Somewhat-Successful Web App)
 date: "2019-01-19"
 template: "post"
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: ABE Phonics App
+title: Rethinking An ABE Phonics App
 date: "2019-10-01"
 template: "post"
 draft: false
@@ -31,9 +31,9 @@ So the background here is that I have two queues for which I’m trying to reach
 
 Successfully clearing either queue's items requires different skills, both analytic and compositional, so I’m taking it as an opportunity to apply some (_admittedly pretty naïve_) [interleaving,](https://www.scientificamerican.com/article/the-interleaving-effect-mixing-it-up-boosts-learning/) and doing my best to switch off between (developing/interrogating the ideas) and (organizing/contemplating the notes.) 
 
-That latter queue, however, has about twice as much material, so I've been exploring some daydream-jottings I might otherwise have dismissed out of hand. Which has more than once put me in the interesting situation of engaging with line of text for which I retain absolutely no context: like the above! 
+That latter queue, however, has about twice as much material, so I've been exploring some daydream-jottings I might otherwise have dismissed out of hand. Which has more than once put me in the interesting situation of engaging with line of text for which I retain absolutely _no_ context: like, for example, the excerpt above! 
 
-Specifically: [didn’t I already do this?](https://github.com/ypaulsussman/karen_english_picture_dictionary) And, sure, badly: but also, like... two years ago? This '_idea_' post has become, then, less of a brainstorm and more of a two-years-out retrospective on the "Karen-English Picture Dictionary," or KEPD.
+Specifically: [didn’t I already do this?](https://github.com/ypaulsussman/karen_english_picture_dictionary) And, sure, badly: but also, like... two years ago? This '_idea_' post has become, then, less of a brainstorm and more of a many-months-out retrospective on the "Karen-English Picture Dictionary," or KEPD.
 
 ## What Could We Do About It?
 

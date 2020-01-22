@@ -1,5 +1,5 @@
 ---
-title: Revisiting Notes on Computational Thinking
+title: Revisiting Notes On Computational Thinking
 date: "2018-12-29"
 template: "post"
 draft: false

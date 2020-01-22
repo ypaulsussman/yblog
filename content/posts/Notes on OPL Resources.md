@@ -1,5 +1,5 @@
 ---
-title: "Notes on a CRUD++ Rails App: To Gem Or Not To Gem"
+title: "To Gem Or Not To Gem: Notes On A CRUD App"
 date: "2020-01-12"
 template: "post"
 draft: false

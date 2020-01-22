@@ -1,5 +1,5 @@
 ---
-title: SRS Task Improvements
+title: "Maybe Research: Diversifying SRS Tasks?"
 date: "2019-04-14"
 template: "post"
 draft: false
@@ -10,7 +10,7 @@ tags:
   - "Teaching"
   - "Learning"
   - "Language Learning"
-description: "Ideas for how spaced-repetition systems might differently engage their users to interact with a flashcard's content."
+description: "Ideas for how spaced-repetition systems might differently engage their users to interact with a flashcard's content, with less risk of chunked-memorization."
 ---
 
 ## What Are We Doing Here?

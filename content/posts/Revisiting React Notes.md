@@ -1,5 +1,5 @@
 ---
-title: Revisiting React Notes
+title: Revisiting Various React Notes
 date: "2019-02-17"
 template: "post"
 draft: false

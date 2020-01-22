@@ -1,5 +1,5 @@
 ---
-title: Daily UA (The More-Successful Program of Study)
+title: Daily UA (The More-Successful Study Regimen)
 date: "2019-01-21"
 template: "post"
 draft: false
