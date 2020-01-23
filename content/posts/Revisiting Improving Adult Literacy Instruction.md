@@ -104,4 +104,4 @@ Though... woof. "_Lesson-planner Clippy._" Побоійся богу, синку
 
 <sup>1</sup>Well, sure, ignoring the whole "_complete lack of market demand/funding model_" and "_whole-cloth unsuitability to the realities of most non-literate ELL's family adn work lives._" ...beyond those, it seems promising?
 
-<sup>2</sup> In this sentence I've irrevocably date myself as hopelessly aged: it occurs that I can't plausibly expect that reference to resonate, anymore... I should've instead, perhaps, referenced Facebook.
+<sup>2</sup> In this sentence I've irrevocably dated myself as hopelessly aged: it occurs that I can't plausibly expect that reference to resonate, anymore... I should've instead, perhaps, referenced Facebook.
