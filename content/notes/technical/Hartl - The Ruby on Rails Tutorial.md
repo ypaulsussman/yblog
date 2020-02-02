@@ -10,8 +10,8 @@ tags:
 description: "Notes extracted from a codealong to the Hartl tutorial."
 ---
 
-The e.g. `<title>Welcome to the <%= yield(:title) %> Page</title>` line pairs with adding e.g. the <% provide(:title, "Home") %> method in the relevant page or partial (e.g. `landing_page.html.erb`)
-Experienced Rails developers might have expected the use of `content_for` at this point, but it doesn’t work well with the asset pipeline. The `provide` function is its replacement. ([See here](https://stackoverflow.com/a/32766186) for more on the difference between them.)
+The e.g. `<title>Welcome to the <%= yield(:title) %> Page</title>` line pairs with adding e.g. the `<% provide(:title, "Home") %>` method in the relevant page or partial (e.g. `landing_page.html.erb`)
+Experienced Rails developers might have expected the use of `<% content_for(:title, "Home") %>` at this point, but it doesn’t work well with the asset pipeline. The `provide` function is its replacement. ([See here](https://stackoverflow.com/a/32766186) for more on the difference between them.)
 
 The Rails method `csp_meta_tag` implements Content Security Policy (CSP) to mitigate cross-site scripting (XSS) attacks
 
@@ -135,7 +135,7 @@ When included in a model, the `has_secure_password` method adds the following fu
 - An `authenticate` method that returns the user when the password is correct (and false otherwise)
   - This method determines if a given password is valid for a particular user by computing its digest and comparing the result to `password_digest` in the database.
 - The only requirement for `has_secure_password` to work its magic is for the corresponding model to have an attribute called `password_digest`.
-- In this context, hashed password and password digest are synonyms.)
+- In this context, hashed password and password digest are synonyms.
 
 We can choose any migration name we want, but it’s convenient to end the name with `to_users`, since in this case Rails automatically constructs a migration to add columns to the `users` table. The result appears as follows: `$ rails generate migration add_password_digest_to_users password_digest:string`
 
@@ -245,7 +245,7 @@ Use the Rails method called `session` to make temporary sessions that expire aut
 The contents of a `flash` persist for one request, but —- unlike a redirect -— re-rendering a template with `render` doesn’t count as a request.
 
 - The result is that the flash message persists one request longer than we want.
-- Instead, replace `flash` with the special variant `flash.now`, which disappears as soon as there is an additional request,
+- Instead, replace `flash` with the special variant `flash.now`, which disappears as soon as there is an additional request
 
 Ruby provides a `module` facility for packaging (related functions for use across multiple controllers and views) in one place.
 
@@ -504,3 +504,137 @@ We expect to find the user by email address, which means we need its value in bo
   - The latter would put it in `params[:user][:email]`.
 
 `assert_select "input[name=email][type=hidden][value=?]", user.email` makes sure that there is an input tag with the right name, (hidden) type, and email address: `<input id="email" name="email" type="hidden" value="foo_bar@example.com" />`
+
+
+- The `user:references` argument automatically 
+  - adds a `user_id` column (along with an index and a foreign key reference) for use in the user/micropost association.
+  - generated `Micropost` model includes a line indicating that a micropost `belongs_to` a `user`
+  - The  indicating that the user id in the microposts table refers to the id column in the users table. 
+
+- foreign key reference is a database-level constraint not supported by the SQLite database adapter.
+
+- `add_index :microposts, [:user_id, :created_at]`
+  - By including both the `user_id` and `created_at` columns as an array, we arrange for Rails to create a multiple key index
+  - a multiple-key index: Active Record uses both keys at the same time.
+
+- Instead of `Micropost.create Micropost.create! Micropost.new` we have `@user.microposts.create @user.microposts.create! @user.microposts.build` 
+  - When a new micropost is made in this way, its `user_id` is automatically set to the right value.
+  - (As with `new`, `build` returns an object in memory but doesn’t modify the database.)
+
+- Because it’s a “magic” column automatically updated by Rails, setting `created_at` by hand isn’t ordinarily possible, but it is possible in fixtures.
+
+- The stabby lambda `->` takes in a block and returns a Proc, which can then be evaluated with the call method:
+```ruby
+-> { puts "foo" } 
+# => #<Proc:0x007fab938d0108@(irb):1 (lambda)> 
+-> { puts "foo" }.call 
+# foo 
+# => nil
+```
+- By including the `Application Helper` module into the test, we gain access to the `full_title` helper to test the page’s title.
+
+- in `app/models/user.rb`
+  - `def feed Micropost.where("user_id = ?", id) end`
+  - is essentially equivalent to writing `def feed microposts end`
+
+- In `<%= render @feed_items %>` 
+  - Rails knows to call the `micropost` partial because each element of `@feed_items` has class `Micropost`. 
+  - This causes Rails to look for a partial with the corresponding name in the `views` directory of the given `resource`: `app/views/microposts/_micropost.html.erb`
+
+- The `request.referrer` method
+  - related to the `request.original_url` variable used in friendly forwarding
+  - it's just the previous URL
+  - by using `request.referrer` we arrange to redirect back to the page issuing the request
+  - If the referring URL is `nil` (as is the case inside some tests), set the `root_url` as the default using the `||` operator.
+
+- Active Storage makes it easy to handle an uploaded image and associate it with a model of our choice
+  - Active Storage is actually quite general, and can handle plain text and multiple kinds of binary files (_such as PDF documents or recorded audio_).
+  - Adding Active Storage to our application is as easy as running a single command: $ `rails active_storage:install` This command generates a database migration that creates a data model for storing attached files.
+  - For use: 
+    - Part of the Active Storage API that we need is the `has_one_attached` method, which allows us to associate an uploaded file with a given model. In our case, we’ll call it image and associate it with the Micropost model
+    - Active Storage also offers a second option, `has_many_attached`, which allows for the attachment of multiple files to a single Active Record object.
+    - We need to include a `file_field` tag in the micropost form
+    - To update the Microposts controller to add the image to the newly created micropost object, use the `attach` method provided by the Active Storage API
+    - Once the image has been uploaded, we can render the associated `micropost.image` using the `image_tag` helper
+  - For testing:
+    - Add an image to the `fixtures` directory: `curl -o test/fixtures/kitten.jpg -OL https://cdn.learnenough.com/kitten.jpg`
+    - Note the use of the special `fixture_file_upload` method for uploading files as fixtures inside tests: `image = fixture_file_upload('test/fixtures/kitten.jpg', 'image/jpeg')`
+    - To check for a valid image attribute, use the `assigns` method to access the micropost in the `create` action after valid submission: `assert_difference 'Micropost.count', 1 do post microposts_path, params: { micropost: { content: content, image: image } } end assert assigns(:micropost).image.attached?`
+  - Active Storage doesn’t offer native support for things like format and size validations
+    - There is a gem: `gem 'active_storage_validations', '0.8.2'`
+    - `validates :image, content_type: { in: %w[image/jpeg image/gif image/png], message: "must be a valid image format" }, size: { less_than: 5.megabytes, message: "should be less than 5MB" }`
+    - Also include a little JavaScript to issue an alert if a user tries to upload an image that’s too big (_which prevents accidental time-consuming uploads and lightens the load on the server._)
+    - Also use the `accept` parameter in the `file_field` input tag, we can specify that only valid formats should be allowed: `= f.file_field :image, accept: "image/jpeg,image/gif,image/png" %>`
+  - Resize images using the image manipulation program `ImageMagick`: `brew install imagemagick`
+    - add a couple of gems for image processing: the `image_processing` gem and `mini_magick`, a Ruby processor for ImageMagick
+    - use the `variant` method supplied by Active Storage for creating transformed images. 
+    - In particular, use the `resize_to_limit` option to ensure that neither the width nor the height of the image is greater than 500 pixels: `image.variant(resize_to_limit: [500, 500])`
+    - For convenience, put this code in a separate `display_image` method
+      - `def display_image image.variant(resize_to_limit: [500, 500]) end`
+      - `= image_tag micropost.display_image if micropost.image.attached? %>`
+      - it will happen on demand when the method is first called, and will be cached for efficiency in subsequent uses.
+  - Using the local disk for storing the images isn’t a good practice in production. (_File storage on Heroku is temporary, so uploaded images will be deleted every time you deploy._)
+
+- You can deploy the app directly from your current branch by including the branch name in the `push` to Heroku: `$ git push heroku my-branch:master`
+
+- Note that, unlike the behavior in languages like Java or C++, private methods in Ruby can be called from derived classes.
+
+- The REST architecture involves resources that are created and destroyed. 
+  - This leads us to ask two questions: 
+    - When a user follows another user, what is being created? 
+    - When a user unfollows another user, what is being destroyed? 
+  - In these cases the application should either create or destroy a relationship between two users. 
+  - A user then has many relationships, and has many following (or followers) through these relationships.
+  - There’s an additional detail we need to address regarding our application’s data model: Twitter-style following relationships are potentially asymmetric (_Calvin can follow Hobbes without Hobbes following Calvin._) 
+  - To distinguish between these two cases, we’ll adopt the terminology of active and passive relationships.
+
+- We’ll use the same database table for both active and passive relationships: we’ll use the generic term `relationship` for the table name, with a corresponding `Relationship` model.
+  - It'll include a multiple-key index that enforces uniqueness on (`follower_id`, `followed_id`) pairs, so that a user can’t follow another user more than once.
+  - To establish the association between users and relationships. A user `has_many` relationships, and — since relationships involve two users — a relationship `belongs_to` both a `follower` and a `followed` user.
+
+- We want to write `has_many :active_relationships` even though the underlying model is called `Relationship`. We will thus have to tell Rails the model class name to look for.
+  - When the foreign key for a User model object is `user_id`, Rails infers the association automatically: by default, Rails expects a foreign key of the form `#{class_name.underscore}_id`
+  - In the present case, although we are still dealing with users, the user following another user is now identified with the foreign key `follower_id`, so we have to tell that to Rails.
+```ruby
+class User < ApplicationRecord
+  has_many :active_relationships, class_name: "Relationship", foreign_key: "follower_id"
+end
+
+class Relationship < ApplicationRecord 
+  belongs_to :follower, class_name: "User" 
+  belongs_to :followed, class_name: "User" 
+end
+```
+
+- By default, in a `has_many :through` association Rails looks for a foreign key corresponding to the singular version of the association. 
+  - In other words, with code like `has_many :followeds, through: :active_relationships` Rails would see “followeds” and use the singular “followed”, assembling a collection using the `followed_id` in the relationships table. 
+  - But `user.followeds` is rather awkward, so we’ll write `user.following` instead. Rails allows us to override the default using the `source` parameter, which explicitly tells Rails that the source of the following array is the set of followed ids.
+```ruby
+class User < ApplicationRecord
+  #...
+  has_many :following, through: :active_relationships, source: :followed
+end
+```
+
+- All the information needed to extract an array of followers is already present in the `relationships` table (which we are treating as the `active_relationships` table)
+```ruby
+class User < ApplicationRecord
+  has_many :passive_relationships, class_name: "Relationship", foreign_key: "followed_id",
+  has_many :followers, through: :passive_relationships, source: :follower
+end
+```
+(_We could actually omit the_ `:source` _key for_ `followers`_, using simply_ `has_many :followers, through: :passive_relationships` --  _in the case of a_ `:followers` _attribute, Rails will singularize “followers” and automatically look for the foreign key_ `follower_id`_. We keep the_ `:source` _key to emphasize the parallel structure with the_ `has_many :following` _association._)
+
+- We can use the `respond_to` method, responding appropriately depending on the type of request. 
+  - The general pattern looks like this: 
+    ```ruby
+    respond_to do |format| 
+      format.html { redirect_to user } 
+      format.js 
+    end 
+    ```
+  - The syntax is potentially confusing: in the code above only one of the lines gets executed.
+  - In this sense, `respond_to` is more like an if-then-else statement than a series of sequential lines.
+  - The above will work fine in browsers that have JavaScript disabled (although a small amount of configuration is necessary: in `application.rb`, include the authenticity token in remote forms via `config.action_view.embed_authenticity_token_in_remote_forms = true`)
+- In the case of an Ajax request, Rails automatically calls a JavaScript embedded Ruby (`.js.erb`) file with the same name as the action, i.e., `create.js.erb` or `destroy.js.erb`. 
+  - As you might guess, such files allow us to mix JavaScript and embedded Ruby to perform actions on the current page.
