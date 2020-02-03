@@ -128,13 +128,13 @@ In both cases, I've expanded and refined early video-tutoring homework tasks tha
   * What questions do you still have?
   ```
 
-  5. ST sends answers and review to VTtutor; 
+  5. ST sends answers and review to VT; 
   5. VT provides written corrective feedback;
   5. ST corrects their answers/review and resubmits to VT;
   5. In weekly session, discuss (_any extant, and only then first-pass_) mistakes.
   5. Following the session, ST extracts selected erroneous sentences to SRS.
 
-So, then, for the future: step one would be to experiment with each of these exercises over a sustained period of time, before a (_potentially unnecessary_) step two of integrating all the above workflows into a unified application that would direct via different VT- and ST-facing dashboards, required behavior. 
+So, then, for the future: step one would be to experiment with each of these exercises over a sustained period of time, before a (_potentially unnecessary_) step two of integrating all the above workflows into a unified application that would direct (_via separate VT- and ST-facing dashboards_) required behavior. 
 
 Making step zero, I suppose, to get both [1] the free time to engage into that sort of involved, protracted foreign-language learning, and [2] an extrinsic motivation to do such.
 
