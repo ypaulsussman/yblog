@@ -1,4 +1,5 @@
 ---
+title: Pure React State Management (Kinney, Steve)
 date: "2019-11-21"
 template: "post"
 draft: true

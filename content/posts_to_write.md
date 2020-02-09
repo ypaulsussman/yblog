@@ -2,86 +2,19 @@
 
 ## Read a thing; build a thing
 
-### Currently: React Hooks/Context Toy App
-
-- Runki / Ankilone
-  - Use [SM-2 Algorithm](<https://supermemo.guru/wiki/SuperMemo_1.0_for_DOS_(1987)#Algorithm_SM-2>)
-  - Giant buttons
-  - Basic auth? Only one account -- no need for multiples
-
-- Party Party Builder
-  - D&D character(s) generator
-  - Stream the randomly-generated characters w/ e.g. `ActionController::Live`
-  - Include `ActionCable` so everyone can chat about the characters being generated
-
-- Watch these, first, to decide how to structure your FE:
-  - [React Native & Rails](https://www.youtube.com/watch?v=Q66tYU6ni48)
-  - [Old-school Javascript in Rails](https://www.youtube.com/watch?v=lh5qfV2iP80)
-  - [6 degrees of JavaScript on Rails](https://www.youtube.com/watch?v=hXdJU2lpfsE)
-  - [Look Before You Import: A Webpack Survival Guide](https://www.youtube.com/watch?v=fKOq5_2qj54)
-  - [Webpacking for the journey ahead](https://www.youtube.com/watch?v=NeZ9aAH-p4)
-  - [Webpacker vs Asset Pipeline](https://www.youtube.com/watch?v=2v4ySqyua-)
-- If you decide to use API-mode Rails, begin with Ruby chapter in _Json At Work_ (O'Reilly) to provide data.
-  - [Official guide](https://guides.rubyonrails.org/api_app.html)
-  - [APIs on Rails](http://apionrails.icalialabs.com/book/chapter_one)
-  - [Newer version of above](https://github.com/madeindjs/api_on_rails), though not as cleanly-formatted
-  - [Get Up and Running with Rails API](https://chriskottom.com/blog/20-/02/get-up-and-running-with-rails-api/)
-- Reference these for learning hooks, context, and suspense:
-  - [This article](https://www.robinwieruch.de/react-state) for creating global state with hooks and context, instead of redux.
-  - [This article](https://wattenberger.com/blog/react-hooks) for more on using hooks naturally
-  - [And this](https://www.telerik.com/kendo-react-ui/react-hooks-guide/)
-  - [This article](https://www.smashingmagazine.com/2020/0-introduction-react-context-api/) for more on context
-  - Follow the FEM Pure React State Management workshop/notes, as well
-- Think through 'React Architecture'
-  - Use suggestions from [this document.](https://www.dropbox.com/s/tsid5bnphznbvjv/Lessons%20learned%20from%205%20years%20in%20React.docx)
-  - Extract learnings from [Cooperpress' most-popular 20- React articles](https://react.statuscode.com/issues/-9), too
-- Also include TypeScript? Or is that too much?
-  - [Follow the config setup here](https://www.sitepoint.com/react-with-typescript-best-practices/)
-  - [Explore some of the (non-redux?) boilerplate here](https://typeofnan.dev/setup-a-typescript-react-redux-project/)
-- Use your notes from the FEM course to apply responsive HTML styles
-- Insersperse with ankifying these:
-  - Digging Deeper
-    - Testing Rails Applications
-    - Debugging Rails Applications
-    - Securing Rails Applications
-    - Configuring Rails Applications
-    - Caching with Rails: An Overview
-    - Working with JavaScript in Rails
-  - WIPs
-    - Action View Overview
-    - Active Model Basics
-    - Active Record and PostgreSQL
-    - The Rails Initialization Process
-    - Active Support Instrumentation
-- Insersperse with watching these:
-  - DevOps:
-    - [Packaging and Shipping Rails Applications in Docker](https://www.youtube.com/watch?v=lpHgNC5bCbo)
-    - [Real World Docker for the Rubyist](https://www.youtube.com/watch?v=DyBvMrNX1ZY)
-    - [Deep Dive into Docker Containers](https://www.youtube.com/watch?v=2c4fvXKec7Q)
-    - [Containerizing Rails: Techniques, Pitfalls, & Best Practices](https://www.youtube.com/watch?v=kG2vxYn547E)
-    - [Containerizing Local Development... Is It Worth it?](https://www.youtube.com/watch?v=NZ02hy6QOOk)
-  - Security:
-    - [Warden: the building block behind Devise](https://www.youtube.com/watch?v=QBJ3G40fxHg)
-    - [The Evolution of Rails Security](https://www.youtube.com/watch?v=Btrmc1wO3pc)
-    - [Access Denied: the missing guide to authorization in Rails](https://www.youtube.com/watch?v=NVwx0DARDis)
-    - [Encrypted Credentials in Rails 5.2](https://www.youtube.com/watch?v=fS92ZDfLhng)
-    - [Rails Security at Scale](https://www.youtube.com/watch?v=MpsrQKieytY)
-    - [Modern Cryptography for the Absolute Beginner](https://www.youtube.com/watch?v=-cqD_SVXyEo)
-  - DB and Other:
-    - [Database Design for Beginners](https://www.youtube.com/watch?v=1VsSXRPEBo0)
-    - [Optimizing Your App by Understanding PostgreSQL](https://www.youtube.com/watch?v=vfiz1J8mWEs)
-    - [Minitest 6: test feistier!](https://www.youtube.com/watch?v=l-ZNxvFo4lw)
-    - [Unraveling the Cable: How ActionCable works](https://www.youtube.com/watch?v=XeqLONJsHkY)
-    - [NLP for Rubyists](https://www.youtube.com/watch?v=Mmn20irnaS8)
-    - [Zeitwerk: A New Code Loader](https://www.youtube.com/watch?v=ulCBLpCU6aY)
+### Currently: React Hooks/Context Toy App (Latticene)
 
 ### Next: (Maybe?) RN App
 
 - Watch React Native series [from GoRails](https://gorails.com/episodes/tagged/React%20Native)
+- Watch RailsConf talk on [React Native & Rails](https://www.youtube.com/watch?v=Q66tYU6ni48)
 - Read _Learning React Native_ (O'Reilly)
-- Create RoR JSON API / React Native app to
-  - perform the equivalent of an Anki deck of cognitive biases/logical fallacies (just scrape Wikipedia for content); or
-  - serve as a [decision journal](https://fs.blog/20-/02/decision-journal/)
+- Create RoR JSON API / React Native app to either...
+  - perform the equivalent of an Anki deck of cognitive biases/logical fallacies, via e.g. 
+    - https://en.wikipedia.org/wiki/List_of_cognitive_biases
+    - https://en.wikipedia.org/wiki/List_of_memory_biases
+    - https://en.wikipedia.org/wiki/List_of_fallacies
+  - Alternatively, serve as a [decision journal](https://fs.blog/20-/02/decision-journal/)
 
 ### Next: O'Reilly Cookbook Reprocessing
 
@@ -150,22 +83,23 @@
 
 ### FEM revisitations
 
-- Full-Stack for Frontends 0-[ ]
+- Full-Stack for Frontends 01[ ]
 - Full-Stack for Frontends 02 [ ]
 
 - (_non-FEM_) Beautiful JavaScript [ ]
 - (_non-FEM_) Learning Javascript [ ]
-
 - JavaScript: The Hard (and New Hard) Parts [ ]
 - Deep JavaScript Fundamentals [ ]
 - JavaScript: The Recent Parts [ ]
 - Digging into Node [ ]
 - Service Workers [ ]
 
+- Pure React State Management [ ]
 - Introduction to Gatsby [ ]
 
 - Design for Developers [ ]
 - Advanced CSS Layouts [ ]
+- HTML Emails [ ]
 
 ### Other Revisitations
 
@@ -174,60 +108,71 @@
 - Hello, Startup [ ]
 - Ed Meetup and Event Notes [ ]
 - Tech Meetup and Event Notes [ ]
-- GoRails Notes []
-- Foundations of PostgreSQL Admin Notes []
+- GoRails Notes [ ]
+- Foundations of PostgreSQL Admin Notes [ ]
+- (_First take notes on_) ["The Missing CS Course"](https://missing.csail.mit.edu/)
 
 ## Ideas
 
-- **Idea:** GUI for content professors (_i.e. experts in research, but not pedagogy_) to build lessons, guided by sound teaching principles and pleasing design.
+### Lectio 
 
-  - (_Note you have two reaaaaaal ugly back-of-the-napkin wireframe illustrations for this in Dropbox._)
-  - Sold to universities: align with institution-unique accreditation requirements.
-    - Software that takes an instructor from subject matter expert tune near-professional educator, by scaffolding their building of lesson plans, assessments, and syllabi.
-    - “Valuable subjects change so quickly in this field (tech); this software works with an expert in that field to create a replicable, distributable, project/portfolio-based curriculum,  so you can offer courses that will get your graduates jobs.”
-  - How to make lesson planning easier, faster, more certain?
-  - Help teachers defend decisions with research (i.e. engage with and protect against parents & admin)
-  - UI for [content and activity] selection (for touchscreen access)
-  - Track [content and activity]-types across lessons (by week, unit, semester etc)
+- GUI for content professors (_i.e. experts in research, but not pedagogy_) to build lessons, guided by sound teaching principles and pleasing design.
+- Sold to universities: align with institution-unique accreditation requirements.
+  - Software that takes an instructor from subject matter expert tune near-professional educator, by scaffolding their building of lesson plans, assessments, and syllabi.
+  - “Valuable subjects change so quickly in this field (tech); this software works with an expert in that field to create a replicable, distributable, project/portfolio-based curriculum, so you can offer courses that will get your graduates jobs.”
+- How to make lesson planning easier, faster, more certain?
+- Help teachers defend decisions with research (i.e. engage with and protect against parents & admin)
+- UI for [content and activity] selection (for touchscreen access)
+- Track [content and activity]-types across lessons (by week, unit, semester etc)
+- (_Note you have two reaaaaaal ugly back-of-the-napkin wireframe illustrations for this in Dropbox._)
 
-- **Idea:** "Corona"
+### Corona
 
-  - tool for retros && retro commentary/weigh-in (plus one's, comments, concerns, qualifications, etc)
-  - web form, with support from slackbot
-  - like, "Corona" refers to part of the eye -- but it also sounds like "Coroner," who performs... post-mortems. Heh.
+- tool for retros && retro commentary/weigh-in (plus one's, comments, concerns, qualifications, etc)
+- web form, with support from slackbot
+- like, "Corona" refers to part of the eye -- but it also sounds like "Coroner," who performs... post-mortems. Heh.
 
-- **Idea:** "ThousandWord"
+### CardBuilder
 
+- The grammarly for SRS cardbuilding
+- Declarative/content knowledge: SRS
+- Explicit procedural knowledge: checklist
+- Implicit procedural knowledge: practice
+- As concurrent proof-of-concept: use it to Ankify grad school notes
+
+### MeatLess
+
+- Track [for "get to 0" / for saving up, via $ or C02 offset, to splurge on a _noice_ meaty meal e.g. -/wk]
+- Track [for low-carb / for low-cost]
+
+### B2E
+
+- Designed for post-DuoLingo language learners
+  - Name is a silly pun: "We want to get to B2," but also "not B2B or B2C; rather, B2-my-people/B-2-we"
+- Combine 'SRS lexis-extractor' with daily-generated cards
+- Pairs of learners receive a quote daily, in alternating language
+  - Monday...
+    - U/US translates from EN to UA;
+    - U/UA translates from EN to UA; then
+    - (_discuss, or U/UA merely highlights reasons for?_) differences between the two translations.
+  - Tuesday, it switches: learners receive UA quote; now, U/US explains their translation decisions
+- Can this resolve the (_disparity/overpopularity of EN-learners_), via e.g. aggregator for daily translations?
+  - In -to-many groups, provide translation leaderboard, visible only after submission-of-your-translation?
+  - Will require translation-flagging, as well as perhaps e.g. Lobte.rs-style invite-tree
+
+### DMWare
+
+- Scenario Builder
+  - See OG blogpost
+- Party Party Builder
+  - D&D character(s) generator
+  - Stream the randomly-generated characters w/ e.g. `ActionController::Live`
+  - Include `ActionCable` so everyone can chat about the characters being generated
+- ThousandWord
   - Repository for collected PF0-images
   - Use as practice w/ ElasticSearch
-  - Or on top of a PG database, using FTS?
 
-- **Idea:** "Cardbuilder"
+### YPHRIT
 
-  - The grammarly for SRS cardbuilding
-  - Declarative/content knowledge: SRS
-  - Explicit procedural knowledge: checklist
-  - Implicit procedural knowledge: practice
-  - As concurrent proof-of-concept: use it to Ankify grad school notes
-
-- **Idea:** "MeatTracker"
-
-  - Track [for "get to 0" / for saving up, via $ or C02 offset, to splurge on a _noice_ meaty meal e.g. -/wk]
-  - Track [for low-carb / for low-cost]
-
-- **Idea:** B2We
-
-  - Designed for post-DuoLingo language learners
-    - Name is a silly pun: "We want to get to B2," but also "not B2B or B2C; rather, B2-my-people"
-  - Combine 'SRS lexis-extractor' with daily-generated cards
-  - Pairs of learners receive a quote daily, in alternating language
-    - Monday...
-      - U/US translates from EN to UA;
-      - U/UA translates from EN to UA; then
-      - (_discuss, or U/UA merely highlights reasons for?_) differences between the two translations.
-    - Tuesday, it switches: learners receive UA quote; now, U/US explains their translation decisions
-  - Can this resolve the (_disparity/overpopularity of EN-learners_), via e.g. aggregator for daily translations?
-    - In -to-many groups, provide translation leaderboard, visible only after submission-of-your-translation?
-    - Will require translation-flagging, as well as perhaps e.g. Lobte.rs-style invite-tree
-
-- **Idea:** YPHRET (_Y's Post-Hartl Rails-Expansion Tutorial_) - for any one of these ideas, build it alongside a book about _how_ to build it.
+- "_Y's Post-Hartl Rails-Investigation Tutorial_"
+- For any one of the above ideas, build it alongside a book about _how_ to build it.
