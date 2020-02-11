@@ -8,7 +8,7 @@ category: "What I Think"
 tags:
   - "RPG's"
   - "Neeeerd Stuff"
-description: "I don't like the format of most RPG modules. What do?"
+description: "I don't like most RPG modules' format. What do?"
 ---
 
 ## Dungeons, Dragons, Printers, Presses
