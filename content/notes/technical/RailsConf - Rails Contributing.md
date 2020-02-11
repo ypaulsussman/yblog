@@ -144,13 +144,13 @@
 
 ## Code Spelunking: teach yourself how Rails works (RailsConf 2019, Jordan Raine)
 - Method introspection: ask objects what methods they respond to
-  - `MyClass.new.methods` is often unhelpful, because (_ _) there are so many methods provided alongside that it is difficult to find the salient ones
+  - `MyClass.new.methods` is often unhelpful, because there are so many methods provided alongside that it is difficult to find the salient ones
     - A cleaner alternative is: `MyClass.new.methods - Object.new.methods`, to show only those methods from the class itself
-    - Another useful searcher is: `MyClass.new.methods.grep /string/`
+    - Another useful searcher is: `MyClass.new.methods.grep /#{my_string}/`
   - `my_instance.method(:my_method).source_location` is standard Ruby; it will return the file name and line number where is the method is defined
   - `my_instance.method(:my_method).source.display` is provided by the `method_source` gem (_which comes standard in Rails!_); it will return the actual method definition (_pretty-printed, if you use_ `.display`).
   - The sections of Ruby that are written in C, however, will return `MethodSource::SourceNotFoundError` if you call e.g. `.source` on them
-  - `bundle open my_gem` will open the `my_gem` gem in your editor; you may first need to e.g. `export EDITOR="code -w"` first
+  - `bundle open my_gem` will open the `my_gem` gem in your editor; you may first need to e.g. `export EDITOR="code -w"` or `export EDITOR="mine -w"` first
 
 ## Inside Rails: The Lifecycle of a Request (RailsConf 2019, Yehuda Katz, Vaidehi Joshi, Godfrey Chan, & Krystan HuffMenne)
 - (Web servers) use (the Rack protocol) to communicate with (Ruby web frameworks)

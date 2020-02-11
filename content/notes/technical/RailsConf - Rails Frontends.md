@@ -126,4 +126,4 @@
 - An entry can be any filetype: `.js`, but also `.jsx` or `.vue` or even e.g. `.png`
 - Note that loaders work in reverse order (of their listing in the `use:`-key's array)
 - The `public/packs` dir will not only contain the processed files, but also their `.map` files
-- Webpack will only add unique dependencies, whereas Sprockets naïvely concatenates (_and thus will frequently end up with a duplicated code_)
+- Webpack will only add unique dependencies, whereas Sprockets naïvely concatenates (_and thus will frequently end up with duplicated code_)
