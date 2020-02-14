@@ -67,10 +67,13 @@ Sigh. Dogs, and tricks; leopards, and spots.
 
 ## Next Steps
 
-One first step toward interweaving these parallel paths (_that is: classroom best-practice identification, and classroom best-practice implementation_) could be to compare where they most visibly diverge. 
+One step toward better-braiding these two threads (_classroom best-practice identification, and classroom best-practice implementation_) could be to compare where they most visibly diverge. 
+
 
 In what subfields do people’s beliefs about teaching and learning most wildly diverge from empirical research? What about for the beliefs of practicing teachers? Teachers in specific disciplines? Teachers of a specific age or region or training background? Administrators? School-board members? Textbook publishers? Researchers themselves?
 
-To start, it's probably worth pushing "_Self-Regulated Learning: Beliefs, Techniques, and Illusions_" (Bjork et al, 2013) to the front of the reading queue, then comparing against the findings in "_Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology_" (Dunlosky et al, 2013). Then: see what papers reference each, and traverse the citation-tree from there.
+To start, read "_Self-Regulated Learning: Beliefs, Techniques, and Illusions_" (Bjork et al, 2013), then compare against the findings in "_Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology_" (Dunlosky et al, 2013). 
+
+Then: see what _other_ influential papers reference each, and traverse the citation-tree from there.
 
 And then... D3 visualizations? Nothing says "_hey! pay attention to this complex and ambiguous data_" like a nice, animated SVG...
