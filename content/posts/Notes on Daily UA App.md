@@ -3,7 +3,7 @@ title: Revisiting Daily UA (The Somewhat-Successful Web App)
 date: "2019-01-19"
 template: "post"
 draft: false
-slug: "/posts/daily-ua-app-notes/"
+slug: "/posts/daily-ua-app/"
 category: "What I Do"
 tags:
   - "Ed Tech"

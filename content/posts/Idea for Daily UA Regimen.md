@@ -1,9 +1,9 @@
 ---
-title: Revisiting Daily UA (The More-Successful Study Regimen)
+title: Revisiting Daily UA (The More-Successful Study Plan)
 date: "2019-01-21"
 template: "post"
 draft: false
-slug: "/posts/daily-ua-study-revisitation/"
+slug: "/posts/daily-ua-study/"
 category: "What I Think"
 tags:
   - "Teaching"

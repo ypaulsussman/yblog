@@ -2,20 +2,20 @@
 title: Revisiting Various Ruby Notes
 date: "2019-01-31"
 template: "post"
-draft: false
-slug: "/posts/ruby-rails-revisitation/"
+draft: true
+slug: "/posts/ruby-rails-notes/"
 category: "What I Read"
 tags:
   - "Ruby"
   - "Rails"
-description: "Thoughts on my relationship to [Ruby, Rails], and what I could do to deepen it."
+description: "Thoughts on my relationship to Ruby, and Rails: and what I could do to deepen it."
 ---
 
 ## Where Are We Coming From?
 
 “_Between the idea / And the reality / Between the motion / And the act / Falls the Shadow_”
 
-I attended a full-stack-JavaScript boot camp for six months; I learned quite a lot. I did not, however, learn any Ruby, or any Rails: both of which I needed for my first job afterward. While I started at that position almost exclusively working on the front end, I tried to get up to speed on our server technologies in the evenings and weekends, first via Codecademy's free course on Ruby.
+I attended a full-stack-JavaScript bootcamp for six months; I learned a lot. I did not learn any Ruby, or any Rails: both of which I needed for my first job afterward. I began by working solely on the front end, but I tried to get up to speed on our server technologies in the evenings and weekends, first via Codecademy's free course on Ruby.
 
 After about a year, that employer shut down the lab under which I was working; I found myself looking for a new job, and looking to strengthen my ability to talk knowledgeably about Ruby and Rails. To that end, I discovered [a great list of questions on both subjects](https://rubygarage.org/blog/how-to-interview-your-ruby-on-rails-developer), and went to town on digging up the answers.
 
