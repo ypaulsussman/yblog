@@ -31,21 +31,18 @@ h6 {
 h1 {
   font-size: $typographic-base-font-size * 2.5;
   @include line-height(2);
-  @include margin-top(4);
   @include margin-bottom(1);
 }
 
 h2 {
   font-size: $typographic-base-font-size * 1.6875;
   @include line-height(1.5);
-  @include margin-top(2);
   @include margin-bottom(.5);
 }
 
 h3 {
   font-size: $typographic-base-font-size * 1.375;
   @include line-height(1);
-  @include margin-top(2);
   @include margin-bottom(.5);
 }
 
@@ -108,8 +105,7 @@ strong {
   font-weight: 600;
 }
 
-ul {
-  list-style: square;
+ol, ul {
   @include margin-bottom(1);
 
   & li {
@@ -121,7 +117,6 @@ ul {
 
 p {
   @include line-height(1);
-  @include margin-bottom(1);
 }
 
 blockquote {

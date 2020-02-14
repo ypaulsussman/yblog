@@ -48,19 +48,19 @@ As a DM, I'd like each of my session's encounters to have the following describe
 1. **Entry Parameters**
 
    - List ways in which the initial scene may be altered by...
-     - Where the PCs enter (_through which access point_)
-     - When the PCs enter (_what time of day, how soon after a prior event_)
-     - How the PCs enter (_what they look like, what they say on arrival to any guards or observers_)
-     - With whom the PCs enter
-     - What they are carrying as they enter
+      - Where the PCs enter (_through which access point_)
+      - When the PCs enter (_what time of day, how soon after a prior event_)
+      - How the PCs enter (_what they look like, what they say on arrival to any guards or observers_)
+      - With whom the PCs enter
+      - What they are carrying as they enter
    - Use these parameters to reward PC planning, and to give weight to the outcomes of previous encounters.
 
 1. **Location Description**
 
    - List...
-     - The environment: surroundings, weather, temperature, background sounds, smells, _in media res_ events
-     - Non-player characters: what they're wearing, what they're doing, what emotions/conditions they're visibly emiting
-     - Interactable objects: highlight anything characters may want to explore further, take for themselves, or use within the encounter
+      - The environment: surroundings, weather, temperature, background sounds, smells, _in media res_ events
+      - Non-player characters: what they're wearing, what they're doing, what emotions/conditions they're visibly emiting
+      - Interactable objects: highlight anything characters may want to explore further, take for themselves, or use within the encounter
    - Always include at least one background detail that the discerning player can take advantage of, or infer some clue from.
 
 1. **Player Decisions**
@@ -68,8 +68,8 @@ As a DM, I'd like each of my session's encounters to have the following describe
    - There may be several of these in a scene, but there must be at least one
    - Each decision should be listed as "required" or "optional" (_that is, whether the scene can end before the PCs have made a decision_)
    - Each decision may include:
-     - Any preconditions for them to be offered the decision
-     - Any challenges arising from their choice (_dice rolls, resource expenditures_)
+      - Any preconditions for them to be offered the decision
+      - Any challenges arising from their choice (_dice rolls, resource expenditures_)
    - Each decision must describe the consequences for each of the choices the PC's could take.
 
 1. **Independent Events**
