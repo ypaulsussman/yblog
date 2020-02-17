@@ -13,6 +13,9 @@ description: "Reflections on how the tool-selection unfolded for three big chunk
 
 ## Overview
 
+<!-- # Add reference to:
+https://words.steveklabnik.com/rails-has-two-default-stacks -->
+
 Despite the [torrent of navel-gazing](../../posts/opl-resource-notes/) unleashed by working through several conveniences/flourishes for the CRUD app I've been building... Well, [it says it right there in the repo.](https://github.com/ypaulsussman/opl) The main point of the project's been to get more familiar with the Rails Ways® of doing three things -- auth, frontend, and search (_convention over configuration, and all that._)
 
 And I'm happy to say I'm feature-complete! (`git diff feature-pleased`_, which doesn't exist yet and -- given fatigue and distractor-novelty -- likely will not._) 
