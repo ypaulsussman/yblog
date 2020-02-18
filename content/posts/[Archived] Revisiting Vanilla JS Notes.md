@@ -2,7 +2,7 @@
 title: Revisiting Various JavaScript Notes
 date: "2019-03-04"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/vanilla-js-revisitation/"
 category: "What I Read"
 tags:

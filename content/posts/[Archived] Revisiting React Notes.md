@@ -2,7 +2,7 @@
 title: Revisiting Various React Notes
 date: "2019-02-17"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/react-revisitation/"
 category: "What I Read"
 tags:

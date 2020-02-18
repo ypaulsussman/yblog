@@ -3,7 +3,7 @@ title: "Maybe Build: A Language Extractor for EAP/ESP Textbooks?"
 date: "2019-02-10"
 template: "post"
 draft: false
-slug: "/posts/eap-textbook-parser-idea/"
+slug: "/posts/eap-textbook-parser/"
 category: "What I Think"
 tags:
   - "Ed Tech"
@@ -11,7 +11,7 @@ tags:
   - "Learning"
   - "Language Learning"
   - "ESP / EAP"
-description: "A vision for a small app that would generate a list of 'language to learn' in order to scaffold ELL's engagement with an English-medium content course's main textbook."
+description: "An idea for an app that would generate a list of field-specific language, in order to help ELL's use their textbooks in English-medium courses."
 ---
 
 ## What Are We Doing Here?

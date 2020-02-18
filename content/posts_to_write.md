@@ -30,6 +30,8 @@
 
 ### Next: hashtag #gitgud at [Ruby, or anything else you've got O'Reilly books for]
 
+- [High Performance Browser Networking](https://hpbn.co/)
+
 - [The Rails 5 Way](https://www.oreilly.com/library/view/the-rails-5/9780-465769-)
 
 - [The Ruby Way](https://www.oreilly.com/library/view/the-ruby-way/9780-2480352/)
