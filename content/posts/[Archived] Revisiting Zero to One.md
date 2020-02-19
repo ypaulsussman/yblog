@@ -2,7 +2,7 @@
 title: Revisiting 'Zero to One'
 date: "2019-04-25"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/zero-to-one-revisitation/"
 category: "What I Read"
 tags:

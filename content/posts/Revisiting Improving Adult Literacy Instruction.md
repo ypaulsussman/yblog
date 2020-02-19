@@ -3,7 +3,7 @@ title: Revisiting 'Improving Adult Literacy Instruction'
 date: "2019-03-17"
 template: "post"
 draft: false
-slug: "/posts/improving-literacy-instruction-revisitation/"
+slug: "/posts/improving-literacy-instruction/"
 category: "What I Read"
 tags:
   - "ABE"
@@ -12,96 +12,90 @@ tags:
   - "Language Learning"
   - "Literacy"
   - "Ed Tech"
-description: "These are my thoughts on rereading the notes I'd taken while reading Improving Adult Literacy Instruction."
+description: "I read 'Improving Adult Literacy Instruction' eighteen months ago; these are my thoughts on rereading my notes from it."
 ---
 
 ## What Are We Doing Here?
 
-This document is a weird one: it’s notes from a review-of-the-literature white paper that... apparently I had elected to read? For... fun? Sometime in the middle of my first salaried programming job?
+This document is strange to revisit: it’s notes from a [review-of-the-literature white-paper](https://www.nap.edu/catalog/13242/improving-adult-literacy-instruction-options-for-practice-and-research) that I had, apparently, elected to read for... fun? Sometime in the middle of my first salaried programming job?
 
-Whatever my reasons -- and I’m not being coy when I say, a year and a half on, they remain wholly obscure to me -- over the intervening 18 months, I've done nothing with the material therein. No application to toy apps, no usage in the classroom... it's been completely unreferenced.
+Whatever my initial reasons -- and I’m not being coy when I say, eighteen months later, they remain wholly obscure to me -- I've since done nothing with the material therein. No application to toy apps, no usage in the classroom... it's sat on a filesystem, completely unused.
 
-As a result, my first (_somewhat shamefaced_) instinct was to skip revisiting this file entirely, and just surreptitiously delete it: but in recent months I'dspent so little time reviewing any education-related notes that I decided to undertake the (_pretty massive_) pruning, editing, and restructuring that was necessary to allow for meaningful engagement with the actual content. 
+As such, my first instinct was just to surreptitiously delete the notes, to skip reviewing them entirely. But... recently I've spent so, so little time engaging with teaching, and language, and learning. I couldn't bring myself to `rm`.
 
-And I’m glad I did!
+And I’m glad I didn't!
 
 ## Revisitation
 
-First: a note on process. I felt that in this revisitation I engaged with the content in greater depth and granularity than I have in several revisitations prior. I believe this stemmed from these notes' need for an expansive, detailed reorganization. (_Bluntly: they were a dispersed, digressive, repetitive mess._) 
+Holistically speaking, these notes have prompted me to envision literacy development in a context analogous to learning to code: 
+- they share a similar reliance on several individual subskills (_each integrated, and/or sequenced, to varying degrees_); 
+- in both cases, there exist several earlier mental models that may interfere with skill acquisition; 
+- and both deal in several levels of functional proficiency (_rather than a binary, so-unhelpful-as-to-be-meaningless "able to code"/"able to read."_) 
 
-Ultimately, I suspect this made the revisitation more protracted, less superficial... and mentally more rewarding. One takeaway for the future, then (_facilitated, already, by the clipping feature of the Kindle I now largely use!_) is, when in doubt, to be liberal in selecting what to highlight. At the least, it'll force one's future self, on revisitation, to interact at a level deeper on the [DoK tables.](https://www.lake.k12.fl.us/Page/27614) 
+I'm not sure to what level of detail it's useful to explore the analogy, or even whether to focus, instead, on areas in which the equivalence breaks down.
 
----
+Still, I suspect successful practices in one field could be reenvisioned and applied, beneficially, for the other. '_Literacy bootcamp?_' '_Literacy repo?_' '_Literacy IDE's?_' ...well, why not?
 
-Less positively: this set of notes finally drove home the annoyance and superfluousness of my earlier attempts to maintain (_at least a facsimile of_) APA-style citations. So many unnecessary periphrastic brackets... an unpleasant but forceful reminder to write for the genre, even if the genre in question is "_loose notes, solely for you and your busy self a couple months from now._"
+More actionably, his report shortly followed [my navel-gazing](../../posts/how-brain-learns/) on the tension between "_perfecting pedagogical efficacy_" and "_buttressing the basic social affordances which make even passably-efficient learning possible_"; it was was refreshingly, bracingly clear about the more-important target. 
 
----
+(_Spoilers: the latter._) 
 
-Ironically, perhaps, the thickest section (_and one I got the most out of_) was the content-neutral, skills-neutral overview on What Works® universally for instructional design. Completely removed from the world of adult literacy education, there's plenty in this chapter that, now reminded, I can apply to my own neurotic attempts to perpetually measure and hone my personal autodidactic process. 
+The primary research priority it identified, alas -- "_engage learners for longer periods of time; encourage students to participate and persevere_" -- is the one I see the fewest ways for me to meaningfully impact.
 
----
-
-On a slightly less selfish level, one mental tool this revisitation prompted was a framework for envisioning `${adult literacy development}` as a proxy or analogue for `${the process of learning to code.}` They share a similar reliance on several individual subskills (_each integrated, and/or sequenced, to varying degrees_); in both cases, there exist several (_preexisting, still-in-use_) mental processes that may interfere with skill acquisition; and both deal in several levels of functional proficiency (_rather than a binary, so-unhelpful-as-to-be-meaningless "able to code"/"able to read."_) 
-
-I'm not sure to what level of detail it's useful to explore the analogy, or even whether to focus instead on areas in which the equivalence breaks down: but it's definitely a comparison to further contemplate. I suspect successful practices in one field could be reenvisioned and applied, beneficially, for the other. '_Literacy bootcamp?_' Well, why not?<sup>1</sup>
-
----
-
-Finally, coming on the heels of my navel-gazing about the tension and tradeoffs between `${perfecting pedagogical efficacy}` [vs] `${buttressing and expanding the basic social affordances which make even passable pedagogy realistic at a given institution}` (_see "Revisiting How the Brain Learns"_), this report was refreshingly clear about what it considers the most important target of future efforts. (_Spoilers: the latter._) 
+Its other "_directions for future research,_" however, offer more to think about: and, reassuringly for my ego, several appear amenable to experimentation via software tools!
 
 ## Next Steps
 
-Unfortunately, it's that first, biggest research priority ("_engage learners for longer periods of time, encourage students to participate and persevere_") that I can affect the least: I'm not crazy about emulating big-tobacco-style advertising, even for education.<sup>2</sup> Likewise, you (_alas!_) won't see me in a position to tweak state/federal stipends for learners anytime soon. For the other priorities, though, there's more to think about: and, reassuringly for my ego, several options approachable via experimentation with toy apps!
+One such research priority was explore technology's capacity to "_overcome the high cost of intelligent human labor, in this case literacy instructors._" I feel my dozen-odd years in the classroom give me some standing to make the comparison, here, of ABE instructors to smallholder farmers. 
 
----
+(_Bear with me._)
 
-A second research direction, to "_develop more valid ways of measuring adults’ literacy gains with assessments designed to show progress in specific component skills,_" resonates with my experience in classroom ELL literacy instruction. The [CASAS test's items](https://www.casas.org/product-overviews/curriculum-management-instruction/sample-test-items/life-and-work-reading) are fairly straightforward in their structure (_they're all selected-response, multiple-choice._) 
+I once heard a product manager describe their role as being the "_master of scarcity,_" of deciding how and what they would prioritize in light of the perpetual insufficiency of resources. Pretty sure that guy never worked as a teacher, ABE or otherwise. 
 
-This makes them rather amenable to [1] easy human generation (_or more-difficult computer generation_) of similarly-formatted questions on a variety of desired content topics, and [2] inclusion in a modified SRS system that, for literacy development, could also track (_and respond with changes to_) feedback format (_e.g. from input of picture, to word, to eventually audio clip; and from output of selected word, to typed words, to possibly even speech-to-text._)
+The hours of the day are so meagre, the baseline classroom tasks so exacting, and the cost of failure so high, that... well, there’s just not a ton of incentive to expend extra energy on even reasonably-substantiated innovations. Those demands breed a (_logical, exhausted_) pedagogical conservativism. 
 
----
+For a builder of software for teachers, then, accepting that reality means acknowledging that any such application is _a priori_ unhelpful to its users (_and thus, likely, dead on arrival_) unless it decreases, initially and tangibly, the amount of [_pre- / in- / post-_]class work the teacher needs to do. 
 
-The paper also points toward technology's potential to "_free literacy practice from being dependent on a specific learning location,_" and (_while I'm loath to speak positively of... well, digital anything_) I’ve been surprised on multiple occasions by students' facility with their mobile devices, at no correlation to their English- or native-language literacy skills.
+Two tools come to mind that meet this requirement.
 
-One such example is students (_importantly, across proficiency levels_) using YouTube's native-mobile application to gain exposure to English conversational language, especially set expressions and functional exponents. So how to deepen the quality of these interactions?
+### Saving Teacher Daylight: Materials-Finder
 
-I see two paths to leveraging this. The first involves more initial human labor: a school would need to submit their own videos. However, by adding a link in the video description to a website containing `${comprehension, language-focus, even text-response}` questions, you remove the common blocker of needing to first navigate to the OS' default browser application, then browse to the correct URL (_a process I've observed stymie learners on numerous occasions: and one indifferent to the complexity of the URL itself._)
+The first is a way to better surface relevant materials during lesson preparation. 
 
-The second (_significantly more ambitious_) project would embed a video, and generate questions automatically. It looks like both YouTube's submitted and automatic captions are wrapped in the `class="captions-text"` selector: so, presumably, you can agnostically scrape text from English-language video captions, regardless of whether those captions were initially provided by the uploader. (_A quick StackOverflowing tentatively confirms this._) The NLP needed to generate `${even the simplest of questions that would still be meaningfully derived from a video's captions}` make this well outside my bounds of competence: but in principle it at least seems doable with today’s technology.
+I'm not sure of the better usage-model:
+1. via "pull," or a search engine for each institution's library of teaching materials, customizable by (_e.g. proficiency level of students, theme guiding the lesson, standards composing the curriculum and informing later assessments, etc._) or 
+2. via "push," or a chatbot integrated into the institution's record-keeping system: _"it looks like next Thursday you're teaching a course for the NRS 0-1 Class on Transportation, and need to fill out the following lesson-plan for it. Would you like to see some relevant vocab sheets, and associated exercises?"_
 
----
+I suspect, though, that user-access isn't the thorniest component. (_The latter tool, after all, effectively includes the former within it; while faceted search is hardly_ easy _to implement, it's certainly doable._) 
 
-A final priority listed is to explore technology's capacity to "_overcome the high cost of intelligent human labor, in this case literacy instructors._" I feel my dozen-odd years in the classroom give me some standing to make the comparison, here, of full-time teachers to pre-industrial/subsistence farmers. (_Bear with me._)
+Rather, I see the greatest technical challenge as building an interface wherein any institution can
+1. _ad lib_ input their preexisting materials (_paper textbook ToC's, parent-institution documents, local instructor-made exercises, and so, so much more_), and 
+2. receive, for each derived atomic unit of course material, a record with accurate metadata. 
 
-The hours of the day are so insufficient, the baseline required tasks so demanding, and the price of failure so high, that... well, there’s just not a ton of incentive to expend even moderate amounts of extra energy on even reasonably-substantiated innovations. Those facts breed an entirely logical (exhausted) conservativism. And accepting that reality means acknowledging that, _a priori_, any teacher-support application is unhelpful (_and thus dead on arrival_) unless it decreases, initially and substantially, the amount of work the teacher needs to do. 
+Automated arbitrary-data parsing and tagging, then? That's not trivial. I love me some PostgreSQL, but it'll take more than a `jsonb` column and some regex to process what most ABE centers have lying around on their shelves.
 
-When I think through the list of common activities a classroom instructor frequently engages in, the first point of assistance that comes to mind is that of surfacing relevant materials during lesson preparation. I'm not sure whether the best model forward is:
-1. via "push," that is, a search engine for that institution's library of teaching materials, customizable by (_e.g. proficiency level of students, theme guiding the lesson, standards composing the curriculum and informing later assessments, etc._) or 
-2. via "pull" ...that is, the lesson-planner equivalent of Clippy: _"it looks like next Thursday you're teaching a course for the NRS 0-1 Class on Transporation. Would you like to see some relevant vocab sheets, and associated exercises?"_
+### Saving Teacher Daylight: Standards-Aligner
 
-I suspect the latter would see greater use, but perhaps would need the former accessible from within it?
+The second tool builds on that above "pull" model (_henceforth, affectionately, “lesson-planner Clippy."_)
 
-The second point of assistance builds on that aforementioned unctuous nightmare, “_lesson-planner Clippy._” The amount of _post facto_ time teachers resentfully spend aligning 
-1. what they intuit (based on their experience, and often correctly) to be the best structure of a lesson
-[with]
-1. whatever two-dozen bullets of inaccessible standards were attached by the `${institutional, regional, federal, international}` accrediting body
+The amount of time teachers (_usually resentfully_) spend aligning:
+1. what they intuit, based on their professional experience, to be the best structure of a lesson, with
+1. whatever two-dozen bullets of inaccessible standards were attached by the [_institutional, regional, federal, international, etc_] accrediting body
 
-...is so acknowledged and intractable as to essentially be a meme at this point. 
+...is, at this point, essentially a meme. (_At least in my circles?_) 
 
-(To be clear: by "_aligning_" I here mean "_contorting so as to be justified by: because, yet again, I'm on hour 10 of this work day, I still have to make copies for the students and finish grading my other course, and as such will be **damned** if I'm going to rewrite the entire controlled-practice section of this class to fit what some administrator in Bethesda pulled out of their Master's thesis._") 
+And yet. 
 
-And yet... those standards often do have real value to add to the lesson's creation! If nothing else, they inject a second voice and paradigm, even if detached: and thereby provoke that lesson-builder into questioning those default assumptions and rote formulas that creep into even the best teacher's practice over the semesters. 
+Again, solely my circles, but: those standards often _do_ add value during the lesson-design process! If nothing else, they inject a second voice, or perspective: they encourage the lesson-builder to question their default assumptions, those rote course-formulas that creep into even the best teacher's practice over the semesters.
 
-I propose that standards are often damned by their implementation, not their contents: no one wants a scolding, unaccountable, disembodied schoolmarm (_even a checklist one_) casting a critical eye over the work they've just managed, barely yet painstakingly, to complete on schedule. What they might like is a dialogue with a peer (_even a silicon one_), and that dialog occuring \*during\* the lesson-writing process.
+I propose that standards are often damned by their implementation, not their contents. No one wants an unaccountable, disembodied monitor casting a critical eye over the work they've just (_barely, yet painstakingly_) managed to complete on schedule. 
 
-I'd envision, then, the second role of (_eugh, shudder_) “lesson-planner Clippy” to be almost that of a tax-preparation app's chatbot, providing input prompts to speed up e.g. task creation while simultaneously guiding the teacher to integrate best practices (_such as those listed in, well, the `Principles of Learning for Instructional Design` section of this paper..._)
+What they might like is a dialogue with a peer, even a silicon one: especially _while_ constructing that lesson-plan.
 
-Admittedly, this envisions the lesson-plan creation process as something akin to (_albeit very complex_) form-filling, which is simply impractical for the structure/content of some courses. For the majority of classroom-instruction sessions that I've been part of, however, I see such a tool fulfilling that highest, most praiseworthy goal: that is, to return at least _some_ time back to our teachers.
+Alongside suggesting relevant materials, the (ugh) “_lesson-planner Clippy_” bot could provide e.g. typeahead input prompts, conditional selected-response tools (_e.g. dropdowns, checkboxes, and radio buttons instead of text-fields_), and (_dismissable!_) warnings. Properly applied, this could both speed up task creation and encourage the teacher to integrate proven pedagogical best-practice. (_Such as, well, those listed in the_ `Principles of Learning for Instructional Design` _section of this very white-paper..._)
 
-Though... woof. "_Lesson-planner Clippy._" Побоійся богу, синку...
+Admittedly, this envisions the sequence of lesson-plan creation as something akin to (_very complex_) form-filling, which is simply impractical for the structure and content of some syllabi. 
 
----
+For plenty of courses I've been part of, though, such a tool could fulfill that noblest, most praiseworthy goal: to return at least _some_ professional time back to our ABE instructors.
 
-<sup>1</sup>Well, sure, ignoring the whole "_complete lack of market demand/funding model_" and "_whole-cloth unsuitability to the realities of most non-literate ELL's family adn work lives._" ...beyond those, it seems promising?
-
-<sup>2</sup> In this sentence I've irrevocably dated myself as hopelessly aged: it occurs that I can't plausibly expect that reference to resonate, anymore... I should've instead, perhaps, referenced Facebook.
+(_Both the continuing practitioners and those fallen, lapsed professionals who hope to someday return, at least as a volunteer. As soon as they better understand Rails' magic. And Docker. And hooks-based complex state-management in React. And-_)

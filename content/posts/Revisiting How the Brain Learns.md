@@ -69,7 +69,6 @@ Sigh. Dogs, and tricks; leopards, and spots.
 
 One step toward better-braiding these two threads (_classroom best-practice identification, and classroom best-practice implementation_) could be to compare where they most visibly diverge. 
 
-
 In what subfields do people’s beliefs about teaching and learning most wildly diverge from empirical research? What about for the beliefs of practicing teachers? Teachers in specific disciplines? Teachers of a specific age or region or training background? Administrators? School-board members? Textbook publishers? Researchers themselves?
 
 To start, read "_Self-Regulated Learning: Beliefs, Techniques, and Illusions_" (Bjork et al, 2013), then compare against the findings in "_Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology_" (Dunlosky et al, 2013). 

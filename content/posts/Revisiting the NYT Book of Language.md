@@ -8,7 +8,7 @@ category: "What I Read"
 tags:
   - "Linguistics"
   - "Neuroscience"
-description: "These are my thoughts on rereading the notes I'd taken while reading (purely for fun) The NYT Book of Language and Linguistics."
+description: "These are my thoughts on rereading the notes I'd taken while reading The NYT Book of Language and Linguistics."
 ---
 
 ## What Are We Doing Here?
