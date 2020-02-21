@@ -1,27 +1,27 @@
 ---
-title: "Maybe Research: Diversifying SRS Tasks?"
+title: "Maybe Research: Diversifying Spaced-Repetition Tasks?"
 date: "2019-04-14"
 template: "post"
 draft: false
-slug: "/posts/srs-task-improvement-idea/"
+slug: "/posts/srs-task-improvements/"
 category: "What I Think"
 tags:
   - "Ed Tech"
   - "Teaching"
   - "Learning"
   - "Language Learning"
-description: "Ideas for how spaced-repetition systems might differently engage their users to interact with a flashcard's content, with less risk of chunked-memorization."
+description: "Ideas for different ways a user might interact with a flashcard's content, to minimize the risk of chunk-memorization."
 ---
 
 ## What Are We Doing Here?
 
-```
+<!-- ```
 >[1] SRS format displaying sentences, but with the ability to highlight particular words to practice them further (in different sentences -- scraped from websites).
 >
 >[2] SRS task: you are presented with a formerly-correct sentence into which an error has been added. You must click the area with the error, and correct. If needed, the region with the error can be highlighted. Repetitions spread timing, but also change the content words to prevent easy recognition of the error.
 > 
 > - Original scribble
-```
+``` -->
 
 Man, I love me some Anki. 
 

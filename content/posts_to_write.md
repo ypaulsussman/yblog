@@ -1,6 +1,4 @@
-# Stuff You Could Do Right Now
-
-## Read a thing; build a thing
+## 1. Read a thing; build a thing
 
 ### Currently: React Hooks/Context Toy App (Latticene)
 
@@ -46,7 +44,7 @@
 
 - [Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)
 
-## Reread the notes; respond or reflect
+## 2. Reread the notes; respond or reflect
 
 ### Non-technical revisitations
 
@@ -114,7 +112,7 @@
 - Foundations of PostgreSQL Admin Notes [ ]
 - (_First take notes on_) ["The Missing CS Course"](https://missing.csail.mit.edu/)
 
-## Ideas
+## 3. More-serious software ideas
 
 ### Lectio 
 
