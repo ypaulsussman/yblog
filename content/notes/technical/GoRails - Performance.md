@@ -85,7 +85,7 @@ When indexing, make sure you're benchmarking your queries: don't just run them f
 Russian doll caching adds information to the cache-key about which specific record in a collection you want to use for that particular fragment (as well as the timestamp.)
 
 You'll need to render a partial in order to take advantage of the 'multi-get' that Rails 5 provides, so:
-```rhtml
+```html
 <!-- Rather than:-->
 
     <% list.todos.each do |todo| %>
@@ -108,7 +108,7 @@ This, however, will cause your cache to run out of memory pretty fast (_one view
 
 Better is to remove any role-evaluation logic (for user-dependent tags) from the `.erb` file, and instead always display them (for ease of caching), then hide them on load via JavaScript and meta tags.
 
-```rhtml
+```html
 <!-- Rather than:-->
 
   <%= link_to 'Edit', edit_list_path if user_signed_in? && current_user.role == 'admin' %>

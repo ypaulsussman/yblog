@@ -25,6 +25,5 @@ You can use `delegate :method_name, to: :object_name` for a symbol you've added 
 
 The `StringIO` class is basically a decorator wrapping the `String` class, so as to provide it the same methods that the `File` class has (the major difference being that the former exists in memory; the latter, on permanent storage somewhere.)  
 
-
 ## Decorators with the Draper Gem 
 

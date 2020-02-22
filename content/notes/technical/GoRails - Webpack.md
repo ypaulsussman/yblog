@@ -13,6 +13,7 @@ tags:
 description: "Notes from GoRails videos."
 ---
 
+
 ## How to use Javascript via Webpacker in Rails 6 
 
 The `webpacker.yml` file typically needs little configuration.

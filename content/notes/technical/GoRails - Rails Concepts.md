@@ -97,11 +97,10 @@ Within a controller method, we set instance (rather than local) variables so tha
 Instance variables exist as long as the instance of that `FooController` class (_the instance generated for that particular HTTP request_) exists.
 * that is, first the controller is instanced, and the particular action is called based on the instructions from the `routes.rb`:
     * `my_fc_instance = FooController.new`
-    * `my_fc_instance.send(:myaction)`
-* thus, when ERB is called as e.g. `ERB.render('myaction.html.erb,' my_fc_instance.instance_variables)`, the variables are still present.  
+    * `my_fc_instance.send(:my_action)`
+* thus, when ERB is called as e.g. `ERB.render('my_action.html.erb,' my_fc_instance.instance_variables)`, the variables are still present.  
 
 A local variable, by contrast, is deleted as soon as the controller action is done executing.
-
 
 ## Episode 6. Querying Named Scopes Across Models
 
@@ -309,7 +308,6 @@ At very large record counts, `transaction` can provide a significant performance
 ## Episode 15. Debugging: How to Interpret a Stacktrace 
 
 _Nice walkthrough of a stack trace, but no facts immediately-visible as worth adding to your personal memory._
-
 
 ## Episode 16. Rails Application Templates  
 

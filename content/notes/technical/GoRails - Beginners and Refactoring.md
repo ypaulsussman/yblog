@@ -88,7 +88,7 @@ Controllers should _only_ contain logic around delegating incoming requests to f
 
 Side note: I found the example provided -- of twisting around `save` within the `CreateLead` object, then needing to remember or comment somewhere that there are now two ways to create a record (one via the service object, and one via the model) -- to be more confusing than the conditional-on-the-callback version. Maybe you just need more experience with the Service Object paradigm -- but this particular example of "_use these classes to perform the same CRUD behaviors as the model would do, just without triggering callbacks!_" didn't feel too compelling.
 
-When two models do the same thing, _then_ extract that logic to the `concerns/` dir. Otherwise, create a service object.
+When two [models/controllers] do the same thing, _then_ extract that logic to the `concerns/` dir. Otherwise, create a service object.
 
 
 ## Episode 3 @ Refactoring Your Code. Refactoring with the Null Object Pattern
