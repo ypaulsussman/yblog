@@ -1,87 +1,83 @@
 ---
-title: "Maybe Research: Diversifying Spaced-Repetition Tasks?"
+title: "Maybe Research: Spaced-Repetition Task Sequencing"
 date: "2019-04-14"
 template: "post"
 draft: false
-slug: "/posts/srs-task-improvements/"
+slug: "/posts/srs-task-sequencing/"
 category: "What I Think"
 tags:
   - "Ed Tech"
   - "Teaching"
   - "Learning"
   - "Language Learning"
-description: "Ideas for different ways a user might interact with a flashcard's content, to minimize the risk of chunk-memorization."
+description: "An idea for how to elicit multiple interaction-patterns with a flashcard, to minimize the risk of content fossilization."
 ---
 
 ## What Are We Doing Here?
 
-<!-- ```
->[1] SRS format displaying sentences, but with the ability to highlight particular words to practice them further (in different sentences -- scraped from websites).
->
->[2] SRS task: you are presented with a formerly-correct sentence into which an error has been added. You must click the area with the error, and correct. If needed, the region with the error can be highlighted. Repetitions spread timing, but also change the content words to prevent easy recognition of the error.
-> 
-> - Original scribble
-``` -->
+Man, I love me some Anki.
 
-Man, I love me some Anki. 
+I paid \$25 for the iOS app, and (_assuming 5-10 minutes of usage a day, every day_) its prorated cost is trending toward pennies. It’s integral to my daily commute: the bus has become my time to engage with the day's selected sentences. Each card gets the same treatment:
 
-I paid $25 for the iOS app, and (_assuming 5-10 minutes of usage a day, every day_) its per-use cost is trending to pennies. It’s become an imbricated component of my daily commute: if the weather is warm enough, I begin while waiting for the bus; if too cold, as soon as I hop on:
-
-1. I silently read the prompt in English; 
-1. I mentally construct the sentence in Ukrainian;
-1. I mutter it to myself _just_ quietly enough not to worry the other straphangers (_...I think_);
-1. I compare my mentally-constructed sentence with the (_student/prior-me-written, instructor/native-speaker-corrected_) one that I had entered so many [ _hours, days, weeks, ...months?_ ] ago;
-1. I combine my subjective evaluation of `${how inaccurately-divergent my mentally-constructed sentence was}` and `${how difficult it was to construct the sentence}` into a simple tap on one of the four buttons; and 
+1. I silently read the prompt in English;
+1. I translate the sentence into Ukrainian, muttering _just_ quietly enough not to worry the other passengers;
+1. I compare my mentally-constructed Ukrainian sentence with the (_prior-me-written, then native-speaker-corrected_) version that I had added to the deck so many [_days, weeks, months_] prior;
+1. I briefly evaluate:
+   - How difficult was it, initially, to rebuild the Ukrainian sentence?
+   - How inaccurately-divergent was today's version of the sentence?
+1. I combine my answers into a simple tap, on one of four difficulty-level buttons; and
 1. I repeat with the next flashcard.
 
-It's a joyful, helpful process.
+Its helpfulness is expected, but its daily joyfulness... that was a surprise.
 
-It depends, however, on that second step occurring as intended: that is, 
-- first the retrieval from memory of the relevant linguistic elements (_the 'words and rules'_), and 
-- then the conscious construction of a full sentence from those constituent parts.
+Such pedagogical value does depend, however, on Step #2 occurring as intended. Ideally, it should comprise first [1] retrieving the relevant linguistic elements (_the 'words and rules'_) from memory, then [2] "_applying the rules to the words,_" as it were, to (_re_)construct the full sentence.
 
-Recently, I've felt this process less and less.
+Recently, I've sensed this sequence of actions occurring less and less.
 
-While it’s possible that I’ve just so thoroughly internalized those elements that the sentence construction takes place automatically, I’m inclined to a more pessimistic supposition: my brain (_well-intentioned friend that it is!_) has begun storing each of these flashcard sentences as a fixed memory, for ease of immediate recall.
+It’s technically _possible_ that I’ve internalized each such atom of the language so thoroughly that sentence-construction now takes place so rapidly, so automatically, as feel subconscious... but I’m inclined to a more pessimistic supposition.
 
-That is: I suspect my brain's begun to [memoize](https://en.wikipedia.org/wiki/Memoization) my flashcard prompts.
+I think my brain -- well-intentioned friend that it is! -- has, for ease of recall, begun storing each flashcard-sentence in its entirety. It's effectively begun to [memoize](https://en.wikipedia.org/wiki/Memoization) my flashcard answers!
 
-This may have been foregrounded by the nature of the content I'm studying: in a [heavily inflectional language](https://en.wikipedia.org/wiki/Ukrainian_grammar#Morphology), it rapidly becomes palpable that your brain is keying off a specific instance of e.g. a verb, its [_aspect, tense, gender, deixis, plurality, etc_] all pre-packaged -- rather than the verb's holistic potential, all its semantic mapping and combinatorial rules of affixation.
+This phenomenon might be exaggerated by the content I'm studying: in a heavily [inflectional language](https://en.wikipedia.org/wiki/Ukrainian_grammar#Morphology), it rapidly becomes palpable that your brain is keying off a specific instance of e.g. a verb, its [_aspect, tense, gender, deixis, plurality, etc_] all pre-packaged -- rather than the verb's lexeme, encompassing all its potential mappings and combinatorial rules of affixation.
 
-But it's not limited to freezing bound morphemes: I've begun to worry just as much about accidental, dubiously-attested lexical groupings. “Величезне" and "коливання” (_possible, per googling?_) or “сприяє" and "психологічному розладу” (_unlikely_) may or may not collocate in any sort of common usage. But that doesn't matter: for me, their constituent words will always entwine together, because I’ve learned each such word solely from a single (_still more-dubious, self-created!_) sentence, to which I've been exposed again and again and again.
+But it's not limited to freezing bound morphemes: I've begun to worry just as much about accidental, dubiously-attested lexical groupings.
 
-On my own personal bus rides, I attempt to compensate for these by, for example, mentally using one such noun in a new, second sentence, separate from its erstwhile partner, or using a verb in a different declension: but that only works for me, it only works when I remember to do it, and none of this ad-hoc language that I produce is stored or checked for correctness.
+“Величезне" and "коливання” (_possibly attested, per DuckDuckGo?_) or “сприяє" and "психологічному розладу” (_not likely, per DDG_) may or may not collocate in common, idiomatic native usage. For me, though, each of those constituent parts _will_ be mentally wired to its partner, simply because I’ve solely been exposed to each such word in the context of that one single flashcard, containing that one single sentence, in turn containing that one single (_and very possibly dubious or unnatural-sounding_) collocation.
+
+On my bus rides, I attempt to compensate: I may silently use a constituent noun as the subject of a new, unrelated sentence, or practice the different declensions of a constituent verb. But such exercises are woefully insufficient: they only work when I remember to do them, and none of the ad-hoc language generated is stored in any medium. None of it's even checked for correctness!
 
 ## What Could We Do About It?
 
-I don't see an SRS app that automatically provides minor permutations to `${the initial, user-provided flashcard content}` as the solution. While it's what the first proposal in the above scribble alludes to, I'd consider it necessary: but not sufficient.
+Duolingo offers one feature to prevent this wiring-together of unhelpfully-large linguistic chunks: across different encounters, it applies minor linguistic permutations to a sentence. I consider this necessary, but not sufficient.
 
-A close variant of this behavior is already visible in Duolingo, along with its limitations. The messy mapping of natural language to predictable rules means that there's only a very, very narrow band of certainty in which you’ll be able to `${programmatically shift one variable, generally a listeme, in a sentence}` and know that the only semantic value altered is that predicted by the altered variable. 
+Given how messily natural languages map to the rules that (_purport to_) describe them, there's a very narrow band of conditions under which an application can both [1] programmatically shift a single variable in a sentence and [2] maintain any certainty that the _only_ semantic-value altered is predictable by the shifted variable.
 
-As far as I can tell, that narrowness effectively confines the use of these algorithmically-directed permutations as a pedagogical tool to... well, theme-sequenced vocab acquisition at the A0-A2 levels. (_Which, of course, is precisely what Duolingo does rather well._) 
+As far as I can tell, that narrowness confines the use of such algorithmically-directed permutations to theme-sequenced vocab acquisition at the A0-A2 levels. (_Which, to be fair, is exactly what Duolingo does rather well._)
 
-A broader restatement of the problem, then: SRS masters the timing of [_when, and what content_] to elicit, but the question of what _action_ to perform on that content is largely unadressed.
+To reassess the problem, then, more broadly: while spaced-repetition systems (SRS) master the timing of _when_ and _what content_ to elicit, the question of _what interaction_ to elicit is, as yet, largely unaddressed.
 
-One of the commendable qualities of Anki is that this question is at least partially left to the learner, given the variety of multimedia and plugins that can be added to the “problem and solution” two-sided flashcard base. 
+One commendable quality of Anki is that this is partially left to the learner, given the variety of multimedia and plugins that can be added to the basic, two-sided flashcard architecture.
 
-Making effective use of `${all the various task/exercise types}` requires both an acknowledgment of its necessity and some familiarity with instructional design, however: and how widespread are either?
-
-I propose combining both ideas from the above scribble (_among others_) to compose a short list of generically-applicable exercises beyond "_given an L1 sentence, construct an L2 equivalent_." 
-
-For simplicity's sake, this SRS could initially follow a Leitner system of "_Box #1, daily; #2, every 3 days; #3, weekly; #4, biweekly; #5, monthly_" -- the crucial difference being, however, that (_on completing that fifth box_) a card would return to box #1, now with a more-complex exercise-prompt attached to its content.
-
-How to construct that list of exercises, though? My first instinct was to fall back on my old standby, [the DOK table](https://www.lake.k12.fl.us/Page/27614). That model, however, emerges from research across the broad spectrum of academic content disciplines; for practical reasons, I'm restricting this project's MVP solely to second/foreign-language learning.
-
-I find the below chart, taken from an [admittedly-dated reassessment of TBLT](https://doi.org/10.1093/elt/58.4.319), to be a better guide for where to position exercises:
-
-![Continuum of Tasks' Focus](/media/continuum_focus_on_forms_to_focus_on_meaning_Littlewood_2004.png)
+Making effective use of those various content- and exercise-extensions, though, requires both an acknowledgment of their necessity and some familiarity with instructional design. How widespread are either?
 
 ## Next steps
 
-Step one is implement your own SRS app (_a non-trivial technical implementation, but one likely requiring little collateral research_). 
+As an alternative to an excessively-convoluted process of Anki extension, I envision an inventory of generic language exercises beyond "_given an L1 sentence, construct an L2 equivalent_."
 
-Step two is to create a sequence of learning exercises that can be [1] applied to any bilingual sentence-pair and [2]validated programatically (_a non-trivial amount of secondary-source research, but a straightforward document to build._) It very well may be that only the two task-options proposed in the initial scribble match both criteria: that's OK! They're plenty to work with on their own.
+For simplicity's sake, assume the associated SRS follows a ~Leitner system of "_Box #1, daily; #2, 3 days; #3, weekly; #4, biweekly; #5, monthly._" On completing the fifth box, a card returns to the first one: crucially, though, it will now feature a more-complex exercise-prompt attached to its content.
 
-Step three is to integrate the two.
+But how to compile and order that list of exercises?
 
-Step four... is to dogfood, and refine.
+My first instinct was to fall back on that trusty standby, [the DOK table](https://www.lake.k12.fl.us/Page/27614). That model, however, emerges from research across a broad spectrum of academic disciplines: for practical reasons, I plan to restrict this project to (_adult_) second/foreign-language learning.
+
+The chart below (_admittedly, taken from_ [_a dated reassessment of task-based language teaching_](https://doi.org/10.1093/elt/58.4.319)) offers a more domain-oriented mental model for how to position (_and thus sequence_) exercises:
+
+![Continuum of Tasks' Focus](/media/continuum_focus_on_forms_to_focus_on_meaning_Littlewood_2004.png)
+
+The language practices falling in the `Structured communication` and `Authentic communication` fields are almost certainly beyond the (_current!_) capacity of mobile software to generate and monitor. Moreover, those fields' example tasks are significantly more time-consuming than an individual flashcard might be expected to proffer.
+
+The `Enabling tasks` enumerated in those three `Focus on forms` fields, however, provide a suitable progression for that modified-Leitner system described above; other e.g. textbooks' activities can easily be checked and sorted against the associated criteria. Taken together, they make that "_inventory of exercises_" eminently composable.
+
+The next step would be to ensure that the software can, for the consitutent language of each flashcard, individualize those successive generic exercises such that they generate both [1] a relevant prompt or challenge, and [2] an accurate example against which to compare the learner's output.
+
+That seems just at the limits of what (_I understand_) current natural-language processing to be capable of: but not necessarily beyond them.

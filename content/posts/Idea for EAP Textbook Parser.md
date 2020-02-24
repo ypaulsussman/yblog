@@ -1,5 +1,5 @@
 ---
-title: "Maybe Build: A Language Extractor for EAP/ESP Textbooks?"
+title: "Maybe Build: A Language Extractor for EAP/ESP Textbooks"
 date: "2019-02-10"
 template: "post"
 draft: false

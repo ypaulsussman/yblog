@@ -1,9 +1,9 @@
 ---
-title: "Maybe Build: A Speaking-Prompt Tool for Video-Tutoring Language Platforms?"
+title: "Maybe Build: A Speaking-Prompt Tool for Video-Tutoring Platforms"
 date: "2020-02-02"
 template: "post"
 draft: false
-slug: "/posts/video-tutoring-tools-idea/"
+slug: "/posts/video-tutoring-tools/"
 category: "What I Think"
 tags:
   - "Ed Tech"
