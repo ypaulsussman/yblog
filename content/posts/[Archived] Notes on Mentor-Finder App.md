@@ -1,5 +1,5 @@
 ---
-title: [Archived] Auth And Search For A Weekend Hackathon
+title: Auth And Search For A Weekend Hackathon
 date: "2019-06-19"
 template: "post"
 draft: true
