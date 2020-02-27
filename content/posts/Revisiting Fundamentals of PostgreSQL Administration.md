@@ -3,55 +3,67 @@ title: Revisiting 'Fundamentals of PostgreSQL Administration'
 date: "2019-09-28"
 template: "post"
 draft: false
-slug: "/posts/fpa-course-revisitation/"
+slug: "/posts/postgres-admin-course/"
 category: "What I Read"
 tags:
   - "PostgreSQL"
-description: "These are my thoughts on rereading my notes from an online \"Intro to PostgreSQL Admin\" course I took in the summer and fall of 2019."
+description: 'On rereading my notes from an "Intro to PostgreSQL Admin" course, I began to consider the beauty of declarative knowledge: and how to leverage it in the classroom.'
 ---
 
-Whew, lad. 101 days from June 19th to September 29th - what have I been _doing_?
+## What Are We Doing Here?
 
-The calendar confesses that, for the first month at least, I've got no excuse (_save a trip to New York for family and a wedding, followed by some camping along the river._) From July onwards, though, I can at least claim occupation of my weekends by an employer-sponsored online course: and, as of Tuesday, I'm happy to have completed EnterpriseDB's certification as a PostgreSQL 11... "Associate." 
+For the last three months, I've been spending nights and weekends on an employer-sponsored online course; as of Tuesday, I'm happy to have completed [EnterpriseDB's certification](https://www.youracclaim.com/badges/db1a7e0c-5b68-4529-a5af-e2f9887fc72d) as a "_PostgreSQL 11... Associate._"
 
-Sure, it's not the most prestigious title in light of the time commitment, and trickiness of the exam: but I'm quite happy with the content covered.
+On a farewell-review of my notes, I was surprised by how my sentiments bifurcated.
 
-While on a farewell-review of my notes, however, I was surprised by the bifurcation of my _sentiments_ toward that content.
+My flashcards' prompts generally took two sentence formats: "_Describe how_ PostgreSQL _performs process_ `${foo}`," and "_Given constraints `${bar}`, how would_ you _achieve goal_ `${baz}` _within PostgreSQL?_"
 
-The prompts on my flashcards largely divided into two sentence formats: "_How does_ `${Postgres perform activity 'foo'}`," and "_How would **you**_ `${achieve goal 'bar' within Postgres}`?"
+Examples of the latter include:
 
-Examples of the latter include: "_like output of that query you just ran?_ `\g ${path/to/file.txt}` _to the rescue,_" or "_Running_ `CLUSTER` _? Can't hurt to boost_ `maintenance_work_mem` _beforehand, then run_ `ANALYZE` _after,_ " or even "_getting tired of running_ `\x auto` _on every_ `psql` _start? Drop that boi in a_ `.psqlrc`_!_ "
+- "_Like output of that query you just ran?_ `\g ${path/to/file.txt}` _to the rescue,_" or
+- "_Running_ `CLUSTER`_? Can't hurt to boost_ `maintenance_work_mem` _beforehand, then run_ `ANALYZE` _after,_ " or even
+- "_Getting tired of running_ `\x auto` _on every_ `psql` _connect? Drop 'em in a_ `.psqlrc`_!_ "
 
-I've used many of these skills several times - in some cases several _dozen_ times - since acquiring each, but I can't say I've felt any particular warmth to them. No antipathy, to be sure, but they're just... tools.
+I've used many of these patterns and commands frequently since acquiring them, but it's not like I've felt any particular _warmth_ to them. No antipathy, but they're just... tools.
 
-Certainly, each is a convenience or an empowerment, and I'm all about both of those. But compared to the former... to those facts and descriptors and _systems..._
+Each is certainly convenient, sometimes even empowering. Compared, however, to:
 
-Understanding how the shared- and WAL-buffers are read/written/flushed, or how vacuum workers' table- and row-selections are calculated, or how query-planning is optimized and weighted... I admit I'm a deeply strange little human, but at the moment of apprehending each of those? I low-key felt something reminiscent of first seeing Minnehaha, or the Incredible Cross-Sections of a subway terminal, or the Temple of Dendur.
+- The write-ahead logs' lifecycle, from buffer to segment to archive, or
+- How vacuum workers' table- and row-selections are calculated, or
+- The system for parsing, planning/optimizing, and executing queries...
 
-I've been ruminating on this since. Broadly, is the "knowing-how" less beautiful than the "knowing-what"? Is `proceduralKnowledge > declarativeKnowledge` in usefulness, but `declarativeKnowledge > proceduralKnowledge` in... "wonder"?
+I admit I'm a strange little human, but I don't exaggerate here. Each of those struck me as -- I use this term carefully -- [something sublime.](https://en.wikipedia.org/wiki/A_Philosophical_Enquiry_into_the_Origin_of_Our_Ideas_of_the_Sublime_and_Beautiful)
 
-It's possible that this is all just appreciation for PostgreSQL: it's admittedly a glorious architecture, an appreciably elegant, efficient human construction. But I've felt that before, in other contexts, and I don't notice an echo or similarity. Jet engines are 10,000 pieces of inestimable engineering, and I fundamentally grok that: but I do so without that same sense of sublimity. 
+I've been ruminating on that difference ever since.
 
-Instead, my hypothesis is that, while the procedural-knowledge learnings are more immediately useful, they don't initiate a conceptual restructuring in the way that declarative-knowledge learnings do. 
+## Waterfalls, Pyramids, and Point-in-Time-Recovery
 
-(_At least, not in this particular case: for context, prior to this I knew almost nothing about databases. When I read that PostgreSQL has a process that oversees not only its utility child-processes, but also each user-connection process, thereby eschewing threads altogether... my first reaction was "wait what's a process again lol?"_)
+Is [procedural knowledge](https://plato.stanford.edu/entries/knowledge-how/#ProDecKno) greater than declarative knowledge in usefulness, here, but lesser in... aesthetics, or wonder? In truly complex systems, at least, is the "_knowing-how_" less beautiful than the "_knowing-that_"?
 
-I'm thinking about the progressive nature of the knowledge-organization models that Frederick Reif depicted in his 1994 Millikan lecture: 
+Maybe. One possibility is that -- while my PostgreSQL procedural-knowledge learnings were more-immediately helpful at work -- they didn't initiate any conceptual restructuring.
+
+The complementary declarative-knowledge learnings, however, fundamentally reworked my (_heh_) catalog of mental models. They grew the range of _tools I can think with._
+
+I'm reminded of the progressive knowledge-organization models that Frederick Reif depicted in his 1994 Millikan lecture:
 
 ![Reif's models of knowledge-organization, 1994 Millikan lecture](/media/reif_millikan_1994.png)
 
-In that light -- that is, if we take `${expansion of declarative-knowledge}` as a prerequisite for `${refining of conceptual- or strategic-knowledge}` -- then that (feeling of respect, of almost aesthetic appreciation, toward what are otherwise fairly inert concepts) may be a signpost of some deeper knowledge-restructuring taking place. And, perhaps more importantly, even if it _doesn't_ denote or imply that -- it's still a potentially-useful tool for instructors.   
+In that model, the humble declarative knowledge that I constructed over this PostgreSQL course appears to be the incipience of stage `(a)` above, and thus too (_if we accept the three as a sequence_) the prerequisite for those latter `(b)`, `(c)` refinements.
 
-So what are the applications of this? (_Note that I'm not discussing the possibilities for quantifying or even substantiating the phenomenon: that's, like, research - read, "hard and slow-rewarding" - and see above re: convenience and power, and my enjoyment of them._)
+My aforementioned -- respect? appreciation? awe? -- toward those complex but ultimately static concepts might well, then, signal an underlying process: an ongoing, otherwise-unrecognized reorganization of knowledge.
 
-One practice comes to mind: we often introduce the teaching of new programming skills transactionally. (That is, "_here's how to accomplish_ `${task}` _in the time it takes to read this Medium post!_") 
+(_Whether those rearragements occurs following or during the construction of the new knowledge is a fascinating research question -- but one I leave aside as not immediately salient to the rest of the essay._)
 
-And that's fine for how-to articles: in my experience, these tend to be written for (_and used by!_) learners with very extrinsic (_and very specific!_) motivations for learning.
+I instinctively contrast the above sequence to how we so commonly introduce the learning-process: for new programming skills, at least, it's most-frequently a transactional, outcome-prioritized format.
 
-But for a broader course of study, one that builds a range of smaller component skills (_skills that the learner, post-course, will need to choose, strategically, when and how apply_) -- for those models, I've found it's harder to fit an immediate "_study this, to be capable of that_" proposition.
+Which is often quite fine: for a how-to article, "_Let's learn to accomplish_ `${task}` _in the time it takes to read this Medium post!_" is effective as both tagline and organizing principle. When propelled by extrinsic, specific motivations for learning, that's exactly what I desire.
 
-There's plenty of research on intrinsic motivation by eliciting learners' curiosity/interest in the subject at hand. It seems worthwhile, then, to explore the relative efficacy of engaging that curiosity via introductory (_course-, module-, lesson-level?_) descriptions of the systems to be studied... but with a deliberately holistic intent.  
+For a broader course, however -- one that inculcates a range of skills which the learner, post-course, will need to strategically decide when and how to apply -- such an immediate "_study this => be capable of that_" proposition seems ill-fitting, even inaccurate. What could take its place?
 
-That is, a qualitative overview of the soon-to-be-quantitatified content, one with an emphasis less on granularity and more on structural elegance, or even grandeur.
+## Next Steps
 
-...which, yes, despite my best intentions of six paragraphs ago, I now realize I've somehow managed to phrase as a proposal for... a primary study. "_When you're a recovering grad-student, everything looks like a spicy RQ._"
+There's plenty of research on intrinsic motivation, in terms of both [its educational value](https://www.apa.org/science/about/psa/2018/06/motivation) and [best practices](https://www.kqed.org/mindshift/53426/four-research-based-strategies-to-ignite-intrinsic-motivation-in-students) for [its elicitation.](https://www.gse.harvard.edu/news/uk/16/09/intrinsically-motivated) Thus far, the study of how to develop intrinsic motivation has largely focused on cultivating learners' sense of self-determination. (_And productively so!_)
+
+I'd be curious to explore the relative efficacy of eliciting learners' curiosity/interest in the subject at hand. Is there a corresponding increase in engagement via introductory (_course-, module-, lesson-level?_) descriptions of the systems to be studied... but with a deliberately holistic perspective?
+
+I'm envisioning a qualitative overview of the soon-to-be-quantitatified content, one with an emphasis on its structural elegance, even grandeur. At least [one organization's already done something similar](https://www.aosabook.org/en/index.html), with what appear to be excellent results: what would a similar approach in a formal classroom?

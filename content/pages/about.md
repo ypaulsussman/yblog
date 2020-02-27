@@ -6,7 +6,7 @@ template: "page"
 ## Who are you, and why should I care?
 I’m Y Sussman! I live in MPLS, MN, where I write code for work and teach for fun. (_I used to teach for work and write code for fun._)
 
-I moved here a couple years back from New York, where I went to grad school (_linguistics_), had fun (_teaching at libraries and universities; building language-learning apps_), and got married (_hi, Zoe!_) 
+I moved here from New York, a couple years back; while there, I went to grad school (_linguistics_), had fun (_teaching at libraries and universities; building language-learning apps_), and got married (_hi, Zoe!_) 
 
 Prior to that I lived in Warsaw (_teaching at university_), rural Ukraine (_Peace Corps_), and Wisconsin (_no one asked me; it was the 80's_.)
 
@@ -22,8 +22,8 @@ The code is pretty much entirely the work of others: my adaptation has largely b
 
 ## So why a blog, though?
 
-Eh, I should do more brain calisthenics. A typically-strong way to do so, I hear, is to cast one's thoughts into writing, and then reexamine both.
+Eh, I should work harder to keep my brain sharp. One way to do that, I hear, is to translate your thinking into writing, and then reexamine both.
 
-And a good way to do _that,_ I also hear, is to maintain a collection of those writings: a public-facing one, one that embarrasses you into perpetual drafting and revision.
+And a good way to do _that,_ I also hear, is to maintain a public collection of those writings: one that embarrasses you into perpetual drafting and revision.
 
 Ta da!

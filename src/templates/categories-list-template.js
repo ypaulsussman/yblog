@@ -14,7 +14,7 @@ const CategoriesListTemplate = ({ data }) => {
     <Layout title={`Categories - ${title}`} description={subtitle}>
       <Sidebar />
       <Page title="Categories">
-        <p>Right now I've got three types of posts:</p>
+        <p>Right now I maintain three types of essays:</p>
         <ul>
           {group.map((category) => (
             <li key={category.fieldValue}>
@@ -26,56 +26,36 @@ const CategoriesListTemplate = ({ data }) => {
         </ul>
 
         <p>
-          The first category is the simplest: when I'm blithely hacking away at
-          some toy app or proof-of-concept in my free time, I try to detail, at
-          the very least, the CLI mischief that got me into whatever intractable
-          fix I find myself.
+          The first category is the simplest: when hacking away at some toy or
+          proof-of-concept app, I try to detail the major decisions and
+          sticking-points.
         </p>
 
         <p>
-          These "<em>What I Do</em>" posts, then, include a higher-level
-          blow-by-blow of that process, furnished with some context about what
-          I'd aimed to accomplish in the first place, and (<em>hopefully!</em>)
-          why I undertook to do it in that particular way.
+          These "<em>What I Do</em>" posts furnish those records with some
+          context about my initial goals, where the project currently stands,
+          and what I'd do differently next time.
         </p>
 
         <p>
-          Then, when I read things (
-          <em>or attend things, or even sometimes watch things</em>), I tend to
-          take notes. That second category, "<em>What I Read,</em>" includes my
-          takeaways from when finally I return to them. (
-          <em>However many months or even years down the road that may be.</em>)
+          When I read -- or attend, or sometimes even watch! -- things, I
+          tend to take notes. I like to return, months or years later, to what
+          I'd written down, to see who I was then and what I paid attention to.
         </p>
 
         <p>
-          Sometimes these revisitations will include an idea for something to
-          build or study; sometimes it's just a reflection on that
-          paper-snapshot of who I was at the time.
-        </p>
-        <p>
-          Regardless, on review I usually restructure those documents, in order
-          to sharpen my grasp of their content and to deepen my recall of their
-          most important bits.
-        </p>
-
-        <p>At least, that's the plan.</p>
-
-        <p>
-          The final category, "<em>What I Think,</em>" mostly contains
-          plans that spring up without an immediately-obvious source.
-          Many are derived from sketches, scribbles, and jottings taken from a
-          notepad that had done little, save slowly accrete, over 2012-2018.
+          That second category, "<em>What I Read,</em>" includes my takeaways
+          from those revisitations.
         </p>
 
         <p>
-          My hope is that (
-          <em>
-            after I digest, explore, and likely discard the majority of them
-          </em>
-          ) this category will become the place where I record my piecemeal,
-          agonizingly protracted, step-by-step deduction of what to do next with
-          my life, on leaving software development. But that's more of a Q3 2030
-          project. (<em>Thanks, "mortgage"...</em>)
+          The final category contains plans that arrive without an
+          immediately-obvious source. My hope is that -- after I digest,
+          explore, and likely discard the majority of them -- "
+          <em>What I Think</em>" will become the place where I record my
+          agonizing, protracted deduction of how next to spend life, on
+          leaving software development. But that's more of a Q3 2030 project. (
+          <em>Thanks, "mortgage"...</em>)
         </p>
 
         <p>Watch this space.</p>
