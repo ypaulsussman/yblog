@@ -17,23 +17,27 @@ description: "A return to the ideas underpinning a literacy app I wrote several 
 
 ## What Are We Doing Here?
 
-```
+<!-- ```
 > Use lightweight SVG's as multimedia component, to prompt/associate/describe basic words.
 > 
 > Push exercises instead of relying on pull of user; mobile instead of desktop
 > 
 > Predictive text as tool for sight-reading / chunking phonemes (click full word to more-quickly construct sentence)?
 >
-> - Original scribble
-```
+> - Original scribble -->
+<!-- ``` -->
 
-So the background here is that I have two queues for which I’m trying to reach the bottom, in parallel: one is a series of (often one-line) jottings for an [app, course, PhD thesis, institution, etc] idea; the other is ~three-dozen files of extracted clippings and notes from various books (_some running to several pages each._) 
+<!-- So the background here is that I have two queues for which I’m trying to reach the bottom, in parallel: one is a series of (often one-line) jottings for an [app, course, PhD thesis, institution, etc] idea; the other is ~three-dozen files of extracted clippings and notes from various books (_some running to several pages each._)  -->
 
-Successfully clearing either queue's items requires different skills, both analytic and compositional, so I’m taking it as an opportunity to apply some (_admittedly pretty naïve_) [interleaving,](https://www.scientificamerican.com/article/the-interleaving-effect-mixing-it-up-boosts-learning/) and doing my best to switch off between (developing/interrogating the ideas) and (organizing/contemplating the notes.) 
+<!-- Successfully clearing either queue's items requires different skills, both analytic and compositional, so I’m taking it as an opportunity to apply some (_admittedly pretty naïve_) [interleaving,](https://www.scientificamerican.com/article/the-interleaving-effect-mixing-it-up-boosts-learning/) and doing my best to switch off between (developing/interrogating the ideas) and (organizing/contemplating the notes.)  -->
 
-That latter queue, however, has about twice as much material, so I've been exploring some daydream-jottings I might otherwise have dismissed out of hand. Which has more than once put me in the interesting situation of engaging with line of text for which I retain absolutely _no_ context: like, for example, the excerpt above! 
+<!-- That latter queue, however, has about twice as much material, so  -->
 
-Specifically: [didn’t I already do this?](https://github.com/ypaulsussman/karen_english_picture_dictionary) And, sure, badly: but also, like... two years ago? This '_idea_' post has become, then, less of a brainstorm and more of a many-months-out retrospective on the "Karen-English Picture Dictionary," or KEPD.
+<!-- I've been exploring some daydream-jottings I might otherwise have dismissed out of hand. Which has more than once put me in the interesting situation of engaging with line of text for which I retain absolutely _no_ context: like, for example, the excerpt above!  -->
+
+<!-- Specifically:  -->
+
+[...Didn’t I already do this?](https://github.com/ypaulsussman/karen_english_picture_dictionary) And, sure, badly: but also, like... two years ago? This '_idea_' post has become, then, less of a brainstorm and more of a many-months-out retrospective on the "Karen-English Picture Dictionary," or KEPD.
 
 ## What Could We Do About It?
 
