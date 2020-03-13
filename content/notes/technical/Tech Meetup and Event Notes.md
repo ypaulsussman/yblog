@@ -6,7 +6,7 @@ draft: true
 slug: "/posts/meetup-and-event-notes/"
 category: "What I Read"
 tags:
-  - "Ed Tech"
+  - "EdTech"
   - "Kafka"
   - "DNS"
   - "JavaScript"

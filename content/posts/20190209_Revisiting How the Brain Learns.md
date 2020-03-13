@@ -6,9 +6,9 @@ draft: false
 slug: "/posts/how-brain-learns/"
 category: "What I Read"
 tags:
-  - "Teaching"
   - "Learning"
   - "Neuroscience"
+  - "Teaching"
 description: "I read (at least a couple chapters in!) How the Brain Learns; here's what I thought when rereading my notes."
 ---
 

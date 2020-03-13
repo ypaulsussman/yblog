@@ -6,10 +6,10 @@ draft: false
 slug: "/posts/video-tutoring-tools/"
 category: "What I Think"
 tags:
-  - "Ed Tech"
-  - "Teaching"
-  - "Learning"
+  - "EdTech"
   - "Language Learning"
+  - "Learning"
+  - "Teaching"
 description: "Ideas for an ancillary, wraparound feature that could enhance the one-on-one video-tutor language-learning experience. (Shockingly, I don't get paid by the hypen.)"
 ---
 

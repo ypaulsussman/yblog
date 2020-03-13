@@ -6,7 +6,7 @@ draft: true
 slug: "/posts/educause-blog-notes/"
 category: "What I Read"
 tags:
-  - "Ed Tech"
+  - "EdTech"
   - "Teaching"
   - "Learning"
 description: "Notes from a series of blog posts I read. (Tagline: \"EDUCAUSE Learning Initiative's 7 Things You Should Know About... series provides concise information on emerging learning technologies and related practices. Each brief focuses on a single technology or practice.\")"

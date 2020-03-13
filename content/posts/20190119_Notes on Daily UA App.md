@@ -6,14 +6,13 @@ draft: false
 slug: "/posts/daily-ua-app/"
 category: "What I Do"
 tags:
-  - "Ed Tech"
-  - "Teaching"
-  - "Learning"
+  - "AWS"
+  - "EdTech"
+  - "GCP"
   - "Language Learning"
-  - "Ukrainian"
-  - "Google Cloud Platform"
-  - "Rails"
   - "React"
+  - "Rails"
+  - "Ukrainian"
 description: "I kept notes while building an app to deliver me Ukrainian headlines; here they are, and what I thought when I returned six months later."
 ---
 

@@ -6,11 +6,11 @@ draft: false
 slug: "/posts/eap-textbook-parser/"
 category: "What I Think"
 tags:
-  - "Ed Tech"
-  - "Teaching"
-  - "Learning"
+  - "EAP/ESP"
+  - "EdTech"
   - "Language Learning"
-  - "ESP / EAP"
+  - "Learning"
+  - "Teaching"
 description: "An idea for an app that would generate a list of field-specific language, in order to help ELL's use their textbooks in English-medium courses."
 ---
 

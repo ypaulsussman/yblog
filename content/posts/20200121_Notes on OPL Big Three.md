@@ -6,8 +6,8 @@ draft: false
 slug: "/posts/opl-big-three-notes/"
 category: "What I Do"
 tags:
-  - "Rails"
   - "PostgreSQL"
+  - "Rails"
 description: "Reflections on how the tool-selection unfolded for three big chunks of a Rails toy app: the auth, frontend, and search."
 ---
 

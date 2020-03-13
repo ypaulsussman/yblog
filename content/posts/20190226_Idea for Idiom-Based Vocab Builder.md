@@ -6,10 +6,10 @@ draft: false
 slug: "/posts/idiom-based-vocab-trainer/"
 category: "What I Think"
 tags:
-  - "Ed Tech"
-  - "Teaching"
-  - "Learning"
+  - "EdTech"
   - "Language Learning"
+  - "Learning"
+  - "Vocabulary"
 description: "Idioms often sound stilted: but I suspect their expressiveness helps learners retain the (likely more-useful!) component vocabulary. Here's an idea for an app to leverage that."
 ---
 

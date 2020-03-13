@@ -7,7 +7,6 @@ slug: "/posts/rpg-scene-rubric/"
 category: "What I Think"
 tags:
   - "RPG's"
-  - "Neeeerd Stuff"
 description: "I don't like most RPG modules' format. What do?"
 ---
 

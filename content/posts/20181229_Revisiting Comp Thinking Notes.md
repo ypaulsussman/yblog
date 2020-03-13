@@ -6,9 +6,9 @@ draft: false
 slug: "/posts/comp-thinking-revisitation/"
 category: "What I Read"
 tags:
-  - "Teaching"
-  - "Learning"
   - "Computational Thinking"
+  - "Learning"
+  - "Teaching"
 description: "I read several computational-thinking frameworks and curricula, then reread my notes a year later and wrote these reactions."
 ---
 

@@ -6,12 +6,10 @@ draft: false
 slug: "/posts/abe-literacy-app/"
 category: "What I Think"
 tags:
-  - "Ed Tech"
-  - "Teaching"
-  - "Learning"
+  - "EdTech"
   - "Language Learning"
-  - "Literacy"
-  - "ABE"
+  - "Learning"
+  - "Literacy/ABE"
 description: "I revisited the ideas underpinning a dictionary/word-recognition literacy app I wrote several years ago, and wrung my hands over whether to reimplement it."
 ---
 

@@ -6,11 +6,12 @@ draft: false
 slug: "/posts/daily-ua-study/"
 category: "What I Think"
 tags:
-  - "Teaching"
-  - "Learning"
+  - "Distance Learning"
+  - "EdTech"
   - "Language Learning"
+  - "Learning"
+  - "Teaching"
   - "Ukrainian"
-  - "Ed Tech"
 description: "I study Ukrainian with a video tutor, once a week and desultorily. Were it needed, how could I efficiently intensify the pace of learning?"
 ---
 

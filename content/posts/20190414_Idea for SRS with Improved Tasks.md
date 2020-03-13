@@ -6,10 +6,11 @@ draft: false
 slug: "/posts/srs-task-sequencing/"
 category: "What I Think"
 tags:
-  - "Ed Tech"
-  - "Teaching"
+  - "Distance Learning"
+  - "EdTech"
   - "Learning"
   - "Language Learning"
+  - "Spaced Repetition"
 description: "An idea for how to elicit multiple interaction-patterns with a flashcard, to minimize the risk of content fossilization."
 ---
 

@@ -6,12 +6,11 @@ draft: false
 slug: "/posts/improving-literacy-instruction/"
 category: "What I Read"
 tags:
-  - "ABE"
-  - "Teaching"
-  - "Learning"
+  - "EdTech"
   - "Language Learning"
-  - "Literacy"
-  - "Ed Tech"
+  - "Learning"
+  - "Literacy/ABE"
+  - "Teaching"
 description: "I read 'Improving Adult Literacy Instruction' eighteen months ago; these are my thoughts on rereading my notes from it."
 ---
 
