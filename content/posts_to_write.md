@@ -1,6 +1,82 @@
 ## 1. Read a thing; build a thing
 
-### Currently: React Hooks/Context Toy App (Latticene)
+### Whatever Is The Next Step
+
+#### Set up API-mode Rails
+  - Begin with Ruby chapter in _Json At Work_ (O'Reilly) to provide data.
+  <!-- You are here! -->
+  - Ankify the [official guide](https://guides.rubyonrails.org/api_app.html) on Rails API usage
+  - [Get Up and Running with Rails API](https://chriskottom.com/blog/2017/02/get-up-and-running-with-rails-api/)
+  - Either [APIs on Rails](http://apionrails.icalialabs.com/book/chapter_one) or [its newer, less-formatted version](https://github.com/madeindjs/api_on_rails), though not as cleanly-formatted
+  - Use the [Netflix gem](https://github.com/Netflix/fast_jsonapi) for serialization
+  - Confirm which of below (or third option?) is necessary:
+  ```bash
+  rails new latticene --api --database postgresql
+  # or
+  rails new latticene --api --database postgresql --skip-action-mailbox --skip-action-text --skip-active-storage --skip-action-cable --skip-sprockets --skip-javascript --skip-turbolinks --skip-system-test --skip-webpack-install
+  ```
+
+#### Set up React SPA frontend
+- Research `create-react-app` -- current best-practices? common flags?
+- `react-router` -- start with v6?
+
+- Use this for the graph-view: https://github.com/vasturiano/react-force-graph
+
+- Reference these for learning hooks, context, and suspense:
+  - Maybe start with [this video](https://www.youtube.com/watch?v=Fuz8GTctT5o)?
+  - [This article](https://www.robinwieruch.de/react-state) for creating global state with hooks and context, instead of redux.
+  - If you like the above article, use this [two-part](https://www.robinwieruch.de/react-state-usereducer-usestate-usecontext) [series](https://www.robinwieruch.de/redux-with-react-hooks) to ~replicate Redux (_same author_)
+  - [This article](https://wattenberger.com/blog/react-hooks) for more on using hooks naturally
+  - [And this](https://www.telerik.com/kendo-react-ui/react-hooks-guide/)
+  - [This article](https://www.smashingmagazine.com/2020/0-introduction-react-context-api/) for more on context
+  - [This article](https://css-tricks.com/the-hooks-of-react-router/) for how hooks interact with React Router
+  - Follow the FEM Pure React State Management workshop/notes, as well
+  - https://kentcdodds.com/blog/useeffect-vs-uselayouteffect and https://kentcdodds.com/blog/should-i-usestate-or-usereducer
+  - https://alligator.io/react/keep-react-fast/
+
+- Also include TypeScript? Or is that too much?
+  - Use Credly's Egghead.io subscription for intros?
+  - [Follow the config setup here](https://www.sitepoint.com/react-with-typescript-best-practices/)
+  - [Explore some of the (non-redux?) boilerplate here](https://typeofnan.dev/setup-a-typescript-react-redux-project/)
+- Here's [a good list](https://www.robinwieruch.de/react-libraries) of other convenience libraries to use
+- Use your notes from the FEM course to apply responsive HTML styles
+
+#### Side Quests
+- Intersperse with ankifying these:
+  - Digging Deeper
+    - Testing Rails Applications
+    - Debugging Rails Applications
+    - Securing Rails Applications
+    - Configuring Rails Applications
+    - Caching with Rails: An Overview
+    - Working with JavaScript in Rails
+  - WIPs
+    - Action View Overview
+    - Active Model Basics
+    - Active Record and PostgreSQL
+    - The Rails Initialization Process
+    - Active Support Instrumentation
+- Intersperse with watching these:
+  - DevOps:
+    - [Packaging and Shipping Rails Applications in Docker](https://www.youtube.com/watch?v=lpHgNC5bCbo)
+    - [Real World Docker for the Rubyist](https://www.youtube.com/watch?v=DyBvMrNX1ZY)
+    - [Deep Dive into Docker Containers](https://www.youtube.com/watch?v=2c4fvXKec7Q)
+    - [Containerizing Rails: Techniques, Pitfalls, & Best Practices](https://www.youtube.com/watch?v=kG2vxYn547E)
+    - [Containerizing Local Development... Is It Worth it?](https://www.youtube.com/watch?v=NZ02hy6QOOk)
+  - Security:
+    - [Warden: the building block behind Devise](https://www.youtube.com/watch?v=QBJ3G40fxHg)
+    - [The Evolution of Rails Security](https://www.youtube.com/watch?v=Btrmc1wO3pc)
+    - [Access Denied: the missing guide to authorization in Rails](https://www.youtube.com/watch?v=NVwx0DARDis)
+    - [Encrypted Credentials in Rails 5.2](https://www.youtube.com/watch?v=fS92ZDfLhng)
+    - [Rails Security at Scale](https://www.youtube.com/watch?v=MpsrQKieytY)
+    - [Modern Cryptography for the Absolute Beginner](https://www.youtube.com/watch?v=-cqD_SVXyEo)
+  - DB and Other:
+    - [Database Design for Beginners](https://www.youtube.com/watch?v=1VsSXRPEBo0)
+    - [Optimizing Your App by Understanding PostgreSQL](https://www.youtube.com/watch?v=vfiz1J8mWEs)
+    - [Minitest 6: test feistier!](https://www.youtube.com/watch?v=l-ZNxvFo4lw)
+    - [Unraveling the Cable: How ActionCable works](https://www.youtube.com/watch?v=XeqLONJsHkY)
+    - [NLP for Rubyists](https://www.youtube.com/watch?v=Mmn20irnaS8)
+    - [Zeitwerk: A New Code Loader](https://www.youtube.com/watch?v=ulCBLpCU6aY)
 
 ### Next: (Maybe?) RN App
 
