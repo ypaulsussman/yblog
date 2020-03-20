@@ -4,7 +4,6 @@
 
 #### Set up API-mode Rails
   - Begin with Ruby chapter in _Json At Work_ (O'Reilly) to provide data.
-  <!-- You are here! -->
   - Ankify the [official guide](https://guides.rubyonrails.org/api_app.html) on Rails API usage
   - [Get Up and Running with Rails API](https://chriskottom.com/blog/2017/02/get-up-and-running-with-rails-api/)
   - Either [APIs on Rails](http://apionrails.icalialabs.com/book/chapter_one) or [its newer, less-formatted version](https://github.com/madeindjs/api_on_rails), though not as cleanly-formatted
@@ -33,6 +32,8 @@
   - Follow the FEM Pure React State Management workshop/notes, as well
   - https://kentcdodds.com/blog/useeffect-vs-uselayouteffect and https://kentcdodds.com/blog/should-i-usestate-or-usereducer
   - https://alligator.io/react/keep-react-fast/
+  - https://alligator.io/react/react-router-v6/
+  - https://alligator.io/react/crud-context-hooks/
 
 - Also include TypeScript? Or is that too much?
   - Use Credly's Egghead.io subscription for intros?
@@ -63,6 +64,7 @@
     - [Deep Dive into Docker Containers](https://www.youtube.com/watch?v=2c4fvXKec7Q)
     - [Containerizing Rails: Techniques, Pitfalls, & Best Practices](https://www.youtube.com/watch?v=kG2vxYn547E)
     - [Containerizing Local Development... Is It Worth it?](https://www.youtube.com/watch?v=NZ02hy6QOOk)
+    - (Maybe) [This book](https://www.amazon.com/Deploying-Rails-Docker-Kubernetes-ECS-ebook/dp/B01N0SS6NF/)
   - Security:
     - [Warden: the building block behind Devise](https://www.youtube.com/watch?v=QBJ3G40fxHg)
     - [The Evolution of Rails Security](https://www.youtube.com/watch?v=Btrmc1wO3pc)
