@@ -62,7 +62,7 @@ Throughout my review of these instructions, questions, activities, and lesson pl
 
 I see a few opportunities that digitization could provide, i.e. one interactive application each for the Creative Computing Learner Workbook (_for students_) and Curriculum (_for teachers._)
 
-As an example, transferring each unit's `Reflections` questions to HTML forms would provide students typing practice: a critical skill, and one often taught in a context void. (_As most Scratch student-input is via mouse-manipulation, rather than typing, this doesn't necessarily result in excessive drilling._) 
+As an example, transferring each unit's `Reflections` questions to HTML forms would provide students typing practice: a critical skill, and one often taught in a context void. (_As most Scratch student-input is via mouse-manipulation, rather than typing, this doesn't necessarily result in excessive drilling._)
 
 For teachers, such forms would render a more structured, portable, analyzable repository of the students' reflections. (_Such a repo could, just as easily, help students assess and appreciate their own progress._)
 
@@ -80,7 +80,7 @@ The third opportunity provided by digitization also opens a research question th
 
 Does presenting each instruction individually make task-comprehension and -completion smoother? Is that a welcome removal of distraction? Or a confusing removal of context?
 
-The screen allows two presentational states, then: seeing only the current instruction, and seeing the entire sequence of instructions. How helpful is it for a learner to be able to transition between them, via e.g. keystroke or mouseclick? 
+The screen allows two presentational states, then: seeing only the current instruction, and seeing the entire sequence of instructions. How helpful is it for a learner to be able to transition between them, via e.g. keystroke or mouseclick?
 
 And do these transitions already occur, semi-consciously, via the learner's ocular focus? Can they be measured by eye-tracking, with e.g. heat-maps or gaze-plots?
 

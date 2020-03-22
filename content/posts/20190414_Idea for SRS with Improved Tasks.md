@@ -47,7 +47,7 @@ But it's not limited to freezing bound morphemes: I've begun to worry just as mu
 
 On my bus rides, I attempt to compensate: I may silently use a constituent noun as the subject of a new, unrelated sentence, or practice the different declensions of a constituent verb. But such exercises are woefully insufficient: they only work when I remember to do them, and none of the ad-hoc language generated is stored in any medium. None of it's even checked for correctness!
 
-## What Could We Do About It?
+## What Could We Do About It
 
 Duolingo offers one feature to prevent this wiring-together of unhelpfully-large linguistic chunks: across different encounters, it applies minor linguistic permutations to a sentence. I consider this necessary, but not sufficient.
 

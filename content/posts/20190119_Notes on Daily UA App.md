@@ -38,15 +38,15 @@ Below are my notes, and finally some takeaways.
     - Its controllers inherit from `ApiController` (not `ApplicationController`)
     - It requires the `sprockets` gem, which by default is absent in API mode (_and relevant the following day._)
 
-1. **Wednesday, 05/02:** Discover two articles describing how to deploy [React-as-SPA on S3](https://www.fullstackreact.com/articles/deploying-a-react-app-to-s3/), communicating with [server-framework-API on Heroku](https://www.fullstackreact.com/articles/deploying-a-react-app-with-a-server/). 
+1. **Wednesday, 05/02:** Discover two articles describing how to deploy [React-as-SPA on S3](https://www.fullstackreact.com/articles/deploying-a-react-app-to-s3/), communicating with [server-framework-API on Heroku](https://www.fullstackreact.com/articles/deploying-a-react-app-with-a-server/).
     - This parallels one workplace app you're working on, wherein:
         - On the client,
             - `package.json` includes the `config.api.host.#{my_env_name}` keys;
             - Each value is set as the `REACT_APP_API_HOST` environmental variable in the `build:#{my_env_name}` scripts;
             - `index.js` uses that variable to set `axios.defaults.baseURL`, which is used everywhere else for HTTP requests.
         - On the server,  
-            - `root to: 'homepage#index’`, which 
-            - is picked up in `homepage_controller.rb`, so 
+            - `root to: 'homepage#index’`, which
+            - is picked up in `homepage_controller.rb`, so
             - anyone hitting the API base URL will just get 4 lines of JSON detailing the app.
     - Decision: discard `ActiveAdmin` and preexisting app; follow decoupled model described above.
 
@@ -61,16 +61,18 @@ Below are my notes, and finally some takeaways.
     - `$ eb init`; `$ eb create daily-ua-api-env`
         - `<ERROR: The instance profile aws-elasticbeanstalk-ec2-role associated with the environment does not exist.>`
         - Neither of [these](https://forums.aws.amazon.com/thread.jspa?messageID=637705) [solutions](https://forums.aws.amazon.com/thread.jspa?messageID=789985) resolves the issue
-    - Attempt same process through EB browser interface; receive: 
-      ```
-      ERROR	[Instance: ...] Command failed on instance. 
-      Return code: 18 
-      Output: (TRUNCATED)...g: the running version of Bundler (1.16.0) is older than the version that created the lockfile (1.16.1). 
-      We suggest you upgrade to the latest version of Bundler by running `gem install bundler`. 
-      Your Ruby version is 2.5.0, but your Gemfile specified 2.5.1. 
-      Hook /opt/elasticbeanstalk/hooks/appdeploy/pre/10_bundle_install.sh failed. 
+    - Attempt same process through EB browser interface; receive:
+
+      ```bash
+      ERROR [Instance: ...] Command failed on instance.
+      Return code: 18
+      Output: (TRUNCATED)...g: the running version of Bundler (1.16.0) is older than the version that created the lockfile (1.16.1).
+      We suggest you upgrade to the latest version of Bundler by running `gem install bundler`.
+      Your Ruby version is 2.5.0, but your Gemfile specified 2.5.1.
+      Hook /opt/elasticbeanstalk/hooks/appdeploy/pre/10_bundle_install.sh failed.
       For more detail, check /var/log/eb-activity.log using console or EB CLI.
       ```
+
     - Mess with `Gemfile` for a few more deploy-attempts, unsuccessfully
     - Takeaway: deploying to EB is an opaque, frustrating experience. Use Heroku instead.
 
@@ -85,10 +87,11 @@ Below are my notes, and finally some takeaways.
     - `Bucket Name && Region` > `Create`
     - `Static Website Hosting` > `Enable Website Hosting` > Choose `index.html` as index document
     - `Permissions` > `Add Bucket Policy` > Apply following incantation:
-      ```
+
+      ```json
       {
         <!-- Careful not to change date; it’s fixed (??) -->
-        "Version": "2012-10-17",     
+        "Version": "2012-10-17",
         "Statement":[
           {
             "Sid":"AddPerm",
@@ -96,11 +99,12 @@ Below are my notes, and finally some takeaways.
             "Principal": "*",
             "Action":["s3:GetObject"],
             <!-- Careful to use actual name below -->
-            "Resource":["arn:aws:s3:::<BUCKET-NAME>/*"]     
+            "Resource":["arn:aws:s3:::<BUCKET-NAME>/*"]
           }
         ]
       }
-      ``` 
+      ```
+
     - `$ npm run build`
     - `AWS Console` > `S3` > `Bucket` > `Upload`
     - Upload `build/`'s *contents*, not `build` directory
@@ -118,18 +122,20 @@ Below are my notes, and finally some takeaways.
     - Update the `Headline` model’s `self.scrape` method to first hit the GCP Translate API, then save the results to the first English field
 
 1. **Friday, 05/11:** Follow [GCP's instructions](https://cloud.google.com/ruby/rails/using-cloudsql-postgres) to connect Rails to Postgres.
-    - Run into problems with `cloud app create`, b/c account isn’t configured properly. 
+    - Run into problems with `cloud app create`, b/c account isn’t configured properly.
     - Run `gcloud auth list`; switch from `${hash_vom}-compute@developer.gserviceaccount.com` to `${my_email}@gmail.com`.
-    - Establish access to project: 
-    ```
+    - Establish access to project:
+
+    ```bash
     gcloud projects add-iam-policy-binding ${project_name} \
       --member=serviceAccount:${decimal_string}@cloudbuild.gserviceaccount.com \
       --role=roles/editor
     ```
+
     - Add environmental variables:
         - `.gitignore` your (`config/database.yml`, `app.yaml`, `service-account-file.json`) files
-        - Add the `GOOGLE_APPLICATION_CREDENTIALS` and `GCP_PROJECT_ID` variables from the local `.bash_profile` to the `app.yaml` file, 
-        - Change the `headlines_controller#index` so that it calls `Headline.scrape` before displaying everything, and 
+        - Add the `GOOGLE_APPLICATION_CREDENTIALS` and `GCP_PROJECT_ID` variables from the local `.bash_profile` to the `app.yaml` file,
+        - Change the `headlines_controller#index` so that it calls `Headline.scrape` before displaying everything, and
         - redeploy.
 
     - Reset DB via the following (_which won’t work when all three are chained_)
@@ -149,10 +155,10 @@ Below are my notes, and finally some takeaways.
     - `$ gcloud app deploy cron.yaml`
         - Add `puts request.headers` inside the scrape method to check that the cronjob sends `X-Appengine-Cron: true`
         - [Use this documentation](https://console.cloud.google.com/logs/viewer) to see your actual logs, with the Ruby app log included.
-    -  Add initial cron-job header validation in the controller; redeploy.
-      -  Run `cron` from console (does it work? check logs in GCP console); 
-      -  Hit `scrape` from base url (does it *not* work? check logs in GCP console)
-      -  Success: only scraping on calls with the `“X-Appengine-Cron”` request header!
+    - Add initial cron-job header validation in the controller; redeploy.
+      - Run `cron` from console (does it work? check logs in GCP console);
+      - Hit `scrape` from base url (does it *not* work? check logs in GCP console)
+      - Success: only scraping on calls with the `“X-Appengine-Cron”` request header!
 
 1. **Monday, 05/21:** Realize (_via the billing console_) that your current setup will cost ~$50/month: start weighing [`app.yaml` tweaks.](https://cloud.google.com/appengine/docs/flexible/ruby/configuring-your-app-with-app-yaml)
 
@@ -171,7 +177,7 @@ Below are my notes, and finally some takeaways.
     - Maybe have `‘/‘` show all the dates, then have `‘/headlines?date=2018-05-23’` show all the headlines?
     - Following _React Quickly_ Chapter 13.1, create a URL-path `MiniRouter` for the client code
     - Restructure component hierarchy such that `MiniRouter` can pass props (_i.e. a date for filtering headlines_) into page components
-    - Update API `/` to only return unique dates: 
+    - Update API `/` to only return unique dates:
         - `@dates = Headline.distinct.pluck(Arel.sql('DATE(created_at)'))`
         - `Arel.sql` b/c you don’t want to pass raw SQL as an argument
         - `pluck` for speed
@@ -185,11 +191,11 @@ Below are my notes, and finally some takeaways.
     - Even with suggested updates from the `app.yaml` configurations above, spending will still be ~$150/month.
     - It’s possibly related to [this (_node server, but same issue_) SO discussion](https://stackoverflow.com/questions/47125661/pricing-of-google-app-engine-flexible-env-a-500-lesson): either way, it's time to say goodbye to GCP.
         - Mess around with [Cloud SQL's export documentation](https://cloud.google.com/sql/docs/postgres/import-export/exporting) with little success; eventually use: `daily_ua_db=> \copy (SELECT * from "headlines") TO '~/Downloads/export.csv' CSV HEADER` to just dump a CSV. Hey, it works.
-        - [Follow the documentation](https://cloud.google.com/resource-manager/docs/creating-managing-projects#shutting_down_deleting_projects) to shut down the App Engine instance. 
+        - [Follow the documentation](https://cloud.google.com/resource-manager/docs/creating-managing-projects#shutting_down_deleting_projects) to shut down the App Engine instance.
         - Note: both [instance-](https://cloud.google.com/sql/docs/postgres/delete-instance) and [bucket-](https://cloud.google.com/storage/docs/deleting-buckets)deletion are covered by the process above.
     - `http://www.dailyua.net/` is now hitting the standard ‘_project not found_’ XML.
     - Delete the `google-cloud-sdk` file.
-    - Remove the various gCloud `PATH` etc variables from `.bash_profile`. 
+    - Remove the various gCloud `PATH` etc variables from `.bash_profile`.
     - Feel kind of sad, and empty.
 
 ## Next Steps
@@ -202,7 +208,7 @@ I typically prefer to learn-by-doing when exploring new scripts or applications.
 
 For your next app, RTFM first. Get a book, or take an AWS training. _Ad hoc_ article-lookup and docs-consultation didn't suffice: learn at least the basic vocabulary of web-infrastructure, prior to setting out.
 
-Second: regardless of the DevOps-disappointment, one part of the project richly rewarded your effort. The notes above were a great tool for both concurrent learning and later reference. Repeat that practice in future projects, with the following adaptations: 
+Second: regardless of the DevOps-disappointment, one part of the project richly rewarded your effort. The notes above were a great tool for both concurrent learning and later reference. Repeat that practice in future projects, with the following adaptations:
 
 - They were originally written in plaintext; next time, start with markdown.
 - Categorization by date was useful; keep it.

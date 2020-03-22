@@ -13,7 +13,7 @@ description: "Notes from a book I skimmed while biking indoors during the winter
 
 ## Beautiful Mixins (Angus Croll)
 
-Many developers schooled in Java, C++, Objective-C, and Smalltalk arrive at JavaScript with an almost religious belief in the necessity of the class hierarchy as an organizational tool. Yet humans are not good at classification. 
+Many developers schooled in Java, C++, Objective-C, and Smalltalk arrive at JavaScript with an almost religious belief in the necessity of the class hierarchy as an organizational tool. Yet humans are not good at classification.
 
 Working backward from an abstract superclass toward real types and behaviors is unnatural and restrictive — a superclass must be created before it can be extended, yet classes closer to the root are by nature more generic and abstract and are more easily defined after we have more knowledge of their concrete subclasses.
 
@@ -31,7 +31,7 @@ JavaScript tied the prototype property to the constructor. As a consequence, mor
 
 ---
 
-In contrast to objects in more rigidly structured languages, JavaScript objects can invoke any function property regardless of lineage. 
+In contrast to objects in more rigidly structured languages, JavaScript objects can invoke any function property regardless of lineage.
 
 ...any public function can be invoked directly via call or apply. ...such delegation is so convenient that, paradoxically, it sometimes actually works against structural discipline in your code...
 
@@ -40,8 +40,6 @@ Mixins are a good compromise... mixin classes are considered abstract in that th
 [But] this is JavaScript, and we have no classes per se. ...our mixin can be a regular object, a prototype, a function, whatever,
 
 ---
-
-
 
 How does a mixin object get mixed into your object? By means of an `extend` function:
 
@@ -58,7 +56,8 @@ function extend(destination, source) {
 
 (Usually `extend` simply copies (not clones) the mixin’s functions into the receiving object.)
 
-An example: 
+An example:
+
 ```javascript
 var circleFns = {
  area: function() {
@@ -79,6 +78,7 @@ var RoundButton = function(radius, label) {
 
 extend(RoundButton.prototype, circleFns);
 ```
+
 ---
 
 Isn’t it more intuitive to think of mixins as processes instead of objects? Here are the circle and button mixins rewritten as functions.
@@ -99,7 +99,7 @@ var withCircle = function() {
 };
 ```
 
-Apply the mixins to `RoundButton.prototype`: 
+Apply the mixins to `RoundButton.prototype`:
 
 ```javascript
 var RoundButton = function(radius, label, action) {
@@ -117,11 +117,11 @@ withCircle.call(RoundButton.prototype);
 
 ---
 
-You might be concerned that this approach creates additional performance overhead because we’re redefining the same functions on every call. 
+You might be concerned that this approach creates additional performance overhead because we’re redefining the same functions on every call.
 
 By forming a closure around the mixins we can cache the results of the initial definition run, and the performance improvement is impressive. Functional mixins now easily outperform classic mixins.
 
-Here’s a version of the `withRectangle` mixin with added caching: 
+Here’s a version of the `withRectangle` mixin with added caching:
 
 ```javascript
 var withRectangle = (function() {
@@ -158,7 +158,7 @@ var button3 = new RectangularButton(4, 2, "delete", function() {
 
 ---
 
-By repeatedly defining an object solely in terms of another, classical inheritance establishes a series of tight couplings that glue the hierarchy together in an orgy of mutual dependency. 
+By repeatedly defining an object solely in terms of another, classical inheritance establishes a series of tight couplings that glue the hierarchy together in an orgy of mutual dependency.
 
 Mixins, in contrast, are extremely agile and make very few organizational demands on your codebase — mixins can be created at will, whenever a cluster of common, shareable behavior is identified, and all objects can access a mixin’s functionality regardless of their role within the overall model.
 
@@ -168,7 +168,7 @@ Mixins, in contrast, are extremely agile and make very few organizational demand
 
 Its semantics are confusing and error-prone, and its impact on performance is not always obvious.
 
-...the question [is] of which variables it can see... there’s rarely a reason to want to access local scope. 
+...the question [is] of which variables it can see... there’s rarely a reason to want to access local scope.
 
 ...evaluating in the local scope is not a good idea [because] it makes life quite a bit harder for the compiler. Knowing exactly what the code it’s compiling looks like enables a compiler to make a lot of decisions at compile time (rather than runtime), which makes the code it produces faster.
 
@@ -200,11 +200,12 @@ Most JavaScript-based text templating systems use some form of `eval` to precomp
 
 ## Math Expression Parser and Evaluator (Ariya Hidayat)
 
-Domain-specific languages (DSLs) are encountered in many aspects of a software engineer’s life: 
-* configuration file formats, 
-* data transfer protocols, 
-* model schemas, 
-* application extensions, 
+Domain-specific languages (DSLs) are encountered in many aspects of a software engineer’s life:
+
+* configuration file formats,
+* data transfer protocols,
+* model schemas,
+* application extensions,
 * interface definition languages, and many others.
 
 ---
@@ -219,7 +220,7 @@ Once a syntax tree is obtained, evaluating the expression associated with it is 
 
 ---
 
-...consider the concept of evaluation context. For this purpose, we define the _context_ as an object that holds the variables, constants, and function definitions. When we evaluate an expression, we also need to pass a context so that the evaluator knows where to fetch the value of a variable, store a value to a variable, and invoke a certain function. 
+...consider the concept of evaluation context. For this purpose, we define the _context_ as an object that holds the variables, constants, and function definitions. When we evaluate an expression, we also need to pass a context so that the evaluator knows where to fetch the value of a variable, store a value to a variable, and invoke a certain function.
 
 Keeping the context as a different object promotes the separation of logic: the interpreter knows nothing about the context, and the context does not really care how the interpreter works.
 
@@ -228,14 +229,16 @@ Keeping the context as a different object promotes the separation of logic: the 
 ---
 
 ## `Error` Handling (Nicholas Zakas)
+
 Programming languages define a base set of rules that, when deviated from, result in errors so that you can fix the code. Debugging would be nearly impossible if errors weren’t thrown and reported back to you.
 
 [I] think of throwing errors as leaving Post-it notes for myself as to why something has failed.
 
-[It] helps to think of errors as built-in failure cases. It’s always easier to plan for a failure at a particular point in code than it is to anticipate failure everywhere. 
-* This is a very common practice in product design, not just in code. 
-* Cars are built with crumple zones, areas of the frame that are designed to collapse in a predictable way when impacted. 
-* Knowing how the frame will react in a crash — which parts will fail — allows the manufacturers ensure passenger safety. 
+[It] helps to think of errors as built-in failure cases. It’s always easier to plan for a failure at a particular point in code than it is to anticipate failure everywhere.
+
+* This is a very common practice in product design, not just in code.
+* Cars are built with crumple zones, areas of the frame that are designed to collapse in a predictable way when impacted.
+* Knowing how the frame will react in a crash — which parts will fail — allows the manufacturers ensure passenger safety.
 
 Your code can be constructed in the same way.
 
@@ -247,12 +250,13 @@ Any type of object can be thrown, but an `Error` object is the most typical to u
 
 it’s treated the same way as an error that you didn’t throw. The difference is that you get to provide the exact text to be displayed by the browser.
 
-...always include the function name in the error message, as well as the reason why the function failed, e.g. : 
+...always include the function name in the error message, as well as the reason why the function failed, e.g. :
 throw new `Error`("addClass(): First argument must be a DOM element.");
 
 JavaScript engines add a stack property to any `Error` object that is thrown. The stack property is a string containing a formatted stack trace leading up to the error being thrown.
 
 ECMA-262 specifies seven error object types. These are used by the JavaScript engine when various error conditions occur:
+
 1. `Error` Base type for all errors. Never actually thrown by the engine.
 2. `EvalError` Thrown when an error occurs during execution of code via `eval()`.
 3. `RangeError` Thrown when a number is outside the bounds of its range — for example, trying to create an array with –20 items `(new Array(-20))`. These occur rarely during normal execution.
@@ -275,7 +279,8 @@ function MyError(message) {
 MyError.prototype = Object.create(`Error`.prototype);
 ```
 
-There are two important parts of this code: 
+There are two important parts of this code:
+
 1. the message property, which is necessary for browsers to know the actual error string, and
 2. setting the prototype to an instance of `Error`, which identifies the object as an error to the JavaScript engine.
 
@@ -285,23 +290,25 @@ There are two important parts of this code:
 
 When an error occurs inside of the `try` clause, execution stops and is resumed inside of the `catch` clause. The thrown error is passed into [it]...
 
-It’s also possible to omit the `catch` clause completely and just use a `finally` clause... 
-* In this case, an error will cause execution to stop inside of the `try` clause and go immediately into the `finally` clause. 
-* If an error doesn’t occur, then all of the statements inside of the `try` clause are executed, and then the statements in the `finally` clause are executed. 
+It’s also possible to omit the `catch` clause completely and just use a `finally` clause...
+
+* In this case, an error will cause execution to stop inside of the `try` clause and go immediately into the `finally` clause.
+* If an error doesn’t occur, then all of the statements inside of the `try` clause are executed, and then the statements in the `finally` clause are executed.
 In either case, you are saying that there is no special functionality when an error occurs.
 
 ...there is a performance hit for wrapping code in a `try`-`catch`-`finally` even when an error doesn’t occur. ...for code that is run a nominal number of times, the difference in execution time will not be apparent.
 
 ---
 
-...top-level event handler called `window.onerror`. 
-* This event handler receives four arguments: 
-   * the error message, 
-   * the URL that raised the error, 
-   * a line number, and 
-   * a column number.
-* HTML5 specification was changed to specify a fifth argument to `window.onerror`, which is 
-   * the actual error object.
+...top-level event handler called `window.onerror`.
+
+* This event handler receives four arguments:
+  * the error message,
+  * the URL that raised the error,
+  * a line number, and
+  * a column number.
+* HTML5 specification was changed to specify a fifth argument to `window.onerror`, which is
+  * the actual error object.
 
 Node.js has a similar mechanism for catching errors globally. The `process` object fires an event called `uncaughtException`...
 
@@ -312,10 +319,10 @@ Node.js has a similar mechanism for catching errors globally. The `process` obje
 ...the most gorgeous and powerful mechanisms in sweet JavaScript: the ability to call any function you find lying about, in the context of any object you choose.
 
 1. Both of the following these approaches are imperative, which means they rely on commands that act upon the machine state. An imperative program executes a sequence of commands that change the program’s internal state over and over again.
-   1. Languages like Go and C are called procedural: their main programming unit is the procedure. 
-   2. Languages like Java and SmallTalk are object oriented: their main programming unit is the object. 
-1. Functional programming languages, on the other hand, are oriented around expressions. 
-   1. Expressions — or rather, pure expressions — don’t have a state, as they merely compute a value. 
+   1. Languages like Go and C are called procedural: their main programming unit is the procedure.
+   2. Languages like Java and SmallTalk are object oriented: their main programming unit is the object.
+1. Functional programming languages, on the other hand, are oriented around expressions.
+   1. Expressions — or rather, pure expressions — don’t have a state, as they merely compute a value.
    2. They don’t change the state of something outside their scope, and they don’t rely on data that can change outside their scope.
 
 ...build your programs around composable functions that work with simple data types, is called data-driven programming.
