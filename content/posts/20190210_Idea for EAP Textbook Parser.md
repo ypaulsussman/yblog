@@ -8,7 +8,7 @@ category: "What I Think"
 tags:
   - "EAP/ESP"
   - "EdTech"
-  - "Languagef Learning"
+  - "Language Learning"
   - "Learning"
   - "Teaching"
 description: "An idea for an app that would generate a list of field-specific language, in order to help ELL's use their textbooks in English-medium courses."

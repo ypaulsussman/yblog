@@ -8,7 +8,6 @@ category: "What I Read"
 tags:
   - "Language Learning"
   - "Learning"
-  - "Neuroscience"
 description: "These are my thoughts on rereading the notes I'd taken while reading The NYT Book of Language and Linguistics."
 ---
 
