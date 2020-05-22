@@ -1,6 +1,6 @@
 # Stuff To Do
 
-## When You're Ready
+## SIDEQUESTS: Whenever You Like
 
 ### Ankify these
 
@@ -17,13 +17,6 @@
 
 ### Watch these
 
-- Dockerization:
-  - [√ Packaging and Shipping Rails Applications in Docker](https://www.youtube.com/watch?v=lpHgNC5bCbo)
-  - [√ Real World Docker for the Rubyist](https://www.youtube.com/watch?v=DyBvMrNX1ZY)
-  - [Deep Dive into Docker Containers](https://www.youtube.com/watch?v=2c4fvXKec7Q)
-  - [Containerizing Rails: Techniques, Pitfalls, & Best Practices](https://www.youtube.com/watch?v=kG2vxYn547E)
-  - [Containerizing Local Development... Is It Worth it?](https://www.youtube.com/watch?v=NZ02hy6QOOk)
-  - (Maybe) [This book](https://www.amazon.com/Deploying-Rails-Docker-Kubernetes-ECS-ebook/dp/B01N0SS6NF/)
 - Security:
   - [Warden: the building block behind Devise](https://www.youtube.com/watch?v=QBJ3G40fxHg)
   - [The Evolution of Rails Security](https://www.youtube.com/watch?v=Btrmc1wO3pc)
@@ -41,120 +34,20 @@
 
 ### Read these
 
-- [First read this list; maybe reach out to the author to check his opinions haven't changed](https://www.leighhalliday.com/best-ruby-and-ruby-on-rails-resources)
-- [The Rails 5 Way](https://www.oreilly.com/library/view/the-rails-5/9780-465769-)
-- [The Ruby Way](https://www.oreilly.com/library/view/the-ruby-way/9780-2480352/)
-- [Effective Ruby](https://www.oreilly.com/library/view/effective-ruby-48/9780-3847086/)
-- [Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist-third-edition)
-- [Rails 5 Test Prescriptions](https://pragprog.com/book/nrtest3/rails-5-test-prescriptions)
-- [Ruby Performance Optimization](https://pragprog.com/book/adrpo/ruby-performance-optimization)
-- [Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)
-
-## Revisitations
-
-### Non-technical
-
-- Crash Course Computer Science [ ] `**<===Current===**`
-- Crash Course Study Skills [ ]
-- How We Learn [ ]
-- How Language Began [ ]
-- Through the Language Glass [ ]
-- Words and Rules [ ]
-
-### FEM
-
-- Full-Stack for Frontends 01[ ]
-- Full-Stack for Frontends 02 [ ]
-
-- (_non-FEM_) Beautiful JavaScript [ ]
-- (_non-FEM_) Learning Javascript [ ]
-- JavaScript: The Hard (and New Hard) Parts [ ]
-- Deep JavaScript Fundamentals [ ]
-- JavaScript: The Recent Parts [ ]
-- Digging into Node [ ]
-- Service Workers [ ]
-
-- Pure React State Management [ ]
-- Introduction to Gatsby [ ]
-
-- Design for Developers [ ]
-- Advanced CSS Layouts [ ]
-- HTML Emails [ ]
-
-### Other
-
-- Business and Management Book Summaries [ ]
-- Prototype to Product [ ]
-- Hello, Startup [ ]
-- Ed Meetup and Event Notes [ ]
-- Tech Meetup and Event Notes [ ]
-- (_First take notes on_) ["The Missing CS Course"](https://missing.csail.mit.edu/)
-
-## Project: DigitalOceanify OPL
-
-- Add packages and application
-  - <https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04>
-  - <https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04#installing-using-nvm>
-  - <https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-18-04>
-  - <https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-ruby-on-rails-application-on-ubuntu-18-04>
-- Ensure email still works
-  - <https://www.digitalocean.com/community/questions/does-sendgrid-work-from-digital-ocean-droplet-ubuntu-14-04-x64>
-  - <https://stackoverflow.com/questions/35587600/rails-app-sending-contact-email-with-sendgrid-using-ubuntu-on-digitalocean>
-  - <https://www.daveperrett.com/articles/2013/03/19/setting-up-sendmail-with-sendgrid-on-ubuntu/>
-- Set up custom domain
-  - <https://www.digitalocean.com/docs/networking/dns/how-to/add-domains/>
-- Bonus: explore Docker alternative
-  - <https://www.digitalocean.com/community/tutorials/containerizing-a-ruby-on-rails-application-for-development-with-docker-compose>
-
-## Project: Articles for Digital Ocean
-
-- <https://www.digitalocean.com/community/pages/write-for-digitalocean>
-- Write articles about connecting to e.g. ES or Sendgrid, or about PostgreSQL scalability
-
-## Project: ??? (Rails API; React && React Native Frontends)
-
-### Set up API-mode Rails
-
-- Begin with Ruby chapter in _Json At Work_ (O'Reilly) to provide data.
-- Ankify the [official guide](https://guides.rubyonrails.org/api_app.html) on Rails API usage
-- [Get Up and Running with Rails API](https://chriskottom.com/blog/2017/02/get-up-and-running-with-rails-api/)
-- Either [APIs on Rails](http://apionrails.icalialabs.com/book/chapter_one) or [its newer, less-formatted version](https://github.com/madeindjs/api_on_rails), though not as cleanly-formatted
-- Use the [Netflix gem](https://github.com/Netflix/fast_jsonapi) for serialization
-- Confirm which of below (or third option?) is necessary:
-
-  ```bash
-  rails new latticene --api --database postgresql
-  # or
-  rails new latticene --api --database postgresql --skip-action-mailbox --skip-action-text --skip-active-storage --skip-action-cable --skip-sprockets --skip-javascript --skip-turbolinks --skip-system-test --skip-webpack-install
-  ```
-
-### Set up React SPA Frontend
-
-- Research `create-react-app` -- current best-practices? common flags?
-- `react-router` -- start with v6?
-
-- Use this for the graph-view: <https://github.com/vasturiano/react-force-graph>
-
-- Reference these for learning hooks, context, and suspense:
-  - Maybe start with [this video](https://www.youtube.com/watch?v=Fuz8GTctT5o)?
-  - [This article](https://www.robinwieruch.de/react-state) for creating global state with hooks and context, instead of redux.
-  - If you like the above article, use this [two-part](https://www.robinwieruch.de/react-state-usereducer-usestate-usecontext) [series](https://www.robinwieruch.de/redux-with-react-hooks) to ~replicate Redux (_same author_)
-  - [This article](https://wattenberger.com/blog/react-hooks) for more on using hooks naturally
-  - [And this](https://www.telerik.com/kendo-react-ui/react-hooks-guide/)
-  - [This article](https://www.smashingmagazine.com/2020/0-introduction-react-context-api/) for more on context
-  - [This article](https://css-tricks.com/the-hooks-of-react-router/) for how hooks interact with React Router
-  - Follow the FEM Pure React State Management workshop/notes, as well
-  - <https://kentcdodds.com/blog/useeffect-vs-uselayouteffect> and <https://kentcdodds.com/blog/should-i-usestate-or-usereducer>
-  - <https://alligator.io/react/keep-react-fast/>
-  - <https://alligator.io/react/react-router-v6/>
-  - <https://alligator.io/react/crud-context-hooks/>
-
-- Also include TypeScript? Or is that too much?
-  - Use Credly's Egghead.io subscription for intros?
-  - [Follow the config setup here](https://www.sitepoint.com/react-with-typescript-best-practices/)
-  - [Explore some of the (non-redux?) boilerplate here](https://typeofnan.dev/setup-a-typescript-react-redux-project/)
-- Here's [a good list](https://www.robinwieruch.de/react-libraries) of other convenience libraries to use
-- Use your notes from the FEM course to apply responsive HTML styles
+- Rails
+  - [The Rails 5 Way](https://www.oreilly.com/library/view/the-rails-5/9780-465769-)
+  - [Rails 5 Test Prescriptions](https://pragprog.com/book/nrtest3/rails-5-test-prescriptions)
+  - [AWS: The Good Parts](https://gumroad.com/l/aws-good-parts)
+- Ruby
+  - [Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist-third-edition)
+  - [Confident Ruby](http://www.confidentruby.com/)
+  - [Practical Object Oriented Design in Ruby](https://www.informit.com/store/practical-object-oriented-design-an-agile-primer-using-9780134456478)
+- Possibly
+  - ["The Missing CS Course"](https://missing.csail.mit.edu/)
+  - [Ruby Performance Optimization](https://pragprog.com/book/adrpo/ruby-performance-optimization)
+  - [Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)
+  - [The Ruby Way](https://www.oreilly.com/library/view/the-ruby-way/9780-2480352/)
+  - [Effective Ruby](https://www.oreilly.com/library/view/effective-ruby-48/9780-3847086/)
 
 ### React Native Frontend
 
@@ -167,13 +60,15 @@
     - <https://en.wikipedia.org/wiki/List_of_memory_biases>
     - <https://en.wikipedia.org/wiki/List_of_fallacies>
   - Alternatively, serve as a [decision journal](https://fs.blog/20-/02/decision-journal/)
-
+  - Alternatively, scrape CooperPress emails (text, link, description, and author) and use them for an ElasticSearch-powered app
+   
 ## Project: O'Reilly Cookbook Reprocessing
 
 - Explore how to turn (_the process of reading a_ '`* Cookbook`' _O'Reilly text, after having engaged in a basic primer in the technology_) into more of an interactive, problem-solving activity
   - Possibly, for each, build a <https://lab.github.com/> course?
   - Possibly using principle of "progressive disclosure" of hints, as requested by user (e.g. first click on card gives you desc of line of code in EN, next lists obj, next lists method, next lists argument?)
   - Explore these:
+    - Docker Cookbook (O'Reilly)
     - Bash Cookbook (O'Reilly)
     - SQL Cookbook (O'Reilly)
     - Regex Cookbook (O'Reilly)
@@ -189,39 +84,17 @@
 - The [Open Ed Consortium](https://www.oeconsortium.org/about-oec/&sa=D&ust=-430962-9-000) (global nonprofit) and [MERLOT](http://info.merlot.org/merlothelp/topic.htm%23t%3DWho_We_Are.htm&sa=D&ust=-430962-9-000) (originally CSU, but now partnered with OEC?) also provide search tools (do they host/support any objects of their own, though?)
 - [Open Washington](http://www.openwa.org/&sa=D&ust=-430962-9-000) has an short, introductory course on OER use and licenses.
 - [Creative Commons](https://creativecommons.org/about/program-areas/education-oer/education-oer-resources/&sa=D&ust=-430962-9-000) has a list of search tools.
-
-## Project: Compare E-Learning Rubrics
-
-- comparing and searching for different rubrics by which to measure an e-learning product:
-- concluding with that you can’t actually write about the product, because they are clients of the company that employs you
-- Rate the learning experience of the badge course you’re currently taking
-  - Suitably anonymize it, first, per blogpost above
-  - Better done when you can compare two programs (perhaps the Linux/Docker course?)
-  - Which taxonomy to use?
-    - “E-learning in the science of instruction”?
-    - “Really Useful E-Learning Manual“ from O'Reilly (perhaps there’s an EPub version?)
-
-## Project: DMWare
-
-- Scenario Builder
-  - See OG blogpost
-- Party Party Builder
-  - D&D character(s) generator
-  - Stream the randomly-generated characters w/ e.g. `ActionController::Live`
-  - Include `ActionCable` so everyone can chat about the characters being generated
-- ThousandWord
-  - Repository for collected PF0-images
-  - Use as practice w/ ElasticSearch?
   
-### Project: Zō
+## Project: Zō
 
 - The grammarly for SRS cardbuilding
 - Declarative/content knowledge: SRS
 - Explicit procedural knowledge: checklist
 - Implicit procedural knowledge: practice
 - As concurrent proof-of-concept: use it to Ankify grad school notes
+- For coding projects: add a git commit-hook to send [the diff, and-or the commit message?] to a text-dump that the user will later be notified to reference for content to be mined/added to the SRS.
 
-## Project: MeatLess
+## Project: mEATless
 
 - Track [for "get to 0" / for saving up, via $ or C02 offset, to splurge on a _noice_ meaty meal e.g. -/wk]
 - Track [for low-carb / for low-cost / for low-C02s]
@@ -274,3 +147,99 @@
 <!-- ### YPHRIT
 - "_Y's Post-Hartl Rails-Investigation Tutorial_"
 - For any one of the above ideas, build it alongside a book about _how_ to build it. -->
+
+<!-- - √ Dockerization
+  - [√ Packaging and Shipping Rails Applications in Docker](https://www.youtube.com/watch?v=lpHgNC5bCbo)
+  - [√ Real World Docker for the Rubyist](https://www.youtube.com/watch?v=DyBvMrNX1ZY)
+  - [√ Deep Dive into Docker Containers](https://www.youtube.com/watch?v=2c4fvXKec7Q)
+  - [√ Containerizing Rails: Techniques, Pitfalls, & Best Practices](https://www.youtube.com/watch?v=kG2vxYn547E)
+  - [√ Containerizing Local Development... Is It Worth it?](https://www.youtube.com/watch?v=NZ02hy6QOOk)
+  - Relevant articles:
+    - [√ Codeship RoR demo](https://rollout.io/blog/using-docker-compose-for-ruby-development/)
+    - [√ DO RoR demo](https://www.digitalocean.com/community/tutorials/containerizing-a-ruby-on-rails-application-for-development-with-docker-compose)
+    - [√ Evil Martians' RoR setup](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)
+    - [√ docker-compose with delayed_job demo](https://medium.com/swlh/add-background-jobs-and-cron-to-your-dockerized-ruby-on-rails-app-c7348915021d) -->
+    - Discovered later, but still probably useful: https://hint.io/blog/rails-development-with-docker
+<!-- ## Project: Compare E-Learning Rubrics
+
+- comparing and searching for different rubrics by which to measure an e-learning product:
+- concluding with that you can’t actually write about the product, because they are clients of the company that employs you
+- Rate the learning experience of the badge course you’re currently taking
+  - Suitably anonymize it, first, per blogpost above
+  - Better done when you can compare two programs (perhaps the Linux/Docker course?)
+  - Which taxonomy to use?
+    - “E-learning in the science of instruction”?
+    - “Really Useful E-Learning Manual“ from O'Reilly (perhaps there’s an EPub version?) -->
+
+<!-- - Yarray: new `enumerable`-based methods && gem-building practice
+  - Use
+    - https://bundler.io/v1.16/guides/creating_gem.html
+    - https://guides.rubygems.org/
+    - https://piotrmurach.com/articles/writing-a-ruby-gem-specification/
+    - https://github.com/flajann2/juwelier
+  - Preexisting
+    - find => detect
+    - filter => select
+    - N/A => reject
+    - map => collect
+    - reduce => inject
+  - Yours to implement
+    - ? => affect
+    - ? => bisect
+    - ? => connect
+    - ? => correct
+    - ? => defect
+    - ? => deflect
+    - ? => eject
+    - ? => elect
+    - ? => infect
+    - ? => neglect
+    - ? => perfect (apply changes, then freeze)
+    - ? => project
+    - ? => prospect (try/catch; return first item that gens the error)
+    - ? => protect
+    - ? => suspect
+    - ? => subject
+    - ? => trisect -->
+
+<!-- ## Project: MiaExplorer
+### Set up Elasticsearch
+- [Elasticsearch: The Definitive Guide](http://shop.oreilly.com/product/0636920028505.do)
+- [Elasticsearch in Action](https://www.manning.com/books/elasticsearch-in-action)
+- [Getting Started with Elasticsearch and Ruby](https://dev.to/molly_struve/getting-started-with-elasticsearch-and-ruby-30hh)
+### Set up API-mode Rails
+- Ankify the [official guide](https://guides.rubyonrails.org/api_app.html) on Rails API usage
+- [Get Up and Running with Rails API](https://chriskottom.com/blog/2017/02/get-up-and-running-with-rails-api/)
+- Either [APIs on Rails](http://apionrails.icalialabs.com/book/chapter_one) or [its newer, less-formatted version](https://github.com/madeindjs/api_on_rails), though not as cleanly-formatted
+- Use the [Netflix gem](https://github.com/Netflix/fast_jsonapi) for serialization -->
+
+<!-- ## Project: DMWare
+- Scenario Builder
+  - See OG blogpost
+- Party Party Builder
+  - D&D character(s) generator
+  - Stream the randomly-generated characters w/ e.g. `ActionController::Live`
+  - Include `ActionCable` so everyone can chat about the characters being generated
+- ThousandWord
+  - Repository for collected PF0-images
+  - Use as practice w/ ElasticSearch? -->
+
+<!-- ### React SPA Frontend
+- Learn Hooks, Context, and Suspense API's:
+  - Follow the FEM Pure React State Management workshop/notes
+  - [This article](https://www.robinwieruch.de/react-state) for creating global state with hooks and context, instead of redux.
+  - If you like the above article, use this [two-part](https://www.robinwieruch.de/react-state-usereducer-usestate-usecontext) [series](https://www.robinwieruch.de/redux-with-react-hooks) to ~replicate Redux (_same author_)
+  - [This article](https://wattenberger.com/blog/react-hooks) for more on using hooks naturally
+  - [And this](https://www.telerik.com/kendo-react-ui/react-hooks-guide/)
+  - [This article](https://www.smashingmagazine.com/2020/0-introduction-react-context-api/) for more on context
+  - [This article](https://css-tricks.com/the-hooks-of-react-router/) for how hooks interact with React Router
+  - <https://kentcdodds.com/blog/useeffect-vs-uselayouteffect> and <https://kentcdodds.com/blog/should-i-usestate-or-usereducer>
+  - <https://alligator.io/react/keep-react-fast/>
+  - <https://alligator.io/react/react-router-v6/>
+  - <https://alligator.io/react/crud-context-hooks/>
+- Include TypeScript? Or is that too much?
+  - Use Credly's Egghead.io subscription for intros?
+  - [Follow the config setup here](https://www.sitepoint.com/react-with-typescript-best-practices/)
+  - [Explore some of the (non-redux?) boilerplate here](https://typeofnan.dev/setup-a-typescript-react-redux-project/)
+- Here's [a good list](https://www.robinwieruch.de/react-libraries) of other convenience libraries to use
+- Use your notes from the FEM course to apply responsive HTML styles -->

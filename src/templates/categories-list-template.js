@@ -32,15 +32,16 @@ const CategoriesListTemplate = ({ data }) => {
         </p>
 
         <p>
-          These "<em>What I Do</em>" posts furnish those records with some
-          context about my initial goals, where the project currently stands,
-          and what I'd do differently next time.
+          These "<em>What I Do</em>" posts furnish those notes with context: my
+          initial goals, where the project stands, and what I'd do differently
+          next time.
         </p>
 
         <p>
-          When I read -- or attend, or sometimes even watch! -- things, I
+          When I read (<em>or attend, or sometimes even watch!</em>) things, I
           tend to take notes. I like to return, months or years later, to what
-          I'd written down, to see who I was then and what I paid attention to.
+          I'd written down: to see who I was, then, and what I paid attention
+          to.
         </p>
 
         <p>
@@ -49,13 +50,17 @@ const CategoriesListTemplate = ({ data }) => {
         </p>
 
         <p>
-          The final category contains plans that arrive without an
-          immediately-obvious source. My hope is that -- after I digest,
-          explore, and likely discard the majority of them -- "
-          <em>What I Think</em>" will become the place where I record my
-          agonizing, protracted deduction of how next to spend life, on
-          leaving software development. But that's more of a Q3 2030 project. (
-          <em>Thanks, "mortgage"...</em>)
+          The final category contains ideas and plans that arrive without an
+          immediately-obvious source. My hope is that - after I digest, and
+          explore (<em>...and likely discard the majority of</em>) them - then "
+          <em>What I Think</em>" will become the resource I can reference while
+          deducing how next to spend life, on leaving
+          software development.
+        </p>
+
+        <p>
+          But that's more of a Q3 2030 project. (<em>Thanks, "mortgage."...</em>
+          )
         </p>
 
         <p>Watch this space.</p>
