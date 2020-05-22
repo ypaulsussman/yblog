@@ -32,7 +32,7 @@ const CategoriesListTemplate = ({ data }) => {
         </p>
 
         <p>
-          These "<em>What I Do</em>" posts furnish those notes with context: my
+          These "<em><strong>What I Do</strong></em>" posts furnish those notes with context: my
           initial goals, where the project stands, and what I'd do differently
           next time.
         </p>
@@ -45,7 +45,7 @@ const CategoriesListTemplate = ({ data }) => {
         </p>
 
         <p>
-          That second category, "<em>What I Read,</em>" includes my takeaways
+          That second category, "<em><strong>What I Read</strong>,</em>" includes my takeaways
           from those revisitations.
         </p>
 
@@ -53,13 +53,13 @@ const CategoriesListTemplate = ({ data }) => {
           The final category contains ideas and plans that arrive without an
           immediately-obvious source. My hope is that - after I digest, and
           explore (<em>...and likely discard the majority of</em>) them - then "
-          <em>What I Think</em>" will become the resource I can reference while
+          <em><strong>What I Think</strong></em>" will become the resource I can reference while
           deducing how next to spend life, on leaving
           software development.
         </p>
 
         <p>
-          But that's more of a Q3 2030 project. (<em>Thanks, "mortgage."...</em>
+          But that's more of a Q3 2030 project. (<em>Thanks, "mortgage"...</em>
           )
         </p>
 
