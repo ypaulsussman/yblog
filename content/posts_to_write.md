@@ -1,6 +1,59 @@
 # Stuff To Do
 
-## SIDEQUESTS: Whenever You Like
+## Project: O'Reilly Cookbook Reprocessing
+
+- Explore how to turn (_the process of reading a_ '`* Cookbook`' _O'Reilly text, after having engaged in a basic primer in the technology_) into more of an interactive, problem-solving activity.
+  - Possibly using principle of "progressive disclosure" of hints, as requested by user (e.g. first click on card gives you desc of line of code in EN, next lists obj, next lists method, next lists argument?)
+  - Explore these:
+    - Docker Cookbook (O'Reilly)
+    - Bash Cookbook (O'Reilly)
+    - SQL Cookbook (O'Reilly)
+    - Regex Cookbook (O'Reilly)
+    - Javascript Cookbook (O'Reilly)
+    - CSS Cookbook (O'Reilly)
+
+## Project: Compare OER Libraries
+
+- [OpenStax](https://openstax.org/about&sa=D&ust=-430962-9-000) at Rice University
+- [Open Textbook Library](http://open.umn.edu/opentextbooks/About.aspx&sa=D&ust=-430962-9-000) (and network) at University of Minnesota
+- [OpenEd](https://open.bccampus.ca/find-open-textbooks/&sa=D&ust=-430962-9-000) at BCcampus (a support org for British Columbia schools)
+- [Lumen Learning](https://lumenlearning.com/courses?&sa=D&ust=-430962-9-000) (a for-profit company that uses OER to sell integrated learning analytics software)
+- The [Open Ed Consortium](https://www.oeconsortium.org/about-oec/&sa=D&ust=-430962-9-000) (global nonprofit) and [MERLOT](http://info.merlot.org/merlothelp/topic.htm%23t%3DWho_We_Are.htm&sa=D&ust=-430962-9-000) (originally CSU, but now partnered with OEC?) also provide search tools (do they host/support any objects of their own, though?)
+- [Open Washington](http://www.openwa.org/&sa=D&ust=-430962-9-000) has an short, introductory course on OER use and licenses.
+- [Creative Commons](https://creativecommons.org/about/program-areas/education-oer/education-oer-resources/&sa=D&ust=-430962-9-000) has a list of search tools.
+  
+## Project: Zō
+
+- The grammarly for SRS cardbuilding
+- Declarative/content knowledge: SRS
+- Explicit procedural knowledge: checklist
+- Implicit procedural knowledge: practice
+- As concurrent proof-of-concept: use it to Ankify grad school notes
+- For coding projects: add a git commit-hook to send [the diff, and-or the commit message?] to a text-dump that the user will later be notified to reference for content to be mined/added to the SRS.
+
+## Project: mEATless
+
+- Track [for "get to 0" / for saving up, via $ or C02 offset, to splurge on a _noice_ meaty meal e.g. -/wk]
+- Track [for low-carb / for low-cost / for low-C02s]
+
+## Project: B2WE
+
+- Designed for post-DuoLingo language learners
+  - Name is a silly pun: "We want to get to B2," but also "not B2B or B2C; rather, B2-my-people/B-2-we"
+- Combine 'SRS lexis-extractor' with daily-generated cards
+- Pairs of learners receive a quote daily, in alternating language
+  - Monday...
+    - U/US translates from EN to UA;
+    - U/UA translates from EN to UA; then
+    - (_discuss, or U/UA merely highlights reasons for?_) differences between the two translations.
+  - Tuesday, it switches: learners receive UA quote; now, U/US explains their translation decisions
+- Can this resolve the (_disparity/overpopularity of EN-learners_), via e.g. aggregator for daily translations?
+  - In -to-many groups, provide translation leaderboard, visible only after submission-of-your-translation?
+  - Will require translation-flagging, as well as perhaps e.g. Lobte.rs-style invite-tree
+
+## Archive/Soft-Deletes
+
+<!-- ## Ruby Sidequests
 
 ### Ankify these
 
@@ -60,62 +113,8 @@
     - <https://en.wikipedia.org/wiki/List_of_memory_biases>
     - <https://en.wikipedia.org/wiki/List_of_fallacies>
   - Alternatively, serve as a [decision journal](https://fs.blog/20-/02/decision-journal/)
-  - Alternatively, scrape CooperPress emails (text, link, description, and author) and use them for an ElasticSearch-powered app
+  - Alternatively, scrape CooperPress emails (text, link, description, and author) and use them for an ElasticSearch-powered app -->
    
-## Project: O'Reilly Cookbook Reprocessing
-
-- Explore how to turn (_the process of reading a_ '`* Cookbook`' _O'Reilly text, after having engaged in a basic primer in the technology_) into more of an interactive, problem-solving activity
-  - Possibly, for each, build a <https://lab.github.com/> course?
-  - Possibly using principle of "progressive disclosure" of hints, as requested by user (e.g. first click on card gives you desc of line of code in EN, next lists obj, next lists method, next lists argument?)
-  - Explore these:
-    - Docker Cookbook (O'Reilly)
-    - Bash Cookbook (O'Reilly)
-    - SQL Cookbook (O'Reilly)
-    - Regex Cookbook (O'Reilly)
-    - Javascript Cookbook (O'Reilly)
-    - CSS Cookbook (O'Reilly)
-
-## Project: Compare OER Libraries
-
-- [OpenStax](https://openstax.org/about&sa=D&ust=-430962-9-000) at Rice University
-- [Open Textbook Library](http://open.umn.edu/opentextbooks/About.aspx&sa=D&ust=-430962-9-000) (and network) at University of Minnesota
-- [OpenEd](https://open.bccampus.ca/find-open-textbooks/&sa=D&ust=-430962-9-000) at BCcampus (a support org for British Columbia schools)
-- [Lumen Learning](https://lumenlearning.com/courses?&sa=D&ust=-430962-9-000) (a for-profit company that uses OER to sell integrated learning analytics software)
-- The [Open Ed Consortium](https://www.oeconsortium.org/about-oec/&sa=D&ust=-430962-9-000) (global nonprofit) and [MERLOT](http://info.merlot.org/merlothelp/topic.htm%23t%3DWho_We_Are.htm&sa=D&ust=-430962-9-000) (originally CSU, but now partnered with OEC?) also provide search tools (do they host/support any objects of their own, though?)
-- [Open Washington](http://www.openwa.org/&sa=D&ust=-430962-9-000) has an short, introductory course on OER use and licenses.
-- [Creative Commons](https://creativecommons.org/about/program-areas/education-oer/education-oer-resources/&sa=D&ust=-430962-9-000) has a list of search tools.
-  
-## Project: Zō
-
-- The grammarly for SRS cardbuilding
-- Declarative/content knowledge: SRS
-- Explicit procedural knowledge: checklist
-- Implicit procedural knowledge: practice
-- As concurrent proof-of-concept: use it to Ankify grad school notes
-- For coding projects: add a git commit-hook to send [the diff, and-or the commit message?] to a text-dump that the user will later be notified to reference for content to be mined/added to the SRS.
-
-## Project: mEATless
-
-- Track [for "get to 0" / for saving up, via $ or C02 offset, to splurge on a _noice_ meaty meal e.g. -/wk]
-- Track [for low-carb / for low-cost / for low-C02s]
-
-## Project: B2WE
-
-- Designed for post-DuoLingo language learners
-  - Name is a silly pun: "We want to get to B2," but also "not B2B or B2C; rather, B2-my-people/B-2-we"
-- Combine 'SRS lexis-extractor' with daily-generated cards
-- Pairs of learners receive a quote daily, in alternating language
-  - Monday...
-    - U/US translates from EN to UA;
-    - U/UA translates from EN to UA; then
-    - (_discuss, or U/UA merely highlights reasons for?_) differences between the two translations.
-  - Tuesday, it switches: learners receive UA quote; now, U/US explains their translation decisions
-- Can this resolve the (_disparity/overpopularity of EN-learners_), via e.g. aggregator for daily translations?
-  - In -to-many groups, provide translation leaderboard, visible only after submission-of-your-translation?
-  - Will require translation-flagging, as well as perhaps e.g. Lobte.rs-style invite-tree
-
-## Archive/Soft-Deletes
-
 <!-- - Expanding _what_ we know [vs] _applying_ what we (already) know
   - [how to do one of those better] is what to research, for PhD?
   - Peruse these journals:
