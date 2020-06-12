@@ -9,7 +9,7 @@ tags:
   - "EdTech"
   - "Language Learning"
   - "Teaching"
-description: "I've been thinking of a wraparound software application to enhance how video-tutors teach another language."
+description: "I've been thinking of a wraparound software to enhance how video-tutors teach another language."
 ---
 
 ## What Are We Doing Here?

@@ -67,7 +67,7 @@ Long-term memory is broken into two major types:
     2.  semantic memory (_knowledge of the facts, images, and words._)
 2.  **Nondeclarative/implicit memory** describes all memories that cannot be explained in any straightforward manner; it includes
     1.  procedural memory (_motor and cognitive skills: how to do something_),
-    2.  the perceptual representation system (_the ability to complete fragments of words or determine whether objects depicted objects could exist in the real world_),
+    2.  the perceptual representation system (_the ability to complete fragments of words or determine whether depicted objects could exist in the real world_),
     3.  classical conditioning (_associative learning_), and
     4.  nonassociative learning (_habituation, or learning not to respond to things that don’t require conscious attention; and sensitization, or increasing response-levels to particularly threatening stimuli._)
 

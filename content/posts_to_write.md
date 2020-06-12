@@ -1,5 +1,14 @@
 # Stuff To Do
 
+## CooperPress Search
+
+## ProductiveHN
+- Consume HN API
+- Desktop-only
+- Tree views of top-level comments, with the ability to filter top-level comments having fewer responses.
+- Ability to click a given comment to have its responses also splinter into different nodes
+- Ability to click a keyword to search hn.algolia.com for similar posts
+
 ## Project: O'Reilly Cookbook Reprocessing
 
 - Explore how to turn (_the process of reading a_ '`* Cookbook`' _O'Reilly text, after having engaged in a basic primer in the technology_) into more of an interactive, problem-solving activity.
