@@ -1,5 +1,9 @@
 # Stuff To Do
 
+## Read: JS In Depth
+- "_Head eastward,_" for escalating complexity: Simpson, Haverbeke, Rauschmayer
+
+
 ## Project: Compare OER Libraries
 - Use Elasticsearch?
 - Fork/contributions?
@@ -26,6 +30,7 @@
 - Designed for post-DuoLingo language learners
   - Name is a silly pun: "We want to get to B2," but also "not B2B or B2C; rather, B2-my-people/B-2-we"
 - Combine 'SRS lexis-extractor' with daily-generated cards
+  - PocketBrain -- friendly/external name for SRS component
 - Pairs of learners receive a quote daily, in alternating language
   - Monday...
     - U/US translates from EN to UA;
