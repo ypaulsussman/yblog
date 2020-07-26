@@ -14,7 +14,7 @@ description: "I've recently abandoned a toy app I thought was going to be awesom
 
 ## What Are We Doing Here?
 
-I'm smitten by the [What Works Clearinghouse:](https://ies.ed.gov/ncee/wwc/WhatWeDo) few things excite me as much as making the fluffy-and-qualitative crunchy-and-quantitative; and few things strike me as more important than determining, empirically, the best ways our species learns and educates.
+I'm smitten by the [What Works Clearinghouse:](https://ies.ed.gov/ncee/wwc/WhatWeDo) few things excite me as much as making the fluffy-and-qualitative crunchy-and-quantitative; and few things strike me as more important than determining, empirically, how best our species learns (_...well, and then building how we teach on that._)
 
 Even better, it's a division of the NCEE (_taxpayer-funded!_), and their study-reviews are [freely available](https://ies.ed.gov/ncee/wwc/StudyFindings) (_open data!_) What's not to like?
 
