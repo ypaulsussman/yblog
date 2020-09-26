@@ -31,7 +31,7 @@ description: "Notes from a live workshop I attended. (Tagline: \"This workshop f
 
 ## ex1 - Paths, Files, Arguments, EnvVars 
 
-* POSIX subsystem - how C-stle programs interact with OS
+* POSIX subsystem - how C-style programs interact with OS
     * Three streams model I/O to program (input, output, error)
     * Node made design decision to follow same system, via `process` object
 * Streams are a first-class citizen/data structure in node
