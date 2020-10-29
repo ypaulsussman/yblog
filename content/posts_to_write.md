@@ -1,23 +1,131 @@
 # Stuff To Do
 
-## Read: JS In Depth
-- "_Head eastward,_" for escalating complexity: Simpson, Haverbeke, Rauschmayer
+## Project: Daily gratitude recorder 
+  - RN app; push notification (banner, then sound) in evening w/ popup <textarea>
+  - nodejs backend
+    - encryption at rest
+    - 12 emails (weekly) re: usage of app; after, 90 days prior's message to (ProtonMail) inbox 
 
+## Project: DMWare
+- `thousandWord`
+  - Docker Compose: follow DO's Nginx/Certbot/Node setup
+  - Use PostgreSQL:
+    - https://jessitron.com/2020/05/25/develop-in-docker-node-js-express-postgresql-on-heroku/
+    - https://medium.com/better-programming/containerize-node-react-postgres-with-docker-on-aws-ca548595f01e
+    - Other PostgreSQL `docker-compose.yml` integrations:
+      ```yaml
+      <!-- Rails -->
+      version: '3'
+      services:
+        db:
+          image: postgres
+          volumes:
+            - ./tmp/db:/var/lib/postgresql/data
+          environment:
+            POSTGRES_PASSWORD: password
+        web:
+          build: .
+          command: bash -c "rm -f tmp/pids/server.pid && bundle exec rails s -p 3000 -b '0.0.0.0'"
+          volumes:
+            - .:/myapp
+          ports:
+            - "3000:3000"
+          depends_on:
+            - db
+      <!-- Django -->
+      version: "3.8"   
+      services:
+        db:
+          image: postgres
+          environment:
+            - POSTGRES_DB=postgres
+            - POSTGRES_USER=postgres
+            - POSTGRES_PASSWORD=postgres
+        web:
+          build: .
+          command: python manage.py runserver 0.0.0.0:8000
+          volumes:
+            - .:/code
+          ports:
+            - "8000:8000"
+          depends_on:
+            - db
+      ```
+  - Adopt auth (JWT or Local):
+    - https://reallifeprogramming.com/node-authentication-with-passport-postgres-ef93e2d520e7
+    - https://github.com/kisha/authentication-passport-jwt-strategy-postgresql
+    - https://medium.com/queers-in-tech/server-side-json-web-token-implementation-with-postgresql-and-node-7278eb9dc1b2
+  - Use array of pg text for tags
+    - https://tapoueh.org/blog/2013/10/denormalizing-tags/
+    - https://tapoueh.org/blog/2018/04/postgresql-data-types-arrays/
+    - http://www.databasesoup.com/2015/01/tag-all-things.html
+    - https://stackoverflow.com/questions/39643454/postgres-check-if-array-field-contains-value/54069718#54069718
+      - Alts/Backups: http://howto.philippkeller.com/2005/04/24/Tags-Database-schemas/
+  - Use HCLib books (and the docs) for Express best practices  
+  - Add React support:
+    - https://dev.to/nburgess/creating-a-react-app-with-react-router-and-an-express-backend-33l3
+    - https://scotch.io/tutorials/build-a-blog-using-expressjs-and-react-in-30-minutes#toc-add-authentication-in-express
+    - https://www.freecodecamp.org/news/create-a-react-frontend-a-node-express-backend-and-connect-them-together-c5798926047c/
+    - If necessary, decouple: 
+      - https://www.digitalocean.com/docs/app-platform/languages-frameworks/react/
+    - Image handling:
+      - https://github.com/fengyuanchen/cropperjs
+      - https://www.thepolyglotdeveloper.com/2020/02/scale-crop-zoom-images-react-web-application/
+      - https://github.com/react-cropper/react-cropper
+      - https://codesandbox.io/s/wonderful-pine-i7fs3?file=/src/Demo.tsx
+- `embarcator`
+  - node
+    - setup
+      - https://www.digitalocean.com/community/tutorial_series/how-to-code-in-node-js
+      - https://www.robinwieruch.de/javascript-project-setup-tutorial/
+      - https://www.robinwieruch.de/minimal-node-js-babel-setup
+      - https://www.taniarascia.com/how-to-use-webpack/
+    - express
+      - https://www.robinwieruch.de/node-js-express-tutorial
+      - https://www.robinwieruch.de/node-express-server-rest-api
+      - https://www.robinwieruch.de/postgresql-express-node-rest-api
+      - https://www.robinwieruch.de/node-express-error-handling
+    - testing
+      - https://www.robinwieruch.de/node-js-jest
+      - https://www.robinwieruch.de/javascript-continuous-integration
+    - with docker
+      - https://www.robinwieruch.de/docker-node-js-development
+      - https://www.robinwieruch.de/docker-compose
+      - https://www.robinwieruch.de/docker-cheatsheet
+  - react
+    - setup:
+      - https://www.robinwieruch.de/javascript-project-setup-tutorial/
+      - https://www.robinwieruch.de/webpack-setup-tutorial/
+      - https://www.robinwieruch.de/webpack-babel-setup-tutorial/
+      - https://www.robinwieruch.de/react-css-modules
+      - https://www.robinwieruch.de/webpack-font
+      - https://www.robinwieruch.de/webpack-images
+      - https://www.robinwieruch.de/webpack-eslint
+      - https://www.robinwieruch.de/react-eslint-webpack-babel
+      - https://www.robinwieruch.de/prettier-eslint
+      - https://www.robinwieruch.de/webpack-advanced-setup-tutorial
+      - https://www.robinwieruch.de/react-folder-structure
+      - https://www.robinwieruch.de/react-libraries
+    - hooks:
+      - https://reactjs.org/docs/hooks-intro.html
+      - https://www.robinwieruch.de/react-hooks
+      - https://www.robinwieruch.de/react-hooks-fetch-data
+      - https://www.robinwieruch.de/react-ref
+      - https://www.robinwieruch.de/react-state
+      - https://www.robinwieruch.de/react-state-usereducer-usestate-usecontext
+      - https://www.robinwieruch.de/react-usestate-hook
+      - https://www.robinwieruch.de/react-usestate-callback
+      - https://www.robinwieruch.de/react-usecontext-hook
+      - https://www.robinwieruch.de/redux-vs-usereducer
+    - testing:
+      - https://www.robinwieruch.de/react-testing-library
+      - https://www.robinwieruch.de/react-testing-cypress
+      - https://www.robinwieruch.de/axios-jest
+    - other notes:
+      - mouseover <area> tags -- add gray overlay; also: button to display all tags
+      - add city map & quiz
 
-## Project: Compare OER Libraries
-- Use Elasticsearch?
-- Fork/contributions?
-- Libraries:
-  - [OpenStax](https://openstax.org/about&sa=D&ust=-430962-9-000) at Rice University
-  - [Open Textbook Library](http://open.umn.edu/opentextbooks/About.aspx&sa=D&ust=-430962-9-000) (and network) at University of Minnesota
-  - [OpenEd](https://open.bccampus.ca/find-open-textbooks/&sa=D&ust=-430962-9-000) at BCcampus (a support org for British Columbia schools)
-  - [Lumen Learning](https://lumenlearning.com/courses?&sa=D&ust=-430962-9-000) (a for-profit company that uses OER to sell integrated learning analytics software)
-  - The [Open Ed Consortium](https://www.oeconsortium.org/about-oec/&sa=D&ust=-430962-9-000) (global nonprofit) and [MERLOT](http://info.merlot.org/merlothelp/topic.htm%23t%3DWho_We_Are.htm&sa=D&ust=-430962-9-000) (originally CSU, but now partnered with OEC?) also provide search tools (do they host/support any objects of their own, though?)
-  - [Open Washington](http://www.openwa.org/&sa=D&ust=-430962-9-000) has an short, introductory course on OER use and licenses.
-  - [Creative Commons](https://creativecommons.org/about/program-areas/education-oer/education-oer-resources/&sa=D&ust=-430962-9-000) has a list of search tools.
-  
 ## Project: Zō
-
 - The grammarly for SRS cardbuilding
 - Declarative/content knowledge: SRS
 - Explicit procedural knowledge: checklist
@@ -25,10 +133,9 @@
 - As concurrent proof-of-concept: use it to Ankify grad school notes
 - For coding projects: add a git commit-hook to send [the diff, and-or the commit message?] to a text-dump that the user will later be notified to reference for content to be mined/added to the SRS.
 
-## Project: B2WE
-
+## Project: B2E
 - Designed for post-DuoLingo language learners
-  - Name is a silly pun: "We want to get to B2," but also "not B2B or B2C; rather, B2-my-people/B-2-we"
+  - Name is a silly pun: "We want to get to B2," but also "not B2B or B2C; rather, B2-everyone/B-2-we"
 - Combine 'SRS lexis-extractor' with daily-generated cards
   - PocketBrain -- friendly/external name for SRS component
 - Pairs of learners receive a quote daily, in alternating language
@@ -58,84 +165,49 @@
       - automatically collects the date
     - link to 'usages', a mini-dashboard of that snippet's usages (the data saved from the clicker) -->
 
-<!-- ## Project: mEATless
+<!-- ## Project: evictual
 - Track [for "get to 0" / for saving up, via $ or C02 offset, to splurge on a _noice_ meaty meal e.g. -/wk]
 - Track [for low-carb / for low-cost / for low-C02s] -->
   
-<!-- ## CooperPress Search
-- You can kind of already do this with DDG the `site:...` arg
-- TBD: are there actually other benefits?
-
-## ProductiveHN
+<!-- ## Project: ProductiveHN
 - Consume HN API
 - Desktop-only
 - Tree views of top-level comments, with the ability to filter top-level comments having fewer responses
 - Ability to click a given comment to have its responses also splinter into different nodes
 - Ability to click a keyword to search hn.algolia.com for similar posts -->
   
-<!-- ## Ruby Sidequests
-
-### Ankify these
-
-- Digging Deeper
-  - Working with JavaScript in Rails
-  - Caching with Rails: An Overview
-  - Testing Rails Applications
-  - Debugging Rails Applications
-  - Securing Rails Applications
-  - Configuring Rails Applications
-- WIPs
-  - The Rails Initialization Process
-  - Active Support Instrumentation
-
-### Watch these
-
-- Security:
-  - [Warden: the building block behind Devise](https://www.youtube.com/watch?v=QBJ3G40fxHg)
-  - [The Evolution of Rails Security](https://www.youtube.com/watch?v=Btrmc1wO3pc)
-  - [Access Denied: the missing guide to authorization in Rails](https://www.youtube.com/watch?v=NVwx0DARDis)
-  - [Encrypted Credentials in Rails 5.2](https://www.youtube.com/watch?v=fS92ZDfLhng)
-  - [Rails Security at Scale](https://www.youtube.com/watch?v=MpsrQKieytY)
-  - [Modern Cryptography for the Absolute Beginner](https://www.youtube.com/watch?v=-cqD_SVXyEo)
-- DB and Other:
-  - [Database Design for Beginners](https://www.youtube.com/watch?v=1VsSXRPEBo0)
-  - [Optimizing Your App by Understanding PostgreSQL](https://www.youtube.com/watch?v=vfiz1J8mWEs)
-  - [Minitest 6: test feistier!](https://www.youtube.com/watch?v=l-ZNxvFo4lw)
-  - [Unraveling the Cable: How ActionCable works](https://www.youtube.com/watch?v=XeqLONJsHkY)
-  - [NLP for Rubyists](https://www.youtube.com/watch?v=Mmn20irnaS8)
-  - [Zeitwerk: A New Code Loader](https://www.youtube.com/watch?v=ulCBLpCU6aY)
-
-### Read these
-
-- Rails
-  - [The Rails 5 Way](https://www.oreilly.com/library/view/the-rails-5/9780-465769-)
-  - [Rails 5 Test Prescriptions](https://pragprog.com/book/nrtest3/rails-5-test-prescriptions)
-  - [AWS: The Good Parts](https://gumroad.com/l/aws-good-parts)
-- Ruby
-  - [Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist-third-edition)
-  - [Confident Ruby](http://www.confidentruby.com/)
-  - [Practical Object Oriented Design in Ruby](https://www.informit.com/store/practical-object-oriented-design-an-agile-primer-using-9780134456478)
-- Possibly
-  - ["The Missing CS Course"](https://missing.csail.mit.edu/)
-  - [Ruby Performance Optimization](https://pragprog.com/book/adrpo/ruby-performance-optimization)
-  - [Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)
-  - [The Ruby Way](https://www.oreilly.com/library/view/the-ruby-way/9780-2480352/)
-  - [Effective Ruby](https://www.oreilly.com/library/view/effective-ruby-48/9780-3847086/)
-
-### React Native Frontend
-
-- Watch React Native series [from GoRails](https://gorails.com/episodes/tagged/React%20Native)
-- Watch RailsConf talk on [React Native & Rails](https://www.youtube.com/watch?v=Q66tYU6ni48)
-- Read _Learning React Native_ (O'Reilly)
-- Create RoR JSON API / React Native app to either...
-  - perform the equivalent of an Anki deck of cognitive biases/logical fallacies, via e.g.
-    - <https://en.wikipedia.org/wiki/List_of_cognitive_biases>
-    - <https://en.wikipedia.org/wiki/List_of_memory_biases>
-    - <https://en.wikipedia.org/wiki/List_of_fallacies>
-  - Alternatively, serve as a [decision journal](https://fs.blog/20-/02/decision-journal/)
-  - Alternatively, scrape CooperPress emails (text, link, description, and author) and use them for an ElasticSearch-powered app -->
-   
-<!-- - Expanding _what_ we know [vs] _applying_ what we (already) know
+<!-- ## Research: Ruby Sidequests
+- Lectures
+  - Security:
+    - [Warden: the building block behind Devise](https://www.youtube.com/watch?v=QBJ3G40fxHg)
+    - [The Evolution of Rails Security](https://www.youtube.com/watch?v=Btrmc1wO3pc)
+    - [Access Denied: the missing guide to authorization in Rails](https://www.youtube.com/watch?v=NVwx0DARDis)
+    - [Encrypted Credentials in Rails 5.2](https://www.youtube.com/watch?v=fS92ZDfLhng)
+    - [Rails Security at Scale](https://www.youtube.com/watch?v=MpsrQKieytY)
+    - [Modern Cryptography for the Absolute Beginner](https://www.youtube.com/watch?v=-cqD_SVXyEo)
+  - DB and Other:
+    - [Database Design for Beginners](https://www.youtube.com/watch?v=1VsSXRPEBo0)
+    - [Optimizing Your App by Understanding PostgreSQL](https://www.youtube.com/watch?v=vfiz1J8mWEs)
+    - [Minitest 6: test feistier!](https://www.youtube.com/watch?v=l-ZNxvFo4lw)
+    - [Unraveling the Cable: How ActionCable works](https://www.youtube.com/watch?v=XeqLONJsHkY)
+    - [NLP for Rubyists](https://www.youtube.com/watch?v=Mmn20irnaS8)
+    - [Zeitwerk: A New Code Loader](https://www.youtube.com/watch?v=ulCBLpCU6aY)
+- Books
+  - Rails
+    - [The Rails 5 Way](https://www.oreilly.com/library/view/the-rails-5/9780-465769-)
+    - [Rails 5 Test Prescriptions](https://pragprog.com/book/nrtest3/rails-5-test-prescriptions)
+    - [AWS: The Good Parts](https://gumroad.com/l/aws-good-parts)
+  - Ruby
+    - [Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist-third-edition)
+    - [Confident Ruby](http://www.confidentruby.com/)
+    - [Practical Object Oriented Design in Ruby](https://www.informit.com/store/practical-object-oriented-design-an-agile-primer-using-9780134456478)
+  - Possibly
+    - [Ruby Performance Optimization](https://pragprog.com/book/adrpo/ruby-performance-optimization)
+    - [Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)
+    - [The Ruby Way](https://www.oreilly.com/library/view/the-ruby-way/9780-2480352/)
+    - [Effective Ruby](https://www.oreilly.com/library/view/effective-ruby-48/9780-3847086/)
+  
+<!-- ## Research: Expanding _what_ we know [vs] _applying_ what we (already) know
   - [how to do one of those better] is what to research, for PhD?
   - Peruse these journals:
     - International Journal of Instructional Technology and Distance Learning
@@ -145,14 +217,7 @@
     - Journal of Computing in Higher Education
     - Trends in Cognitive Sciences -->
 
-<!-- ### Corona
-
-- tool for retros && retro commentary/weigh-in (plus one's, comments, concerns, qualifications, etc)
-- web form, with support from slackbot
-- like, "Corona" refers to part of the eye -- but it also sounds like "Coroner," who performs... post-mortems. Heh. -->
-
-<!-- ### Lectio 
-
+<!-- ## Project: Eno 
 - GUI for content professors (_i.e. experts in research, but not pedagogy_) to build lessons, guided by sound teaching principles and pleasing design.
 - Sold to universities: align with institution-unique accreditation requirements.
   - Software that takes an instructor from subject matter expert tune near-professional educator, by scaffolding their building of lesson plans, assessments, and syllabi.
@@ -163,24 +228,11 @@
 - Track [content and activity]-types across lessons (by week, unit, semester etc)
 - (_Note you have two reaaaaaal ugly back-of-the-napkin wireframe illustrations for this in Dropbox._) -->
 
-<!-- ### YPHRIT
+<!-- ## Project: YPHRIT
 - "_Y's Post-Hartl Rails-Investigation Tutorial_"
-- For any one of the above ideas, build it alongside a book about _how_ to build it. -->
+- For any one neighboring idea, build it alongside a book about _how_ to build it. -->
 
-<!-- - √ Dockerization
-  - [√ Packaging and Shipping Rails Applications in Docker](https://www.youtube.com/watch?v=lpHgNC5bCbo)
-  - [√ Real World Docker for the Rubyist](https://www.youtube.com/watch?v=DyBvMrNX1ZY)
-  - [√ Deep Dive into Docker Containers](https://www.youtube.com/watch?v=2c4fvXKec7Q)
-  - [√ Containerizing Rails: Techniques, Pitfalls, & Best Practices](https://www.youtube.com/watch?v=kG2vxYn547E)
-  - [√ Containerizing Local Development... Is It Worth it?](https://www.youtube.com/watch?v=NZ02hy6QOOk)
-  - Relevant articles:
-    - [√ Codeship RoR demo](https://rollout.io/blog/using-docker-compose-for-ruby-development/)
-    - [√ DO RoR demo](https://www.digitalocean.com/community/tutorials/containerizing-a-ruby-on-rails-application-for-development-with-docker-compose)
-    - [√ Evil Martians' RoR setup](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)
-    - [√ docker-compose with delayed_job demo](https://medium.com/swlh/add-background-jobs-and-cron-to-your-dockerized-ruby-on-rails-app-c7348915021d) -->
-    - Discovered later, but still probably useful: https://hint.io/blog/rails-development-with-docker
 <!-- ## Project: Compare E-Learning Rubrics
-
 - comparing and searching for different rubrics by which to measure an e-learning product:
 - concluding with that you can’t actually write about the product, because they are clients of the company that employs you
 - Rate the learning experience of the badge course you’re currently taking
@@ -190,7 +242,7 @@
     - “E-learning in the science of instruction”?
     - “Really Useful E-Learning Manual“ from O'Reilly (perhaps there’s an EPub version?) -->
 
-<!-- - Yarray: new `enumerable`-based methods && gem-building practice
+<!-- ## Project: "yarra" (new `enumerable`-based methods && gem-building practice)
   - Use
     - https://bundler.io/v1.16/guides/creating_gem.html
     - https://guides.rubygems.org/
@@ -241,24 +293,34 @@
   - Include `ActionCable` so everyone can chat about the characters being generated
 - ThousandWord
   - Repository for collected PF0-images
-  - Use as practice w/ ElasticSearch? -->
+  - Use as practice w/ ElasticSearch?
+- React SPA Frontend
+  - Learn Hooks, Context, and Suspense API's:
+    - Follow the FEM Pure React State Management workshop/notes
+    - [This article](https://www.robinwieruch.de/react-state) for creating global state with hooks and context, instead of redux.
+    - If you like the above article, use this [two-part](https://www.robinwieruch.de/react-state-usereducer-usestate-usecontext) [series](https://www.robinwieruch.de/redux-with-react-hooks) to ~replicate Redux (_same author_)
+    - [This article](https://wattenberger.com/blog/react-hooks) for more on using hooks naturally
+    - [And this](https://www.telerik.com/kendo-react-ui/react-hooks-guide/)
+    - [This article](https://www.smashingmagazine.com/2020/0-introduction-react-context-api/) for more on context
+    - [This article](https://css-tricks.com/the-hooks-of-react-router/) for how hooks interact with React Router
+    - <https://kentcdodds.com/blog/useeffect-vs-uselayouteffect> and <https://kentcdodds.com/blog/should-i-usestate-or-usereducer>
+    - <https://alligator.io/react/keep-react-fast/>
+    - <https://alligator.io/react/react-router-v6/>
+    - <https://alligator.io/react/crud-context-hooks/>
+  - Include TypeScript? Or is that too much?
+    - Use Credly's Egghead.io subscription for intros?
+    - [Follow the config setup here](https://www.sitepoint.com/react-with-typescript-best-practices/)
+    - [Explore some of the (non-redux?) boilerplate here](https://typeofnan.dev/setup-a-typescript-react-redux-project/)
+  - Here's [a good list](https://www.robinwieruch.de/react-libraries) of other convenience libraries to use
+  - Use your notes from the FEM course to apply responsive HTML styles -->
 
-<!-- ### React SPA Frontend
-- Learn Hooks, Context, and Suspense API's:
-  - Follow the FEM Pure React State Management workshop/notes
-  - [This article](https://www.robinwieruch.de/react-state) for creating global state with hooks and context, instead of redux.
-  - If you like the above article, use this [two-part](https://www.robinwieruch.de/react-state-usereducer-usestate-usecontext) [series](https://www.robinwieruch.de/redux-with-react-hooks) to ~replicate Redux (_same author_)
-  - [This article](https://wattenberger.com/blog/react-hooks) for more on using hooks naturally
-  - [And this](https://www.telerik.com/kendo-react-ui/react-hooks-guide/)
-  - [This article](https://www.smashingmagazine.com/2020/0-introduction-react-context-api/) for more on context
-  - [This article](https://css-tricks.com/the-hooks-of-react-router/) for how hooks interact with React Router
-  - <https://kentcdodds.com/blog/useeffect-vs-uselayouteffect> and <https://kentcdodds.com/blog/should-i-usestate-or-usereducer>
-  - <https://alligator.io/react/keep-react-fast/>
-  - <https://alligator.io/react/react-router-v6/>
-  - <https://alligator.io/react/crud-context-hooks/>
-- Include TypeScript? Or is that too much?
-  - Use Credly's Egghead.io subscription for intros?
-  - [Follow the config setup here](https://www.sitepoint.com/react-with-typescript-best-practices/)
-  - [Explore some of the (non-redux?) boilerplate here](https://typeofnan.dev/setup-a-typescript-react-redux-project/)
-- Here's [a good list](https://www.robinwieruch.de/react-libraries) of other convenience libraries to use
-- Use your notes from the FEM course to apply responsive HTML styles -->
+<!-- ## Project: OER Library Search Engine
+- Use Elasticsearch?
+- Libraries:
+  - [OpenStax](https://openstax.org/about&sa=D&ust=-430962-9-000) at Rice University
+  - [Open Textbook Library](http://open.umn.edu/opentextbooks/About.aspx&sa=D&ust=-430962-9-000) (and network) at University of Minnesota
+  - [OpenEd](https://open.bccampus.ca/find-open-textbooks/&sa=D&ust=-430962-9-000) at BCcampus (a support org for British Columbia schools)
+  - [Lumen Learning](https://lumenlearning.com/courses?&sa=D&ust=-430962-9-000) (a for-profit company that uses OER to sell integrated learning analytics software)
+  - The [Open Ed Consortium](https://www.oeconsortium.org/about-oec/&sa=D&ust=-430962-9-000) (global nonprofit) and [MERLOT](http://info.merlot.org/merlothelp/topic.htm%23t%3DWho_We_Are.htm&sa=D&ust=-430962-9-000) (originally CSU, but now partnered with OEC?) also provide search tools (do they host/support any objects of their own, though?)
+  - [Open Washington](http://www.openwa.org/&sa=D&ust=-430962-9-000) has an short, introductory course on OER use and licenses.
+  - [Creative Commons](https://creativecommons.org/about/program-areas/education-oer/education-oer-resources/&sa=D&ust=-430962-9-000) has a list of search tools. -->

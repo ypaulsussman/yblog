@@ -1,0 +1,152 @@
+## Chapter 01: The Internal Language of Computers
+  - _De Morgan’s law_:
+    - The operation `a AND b` is equivalent to the operation `NOT(NOT a OR NOT b)`
+    - Outcome: with enough `NOT` operations, we can replace `AND` operations with `OR` operations (and vice versa). 
+    - This is useful because computers operate on real-­world input that’s not under their control.
+    - There is a cost in price and performance to each operation, so minimizing operations minimizes costs.
+  - Binary numbers are often represented with _leading zeros_ on the left (e.g. `005,028` vs `5,028` in decimal) because computers are built around blocks of bits.
+  - The rules for _binary addition_ can be expressed in terms of _Boolean logical operations_:
+    - When we add 2 bits together... 
+      - the value of the result is the `XOR` of the 2 bits, and 
+      - the value of the carry is the `AND` of the 2 bits.
+    - This is, in fact, how computer hardware does binary addition.
+    - When the result of addition doesn’t fit in the number of bits that we have, you're left with an _overflow bit_
+      - e.g. If you have 4-bit numbers, then `1001 + 1000`would be `0001`, rather than `10001` (because there's nowhere for the carry to be stored.)
+      - This bit gets stored in the computer's _condition code register._
+  - Different methods of representing negative numbers:
+    - _Sign and magnitude_ representation:
+      - This uses (the leftmost or rightmost) bit to represent a _sign_ (±), and the rest to represent the _magnitude_ (how far the value is from zero.)
+      - It's not popular, because [1] it duplicates 0, and [2] it breaks boolean-logic arithmetic.
+    - _One’s complement_ representation: 
+      - Also uses a sign bit
+      - Flips all the bits of each positive number in order to get its negative counterpart
+      - e.g. `0111` is signed-decimal `7`, while `1000` is signed-decimal `-7`
+      - Still has the problem of `-0` (the `1111` to `0`'s `0000`)
+      - Needs to use an extra "end-­around carry" process during addition
+      - Like SaM representation, not used in modern architectures
+    - _Two’s complement representation_
+      - The most commonly used binary representation for signed integers. 
+      - Obtains the negative of a number by 
+        - complementing the number (that is, doing a `NOT` of each bit),
+        - then adding 1, and 
+        - throwing away any carry from the most significant bit (MSB.)
+      - No negative-zero, and Boolean logic for addition works
+  - Different methods of representing real (not just whole) numbers:
+    - _fixed-­point_ representation:
+      - Selects an arbitrary place for a binary point (the binary equivalent of the decimal point.)
+      - e.g. in four-bit blocks, first two bits represent whole values (0, 1, 2, 3), and final two bits represent four fractional values (0, 1/4, 2/4, 2/4)
+      - Digital signal processors (a kind of special-­purpose computer) still use this method
+      - However, usually takes way too many bits to represent useful range of numbers: so otherwise not common
+    - _floating-­point_ representation:
+      - Binary version of scientific notation
+      - It uses:
+        - a number with a single digit to the left of the binary point (the _mantissa_) multiplied by
+        - 2 raised to some power (the _exponent._)
+      - Fairly inefficient: multiple ways to represent whole numbers; still more ways to represent `0`
+      - Also (by default, at least) doesn't allow bit patterns for all real numbers, due to exponentiation
+      - The `IEEE 754` standard does its best to work around this
+        - Uses several tricks to maximize precision
+        - No explicit sign bit for the exponent; uses an arbitrary number as the "to the 0th power" exponent (its _bias_) 
+        - Results in two types of floats: 
+          - Single-precision
+            - Uses 32 bits
+            - Bias is 127 (`01111111`); that is, 
+              - bit pattern for 1 represents exponentiation of the mantissa of`2^-126`; 
+              - bit pattern for 254 represents exponentiation of the mantissa of`2^127`.
+            - Can represent numbers approximately in the range `±10^±38` with about 7 digits of accuracy
+          - Double-precision
+            - Uses 64 bits
+            - Bias is 1023
+            - Three more bits for exponent
+            - 29 more bits for mantissa
+            - Can represent numbers approximately in the range `±10^±308` with about 15 digits of accuracy.
+        - `IEEE 754` also provides a bit pattern for 
+          - `±infinity` (for division by zero), and 
+          - `NaN` (for illegal operations)
+  - The American Standard Code for Information Interchange
+    - Initial 'winning idea' for representing text in binary
+    - Assigns 7-bit numeric values to all symbols on the keyboard (plus the _control characters_)
+  - Unicode assigned (initially 16, now 21)-bit codes to characters.
+  - Unicode Transformation Format 8-bit
+    - Computers use 8 bits to store each ASCII character (as they’re not designed to handle 7-bit quantities.)
+    - We don't want to use 16 bits to store a single letter when we can get by with using just 8.
+    - Unicode addresses this problem by allowing different encodings; UTF-8 is the most important/widely-used of them.
+    - UTF-8 uses 8 bits for each ASCII character, while simultaneously encoding non-­ASCII characters in a way that doesn’t break programs that expect ASCII.
+    - The count of most significant ones in the first chunk yields the length of the sequence composing this:
+      - ASCII chars have a `0` as their MSB, followed by their 7-bit ASCII code
+      - A two-byte (that is, two sets of 8 bits) Unicode char will have `110` as the first three bits in its first byte, and `10` as the first two bits in its second byte
+      - A three-byte Unicode char will have `1110` as the first three bits in its first byte, and `10` as the first two bits in its second and third bytes
+  - Base64 encoding 
+    - Base64 is used in order to send binary data via text 
+    - It encodes 3 bytes of data into 4 characters, by 
+      - Partitioning the 24 bits of data into four 6-bit chunks, then
+      - Mapping each 6-bit value to a printed character (the upper/lower-case alphabet, 0-9, `+`, and `/`)
+  - URL encoding
+    - Also known as percent-­encoding
+    - Allows chars with a special meaning in urls (e.g. `:`,`/`, `?`) to also have their literals passed
+
+## Chapter 02: Combinatorial Logic
+- Combinatorial logic === the Boolean algebra discussed above
+- This chapter is mostly electrical engineering
+- Which is cool: but come back to it another time
+
+## Chapter 03: Sequential Logic
+- Similar to previous chapter, in that:
+  - It covers the physical structures of how memory is held in a computer, which is
+  - Interesting stuff, but also one layer below what you're interested in right now.
+- Return at a future date.
+
+## Chapter 05: Computer Anatomy
+- Three big pieces in a modern computer
+  - memory,
+  - central processing unit (CPU),
+  - input and output (I/O).
+- _Memory location_ 
+  - The memory stored at a particular address (just a number)
+  - Almost always 1 byte
+  - Locations then usually chunked into higher units:
+    - 32-bit computers usually use 4-byte chunks
+    - 64-bit computers usually use 8-byte chunks
+- Different kinds of memory have different _price/performance ratios_
+  - SRAM is fast and expensive
+  - Disk is cheap and slow
+- _Endianness_ 
+  - Little-endian:
+    - Least significant byte at the smallest memory address 
+    - e.g. Intel processors
+  - Big-endian:
+    - Most significant byte at the smallest memory address 
+    - e.g. Motorola processors
+  - Keep in mind when you’re transferring information from one device to another, so as not to shuffle the data.
+- CPU
+  - the _arithmetic logic unit_ does arithmetic, Boolean algebra, and other operations
+  - the _execution unit_ (or control unit) grabs the right opcodes and operands from memory, passes them to the ALU, and puts the results back in memory
+- _RISC vs CISC_ 
+  - "reduced (vs complicated) instruction set computers"
+  - Earlier computers included many rarely-used instructions; in the 1980's, statistical analyses were used to replace these w/ combinations of other instructions
+  - RISC uses _load-­store architecture_ -- two categories of instructions (accessing memory, and everything else)
+- C's _pointers_ are a higher-­level abstraction of _indirect addressing_ (getting the value from the memory location contained in the instruction, rather than directly from the instruction itself.)
+
+
+## Chapter 05: Computer Architecture
+- The vast majority of a modern microprocessor's chip area is dedicated to memory handling
+- Two common architectures:
+  - _von Neumann Architecture_ keeps instruction memory and data memory together
+  - _Harvard Architecture_ uses a separate data bus for each
+- Location of CPU:
+  - _microprocessors_ have the memory and I/O in a separate physical package from the CPU
+  - _microcomputers_ have everything on a single chip (tend to be smaller devices)
+  - a _system on a chip_ is more complex microcomputer; it may also include e.g. wi-fi circuitry, or FPGA's
+- Arduino: microcomputer w/ Harvard architecture
+
+## Chapter 08: Language Processing
+- _lexical analysis_: the process of converting symbols (characters) into tokens (words)
+  - step 01: extraction
+    - simple example: a language has two types of tokens: _words_ and _separators_
+  - step 02: classification
+    - simple example: a language a has two classes of words: _operators_ and _operands_
+- _Backus-­Naur form_: formal way to specify languages; used in RFC documents
+  - An example row in the spec for floating-point numbers: `<mantissa> ::= <digits> | <digits> "." | "." <digits> | <digits> "." <digits>`
+  - Things on the left of the `::=` can be substituted for things on the right
+  - The `|` indicates a choice
+  - Items inside of quotes are literals (they must appear exactly as written)

@@ -103,7 +103,7 @@ A **latrocinium** is, technically speaking, a robber-council. The word was first
 
 **Will ye raise a Cloud** [is to ask] shall we Smoke a Pipe?
 
-**a straight** [is a] manufactured cigarette [while] a **quirly** [is one that]] you roll yourself.
+**a straight** [is a] manufactured cigarette [while] a **quirly** [is one that] you roll yourself.
 
 “bad, or rank tobacco,” also called **old rope.**
 
