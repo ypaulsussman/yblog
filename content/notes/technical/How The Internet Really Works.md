@@ -20,7 +20,7 @@
 - A _network packet_ is a unit of data that consists of 
   - routing information
     - Internet protocols assign each packet an _address tag_ that contains the origin and destination addresses.
-    - This tag is part of _packet header_ that describes the size and type of the packet.
+    - This tag is part of a _packet header_ that describes the size and type of the packet.
   - content
 - Network devices encode binary information differently depending on the transmission medium:
   - Through copper wire, it transmits as electrical signals.
@@ -81,8 +81,8 @@
     - TCP is used for the World Wide Web, email, p2p apps, and file transfers
     - When two applications want to send packets via TCP, TCP... 
       - establishes a bidirectional communication channel called a _pipe_ or _stream_,
-      - divided the data it wants to send into smaller segments,
-      - numbers them to track the delivery, then
+      - divides the data it wants to send into smaller segments,
+      - numbers them, to track delivery, then
       - sends all segments individually to the IP software (which in turn encapsulates each segment into a packet); finally, it
       - requires the destination app to acknowledge packet receipt by sending back the numbers of the segments it receives.
     - Whenever the destination doesn’t acknowledge receipt, or reports a damaged packet, TCP on the sender’s side sends those packets again; any subsequent packets must wait in the pipe until the problem is resolved.
@@ -104,4 +104,3 @@
   - the protocol for exchanging or transferring hypertext; 
   - the foundation of data communication over the World Wide Web;
   - the protocol that makes a web browser and a web server understand each other (that is, the application layer; actual transport of the data happens via TCP/IP.)
-W

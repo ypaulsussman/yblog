@@ -495,4 +495,72 @@
   - Update `*/5 * * * *` to `0 12 * * *` in the crontab, to run daily at noon
   - Remove `--dry-run` from the script
 
-## [How To Implement API Authentication with JSON Web Tokens and Passport](https://www.digitalocean.com/community/tutorials/api-authentication-with-json-web-tokensjwt-and-passport)
+## Next steps (for e.g. thousandword)
+- Docker Compose: follow DO's Nginx/Certbot/Node setup
+  - Also [Using Compose to Develop locally](https://www.docker.com/blog/how-to-setup-your-local-node-js-development-environment-using-docker-part-2/)
+  - Corroborate with [this doc](https://docs.docker.com/get-started/nodejs/develop/#use-compose-to-develop-locally), if useful
+- Use PostgreSQL:
+  - https://jessitron.com/2020/05/25/develop-in-docker-node-js-express-postgresql-on-heroku/
+  - https://duckduckgo.com/?q=node+docker+postgresql&t=canonical&atb=v231-1&iar=videos&iax=videos&ia=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DA9bA5HpOk30
+  - https://medium.com/better-programming/containerize-node-react-postgres-with-docker-on-aws-ca548595f01e
+  - Other PostgreSQL `docker-compose.yml` integrations:
+    ```yaml
+    <!-- Rails -->
+    version: '3'
+    services:
+      db:
+        image: postgres
+        volumes:
+          - ./tmp/db:/var/lib/postgresql/data
+        environment:
+          POSTGRES_PASSWORD: password
+      web:
+        build: .
+        command: bash -c "rm -f tmp/pids/server.pid && bundle exec rails s -p 3000 -b '0.0.0.0'"
+        volumes:
+          - .:/myapp
+        ports:
+          - "3000:3000"
+        depends_on:
+          - db
+    <!-- Django -->
+    version: "3.8"   
+    services:
+      db:
+        image: postgres
+        environment:
+          - POSTGRES_DB=postgres
+          - POSTGRES_USER=postgres
+          - POSTGRES_PASSWORD=postgres
+      web:
+        build: .
+        command: python manage.py runserver 0.0.0.0:8000
+        volumes:
+          - .:/code
+        ports:
+          - "8000:8000"
+        depends_on:
+          - db
+    ```
+- Adopt auth (JWT or Local):
+  - https://reallifeprogramming.com/node-authentication-with-passport-postgres-ef93e2d520e7
+  - https://github.com/kisha/authentication-passport-jwt-strategy-postgresql
+  - https://medium.com/queers-in-tech/server-side-json-web-token-implementation-with-postgresql-and-node-7278eb9dc1b2
+- Use array of pg text for tags
+  - https://tapoueh.org/blog/2013/10/denormalizing-tags/
+  - https://tapoueh.org/blog/2018/04/postgresql-data-types-arrays/
+  - http://www.databasesoup.com/2015/01/tag-all-things.html
+  - https://stackoverflow.com/questions/39643454/postgres-check-if-array-field-contains-value/54069718#54069718
+    - Alts/Backups: http://howto.philippkeller.com/2005/04/24/Tags-Database-schemas/
+- Use HCLib books (and the docs) for Express best practices  
+- Add React support:
+  - https://dev.to/nburgess/creating-a-react-app-with-react-router-and-an-express-backend-33l3
+  - https://scotch.io/tutorials/build-a-blog-using-expressjs-and-react-in-30-minutes#toc-add-authentication-in-express
+  - https://www.freecodecamp.org/news/create-a-react-frontend-a-node-express-backend-and-connect-them-together-c5798926047c/
+  - If necessary, decouple: 
+    - https://www.digitalocean.com/docs/app-platform/languages-frameworks/react/
+  - Image handling:
+    - https://github.com/fengyuanchen/cropperjs
+    - https://www.thepolyglotdeveloper.com/2020/02/scale-crop-zoom-images-react-web-application/
+    - https://github.com/react-cropper/react-cropper
+    - https://codesandbox.io/s/wonderful-pine-i7fs3?file=/src/Demo.tsx

@@ -128,12 +128,12 @@
     - Phonological loop neurons (process any info that is auditory and verbal)
       - Temporary storage
       - Retrieval
-    - Visual-spatial sketch pad neurons (process any info that is visual)
+    - Visual-spatial sketchpad neurons (process any info that is visual)
       - Object memory store (color and shape)
       - Spatial store (objects' spatial distribution and motion)
-  - Subsystems managed by 'central executive'
-    - supervisory system that directs focus and targets information
-    - ensures working memory and long-term memory work together
+  - These subsystems are managed by a 'central executive' system
+    - Directs focus and targets information (that is, controls attention)
+    - Ensures working memory and long-term memory coordinate/work together
 
 ### Lecture 8: How Your Brain Uses Your Senses
 - Sensation 
@@ -153,19 +153,58 @@
   - Most real-world inputs simultaneously stimulate multiple sensory receptors
   - Senses interfere w/ each other, e.g. McGurk effect (overdub someone saying "ga" with someone saying "ba" and the brain won't hear "ba")
 
-### Lecture 9: Seeing with Your Brain: Vision <---
-  We often think of vision being like a video camera: our eyes take a picture, and that's what we see. But that's not how the brain works. Uncover the complex process the brain uses to construct the hallucination that is our sense of vision.
+### Lecture 9: Seeing with Your Brain: Vision
+- 1/3 to 1/2 of brain is dedicated to processing images
+- The eye shakes 200+ times/second
+  - When focusing, ~120 times/second
+  - These are _saccades_
+  - They're crucial to vision; without them, you can't perceive whether [an object, the environment, and/or you yourself] are moving
+  - The brain engages in _saccadic suppresion_ to create the illusion of stability
+- Process of "seeing":
+  - The _retina_ is a thin layer of neural tissue painted on the inside of the back of the eye 
+    - It performs _transduction_ to transform photons of light into chemical impulses
+    - Retinal cells gather at the _optic disc_ before projecting to occipital lobe
+      - This disc has no photoreceptors: so the image the occipital lobe receives is not only upside-down and backwards, but also has a hole in its center
+      - The _filling in_ process occurs by the occipital lobe combining data from each eye, then using that to compensate inside the other eye's blindspot
+  - The _optic nerve_ directs these chemical impulses 
+    - First to the _thalamus_, 
+    - Then to the _occipital lobe_ (specifically, the V1 region of the visual cortex)
+  - Inside the lobe, different _feature detectors_ deconstruct and process the different parts of the image (circular elements, vertical lines, specific light wavelengths, etc)
+  - The lobe then performs _stream separation,_ reconstructing these components into two streams:
+    - The _ventral stream_ (the "what", e.g. an object's shape or taxonomy)
+    -  The _dorsal stream_ (the "where", e.g. an object's location and movement)
+  - The _binding problem_ or _combination problem_ is that we don't yet actually know how these streams are reconciled into the unified, holistic image.
+- The _pictorial superiority effect_ (that is, images' superlative utility as pedagogical tools) has been demonstrated since the 1970's
 
 ### Lecture 10: Feeling with Your Brain: Emotion
-  Did you know that if you see a shocking photograph, you'll experience the emotion even before the image registers consciously in your mind? Why is this? What's happening in your brain? Investigate the physical process behind emotions, including the neurological "fast path" that accelerates our reaction to external threats.
+- Sequence of emotion generation:
+  - Sensory input first hits the Thalamus
+  - The thalamus sends it: 
+    - To the Amygdalae (via the "fast path"), which tag/associate each sensory input with an emotion (this occurs unconsciously); and
+    - To the Frontal Cortex (via the "slow path"), which consciously processes each input, before routing them to the Amygdalae.
+  - As such, your body may begin responding to an input's emotion (via the first Amygdalae-hit) before you're consciously aware of the input
+  - The Amygdalae also dispatch signals to the Hypothalamus (which is responsible for sensations of "the four F's")
+- Peripheral nervous system has two components:
+  - Somatic nervous system (voluntary muscle movements)
+  - Autonomic nervous system (unconscious bodily processes)
+- "Emotionally-competent stimuli" trigger reactions in:
+  - Autonomic nervous system (e.g. add extra energy)
+  - Endocrine system (dump hormones like Cortisol in bloodstream)
+  - Skeletal-muscular system (for subconscious fight/flight/freeze behavior)
 
 ### Lecture 11: How Emotion Drives Attention
-  Your senses bombard your brain with far more information than it can possibly handle at one time. How does your brain prioritize all of the input? Examine the brain's ability to act as a "central executive," and see how it uses emotion like post-it notes to decide what is important.
+- Attention: "the tool our brain deploys to select a subset of competing stimuli for further study"
+- "Feelings" require conscious awareness; "emotions" do not: and the latter are what can inform attention
+- "Central executive" system (see Lecture 07) located in two regions:
+  - Prefrontal cortext (most recently-evolved section of the brain) reminds brain of its current goals (i.e. sets goals for attention-filters)
+  - Basal Ganglia (normally manages movement/motor tasks) filters out mental (as well as muscle) commands (i.e. inhibits distracting information)
 
 ### Lecture 12: Pleasure and Your Brain
-  Explore the brain's "pleasure highway" with a tour of what drives the sensation of pleasure in our brains, and understand how video games and other substances hijack this process to create addictions. Then, learn how to harness your brain's craving for pleasure to break nearly any habit.
+- Two regions responsible for mediating pleasure/reward sensations:
+  - Nucleus Accumbens (two knots of neural tissue just above the eyes) 
+  - Ventral Tegmental Area (behind and below the Nucleus Accumbens)
 
-### Lecture 13: What Makes You Happy
+<!-- ### Lecture 13: What Makes You Happy
   Is happiness sustainable? What makes some people happier than others, despite similar life circumstances? Explore the stories of two lottery winners, one who crashed and another who thrived. Discover two key areas you can focus on to create a happier life.
 
 ### Lecture 14: How Your Brain Manages Stress
@@ -181,13 +220,13 @@
   Peer into the often-mysterious behavior of a teenager. Why do they take the risks they do? What makes them rebellious? Why are they so moody? Get seven practical tips for relating better to teenagers, whether you're a parent, grandparent, teacher, mentor, or coach.
 
 ### Lecture 18: Sex and Your Brain
-  Dive into the evolutionary roles of sex, arousal, and promiscuity. Discover the fascinating biological and cultural differences between men and women when it comes to sex. Peer inside an enlightening study involving monkeys, naked men on the beach, and naked women doing aerobics.
+  Dive into the evolutionary roles of sex, arousal, and promiscuity. Discover the fascinating biological and cultural differences between men and women when it comes to sex. Peer inside an enlightening study involving monkeys, naked men on the beach, and naked women doing aerobics. -->
 
 ### Lecture 19: How Your Brain Ages
   For many, aging brings memory loss, decreased focus, and mental fogginess. Yet some people seem to be just as sharp at 100 years old as they were at 40. Discover what science has demonstrated about why some age more gracefully than others, and what you can do to keep your mind sharp as you grow older.
 
 ### Lecture 20: How Your Brain Copes with Grief
-  Why do we grieve the loss of loved ones? Is there an evolutionary reason for it? And why does grief leave some people devastated while others move on quickly? Explore these questions and more. Also, learn strategies from brain science for dealing with: and helping others deal with: the pain of great loss.
+  Why do we grieve the loss of loved ones? Is there an evolutionary reason for it? And why does grief leave some people devastated while others move on quickly? Explore these questions and more. Also, learn strategies from brain science for dealing with, and helping others deal with, the pain of great loss.
 
 ### Lecture 21: How Self-Control Works
   Discover the origins of self-control in your brain. Explore what the research has to say about its role in helping you succeed in life, handle tough situations, and thrive in society. Examine an evolutionary explanation for cases of impaired self-control like ADHD.
@@ -200,6 +239,3 @@
 
 ### Lecture 24: Why Your Brain Needs Sleep
   You've probably noticed how poor sleep can hinder your ability to think and focus. But why exactly is sleep so important? How does it contribute to a healthy brain? Uncover answers to these questions and more, and get four science-backed tips for sleeping better.
-
-  ---
-

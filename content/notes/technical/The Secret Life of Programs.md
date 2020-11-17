@@ -1,5 +1,5 @@
 ## Chapter 01: The Internal Language of Computers
-  - _De Morgan’s law_:
+    - _De Morgan’s law_:
     - The operation `a AND b` is equivalent to the operation `NOT(NOT a OR NOT b)`
     - Outcome: with enough `NOT` operations, we can replace `AND` operations with `OR` operations (and vice versa). 
     - This is useful because computers operate on real-­world input that’s not under their control.
