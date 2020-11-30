@@ -199,43 +199,35 @@
   - Prefrontal cortext (most recently-evolved section of the brain) reminds brain of its current goals (i.e. sets goals for attention-filters)
   - Basal Ganglia (normally manages movement/motor tasks) filters out mental (as well as muscle) commands (i.e. inhibits distracting information)
 
-### Lecture 12: Pleasure and Your Brain
-- Two regions responsible for mediating pleasure/reward sensations:
-  - Nucleus Accumbens (two knots of neural tissue just above the eyes) 
-  - Ventral Tegmental Area (behind and below the Nucleus Accumbens)
-
-<!-- ### Lecture 13: What Makes You Happy
-  Is happiness sustainable? What makes some people happier than others, despite similar life circumstances? Explore the stories of two lottery winners, one who crashed and another who thrived. Discover two key areas you can focus on to create a happier life.
-
-### Lecture 14: How Your Brain Manages Stress
-  Though stress is usually considered negative, research reveals it is our perceived inability to control stress that does most of the damage. Unravel how the brain responds to stress on a neurological and chemical level, and survey what neuroscience research has to say about how to reduce stress in your life by learning to control it.
-
-### Lecture 15: Your Social Brain
-  The social nature of human beings is an evolutionary advantage that put us at the top of the food chain. But our social abilities have the potential for painful or dangerous consequences. Reflect on the joys and risks of relating to others. Consider what a recent business school experiment uncovered about how you can more easily resolve conflicts.
-
-### Lecture 16: How Infant Brains Work
-  The human brain is not fully functional until adulthood. From birth, an infant's brain is constantly making new connections as it experiences the world. Explore the development stages of an infant from a neuroscientific perspective, including what science recommends to ensure that your kids eat their veggies.
-
-### Lecture 17: How Adolescent Brains Work
-  Peer into the often-mysterious behavior of a teenager. Why do they take the risks they do? What makes them rebellious? Why are they so moody? Get seven practical tips for relating better to teenagers, whether you're a parent, grandparent, teacher, mentor, or coach.
-
-### Lecture 18: Sex and Your Brain
-  Dive into the evolutionary roles of sex, arousal, and promiscuity. Discover the fascinating biological and cultural differences between men and women when it comes to sex. Peer inside an enlightening study involving monkeys, naked men on the beach, and naked women doing aerobics. -->
-
 ### Lecture 19: How Your Brain Ages
-  For many, aging brings memory loss, decreased focus, and mental fogginess. Yet some people seem to be just as sharp at 100 years old as they were at 40. Discover what science has demonstrated about why some age more gracefully than others, and what you can do to keep your mind sharp as you grow older.
-
-### Lecture 20: How Your Brain Copes with Grief
-  Why do we grieve the loss of loved ones? Is there an evolutionary reason for it? And why does grief leave some people devastated while others move on quickly? Explore these questions and more. Also, learn strategies from brain science for dealing with, and helping others deal with, the pain of great loss.
+- Longevity: "how long cells' internal repair mechanisms continue to work effectively"
+- Aging: "the shift in balance from cells being mostly-repaired to cells being mostly-unrepaired"
+- Biological erosion is uneven across organs (some tissues senesce quickly; others remain pristine through death)
+- Almost everyone suffers memory loss and refocusing problems with age
+  - Social interactions and exercise are the best methods of postponing these
+- Memory loss is uneven
+  - Semantic long-term memory (ie your name, or what to do with an ATM) resists aging robustly
+  - Prospective memory (ability to remember to execute some action at a specific time) significantly weaken with age
+  - Episodic memory (replaying an event in the past) also declines (in accuracy) with age
+  - "Tip-of-the-tongue" memory loss (wherein you're aware that you used to remember the fact) occurs more frequently with age
+  - Working memory declines, slowly, with age
+- Refocusing (ability to switch between tasks, while remembering your state/location in each task) depreciates precipitously as a combination of the above
+  - Results in distractibility
+- These problems may be exacerbated by our negative reactions to them.
+- Default network:
+  - Bank of neural circuits at the front and back of the brain
+  - Controls specific aspects of psychology ("internally directed mental states")
+  - Loses efficiency with age: signals from front to back lose directional coordination (this may underly several of the above declines)
+- Dopamine levels drop (~10% per decade) as you age, and in specific regions
+  - Begins in early adulthood
+  - Socializing
 
 ### Lecture 21: How Self-Control Works
-  Discover the origins of self-control in your brain. Explore what the research has to say about its role in helping you succeed in life, handle tough situations, and thrive in society. Examine an evolutionary explanation for cases of impaired self-control like ADHD.
-
-### Lecture 22: The Power of Exercise
-  Decades of research points to exercise as a key for strengthening your brain. Find out how regular movement drastically improves cognitive performance, combats depression, and can even cut the risk of dementia in half. See just how much exercise you need to start seeing these benefits (it's less than you might think).
-
-### Lecture 23: Improving Your Memory
-  Want to improve your memory? Learn what scientific research indicates is useful for improving memory: and more importantly, what popular beliefs have been debunked. Discover how you can use diet, social interaction, and even certain kinds of video games to increase your ability to remember events and details.
-
-### Lecture 24: Why Your Brain Needs Sleep
-  You've probably noticed how poor sleep can hinder your ability to think and focus. But why exactly is sleep so important? How does it contribute to a healthy brain? Uncover answers to these questions and more, and get four science-backed tips for sleeping better.
+- Executive Function ('self control')
+  - Allows you to [remain focused, make plans, keep track of multiple variables simultaneously]
+  - Allows you to control emotional reactions
+- Prefrontal cortex develops slowly
+  - As infant, immature form
+  - Significant growth/structural change occurs throughout childhood/adolescence
+  - One of the the last parts of the brain to reach adult configuration
+- PFC connects to (and may modulate) areas involved in [1] emotion, and [2] reward

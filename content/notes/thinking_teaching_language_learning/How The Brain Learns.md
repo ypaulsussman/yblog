@@ -30,7 +30,7 @@ In the interior of the brain, four parts of the limbic system are important to l
 
 1.  The **thalamus** processes all incoming sensory information (_except smell_)
 2.  The **hypothalamus** monitors internal systems and controls the release of a variety of hormones in order to maintain homeostasis
-3.  The **hippocampus** converts information `from working memory to long-term storage via` electrical signals (_and is thus essential for consolidating learning_)
+3.  The **hippocampus** uses electrical signals to convert information from working memory to long-term storage (_and is thus essential for consolidating learning_)
 4.  The **amygdala** regulates and encodes the emotions, especially fear. (_Interactions between the amygdala and hippocampus thus ensure that we remember important/emotional events for a long time._)
 
 Of the 12 body nerves that go to the brain, 11 end in the **brainstem** (_the olfactory nerve goes directly to the limbic system._)
