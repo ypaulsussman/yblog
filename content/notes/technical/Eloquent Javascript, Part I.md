@@ -768,3 +768,70 @@ try {
 
 ## Chapter 11: Asynchronous Programming
 
+In a way, asynchronicity is contagious. 
+  - Any function that calls a function that works asynchronously must itself be asynchronous, using a callback or similar mechanism to deliver its result. 
+  - Calling a callback is somewhat more involved and error-prone than simply returning a value, so needing to structure large parts of your program that way is not great.
+  - You could, instead of arranging for a function to be called at some point in the future, return an object that represents this future event.
+
+An instance of the standard class `Promise` is an asynchronous action that may complete at some point and produce a value. 
+  - It is able to notify anyone who is interested when its value is available.
+  - The easiest way to create a promise is by calling `Promise.resolve`, which wraps whatever value you pass it in a promise.
+
+To get the result of a promise, you use its `then` method. 
+  - This registers a callback function to be invoked when the promise resolves and produces a value. 
+  - You can add multiple callbacks to a single promise; they will be called, even if you add them _after_ the promise has already `resolve`d.
+  - Finally, it returns another promise, which 
+    - `resolve`s to the value that the handler function returns or, 
+    - (if the handler function returns a promise) waits for that promise and then resolves to its result.
+
+One of the most pressing problems with the callback style of asynchronous programming is making sure failures are reported to callbacks.
+  - A widely used convention is that: 
+    - the first argument to the callback is used to indicate that the action failed, and 
+    - the second contains the value produced by the action when it was successful. 
+  - Such callback functions must always check whether they received an exception and make sure that any problems they cause are caught and given to the right function.
+
+Promises can be either resolved (the action finished successfully) or rejected (it failed). 
+  - `resolve` handlers (as registered with `then`) are called only when the action is successful
+  - `reject` handlers (as registered with `catch`) are automatically propagated to the new promise that is returned by `then`. 
+  - That is, if any element in a chain of asynchronous actions fails, the outcome of the whole chain is marked as `reject`ed, and no success handlers are called beyond the point where it failed:
+  ```js
+  new Promise((resolve, reject) => reject(new Error("Fail")))
+    .then(value => console.log("I won't be called"))
+    .catch(reason => {
+      console.log("Caught failure " + reason);
+      return "nothing";
+    })
+    .then(value => console.log("Handler 2", value));
+  // → Caught failure Error: Fail
+  // → Handler 2 nothing
+  ```
+
+As a shorthand, `then` also accepts a `reject`ion handler as a second argument, so you can install both types of handlers in a single method call.
+
+The Promise.all function allows you to work with collections of promises running at the same time
+  - It returns a promise that waits for all of the promises in its array to resolve;
+  - It then resolves to an array of the values that these promises produced (in the same order as the original array). 
+  - If any promise is rejected, the result of `Promise.all` is itself rejected.
+  ```js
+  function availableNeighbors(nest) {
+    let requests = nest.neighbors.map(neighbor => {
+      // Assume `request` returns a promise
+      return request(nest, neighbor, "ping") 
+      .then(() => true, () => false);
+    });
+    
+    return Promise.all(requests).then(result => {
+      return nest.neighbors.filter((_, i) => result[i]);
+    });
+  }
+  ```
+
+`async` functions allow you to write pseudo-synchronous code to describe asynchronous computation. 
+  - An `async` function implicitly returns a promise.
+    - As soon as the function-body returns something, that promise is `resolve`d. 
+    - If it instead throws an exception, the promise is `reject`ed.
+  - In its body, the word `await` can be put in front of an expression to 
+    - Wait for a promise to resolve, and 
+    - Only then continue the execution of the function-body.
+  - Such a function no longer, like a regular JavaScript function, runs from start to completion in one go. 
+  - Instead, it can be frozen at any point that has an `await`, and can be resumed at a later time.
