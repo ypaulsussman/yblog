@@ -78,7 +78,7 @@ In the process of coding through my own counter-cache fix (_..."fix"_), I realiz
 
 I resolved this first with a naive [instance variable around the `save`-cycle](https://github.com/ypaulsussman/opl/blob/4c83e52887c122cfc6561a4ea24b277a9607e62e/app/models/quote.rb#L12), then more recently discovered `previous_changes` ([_soon to be_ `*_previously_was`_!_](https://blog.bigbinary.com/2019/12/03/rails-6-1-adds-_previously_was-attribute-methods.html)) and condensed the orphan-`Author` deletion into [a single callback.](https://github.com/ypaulsussman/opl/blob/4fd2165edb88351724ab7393598f7dcd44ad745c/app/models/quote.rb#L30)
 
-Fairly straightfowarward: but, ultimately, what I'd thought was one of `counter_cache`'s limitations was in fact my _own_ misunderstanding of what value a completely different ActiveRecord method points to, along the different stages of its `Model`-instance's lifecycle.
+Fairly straightforward: but, ultimately, what I'd thought was one of `counter_cache`'s limitations was in fact my _own_ misunderstanding of what value a completely different ActiveRecord method points to, along the different stages of its `Model`-instance's lifecycle.
 
 So my choice not to bring in a third-party library for counter-caching was _probably_ the correct one... but that choice was made from an incorrect premise... but that premise was only later uncovered as incorrect... via that choice not to bring in a third-party library.
 

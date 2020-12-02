@@ -87,7 +87,7 @@ So: if they won't (_or, really,_ can't) come? Don't build it.
 
 ## Next steps
 
-I value the process of having built KEPD, inasmuch as I gleaned the above two experiences from it. They'll guide future software development,and really that's the priority: but, for my own satisfaction... _could_ they guide a KEPDv2? An app...
+I value the process of having built KEPD, inasmuch as I gleaned the above two experiences from it. They'll guide future software development, and really that's the priority: but, for my own satisfaction... _could_ they guide a KEPDv2? An app...
 
 - pitched to students who already have at least L1 literacy, an app
 - promising nothing other than basic-vocabulary reading- and listening-practice, and app
