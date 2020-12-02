@@ -2,7 +2,7 @@
 
 ## What _is_ this repo?
 
-You can read about the history leading up to this repo at [its predecessor](https://github.com/ypaulsussman/learning-log/blob/master/README.md), but there's little to add on the technical side: the code for this blog is [almost entirely not my work].
+You can read about the history leading up to this repo at [its predecessor](https://github.com/ypaulsussman/learning-log/blob/master/README.md), but there's little to add on the technical side: the code for this blog is [almost entirely not my work](https://github.com/ypaulsussman/yblog/blob/master/content/pages/about.md).
 
 The [~eighteen months of posts](https://github.com/ypaulsussman/yblog/tree/master/content/posts) are my own, and I'm ambivalently proud of them (musings, valuable; prose... an obstacle.) 
 
